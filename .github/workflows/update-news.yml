@@ -1,0 +1,41 @@
+name: Atualizar notícias StartupDrops
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install feedparser requests anthropic
+
+      - name: Rodar coletor
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python collector.py --no-ai --max-age 60
+
+      - name: Commitar arquivo atualizado
+        run: |
+          git config user.name "StartupDrops Bot"
+          git config user.email "bot@startupdrops.local"
+          git add data/news.json
+          if git diff --staged --quiet; then
+            echo "Sem mudanças."
+          else
+            git commit -m "chore: atualiza notícias $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
