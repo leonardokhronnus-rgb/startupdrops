@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>StartupDrops — O portal do ecossistema de startups brasileiro</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,400;1,700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+:root{
+  --bg:#fff; --bg2:#f8f8f6; --bg3:#efefec; --rule:#e0e0da; --rule2:#d0d0c8;
+  --ink:#0c0c0c; --ink2:#2a2a2a; --ink3:#555; --ink4:#999;
+  --accent:#1a56db; --red:#c0392b;
+  --serif:'Playfair Display',Georgia,serif; --sans:'Inter',system-ui,sans-serif;
+}
+html{font-size:15px;-webkit-text-size-adjust:100%;}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.5;}
+a{color:inherit;}
+
+.topbar{background:var(--ink);color:#666;font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;padding:6px 28px;display:flex;justify-content:space-between;align-items:center;}
+.topbar strong{color:#bbb;font-weight:600;}
+.live-row{display:flex;align-items:center;gap:6px;}
+.dot{width:5px;height:5px;border-radius:50%;background:#4ade80;animation:pulse 2s ease infinite;}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+
+.site-header{padding:20px 28px 16px;border-bottom:3px solid var(--ink);display:flex;align-items:flex-end;justify-content:space-between;gap:20px;flex-wrap:wrap;}
+.logo{font-family:var(--serif);font-size:2.6rem;font-weight:900;letter-spacing:-.03em;line-height:1;cursor:pointer;text-decoration:none;}
+.logo em{color:var(--accent);font-style:normal;}
+.logo-sub{font-size:.62rem;letter-spacing:.15em;text-transform:uppercase;color:var(--ink4);margin-top:6px;}
+.header-right{text-align:right;font-size:.68rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink4);line-height:1.9;}
+.header-right strong{color:var(--ink2);font-weight:600;}
+
+.site-nav{border-bottom:1px solid var(--rule);padding:0 28px;display:flex;gap:0;overflow-x:auto;position:sticky;top:0;background:var(--bg);z-index:100;}
+.site-nav button{background:none;border:none;font-family:var(--sans);padding:11px 15px;font-size:.7rem;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:var(--ink3);cursor:pointer;border-bottom:2.5px solid transparent;transition:all .15s;white-space:nowrap;}
+.site-nav button:hover{color:var(--ink);}
+.site-nav button.active{color:var(--accent);border-bottom-color:var(--accent);}
+
+.wrap{max-width:1080px;margin:0 auto;padding:30px 28px 70px;}
+
+/* ── LISTA ── */
+.list-head{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:20px;padding-bottom:10px;border-bottom:1px solid var(--rule);}
+.list-head h2{font-family:var(--serif);font-size:1.3rem;font-weight:700;}
+.list-head span{font-size:.68rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink4);}
+
+.feed{display:grid;grid-template-columns:1fr;gap:0;}
+.card{padding:22px 0;border-bottom:1px solid var(--rule);cursor:pointer;display:grid;grid-template-columns:auto 1fr;gap:22px;align-items:start;transition:background .12s;}
+.card:hover{background:var(--bg2);margin:0 -14px;padding:22px 14px;}
+.card-meta{min-width:96px;}
+.card-editoria{font-size:.62rem;font-weight:700;letter-spacing:.11em;text-transform:uppercase;color:var(--accent);}
+.card-outlet{font-size:.68rem;color:var(--ink4);margin-top:5px;}
+.card-time{font-size:.68rem;color:var(--ink4);margin-top:2px;}
+.card-title{font-family:var(--serif);font-size:1.35rem;font-weight:700;line-height:1.2;color:var(--ink);}
+.card:hover .card-title{color:var(--accent);}
+@media(max-width:640px){
+  .card{grid-template-columns:1fr;gap:8px;}
+  .card-meta{display:flex;gap:10px;align-items:baseline;}
+  .card-outlet,.card-time{margin-top:0;}
+  .card-title{font-size:1.15rem;}
+}
+
+/* ── ARTIGO ── */
+.article{max-width:680px;margin:0 auto;}
+.back{background:none;border:none;font-family:var(--sans);font-size:.7rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);cursor:pointer;margin-bottom:24px;padding:0;}
+.back:hover{color:var(--accent);}
+.art-kicker{font-size:.66rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-bottom:14px;}
+.art-title{font-family:var(--serif);font-size:2.3rem;font-weight:900;line-height:1.12;letter-spacing:-.01em;margin-bottom:16px;}
+@media(max-width:640px){.art-title{font-size:1.7rem;}}
+.art-lead{font-size:1.1rem;font-weight:500;line-height:1.55;color:var(--ink2);margin-bottom:22px;padding-bottom:22px;border-bottom:1px solid var(--rule);}
+.art-body p{font-size:1.02rem;line-height:1.78;color:var(--ink2);margin-bottom:18px;}
+.art-source{margin-top:30px;padding-top:22px;border-top:1px solid var(--rule);}
+.art-source em{font-family:var(--serif);font-style:italic;font-size:.96rem;color:var(--ink3);line-height:1.6;word-break:break-word;}
+.art-source a{color:var(--ink3);text-decoration:none;}
+.art-source a:hover{color:var(--accent);}
+.art-byline{margin-top:32px;padding-top:26px;border-top:1px solid var(--rule);display:flex;align-items:center;gap:16px;}
+.byline-avatar{width:48px;height:48px;border-radius:50%;background:var(--bg3);display:flex;align-items:center;justify-content:center;font-weight:600;font-size:1.05rem;color:var(--ink3);flex-shrink:0;}
+.bl-eyebrow{font-size:.62rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--ink4);margin-bottom:3px;}
+.bl-name{font-size:1.1rem;font-weight:700;margin-bottom:3px;}
+.bl-desc{font-size:.85rem;color:var(--ink3);}
+
+.state{padding:70px 20px;text-align:center;color:var(--ink4);}
+.state .mark{font-family:var(--serif);font-size:2.6rem;font-weight:900;color:var(--rule2);margin-bottom:12px;}
+.state p{font-size:.86rem;max-width:340px;margin:0 auto;line-height:1.6;}
+.spin{width:26px;height:26px;border:2.5px solid var(--rule);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 16px;}
+@keyframes spin{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="live-row"><span class="dot"></span> <strong>Ao vivo</strong>&nbsp;· Atualizado 3x ao dia pela Redação</div>
+  <div id="clock">—</div>
+</div>
+
+<header class="site-header">
+  <a class="logo" href="#" onclick="irHome();return false;">Startup<em>Drops</em></a>
+  <div class="header-right">
+    <div><strong>O ecossistema em tempo real</strong></div>
+    <div id="header-count">Carregando...</div>
+  </div>
+</header>
+
+<nav class="site-nav" id="nav"></nav>
+
+<div class="wrap" id="app">
+  <div class="state"><div class="spin"></div><p>Carregando as matérias mais recentes...</p></div>
+</div>
+
+<script>
+const EDITORIAS = ["Todas","Funding","Startups","Economia","Tech","Unicórnios","AI"];
+let MATERIAS = [];
+let filtro = "Todas";
+
+// ── Clock ──
+function tick(){
+  const d=new Date();
+  const m=['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'];
+  document.getElementById('clock').textContent =
+    `${String(d.getDate()).padStart(2,'0')} ${m[d.getMonth()]} ${d.getFullYear()} · ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+}
+tick(); setInterval(tick,30000);
+
+function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function tempoRelativo(iso){
+  const diff=(Date.now()-new Date(iso).getTime())/1000;
+  if(diff<3600) return Math.max(1,Math.floor(diff/60))+' min';
+  if(diff<86400) return Math.floor(diff/3600)+'h';
+  return Math.floor(diff/86400)+'d';
+}
+
+// ── Nav ──
+function renderNav(){
+  document.getElementById('nav').innerHTML = EDITORIAS.map(e=>
+    `<button class="${e===filtro?'active':''}" onclick="setFiltro('${e}')">${e}</button>`
+  ).join('');
+}
+function setFiltro(e){ filtro=e; renderNav(); irHome(); }
+
+// ── Carregar índice ──
+async function carregar(){
+  try{
+    const r = await fetch('/.netlify/functions/materias');
+    const data = await r.json();
+    MATERIAS = data.materias || [];
+    document.getElementById('header-count').textContent =
+      MATERIAS.length ? `${MATERIAS.length} matérias publicadas` : 'Aguardando primeira rodada';
+    irHome();
+  }catch(e){
+    document.getElementById('app').innerHTML =
+      `<div class="state"><div class="mark">D</div><p>Não consegui carregar as matérias agora. Isso é normal se o robô ainda não rodou a primeira vez. Ele publica automaticamente 3x ao dia.</p></div>`;
+  }
+}
+
+// ── Home (lista) ──
+function irHome(){
+  history.replaceState(null,'','#');
+  const lista = filtro==='Todas' ? MATERIAS : MATERIAS.filter(m=>m.editoria===filtro);
+  if(!lista.length){
+    document.getElementById('app').innerHTML =
+      `<div class="state"><div class="mark">D</div><p>Nenhuma matéria ${filtro==='Todas'?'publicada ainda':'nesta editoria ainda'}. O robô reescreve e publica automaticamente 3x ao dia.</p></div>`;
+    return;
+  }
+  document.getElementById('app').innerHTML = `
+    <div class="list-head">
+      <h2>${filtro==='Todas'?'Últimas notícias':filtro}</h2>
+      <span>${lista.length} matéria${lista.length>1?'s':''}</span>
+    </div>
+    <div class="feed">
+      ${lista.map(m=>`
+        <div class="card" onclick="abrir('${m.id}')">
+          <div class="card-meta">
+            <div class="card-editoria">${esc(m.editoria)}</div>
+            <div class="card-outlet">via ${esc(m.outlet)}</div>
+            <div class="card-time">${tempoRelativo(m.publicado_em)}</div>
+          </div>
+          <div class="card-title">${esc(m.titulo)}</div>
+        </div>`).join('')}
+    </div>`;
+}
+
+// ── Artigo ──
+async function abrir(id){
+  document.getElementById('app').innerHTML = `<div class="state"><div class="spin"></div><p>Abrindo matéria...</p></div>`;
+  window.scrollTo(0,0);
+  try{
+    const r = await fetch('/.netlify/functions/materias?id='+encodeURIComponent(id));
+    const a = await r.json();
+    const bodyParas = (a.corpo||[]).map(p=>`<p>${esc(p)}</p>`).join('');
+    const src = a.url_fonte
+      ? `<em>Fonte original: ${esc(a.outlet)} — <a href="${esc(a.url_fonte)}" target="_blank" rel="noopener">${esc(a.url_fonte)}</a></em>`
+      : `<em>Fonte original: ${esc(a.outlet)}</em>`;
+    document.getElementById('app').innerHTML = `
+      <article class="article">
+        <button class="back" onclick="irHome()">← Voltar</button>
+        <div class="art-kicker">${esc(a.editoria)}</div>
+        <h1 class="art-title">${esc(a.titulo)}</h1>
+        <p class="art-lead">${esc(a.linha_fina)}</p>
+        <div class="art-body">${bodyParas}</div>
+        <div class="art-source">${src}</div>
+        <div class="art-byline">
+          <div class="byline-avatar">R</div>
+          <div>
+            <div class="bl-eyebrow">Escrito por</div>
+            <div class="bl-name">Redação</div>
+            <div class="bl-desc">O portal de notícias do ecossistema de startups brasileiro.</div>
+          </div>
+        </div>
+      </article>`;
+  }catch(e){
+    document.getElementById('app').innerHTML = `<div class="state"><div class="mark">D</div><p>Não consegui abrir esta matéria.</p></div>`;
+  }
+}
+
+renderNav();
+carregar();
+</script>
+</body>
+</html>
