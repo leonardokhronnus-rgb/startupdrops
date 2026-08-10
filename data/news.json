@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T20:17:57.748732+00:00",
+  "updatedAt": "2026-08-10T20:29:31.921412+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -753,6 +753,42 @@
       "coverageCount": 2,
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra"
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/venda-de-remedios-nos-marketplaces-fica-mais-perto-qual-o-impacto-nas-farmacias/",
+      "_key": "14ac0140bd14bb52c82d3005c9909048",
+      "title": "Venda de remédios nos marketplaces fica mais perto. Qual o impacto nas farmácias?",
+      "summary": "A Anvisa revogou hoje todas as resoluções e medidas provisórias que proibiam a venda de medicamentos pela Shoppe, Rappi, iFood, Mercado Livre e Americanas – um movimento que torna cada vez mais próxima a liberação definitiva deste tipo de venda pelos marketplaces.",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/venda-de-remedios-nos-marketplaces-fica-mais-perto-qual-o-impacto-nas-farmacias/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/GettyImages-1387143432-635x357.jpg",
+      "publishedAt": "2026-08-10T20:20:56+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/o-proximo-negocio-de-us-500-bilhoes-da-nvidia-e-financiar-quem-compra-nvidia/",
+      "_key": "9243110c0887a5b8407e915ac83c1367",
+      "title": "O próximo negócio de US$ 500 bilhões da Nvidia é financiar quem compra Nvidia",
+      "summary": "A Nvidia está costurando um financiamento de US$ 500 bilhões com um consórcio de investidores formado por Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs e KKR, segundo reportagem do Financial Times.",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/o-proximo-negocio-de-us-500-bilhoes-da-nvidia-e-financiar-quem-compra-nvidia/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/07/nvidia-300x169.jpg",
+      "publishedAt": "2026-08-10T20:19:25+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/business/startups-nvidia-negocia-pacote-de-us-500b-para-infraestrutura-de-ia/",
@@ -1697,6 +1733,60 @@
       "summaryMethod": "regra"
     },
     {
+      "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/10/quem-e-wesley-batista-filho-que-sera-o-novo-ceo-global-da-jbs.ghtml",
+      "_key": "b5e1e9b8d4655e319a43e18886169442",
+      "title": "Quem é Wesley Batista Filho, que será o novo CEO global da JBS",
+      "summary": "Wesley Batista Filho será o novo CEO global da JBS a partir de janeiro de 2027. Batista Filho começou sua trajetória na JBS em 2011, como trainee na unidade de carne bovina de Greeley, no Colorado, nos Estados Unidos.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/10/quem-e-wesley-batista-filho-que-sera-o-novo-ceo-global-da-jbs.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "",
+      "publishedAt": "2026-08-10T20:22:43+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/achados/galaxy-s26-plus-atinge-menor-preco-com-cupom-de-45-de-desconto-no-magalu/",
+      "_key": "d78a488391d822c4a38c1f267df96d85",
+      "title": "Galaxy S26 Plus atinge menor preço com cupom de 45% de desconto no Magalu",
+      "summary": "Galaxy S26 Plus de 256 GB sai pelo menor preço desde o lançamento em oferta no Magazine Luiza. Smartphone traz tela AMOLED de 6,7\" com QHD+, 12 GB de RAM e 7 anos de atualizações Galaxy S26 Plus atinge menor preço com cupom de 45% de desconto no Magalu",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/achados/galaxy-s26-plus-atinge-menor-preco-com-cupom-de-45-de-desconto-no-magalu/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/03/galaxy-s26-ultra-achou-correu-1536x865.jpg",
+      "publishedAt": "2026-08-10T20:17:47+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/10/jbs-wesley-batista-filho-ceo.ghtml",
+      "_key": "03c004cfcd70c6df5e6fab135e5eff8f",
+      "title": "JBS anuncia Wesley Batista Filho como novo CEO global a partir de 2027",
+      "summary": "Wesley Batista Filho JBS A JBS, maior produtora de carnes do mundo, anunciou nesta segunda-feira (10) que Wesley Batista Filho será o novo CEO global da companhia a partir de janeiro de 2027.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/10/jbs-wesley-batista-filho-ceo.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/x_-XWrqpZxqntXP00ZZZQmNJZus=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/5/xQHqhcT222qKsINfeOtg/wesley2.avif",
+      "publishedAt": "2026-08-10T20:16:02+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/jbs-anuncia-wesley-batista-filho-como-novo-ceo-global-a-partir-de-2027/",
       "_key": "5c35150ed8269cfeed4e597c7719b135",
       "title": "JBS anuncia Wesley Batista Filho como novo CEO global a partir de 2027",
@@ -1747,6 +1837,24 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/10/cinema-e-streaming/nasa-chega-ao-discovery-e-hbo-max-com-novos-conteudos-sobre-exploracao-espacial/",
+      "_key": "7320a4848e11c2cd333d23bb383f2828",
+      "title": "NASA+ chega ao discovery+ e HBO Max com novos conteúdos sobre exploração espacial",
+      "summary": "Além da expansão, o serviço seguirá gratuito e sem anúncios, enquanto a tecnologia Dolby Vision promete experiência vívida aos espectadores O post NASA+ chega ao discovery+ e HBO Max com novos conteúdos sobre exploração espacial apareceu primeiro em Olhar Digital .",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/10/cinema-e-streaming/nasa-chega-ao-discovery-e-hbo-max-com-novos-conteudos-sobre-exploracao-espacial/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/08/hbo-max-1024x576.jpg",
+      "publishedAt": "2026-08-10T19:48:02+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
       ],
       "coverageCount": 1
     },
@@ -2724,6 +2832,42 @@
       "coverageCount": 3,
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/economia/eua-afirmam-que-estao-a-disposicao-do-brasil-para-conversar-sobre-tarifaco/",
+      "_key": "3357989eae6d36349a9418b8ef8f5951",
+      "title": "EUA afirmam que estão à disposição do Brasil para conversar sobre tarifaço",
+      "summary": "Americanos responderam solicitação brasileira realizada no fim do mês passado The post EUA afirmam que estão à disposição do Brasil para conversar sobre tarifaço appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/economia/eua-afirmam-que-estao-a-disposicao-do-brasil-para-conversar-sobre-tarifaco/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-03T194901Z_1_LYNXMPEM721KG_RTROPTP_4_USA-TRUMP-TARIFFS-IMPORTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-10T20:25:35+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-10/oil-jumps-as-markets-await-clarity-closing-bell-video",
+      "_key": "f16552ae02f095926ef9beab86a38fbc",
+      "title": "Oil Jumps as Markets Await Middle East Clarity | Closing Bell",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with David Gura, Isabelle Lee, Norah Mulinda and Tim Stenovec. (Source: Bloomberg)",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-10/oil-jumps-as-markets-await-clarity-closing-bell-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-10T20:25:13+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "The Verge-https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
