@@ -295,14 +295,21 @@ def build_summary(title, raw_summary, region, use_ai):
 
 
 # ── COLETA ────────────────────────────────────────────────────────────────────
+PROXY_URL = "https://api.allorigins.win/raw?url={url}"
+
 def fetch_feed(source):
     headers = {"User-Agent": USER_AGENT}
-    try:
-        r = requests.get(source["feed"], headers=headers, timeout=REQUEST_TIMEOUT)
-        r.raise_for_status()
-        return feedparser.parse(r.content), None
-    except Exception as e:
-        return None, str(e)
+    url = source["feed"]
+    for attempt_url in [url, PROXY_URL.format(url=requests.utils.quote(url, safe=''))]:
+        try:
+            r = requests.get(attempt_url, headers=headers, timeout=REQUEST_TIMEOUT)
+            r.raise_for_status()
+            parsed = feedparser.parse(r.content)
+            if parsed.entries:
+                return parsed, None
+        except Exception:
+            continue
+    return None, "falhou direto e via proxy"
 
 
 def collect(use_ai, max_age_days):
