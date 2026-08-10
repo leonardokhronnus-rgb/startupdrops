@@ -1,0 +1,1716 @@
+{
+  "updatedAt": "2026-08-05T20:38:33.929533+00:00",
+  "editorialFocus": "Brasil + Internacional equilibrado",
+  "sources": [
+    {
+      "name": "Startupi",
+      "region": "Brasil"
+    },
+    {
+      "name": "Startups.com.br",
+      "region": "Brasil"
+    },
+    {
+      "name": "NeoFeed",
+      "region": "Brasil"
+    },
+    {
+      "name": "Exame",
+      "region": "Brasil"
+    },
+    {
+      "name": "Brazil Journal",
+      "region": "Brasil"
+    },
+    {
+      "name": "Pipeline Valor",
+      "region": "Brasil"
+    },
+    {
+      "name": "IT Forum",
+      "region": "Brasil"
+    },
+    {
+      "name": "Olhar Digital",
+      "region": "Brasil"
+    },
+    {
+      "name": "Tecnoblog",
+      "region": "Brasil"
+    },
+    {
+      "name": "Inovação Tecnológica",
+      "region": "Brasil"
+    },
+    {
+      "name": "TechCrunch Startups",
+      "region": "Internacional"
+    },
+    {
+      "name": "Crunchbase News",
+      "region": "Internacional"
+    },
+    {
+      "name": "VentureBeat",
+      "region": "Internacional"
+    },
+    {
+      "name": "Sifted",
+      "region": "Internacional"
+    },
+    {
+      "name": "Business Insider Tech",
+      "region": "Internacional"
+    }
+  ],
+  "failures": [
+    {
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/feed/",
+      "reason": "HTTP Error 308: Permanent Redirect"
+    }
+  ],
+  "articles": [
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/venture/educator-built-edtech-startup-ai-magicschool-kahn/",
+      "title": "‘Nobody Wanted to Give A Former Principal Money’: How An Educator Built An Edtech AI Startup With $63M From VCs",
+      "summary": "Founded by an educator fascinated by the educational potential of ChatGPT, MagicSchool AI leads off a series of articles featuring startup founders from non-technical backgrounds who have launched successful venture-backed companies.",
+      "url": "https://news.crunchbase.com/venture/educator-built-edtech-startup-ai-magicschool-kahn/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "image": "https://news.crunchbase.com/wp-content/uploads/non-tech-startups-1024x576.jpg",
+      "publishedAt": "2026-08-05T11:00:41+00:00",
+      "score": 53,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1,
+      "_key": "b8abccefdb66331c5a7d45526a74bbff",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/podcast/somos-muito-avessos-a-hype-diz-pedro-thompson-com-novo-fundo/",
+      "title": "“Somos muito avessos a hype”, diz Pedro Thompson, com novo fundo",
+      "summary": "Encontro de Segunda | Arte: Startups No novo episódio do Encontro de Segunda, o fundador e CEO da Tuesday Capital fala sobre sua jornada de executivo a investidor",
+      "url": "https://startups.com.br/podcast/somos-muito-avessos-a-hype-diz-pedro-thompson-com-novo-fundo/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "image": "https://www.youtube.com/embed/LUdHjplvH24",
+      "publishedAt": "2026-08-05T19:46:09+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1,
+      "_key": "ae522b320c905c10d91b8dfd45d68f63",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Business Insider Tech-https://www.businessinsider.com/jack-ma-invests-30-million-ai-insurance-startup-corgi-2026-8",
+      "title": "Jack Ma quietly invested $30 million in Corgi, one of Y Combinator's hottest startups",
+      "summary": "Yunfeng Capital, led by Jack Ma, quietly invested $30 million in AI startup Corgi, marking a rare deal amidst US-China investment tensions.",
+      "url": "https://www.businessinsider.com/jack-ma-invests-30-million-ai-insurance-startup-corgi-2026-8",
+      "source": "Business Insider Tech",
+      "region": "Internacional",
+      "image": "https://i.insider.com/6a736c0d4327cd5a0ae2ec9f?format=jpeg",
+      "publishedAt": "2026-08-05T17:55:04+00:00",
+      "score": 49,
+      "alsoIn": [
+        {
+          "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
+          "url": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
+          "source": "TechCrunch Startups",
+          "publishedAt": "2026-08-05T12:23:52+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "Business Insider Tech",
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 2,
+      "_key": "cedcad94811509c637454d7996e83be5",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/a-moove-vai-operar-carros-autonomos-com-a-waymo-e-ja-vale-us-21-bilhoes/",
+      "title": "A Moove vai operar carros autônomos com a Waymo – e já vale US$ 2,1 bilhões",
+      "summary": "A Moove – a startup nigeriana investida do Uber que adquiriu a brasileira Kovi há um ano – acaba de levantar US$ 250 milhões a um valuation de US$ 2,1 bilhões, capitalizando-se para pisar no acelerador em sua estratégia de operar frotas de carros autônomos em parceria com a Waymo, controlada pela Alphabet. A Série […]",
+      "url": "https://braziljournal.com/a-moove-vai-operar-carros-autonomos-com-a-waymo-e-ja-vale-us-21-bilhoes/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/moove-635x357.png",
+      "publishedAt": "2026-08-05T10:00:49+00:00",
+      "score": 49,
+      "alsoIn": [
+        {
+          "title": "Moove capta US$ 250M para acelerar em mobilidade autônoma",
+          "url": "https://startups.com.br/negocios/rodada-de-investimento/moove-capta-us-250m-para-acelerar-em-mobilidade-autonoma/",
+          "source": "Startups.com.br",
+          "publishedAt": "2026-08-05T11:14:27+00:00"
+        },
+        {
+          "title": "Capitalizada, Hero Seguros entra no México em seu primeiro M&A",
+          "url": "https://pipelinevalor.globo.com/startups/noticia/hero-seguros-faz-primeiro-manda-e-ganha-atalho-para-entrar-no-mexico.ghtml",
+          "source": "Pipeline Valor",
+          "publishedAt": "2026-07-23T11:01:07+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "Brazil Journal",
+        "Pipeline Valor",
+        "Startups.com.br"
+      ],
+      "coverageCount": 3,
+      "_key": "fc12b1b798771bb6103516e62acde90c",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/negocios/fintech/robinhood-faz-ipo-de-fundo-que-permite-ao-varejo-investir-em-startups-do-vale-do-silicio/",
+      "title": "Robinhood faz IPO de fundo que permite ao varejo investir em startups do Vale do Silício",
+      "summary": "App da Robinhood em um smartphone | Crédito: Samuel Boivin / Shutterstock.com Listado na NYSE, RVII reúne participações em 80 startups e cria uma alternativa à baixa liquidez do mercado de venture capital",
+      "url": "https://startups.com.br/negocios/fintech/robinhood-faz-ipo-de-fundo-que-permite-ao-varejo-investir-em-startups-do-vale-do-silicio/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "image": "https://uploads.startups.com.br/2026/08/shutterstock_2805461763.jpg",
+      "publishedAt": "2026-08-04T15:23:15+00:00",
+      "score": 49,
+      "alsoIn": [
+        {
+          "title": "HappyRobot, a “superinteligência corporativa” para grandes empresas que já vale US$ 1,2 bi",
+          "url": "https://braziljournal.com/happyrobot-a-superinteligencia-corporativa-para-grandes-empresas-que-ja-vale-us-12-bi/",
+          "source": "Brazil Journal",
+          "publishedAt": "2026-08-04T15:13:05+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "Brazil Journal",
+        "Startups.com.br"
+      ],
+      "coverageCount": 2,
+      "_key": "e0f624b4cb386a92647b6c35c6ef9ec2",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/spacex-planos-de-startup-capex-de-big-tech/",
+      "title": "SpaceX: planos de startup, capex de Big Tech",
+      "summary": "Ainda que as receitas da empresa de internet por satélite, AI e foguetes tenham surpreendido positivamente, os investimentos crescentes em AI e as ideias e projeções grandiosas (demais?) do management não agradaram os investidores.",
+      "url": "https://braziljournal.com/spacex-planos-de-startup-capex-de-big-tech/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/spacex-invertida-635x357.png",
+      "publishedAt": "2026-08-05T14:50:00+00:00",
+      "score": 47,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1,
+      "_key": "2630ff6f1f1c083ab3f7be435dbbeb58",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/negocios/venture-capital/boom-da-ia-mascara-crise-de-retornos-no-venture-capital-mostra-pitchbook/",
+      "title": "Boom da IA mascara crise de retornos no venture capital, mostra PitchBook",
+      "summary": "papel\", enquanto distribuições de capital seguem abaixo da média",
+      "url": "https://startups.com.br/negocios/venture-capital/boom-da-ia-mascara-crise-de-retornos-no-venture-capital-mostra-pitchbook/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "image": "https://uploads.startups.com.br/2026/08/Venture-capital-1.jpg",
+      "publishedAt": "2026-08-05T13:00:00+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1,
+      "_key": "2142282ad15a85297c6787b160b986b5",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
+      "title": "Meet the eight startups pitching at Startup Battlefield Australia",
+      "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
+      "url": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?resize=1200,800",
+      "publishedAt": "2026-08-05T17:02:00+00:00",
+      "score": 45,
+      "alsoIn": [
+        {
+          "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+          "source": "TechCrunch Startups",
+          "publishedAt": "2026-08-03T20:00:00+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 2,
+      "_key": "6d4b287543a4770156816b086cc1c3f6",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/quase-unicornio-o-valuation-da-decade-startup-de-dois-ex-nubank.ghtml",
+      "title": "Quase unicórnio: o valuation da Decade, startup de dois ex-Nubank",
+      "summary": "O que a Decade não contou e o Pipeline apurou é que a rodada avaliou o negócio em US$ 500 milhões, cifra que a coloca a meio caminho de se tornar um unicórnio, um feito impressionante para uma empresa que acaba de se lançar no mercado.",
+      "url": "https://pipelinevalor.globo.com/startups/noticia/quase-unicornio-o-valuation-da-decade-startup-de-dois-ex-nubank.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/tkFAAtAeDfy6YSyQ71Sr7apYDQI=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/A/G/poIjXXTfmfjYTCJ2fNtA/decade-vitor-olivier-felipe-meneses.jpg",
+      "publishedAt": "2026-08-05T09:00:31+00:00",
+      "score": 45,
+      "alsoIn": [
+        {
+          "title": "Quem comprou a participação da Vinci em nove shoppings",
+          "url": "https://pipelinevalor.globo.com/negocios/noticia/quem-comprou-a-participacao-da-vinci-em-nove-shoppings.ghtml",
+          "source": "Pipeline Valor",
+          "publishedAt": "2026-08-03T18:28:29+00:00"
+        },
+        {
+          "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+          "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+          "source": "TechCrunch Startups",
+          "publishedAt": "2026-08-03T12:50:46+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "Pipeline Valor",
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 3,
+      "_key": "6ee46d67563120ca068fa72fb1854f8f",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/agtechs-e-o-credito-privado-emissao-de-cras-e-fiagros-estruturados-por-startups-do-agro/",
+      "title": "Agtechs Sofisticam o Crédito Privado com Emissão de CRAs e FIAGROs Estruturados",
+      "summary": "Agtechs Sofisticam o Crédito Privado com Emissão de CRAs e FIAGROs Estruturados Com a Selic em 15% e a inadimplência rural em máxima histórica, startups do agro migram do crédito bancário para o mercado de capitais — e redefinem quem financia o campo.",
+      "url": "https://startupi.com.br/agtechs-e-o-credito-privado-emissao-de-cras-e-fiagros-estruturados-por-startups-do-agro/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "image": "https://startupi.com.br/wp-content/uploads/2020/07/4g-TIM-no-campo-scaled-1.jpg",
+      "publishedAt": "2026-08-05T08:00:00+00:00",
+      "score": 45,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1,
+      "_key": "f8e0775a3d215483d2c4272db6e00e3e",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/negocios/inteligencia-artificial/claude-sofre-instabilidade-global-e-anthropic-monitora-recuperacao/",
+      "title": "Claude sofre instabilidade global e Anthropic monitora recuperação",
+      "summary": "Claude Fable | Crédito: RixAiArt / Shutterstock.com Empresa diz que implementou uma correção após falhas no chatbot, API e Claude Code e acompanha a normalização dos serviços",
+      "url": "https://startups.com.br/negocios/inteligencia-artificial/claude-sofre-instabilidade-global-e-anthropic-monitora-recuperacao/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "image": "https://uploads.startups.com.br/2026/08/Captura-de-Tela-2026-08-05-as-12.24.30-320x320.png",
+      "publishedAt": "2026-08-05T15:36:01+00:00",
+      "score": 43,
+      "alsoIn": [
+        {
+          "title": "Claude fica instável em escala global; Anthropic trabalha em correção",
+          "url": "https://itforum.com.br/noticias/anthropic-claude-esta-com-instabilidades/",
+          "source": "IT Forum",
+          "publishedAt": "2026-08-05T13:44:41+00:00"
+        },
+        {
+          "title": "Claude fora do ar? Instabilidade derruba modelos da Anthropic",
+          "url": "https://tecnoblog.net/noticias/claude-fora-do-ar-instabilidade-derruba-modelos-da-anthropic/",
+          "source": "Tecnoblog",
+          "publishedAt": "2026-08-05T12:48:38+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "IT Forum",
+        "Startups.com.br",
+        "Tecnoblog"
+      ],
+      "coverageCount": 3,
+      "_key": "e10ef6eefaa4bd99e65b38f8c0cda72e",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/uber-supera-estimativas-no-segundo-trimestre/",
+      "title": "Uber supera estimativas no segundo trimestre e amplia recompra de ações para US$ 30 bilhões",
+      "summary": "A empresa também anunciou a ampliação de seu programa de recompra de ações para US$ 30 bilhões, sinalizando confiança na geração de caixa e na trajetória financeira do negócio.",
+      "url": "https://itforum.com.br/noticias/uber-supera-estimativas-no-segundo-trimestre/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2024/08/OFICIAL-Dimensao-Wordpress-2024-08-27T110952.711.jpg",
+      "publishedAt": "2026-08-05T18:01:56+00:00",
+      "score": 42,
+      "alsoIn": [
+        {
+          "title": "Ânima recompra FMU após cinco anos",
+          "url": "https://pipelinevalor.globo.com/negocios/noticia/anima-recompra-fmu-apos-cinco-anos.ghtml",
+          "source": "Pipeline Valor",
+          "publishedAt": "2026-07-14T21:57:15+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "IT Forum",
+        "Pipeline Valor"
+      ],
+      "coverageCount": 2,
+      "_key": "4b0e952fa61a5756d8642487f919997b",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/sam-altman-reage-a-propostas-de-desacelerar-a-ia/",
+      "title": "Sam Altman reage a propostas de desacelerar a IA e defende avanço contínuo da tecnologia",
+      "summary": "O debate sobre o ritmo de desenvolvimento da inteligência artificial (IA) voltou ao centro das discussões no setor após o CEO da OpenAI, Sam Altman, responder a propostas que defendem uma desaceleração deliberada da evolução da tecnologia.",
+      "url": "https://itforum.com.br/noticias/sam-altman-reage-a-propostas-de-desacelerar-a-ia/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/Sam-Altman-24-09-2025-reproducao-1200x630-1.jpg",
+      "publishedAt": "2026-08-05T12:55:52+00:00",
+      "score": 42,
+      "alsoIn": [
+        {
+          "title": "Ataques autônomos de IA expõem lacunas jurídicas sobre responsabilidade de desenvolvedores e empresas",
+          "url": "https://itforum.com.br/noticias/ataques-ia-responsabilidade/",
+          "source": "IT Forum",
+          "publishedAt": "2026-08-04T18:00:48+00:00"
+        },
+        {
+          "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+          "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+          "source": "TechCrunch Startups",
+          "publishedAt": "2026-07-31T17:26:32+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "IT Forum",
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 3,
+      "_key": "76fce56e8b9e7f29fc056c9f524bd11f",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/openai-anthropic-balancos-big-techs/",
+      "title": "Participações em OpenAI e Anthropic mudam balanços das big techs e levantam debate sobre lucros da IA",
+      "summary": "Os resultados financeiros das principais empresas de tecnologia estão sendo cada vez mais influenciados pela valorização de suas participações em startups de inteligência artificial (IA).",
+      "url": "https://itforum.com.br/noticias/openai-anthropic-balancos-big-techs/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/openai-e-anthropic.jpg",
+      "publishedAt": "2026-08-04T16:20:32+00:00",
+      "score": 42,
+      "alsoIn": [
+        {
+          "title": "Como a IA Está Impactando os Resultados de Big Techs?",
+          "url": "https://startupi.com.br/como-a-ia-esta-impactando-os-resultados-de-big-techs/",
+          "source": "Startupi",
+          "publishedAt": "2026-08-05T08:00:00+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "IT Forum",
+        "Startupi"
+      ],
+      "coverageCount": 2,
+      "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/custo-ia-fragmentacao-dados-totvs/",
+      "title": "O custo oculto da IA está na fragmentação dos dados, diz VP da Totvs",
+      "summary": "Para o vice-presidente de Business Performance da Totvs, Gustavo Avelar, empresas que implementam IA sobre operações fragmentadas acabam ampliando a própria desorganização e elevando o consumo de tokens, sem necessariamente gerar mais resultado.",
+      "url": "https://itforum.com.br/noticias/custo-ia-fragmentacao-dados-totvs/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/RD-Station-1-1.jpg",
+      "publishedAt": "2026-08-05T19:20:51+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "6fca2cf0dee7db2b15c64bc87c769d1c",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.53.41-PM.png?resize=1200,868",
+      "publishedAt": "2026-08-05T20:05:00+00:00",
+      "score": 40,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1,
+      "_key": "2e96c02b224df586e1a3052b14139d9b",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/spacex-recua-apos-balanco-gastos-bilionarios-com-ia/",
+      "title": "SpaceX recua após balanço; gastos bilionários com IA superam entusiasmo com crescimento da receita",
+      "summary": "A SpaceX registrou queda nas ações nesta quarta-feira (5), após divulgar seu primeiro balanço financeiro como empresa de capital aberto.",
+      "url": "https://itforum.com.br/noticias/spacex-recua-apos-balanco-gastos-bilionarios-com-ia/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2024/03/OFICIAL-Dimensao-Wordpress-82.jpg",
+      "publishedAt": "2026-08-05T16:58:01+00:00",
+      "score": 40,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "211cd191de1d475c9571b850b36be931",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/branded-content/zoop-a-gente-vai-conversar-cada-vez-mais-e-clicar-cada-vez-menos/",
+      "title": "Zoop: “A gente vai conversar cada vez mais e clicar cada vez menos”",
+      "summary": "No Rio Innovation Week, Marcella Calfi, gerente de Marketing da Zoop, participou de painel sobre o futuro dos agentes de IA",
+      "url": "https://startups.com.br/branded-content/zoop-a-gente-vai-conversar-cada-vez-mais-e-clicar-cada-vez-menos/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "image": "https://uploads.startups.com.br/2026/08/Zoop-9.jpg",
+      "publishedAt": "2026-08-05T12:00:00+00:00",
+      "score": 40,
+      "alsoIn": [
+        {
+          "title": "Na Rio Innovation Week, tecnologia vira agenda de negócios com painéis sobre IA, tokenização e cibersegurança",
+          "url": "https://startupi.com.br/na-rio-innovation-week-tecnologia-vira-agenda-de-negocios-com-paineis-sobre-ia-tokenizacao-e-ciberseguranca/",
+          "source": "Startupi",
+          "publishedAt": "2026-08-04T08:00:00+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "Startupi",
+        "Startups.com.br"
+      ],
+      "coverageCount": 2,
+      "_key": "646e9f0dd48dbcf5ce48a73a13942a78",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/99-e-movida-anunciam-parceria/",
+      "title": "99 e Movida anunciam parceria",
+      "summary": "As empresas explicam que a parceria visa tornar o aluguel de automóveis mais simples, acessível e rentável, combinando vantagens como descontos exclusivos e atendimento dedicado.",
+      "url": "https://itforum.com.br/noticias/99-e-movida-anunciam-parceria/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/99.jpg",
+      "publishedAt": "2026-08-05T15:52:36+00:00",
+      "score": 39,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "3867d1aeae160c2b8cd73363f57050b8",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/negocios/inteligencia-artificial/apos-exit-para-o-quintoandar-empreendedor-cria-startup-para-construtoras-nos-eua/",
+      "title": "Após exit para o QuintoAndar, brasileiro cria startup para construtoras nos EUA",
+      "summary": "Bruno Schmidt e Joaquim Venancio, fundadores da Zenbild (Imagem: Divulgação) Zenbild usa IA para eliminar barreiras de comunicação, coletar dados de obras e reduzir retrabalho na construção civil",
+      "url": "https://startups.com.br/negocios/inteligencia-artificial/apos-exit-para-o-quintoandar-empreendedor-cria-startup-para-construtoras-nos-eua/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "image": "https://uploads.startups.com.br/2026/08/Bruno-Schmidt-e-Joaquim-Venancio-Zenbild.jpg",
+      "publishedAt": "2026-08-04T18:30:00+00:00",
+      "score": 38,
+      "alsoIn": [
+        {
+          "title": "Fundadores de Méliuz, Loft e Geekie criam grupo para negócios nos EUA",
+          "url": "https://pipelinevalor.globo.com/negocios/noticia/fundadores-de-meliuz-loft-e-geekie-criam-grupo-para-negocios-nos-eua.ghtml",
+          "source": "Pipeline Valor",
+          "publishedAt": "2026-07-31T10:30:10+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "Pipeline Valor",
+        "Startups.com.br"
+      ],
+      "coverageCount": 2,
+      "_key": "0f9327f6fe1dc2f07d1db0c0a3291d26",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/intelipost-nomeia-richerland-medeiros-como-novo-cto/",
+      "title": "Intelipost nomeia Richerland Medeiros como novo CTO",
+      "summary": "Richerland Medeiros, novo CTO da Intelipost (Imagem: Divulgação) Executivo chega à Intelipost com 25 anos de experiência em engenharia de software, dados e inteligência artificial",
+      "url": "https://startups.com.br/danca-das-cadeiras/intelipost-nomeia-richerland-medeiros-como-novo-cto/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Richerland-Medeiros.jpg",
+      "publishedAt": "2026-08-05T14:00:00+00:00",
+      "score": 37,
+      "alsoIn": [
+        {
+          "title": "Intelipost anuncia Richerland Medeiros como novo CTO",
+          "url": "https://itforum.com.br/noticias/intelipost-novo-cto/",
+          "source": "IT Forum",
+          "publishedAt": "2026-08-03T22:20:35+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "IT Forum",
+        "Startups.com.br"
+      ],
+      "coverageCount": 2,
+      "_key": "dd324317f8ebcf8f99e5ddda86a4b06a",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/6a1cc23a5fed8844a94b28ba_weather-params.jpg?resize=1200,722",
+      "publishedAt": "2026-08-05T11:00:00+00:00",
+      "score": 37,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1,
+      "_key": "45786850a1858eae7735e755cd6446f2",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/esta-na-hora-de-ouvir-alex-karp/",
+      "title": "Está na hora de ouvir Alex Karp",
+      "summary": "O CEO da Palantir, Alex Karp, voltou à carga contra a OpenAI e a Anthropic – acusando as duas gigantes de estarem “tentando nos viciar” em um modelo em que elas estarão no controle. “Há pessoas tentando nos viciar em um futuro que elas acreditam controlar,” Karp disse à CNBC numa entrevista na segunda à […]",
+      "url": "https://braziljournal.com/esta-na-hora-de-ouvir-alex-karp/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/alt2-635x357.jpg",
+      "publishedAt": "2026-08-05T09:50:13+00:00",
+      "score": 37,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1,
+      "_key": "f60d82c7dbbfc90fa7cc4026aaae5c3a",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/em-ano-impar-vela-latam-deve-passar-de-10-aquisicoes.ghtml",
+      "title": "Em ano ímpar, Vela LatAm deve passar de 10 aquisições",
+      "summary": "Esta é a quarta aquisição do ano realizada pela consolidadora, que quer acelerar o ritmo de transações e bater de 12 a 15 M&As em 2026, o seu ano mais agitado desde que desembarcou na América Latina, há sete anos.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/em-ano-impar-vela-latam-deve-passar-de-10-aquisicoes.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/h4UcT7su6bYZ4-x-eCM1u4yPTH8=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2024/T/1/4K9u9AQbemgBcbQyx3jg/whatsapp-image-2024-01-22-at-12.35.11.jpeg",
+      "publishedAt": "2026-08-05T09:45:09+00:00",
+      "score": 37,
+      "alsoIn": [
+        {
+          "title": "Evertec conclui aquisição da BBChain",
+          "url": "https://itforum.com.br/noticias/evertec-aquisicao-bbchain-2/",
+          "source": "IT Forum",
+          "publishedAt": "2026-08-03T18:40:54+00:00"
+        },
+        {
+          "title": "Na terceira aquisição de software, Canopy entra em agro com a Maxicon",
+          "url": "https://pipelinevalor.globo.com/negocios/noticia/na-terceira-aquisicao-de-software-canopy-entra-em-agro-com-a-maxicon.ghtml",
+          "source": "Pipeline Valor",
+          "publishedAt": "2026-07-16T09:00:55+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "IT Forum",
+        "Pipeline Valor"
+      ],
+      "coverageCount": 3,
+      "_key": "5688ead35e8fd8ff83e8e99c24263d52",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/venture/data-billion-dollar-rounds-set-global-funding-record-july-2026/",
+      "title": "A Record 14 Billion-Dollar Rounds In July Pushed Venture’s Historic Run Higher",
+      "summary": "Global venture funding showed no signs of slowing in July. Startup capital totaled $65 billion, up 100% year over year, as the month notched the highest-ever number of billion-dollar venture rounds on record, per Crunchbase data.",
+      "url": "https://news.crunchbase.com/venture/data-billion-dollar-rounds-set-global-funding-record-july-2026/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "image": "https://news.crunchbase.com/wp-content/uploads/jun-jul.jpg",
+      "publishedAt": "2026-08-04T11:00:18+00:00",
+      "score": 37,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1,
+      "_key": "f49559c4bae0f86f79fd3a828cc51186",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/kesh-levanta-meio-bilhao-com-a-leste-para-devolver-juros-como-cashback.ghtml",
+      "title": "Kesh levanta meio bilhão com a Leste para devolver juros como cashback",
+      "summary": "É um montante alto para um rodada seed, mas mescla equity e dívida - a companhia não abre os percentuais.",
+      "url": "https://pipelinevalor.globo.com/startups/noticia/kesh-levanta-meio-bilhao-com-a-leste-para-devolver-juros-como-cashback.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/7NPA8QlTgzy8QHTQbCufyj2vMdM=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/z/y/FLcTIxRza3yKT1fAcppA/marcelo-ramos-fundador-e-ceo-do-kesh.jpg",
+      "publishedAt": "2026-08-04T10:00:20+00:00",
+      "score": 37,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "b8531d55c39d24d53c339823e343be62",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/agencias-de-fomento-e-cvc-viram-canal-alternativo-para-financiar-inovacao-em-meio-a-juros-altos-como-essa-sinergia-muda-ma-e-valor-de-startups/",
+      "title": "Agências de fomento e CVC viram “canal alternativo” para financiar inovação em meio a juros altos: como essa sinergia muda M&A e valor de startups",
+      "summary": "Agências de fomento e CVC viram “canal alternativo” para financiar inovação em meio a juros altos: como essa sinergia muda M&A e valor de startups Com juros mais exigentes, instrumentos públicos de crédito/subvenção e o capital corporativo (CVC) ganham tração para suprir o financiamento de startups — por que isso importa para negócios, empresas e investidores.",
+      "url": "https://startupi.com.br/agencias-de-fomento-e-cvc-viram-canal-alternativo-para-financiar-inovacao-em-meio-a-juros-altos-como-essa-sinergia-muda-ma-e-valor-de-startups/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "image": "https://startupi.com.br/wp-content/uploads/2022/07/bndes-funtec.jpg",
+      "publishedAt": "2026-08-03T08:00:00+00:00",
+      "score": 37,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1,
+      "_key": "13b870ed1e29d827b269774230c0b2de",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/startups/tech-layoffs/",
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Layoffs-scissors.jpg",
+      "publishedAt": "2026-08-05T18:09:30+00:00",
+      "score": 35,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1,
+      "_key": "77b0de17c62bb24803548f06fb3a9192",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/negocios/inovacao/tractian-capta-r-120m-com-bndes-para-projeto-de-robotica/",
+      "title": "Tractian capta R$ 120M com BNDES para projeto de robótica",
+      "summary": "sensores e IA; projeto prevê 421 contratações e 20 patentes até 2028",
+      "url": "https://startups.com.br/negocios/inovacao/tractian-capta-r-120m-com-bndes-para-projeto-de-robotica/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "image": "https://uploads.startups.com.br/2026/08/Product-Market-Fit-PMF-4.png",
+      "publishedAt": "2026-08-05T15:53:00+00:00",
+      "score": 35,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1,
+      "_key": "20a12b2b2394f3bffd5df46e99a44189",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/adobe-reformula-estrategia-comercial-impacto-da-ia/",
+      "title": "Adobe reformula estratégia comercial para responder ao impacto da IA generativa nas compras B2B, diz Forrester",
+      "summary": "A popularização de ferramentas de inteligência artificial generativa, como ChatGPT e Gemini, está alterando a forma como empresas pesquisam fornecedores e tomam decisões de compra.",
+      "url": "https://itforum.com.br/noticias/adobe-reformula-estrategia-comercial-impacto-da-ia/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2024/04/OFICIAL-Dimensao-Wordpress-2024-04-15T103013.582.jpg",
+      "publishedAt": "2026-08-05T14:48:36+00:00",
+      "score": 35,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "3faa4ead528e74f67c5df25b64c5d3c2",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/la-fora/bending-spoons-faz-1a-compra-pos-ipo-e-leva-airtable-por-us-128b/",
+      "title": "Bending Spoons faz 1ª compra pós-IPO e leva Airtable por US$ 1,28B",
+      "summary": "grandes, leva por US$ 1,285 bilhão a plataforma no-code que já valeu US$ 11B",
+      "url": "https://startups.com.br/la-fora/bending-spoons-faz-1a-compra-pos-ipo-e-leva-airtable-por-us-128b/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "image": "https://uploads.startups.com.br/2026/08/shutterstock_2807233235.jpg",
+      "publishedAt": "2026-08-04T19:53:48+00:00",
+      "score": 35,
+      "alsoIn": [
+        {
+          "title": "Bending Spoons to buy Airtable for $1.28B",
+          "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+          "source": "TechCrunch Startups",
+          "publishedAt": "2026-08-04T11:30:56+00:00"
+        },
+        {
+          "title": "Bending Spoons strikes $2.25bn Airtable deal in first acquisition since IPO",
+          "url": "https://sifted.eu/articles/bending-spoons-airtable-acquisition-post-ipo/",
+          "source": "Sifted",
+          "publishedAt": "2026-08-04T11:04:22+00:00"
+        },
+        {
+          "title": "MAG Investimentos compra R$ 4,5 bi em FIDCs da More Invest",
+          "url": "https://pipelinevalor.globo.com/mercado/noticia/mag-investimentos-compra-r-45-bi-em-fidcs-da-more-invest.ghtml",
+          "source": "Pipeline Valor",
+          "publishedAt": "2026-07-14T23:05:53+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "Pipeline Valor",
+        "Sifted",
+        "Startups.com.br",
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 4,
+      "_key": "8621cfa3e000cfdc0450339c93ed8235",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "title": "Hark previews its browser use agent for completing tasks",
+      "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.10.59-PM.jpg?resize=1200,596",
+      "publishedAt": "2026-08-05T15:46:27+00:00",
+      "score": 34,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1,
+      "_key": "70a3cc4274cc539190b81ce46ffafb4f",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/allianca-propoe-conversao-de-divida-enquanto-procura-comprador.ghtml",
+      "title": "Alliança propõe conversão de dívida enquanto procura comprador",
+      "summary": "Formada a partir de aquisições de clínicas em diferentes regiões, a Alliança detém marcas como CDB, Cedimagem, Axial e Delfin.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/allianca-propoe-conversao-de-divida-enquanto-procura-comprador.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/sWDSpiCpJArKgqcjn3x7Hnv4x3E=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2023/B/i/SawHMKTzaIRfOxiqLFcg/laboratory-563423-1280.jpg",
+      "publishedAt": "2026-08-05T11:23:52+00:00",
+      "score": 34,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "ba287aa6107cf3645c222bc98c6e1acc",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/ai/strategies-enhancing-exit-value-acquisitions-sagie/",
+      "title": "Your AI Strategy May Be Destroying Your Exit Value",
+      "summary": "In this guest commentary he shares three ways your AI strategy can provide a positive impact on valuation when it becomes time for an exit.",
+      "url": "https://news.crunchbase.com/ai/strategies-enhancing-exit-value-acquisitions-sagie/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Exit-2.jpg",
+      "publishedAt": "2026-08-05T11:00:37+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1,
+      "_key": "54767ef34638b518700b3ecd13a66fe3",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/",
+      "title": "Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient",
+      "summary": "Mitti Labs plans to expand beyond India and enter the Philippines and Indonesia while growing its carbon credits and agricultural data business.",
+      "url": "https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/mitti-labs-rice-farmer-andhra-pradesh-awd-program.jpg?resize=1200,800",
+      "publishedAt": "2026-08-05T11:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1,
+      "_key": "f757af00d6a6db5fe034518ef6a0fa61",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/crise-do-controlador-da-havanna-gera-atrito-com-franqueados.ghtml",
+      "title": "Crise do controlador da Havanna gera atrito com franqueados",
+      "summary": "A Associação de ex-Franqueados e Franqueados da Havanna acusa o grupo Marcos Rothenberg, que controla a marca no Brasil, de omitir seu processo de recuperação extrajudicial nos contratos de franquias.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/crise-do-controlador-da-havanna-gera-atrito-com-franqueados.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/o2ih4tzM3AepWIc1Zx3esqj6RP8=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/B/f/EfJLjARbGQiGlDDF6cDg/havanna-loja.jfif",
+      "publishedAt": "2026-08-05T10:00:21+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "36743c372e124f312df1d07d3badd828",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/nestle-tambem-esta-de-olho-na-bauducco.ghtml",
+      "title": "Nestlé também está de olho na Bauducco",
+      "summary": "Outros grandes grupos de consumo internacionais, como Mondelez, Hershey’s e Mars, já estavam no páreo, como revelou o Pipeline em julho.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/nestle-tambem-esta-de-olho-na-bauducco.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/dx414twqorZujETtBvkTMmWgSLM=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/B/f/wIaaygSmuSPMt8BecVDw/whatsapp-image-2026-08-04-at-17.18.29.jpeg",
+      "publishedAt": "2026-08-05T09:30:11+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "f0cad14b9285ad2f95dc05e8f9ac40e6",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/artigos/ia-revolucao-industrial/",
+      "title": "Por que a IA pode ser maior que a Revolução Industrial",
+      "summary": "Como ainda não conseguimos tangibilizar algo grandioso a olho nu, todo esse papo pode parecer elucubração.",
+      "url": "https://itforum.com.br/artigos/ia-revolucao-industrial/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/Fabiana-Falcone-1.jpg",
+      "publishedAt": "2026-08-04T21:00:15+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "51eea369920d27ba9a73999f6890a40b",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Great-British-Image.png?resize=1200,675",
+      "publishedAt": "2026-08-04T19:34:34+00:00",
+      "score": 32,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1,
+      "_key": "fc7975238e7c7729d6017faee29102dc",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/artigos/empresas-agent-ready/",
+      "title": "Empresas agent-ready: da governança de TI à produtividade na ponta",
+      "summary": "Para líderes de tecnologia, no entanto, a pergunta mais importante talvez seja outra: os sistemas corporativos estão preparados para serem operados por agentes?",
+      "url": "https://itforum.com.br/artigos/empresas-agent-ready/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2024/11/Agentes-de-IA.jpg",
+      "publishedAt": "2026-08-04T13:06:21+00:00",
+      "score": 32,
+      "alsoIn": [
+        {
+          "title": "O ativo mais valioso da próxima década talvez não seja a inteligência artificial",
+          "url": "https://itforum.com.br/artigos/ativo-inteligencia-artificial/",
+          "source": "IT Forum",
+          "publishedAt": "2026-08-03T12:00:26+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 2,
+      "_key": "683ddbc5603d44b330f26cffea28bd93",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/openai-comeca-a-mostrar-anuncios-no-chatgpt-para-usuarios-no-brasil/",
+      "title": "OpenAI começa a mostrar anúncios no ChatGPT para usuários no Brasil",
+      "summary": "OpenAI começou a testar anúncios no ChatGPT para contas gratuitas e Go no Brasil. Novidade atinge apenas maiores de 18 anos e não afeta os demais planos do serviço de IA. OpenAI começa a mostrar anúncios no ChatGPT para usuários no Brasil",
+      "url": "https://tecnoblog.net/noticias/openai-comeca-a-mostrar-anuncios-no-chatgpt-para-usuarios-no-brasil/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
+      "publishedAt": "2026-08-04T15:36:05+00:00",
+      "score": 31,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1,
+      "_key": "b5c6986628ce67cc8ddf15b1c154013d",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+      "summary": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
+      "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/Mockup-of-Valar-Atomics-site.jpg?resize=1200,514",
+      "publishedAt": "2026-08-03T17:16:43+00:00",
+      "score": 31,
+      "alsoIn": [
+        {
+          "title": "Base Power raises another $1B to save the grid using backyard batteries",
+          "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+          "source": "TechCrunch Startups",
+          "publishedAt": "2026-08-03T16:46:57+00:00"
+        },
+        {
+          "title": "The Week’s 10 Biggest Funding Rounds: Safe Superintelligence And Commonwealth Fusion Lead With Billion-Dollar Deals",
+          "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/",
+          "source": "Crunchbase News",
+          "publishedAt": "2026-07-31T20:14:23+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "Crunchbase News",
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 3,
+      "_key": "d8d7055bcc60db3bee239453b112e9b3",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/deel-adquire-clarity-e-reforca-seguranca/",
+      "title": "Deel adquire Clarity e reforça segurança de identidade com IA em plataforma global de RH",
+      "summary": "A Deel, plataforma global de recursos humanos anunciou a aquisição da Clarity, empresa de cibersegurança de inteligência artificial (IA), especializada em verificação de identidade, detecção de deepfakes e prevenção de fraudes.",
+      "url": "https://itforum.com.br/noticias/deel-adquire-clarity-e-reforca-seguranca/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/Deel-e-Clarity.jpg",
+      "publishedAt": "2026-08-04T18:53:52+00:00",
+      "score": 30,
+      "alsoIn": [
+        {
+          "title": "Uber cria líder global de entregas e mobilidade com Delivery Hero",
+          "url": "https://pipelinevalor.globo.com/negocios/noticia/uber-compra-delivery-hero-da-prosus-por-13-bilhoes-de-euros.ghtml",
+          "source": "Pipeline Valor",
+          "publishedAt": "2026-07-16T14:28:35+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "IT Forum",
+        "Pipeline Valor"
+      ],
+      "coverageCount": 2,
+      "_key": "87cef42e52025ac035a2b692f50bad95",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/tcl-lanca-o-tablet-intermediario-tab-a1-plus/",
+      "title": "TCL lança o tablet intermediário Tab A1 Plus",
+      "summary": "Modelo chega com display de 120 Hz, chip Snapdragon 4 Gen 2 e recursos de inteligência artificial. TCL lança o tablet intermediário Tab A1 Plus",
+      "url": "https://tecnoblog.net/noticias/tcl-lanca-o-tablet-intermediario-tab-a1-plus/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/tcl-tab-a1-plus-1-edited-340x191.jpg",
+      "publishedAt": "2026-08-04T20:55:44+00:00",
+      "score": 29,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1,
+      "_key": "ff07b0f08b6cb6790edbed5c2ed2a181",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/all-set-de-leo-jereissati-cria-vertical-de-retail-media.ghtml",
+      "title": "All Set, de Leo Jereissati, cria vertical de retail media",
+      "summary": "Ela já atuou nesse mercado, com a estruturação de da operação de mídia e retail media da Enext, do grupo WPP.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/all-set-de-leo-jereissati-cria-vertical-de-retail-media.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/n9Yw5aKOj0NG8jHfyixnZ7dOCvU=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/T/p/MvVQ0XRJiNiJ4cRsmGpQ/all-set-leopoldo-jereissati-fundador-e-ceo-da-all-set-comunicacao-socio-da-all-set-media-priscila-marins-ceo-all-set-media-retail-media.jpg",
+      "publishedAt": "2026-08-04T09:00:19+00:00",
+      "score": 29,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "891e45723102f47e769137eef246a307",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/o-fim-do-dinheiro-facil-e-a-era-da-eficiencia-no-venture-capital-brasileiro/",
+      "title": "O Fim do Dinheiro Fácil e a Era da Eficiência no Venture Capital Brasileiro",
+      "summary": "O Fim do Dinheiro Fácil e a Era da Eficiência no Venture Capital Brasileiro A recente concentração de aportes em rodadas avançadas e em deep techs sinaliza a maturidade de um mercado que trocou a promessa de escala desenfreada pelo rigor do retorno real.",
+      "url": "https://startupi.com.br/o-fim-do-dinheiro-facil-e-a-era-da-eficiencia-no-venture-capital-brasileiro/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "image": "https://startupi.com.br/wp-content/uploads/2023/04/Design-sem-nome-2023-04-18T120629.507.jpg",
+      "publishedAt": "2026-08-03T08:00:00+00:00",
+      "score": 29,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1,
+      "_key": "9e7fdd64fc9811f4a48ce9d3899e1f6a",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/a-nova-mao-de-obra-20-rodadas-em-tres-meses-para-startups-de-robos-humanoides.ghtml",
+      "title": "A nova mão de obra: 20 rodadas em três meses para startups de robôs humanoides",
+      "summary": "Depois de concentrar bilhões em startups de grandes modelos de linguagem, o mercado de venture capital também passou a mirar a robótica, especialmente empresas que desenvolvem humanoides para uso industrial.",
+      "url": "https://pipelinevalor.globo.com/startups/noticia/a-nova-mao-de-obra-20-rodadas-em-tres-meses-para-startups-de-robos-humanoides.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/99yQq2IA8MdkSSsPp1bvHS5lX24=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/Q/1/zdFV53TryNHqR1tynSHQ/whatsapp-image-2026-07-20-at-21.42.27.jpeg",
+      "publishedAt": "2026-07-21T10:29:09+00:00",
+      "score": 29,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "d3e57b42108dfa8cf76e875638e19bb7",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/o-carnezinho-do-iphone-o-grande-experimento-da-apple-com-assinaturas/",
+      "title": "O ‘carnezinho’ do iPhone: o grande experimento da Apple com assinaturas",
+      "summary": "A Apple criou um “carnezinho gostoso” para os seus produtos – e Wall Street gostou do que viu. A empresa lançou nos EUA o Apple Upgrade, um programa de aluguel de iPhones, iPads, Macs e Apple Watches operado pela Klarna, a fintech sueca de buy now pay later. O cliente paga uma mensalidade por 12 […]",
+      "url": "https://braziljournal.com/o-carnezinho-do-iphone-o-grande-experimento-da-apple-com-assinaturas/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/GettyImages-1767160835-635x357.jpg",
+      "publishedAt": "2026-08-04T17:56:12+00:00",
+      "score": 28,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1,
+      "_key": "3cb007fa8af7dbcd6072530f97473b5a",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/gavea-encerra-gestao-de-multimercados-esse-mercado-mudou-diz-arminio-fraga.ghtml",
+      "title": "Gávea encerra gestão de multimercados: ‘Esse mercado mudou’, diz Arminio Fraga",
+      "summary": "Assim, a Gávea passa agora a gerir apenas o portfólio legado nos fundos de participação e o capital dos sócios que estava aplicado nos veículos da casa.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/gavea-encerra-gestao-de-multimercados-esse-mercado-mudou-diz-arminio-fraga.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/ObUFfO7B-iHEoL9SiFkMu4BSO4Y=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2021/K/o/rjKr8BQVe8ya1QlKAVxA/130721arminiofraga024.jpg",
+      "publishedAt": "2026-08-04T17:20:05+00:00",
+      "score": 28,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "79d5aa86ddd16c0347d212080b4f6168",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/samsung-assembleia-extraordinaria/",
+      "title": "Investidores de varejo pressionam Samsung por recompra de ações e assembleia extraordinária",
+      "summary": "Um grupo de investidores de varejo da Samsung Electronics iniciou uma campanha para convocar uma assembleia geral extraordinária com o objetivo de ampliar o programa de recompra de ações da companhia e revisar a política de remuneração de executivos.",
+      "url": "https://itforum.com.br/noticias/samsung-assembleia-extraordinaria/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/Samsung.jpg",
+      "publishedAt": "2026-08-04T17:10:26+00:00",
+      "score": 28,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "c48f7f4a67ce08a51f5215cef7c2b6bb",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/eua-restricao-componentes-chineses/",
+      "title": "EUA preparam restrição a componentes chineses para data centers em nova frente da disputa tecnológica",
+      "summary": "O governo dos Estados Unidos está preparando uma nova restrição à tecnologia chinesa voltada para a infraestrutura de inteligência artificial (IA).",
+      "url": "https://itforum.com.br/noticias/eua-restricao-componentes-chineses/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/EUA-e-China.jpg",
+      "publishedAt": "2026-08-04T15:30:27+00:00",
+      "score": 27,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "c7bd4e71868c971aa3b34a353bbbd7ac",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/databricks-aquisicao-panther/",
+      "title": "Databricks conclui aquisição da Panther",
+      "summary": "A partir da compra, a companhia pretende integrar as soluções da Panther ao seu próprio produto para conectar os dados brutos do lakehouse à execução da segurança em tempo real.",
+      "url": "https://itforum.com.br/noticias/databricks-aquisicao-panther/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/Databricks.jpg",
+      "publishedAt": "2026-08-04T14:40:40+00:00",
+      "score": 27,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "2bf1e7cb1daa5301efba50326c688bf7",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/creditas-colhe-frutos-da-ia-antes-do-esperado-mas-lucro-segue-distante.ghtml",
+      "title": "Creditas colhe frutos da IA antes do esperado, mas lucro segue distante",
+      "summary": "A originação de crédito bateu recorde pela terceira vez consecutiva: R$ 1,1 bilhão, alta de 34% ante o segundo trimestre de 2025.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/creditas-colhe-frutos-da-ia-antes-do-esperado-mas-lucro-segue-distante.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/m9NFcut5xUIQHLOa29ubfABU_Tw=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2023/L/a/egVBRpSGCEOnxVBBzt5g/creditas-auto-e-nova-plataforma-digital-para-compra-e-venda-de-veiculos-732x488.jpg",
+      "publishedAt": "2026-08-04T14:14:53+00:00",
+      "score": 27,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "da4f62ecc0b1c54f5c067b3aac6b18b4",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/asus-business-1-ano/",
+      "title": "ASUS Business completa 1 ano de operação no Brasil com meta de alcançar top 3 entre fabricantes de PCs até 2030",
+      "summary": "Desde o lançamento da unidade B2B no país, a empresa focou em ampliar sua presença a partir da linha ExpertBook, com o ASUS ExpertBook B1503 sendo responsável por aproximadamente 95% dos resultados da unidade.",
+      "url": "https://itforum.com.br/noticias/asus-business-1-ano/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/Asus-Business.jpg",
+      "publishedAt": "2026-08-04T13:50:31+00:00",
+      "score": 27,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "fb6baea4038080185e417af297c71cf6",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
+      "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
+      "summary": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!",
+      "url": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/54963427938_23d9e50d14_o.jpg?resize=1200,800",
+      "publishedAt": "2026-08-04T15:00:00+00:00",
+      "score": 26,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1,
+      "_key": "5d32ec3e111b325911aaba056fce4f1d",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/pre-candidato-presidencia-tecnologia/",
+      "title": "Pré-candidato à Presidência defende IA e investimento em tecnologia ligado à educação",
+      "summary": "Ele tem trajetória em projetos industriais e de infraestrutura no Brasil e no exterior.",
+      "url": "https://itforum.com.br/noticias/pre-candidato-presidencia-tecnologia/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/07/eleicoes-Mario-Oliveia-Filho.jpg",
+      "publishedAt": "2026-08-03T12:47:05+00:00",
+      "score": 26,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "f33fc7f02217bce01cf6f99bbdf6d478",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/riw-um-barco-de-inovacao-num-oceano-de-problemas-e-oportunidades/",
+      "title": "RIW, um barco de inovação num oceano de problemas (e oportunidades)",
+      "summary": "RIW, um barco de inovação num oceano de problemas (e oportunidades) Rio Innovation Week começa na Cidade Maravilhosa reunindo inovadores e investidores em meio ao cenário de uma das mais caóticas metrópoles brasileiras.",
+      "url": "https://startupi.com.br/riw-um-barco-de-inovacao-num-oceano-de-problemas-e-oportunidades/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/rio-de-janeiro.jpg",
+      "publishedAt": "2026-08-04T08:00:00+00:00",
+      "score": 25,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1,
+      "_key": "518d6307a00bfb83b561962d98be77c7",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/",
+      "title": "‘A Rare Land-Grab Moment’: Menlo Ventures’ Matt Murphy On The Next Wave of AI And Putting $3B In New Capital To Work",
+      "summary": "We speak with Menlo Ventures' Matt Murphy about why AI is pushing the firm toward larger deals, what it has learned from its Anthropic relationship, and where he sees the next big opportunities.",
+      "url": "https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Giant_Funding.jpg",
+      "publishedAt": "2026-08-03T11:00:43+00:00",
+      "score": 25,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1,
+      "_key": "a1096fb8f58adb197390e806085dd745",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/tempestade-como-diagnostico-o-que-os-vendavais-no-brasil-revelam-sobre-a-falha-no-planejamento-urbano/",
+      "title": "Tempestade como Diagnóstico: O que os Vendavais no Brasil Revelam sobre a Falha no Planejamento Urbano",
+      "summary": "Tempestade como Diagnóstico: O que os Vendavais no Brasil Revelam sobre a Falha no Planejamento Urbano Eventos climáticos extremos de 2025 e 2026 não foram meros acidentes da natureza, mas o sintoma de uma doença crônica no modelo de desenvolvimento das cidades brasileiras: a priorização da reação emergencial em detrimento do investimento preventivo e do planejamento territorial inteligente.",
+      "url": "https://startupi.com.br/tempestade-como-diagnostico-o-que-os-vendavais-no-brasil-revelam-sobre-a-falha-no-planejamento-urbano/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/cpfl-chuvas-ribeirao-temporais-696x370.jpeg.webp",
+      "publishedAt": "2026-08-03T08:00:00+00:00",
+      "score": 25,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1,
+      "_key": "d9a4f6daf2af528e5b262883ec57596c",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/tres-gestoras-de-vc-tomam-quase-metade-do-capital-nos-eua.ghtml",
+      "title": "Três gestoras de VC tomam quase metade do capital nos EUA",
+      "summary": "A a16z, Thrive Capital e Founders Fund captaram, respectivamente, US$ 14,2 bilhões, US$ 10 bilhões e US$ 10,6 bilhões em novos fundos quase que exclusivamente dedicados à inteligência artificial e a startups americanas.",
+      "url": "https://pipelinevalor.globo.com/startups/noticia/tres-gestoras-de-vc-tomam-quase-metade-do-capital-nos-eua.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/uZQsMbD8Jw8Ph2VJ2cxV6QO38vM=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/m/C/d2hrzgRCWS1hZhdLYl6Q/whatsapp-image-2026-01-09-at-18.34.10.jpeg",
+      "publishedAt": "2026-07-13T11:00:18+00:00",
+      "score": 25,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "e610fb42f6c264d995a07d4feab735d5",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/fornecedores-energia/",
+      "title": "Mais de 60% dos fornecedores de energia utiliza IA para prever ganhos em eficiência e operação, aponta estudo",
+      "summary": "Vivemos na era da eletricidade e, embora a utilização da energia elétrica por setores como indústrias, transportes e construção civil continue a impulsionar o aumento da demanda, um dos fatores que mais contribui para o crescimento acelerado da mesma é a infraestrutura digital, especialmente os data centers e inteligência artificial (IA). Segundo o relatório “IA […]",
+      "url": "https://itforum.com.br/noticias/fornecedores-energia/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/Energia-eletrica.jpg",
+      "publishedAt": "2026-08-03T17:50:24+00:00",
+      "score": 24,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "2aaa930c87fea87345238d1e3e80d016",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
+      "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
+      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+      "url": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/TCD26_Aug_Flash_Sale.png?w=1200",
+      "publishedAt": "2026-08-04T17:20:54+00:00",
+      "score": 23,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1,
+      "_key": "455326c2edf041a458851013bd3119e2",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/visa-compra-biocatch-por-us-24-bilhoes/",
+      "title": "Visa compra BioCatch por US$ 2,4 bilhões para ampliar oferta de prevenção a fraudes com IA",
+      "summary": "O negócio amplia a atuação da companhia em soluções de segurança para instituições financeiras e reforça a demanda crescente por tecnologias baseadas em inteligência artificial (IA) para combater crimes financeiros.",
+      "url": "https://itforum.com.br/noticias/visa-compra-biocatch-por-us-24-bilhoes/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2025/07/OFICIAL-Dimensao-Wordpress-1.jpg",
+      "publishedAt": "2026-08-03T21:28:15+00:00",
+      "score": 23,
+      "alsoIn": [
+        {
+          "title": "Engie movimenta R$ 8,4 bilhões em follow-on",
+          "url": "https://pipelinevalor.globo.com/negocios/noticia/engie-movimenta-r-84-bilhoes-em-follow-on.ghtml",
+          "source": "Pipeline Valor",
+          "publishedAt": "2026-07-14T21:46:17+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "IT Forum",
+        "Pipeline Valor"
+      ],
+      "coverageCount": 2,
+      "_key": "6317b657c2b7d568ab4a6f26cfbc0a09",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/ipo-da-spacex-gerou-mais-saida-para-os-vcs-do-que-a-decada-passada-inteira.ghtml",
+      "title": "IPO da SpaceX gerou mais saída para os VCs do que a década passada inteira",
+      "summary": "Fundada em 2001, a companhia recebeu ao longo dos anos aporte de fundos como a16z, Founders Fund, Sequoia Capital, Fidelity Investments, Google e Valor Equity Partners.",
+      "url": "https://pipelinevalor.globo.com/startups/noticia/ipo-da-spacex-gerou-mais-saida-para-os-vcs-do-que-a-decada-passada-inteira.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/b4bEfkfqDBAsZZ0EV8pibAt46Ts=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2022/9/P/uWENsUS2qLXAWTVKUqBA/ab375e55d06a4c3b86f4eb82f35fc2b6-b06bb.jpg",
+      "publishedAt": "2026-07-12T10:30:11+00:00",
+      "score": 23,
+      "alsoIn": [
+        {
+          "title": "Rayo Capital estrutura fundo imobiliário de R$ 300 milhões com BRZ",
+          "url": "https://pipelinevalor.globo.com/mercado/noticia/rayo-capital-estrutura-fundo-imobiliario-de-r-300-milhoes-com-brz.ghtml",
+          "source": "Pipeline Valor",
+          "publishedAt": "2026-07-16T10:24:28+00:00"
+        }
+      ],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 2,
+      "_key": "2c5a80e2839faf200bfce5f6610853e6",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/amazon-supera-us-3-trilhoes-em-valor-de-mercado/",
+      "title": "Amazon supera US$ 3 trilhões em valor de mercado impulsionada por crescimento da AWS e IA",
+      "summary": "A Amazon ultrapassou pela primeira vez a marca de US$ 3 trilhões em valor de mercado, tornando-se a quinta empresa da história a atingir esse patamar.",
+      "url": "https://itforum.com.br/noticias/amazon-supera-us-3-trilhoes-em-valor-de-mercado/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2025/11/Amazon-Black-Friday.jpg",
+      "publishedAt": "2026-08-03T21:01:37+00:00",
+      "score": 21,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "95a34614fbd524c0c2dd833d1a441a34",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/tivit-conclui-a-primeira-turma-de-projeto/",
+      "title": "Tivit conclui a primeira turma de projeto para novos talentos em tecnologia",
+      "summary": "A Tivit, multinacional de tecnologia do Grupo Almaviva, anunciou a conclusão da primeira edição do Projeto Girafa, iniciativa criada para ampliar a formação de talentos em áreas estratégicas de tecnologia e gerar novas oportunidades de desenvolvimento profissional.",
+      "url": "https://itforum.com.br/noticias/tivit-conclui-a-primeira-turma-de-projeto/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/TIVIT.jpg",
+      "publishedAt": "2026-08-03T19:27:29+00:00",
+      "score": 21,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "d8d28dae733c2fb061b76e0cdbcc1bff",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/voce-esta-falando-com-uma-ia-aviso-passa-a-ser-obrigatorio-na-europa/",
+      "title": "“Você está falando com uma IA”: aviso passa a ser obrigatório na Europa",
+      "summary": "Medida faz parte da Lei da Inteligência Artificial, já em vigor na União Europeia. O objetivo é oferecer transparência sobre o uso de IA. “Você está falando com uma IA”: aviso passa a ser obrigatório na Europa",
+      "url": "https://tecnoblog.net/noticias/voce-esta-falando-com-uma-ia-aviso-passa-a-ser-obrigatorio-na-europa/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-freelas-perde-emprego-pra-ia-340x191.png",
+      "publishedAt": "2026-08-03T19:14:32+00:00",
+      "score": 21,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1,
+      "_key": "18c393d3b5fb2de0bbbf0d823a189ae9",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/basf-reve-estrategia-para-fundo-de-startups-e-encerra-operacao-local.ghtml",
+      "title": "Basf revê estratégia para fundo de startups e encerra operação local",
+      "summary": "No caso das startups sul-americanas investidas, a gestão vai ser feita da Alemanha.",
+      "url": "https://pipelinevalor.globo.com/startups/noticia/basf-reve-estrategia-para-fundo-de-startups-e-encerra-operacao-local.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/eMetWUI8zF8CMCh9uFE2nW887b8=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/h/f/qpltBcSoiBJeL9zAAktg/basf.jpg",
+      "publishedAt": "2026-07-17T09:00:31+00:00",
+      "score": 21,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "29e72fea6ea1520e512e3657268020f5",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg?resize=1200,739",
+      "publishedAt": "2026-08-03T19:28:57+00:00",
+      "score": 20,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1,
+      "_key": "3c11d7ccb7cba47dcc1b728341ec516f",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/99-e-usp-anunciam-cooperacao-para-pesquisas-ia/",
+      "title": "99 e USP anunciam cooperação para pesquisas sobre IA",
+      "summary": "A 99, empresa integrante do grupo DiDi Chuxing, e a Universidade de São Paulo (USP) anunciaram uma cooperação estratégica para o desenvolvimento de pesquisas avançadas em inteligência artificial no Brasil.",
+      "url": "https://itforum.com.br/noticias/99-e-usp-anunciam-cooperacao-para-pesquisas-ia/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/Parceria-USP-e-99.jpg",
+      "publishedAt": "2026-08-03T16:16:34+00:00",
+      "score": 20,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "2bbb61066e49186c028eed72b2423402",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/seed/vanessa-larco-nea-premise-vc-investment-thesis-seed-ai/",
+      "title": "Founder Traits And One Big AI Test: How Former NEA Partner Vanessa Larco Picks Winners",
+      "summary": "Crunchbase News talks with former NEA partner Vanessa Larco about how she evaluates startups based on founder potential rather than initial ideas and how she looks for teams that leverage AI to make products dramatically faster, cheaper, or easier to use.",
+      "url": "https://news.crunchbase.com/seed/vanessa-larco-nea-premise-vc-investment-thesis-seed-ai/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Seed.jpg",
+      "publishedAt": "2026-07-30T13:00:44+00:00",
+      "score": 20,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1,
+      "_key": "bf6fde00fa810e7b920163b75f7de04c",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+      "title": "Outernet turns your saved posts into real-world adventures",
+      "summary": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actually go.",
+      "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/e040cfc9-13f1-4d78-9063-effd0d99975a.jpeg?resize=1200,948",
+      "publishedAt": "2026-08-03T18:00:24+00:00",
+      "score": 19,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1,
+      "_key": "3c8368b70368d4282f5f2adc1aa62b63",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "IT Forum-https://itforum.com.br/noticias/amazon-receita-liquida/",
+      "title": "Amazon registra receita líquida global de US$ 200,6 bilhões, com mais de R$ 19 bi investidos no Brasil",
+      "summary": "No segundo trimestre de 2026, a Amazon registrou uma receita líquida de US$ 200,6 bilhões — um crescimento de 20% em relação ao mesmo período do ano anterior.",
+      "url": "https://itforum.com.br/noticias/amazon-receita-liquida/",
+      "source": "IT Forum",
+      "region": "Brasil",
+      "image": "https://db00ytxhy7e1q.cloudfront.net/2025/05/OFICIAL-Dimensao-Wordpress-10.jpg",
+      "publishedAt": "2026-08-03T15:20:16+00:00",
+      "score": 19,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "IT Forum"
+      ],
+      "coverageCount": 1,
+      "_key": "143645350b502419455a60058d8eaee0",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/com-vinci-arklok-triplica-operacao-e-volta-a-pagar-dividendos.ghtml",
+      "title": "Com Vinci, Arklok triplica operação e volta a pagar dividendos",
+      "summary": "A empresa atingiu R$ 1,2 bilhão em receita contratada neste ano e espera gerar R$ 300 milhões de caixa.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/com-vinci-arklok-triplica-operacao-e-volta-a-pagar-dividendos.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/CsrYZQF2GtGUgqmcGYV16eyUfyE=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2022/b/b/h59E1BRNqBRsRsD0V5GQ/arklok.jpg",
+      "publishedAt": "2026-08-03T12:00:11+00:00",
+      "score": 18,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "4d0de2ece643b8ce52266b66e8426a11",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/mercado/noticia/atlas-governance-quer-um-assento-no-board-das-empresas-americanas.ghtml",
+      "title": "Atlas Governance quer um assento no board das empresas americanas",
+      "summary": "Na América Latina, companhia afirma ter cerca de 70% desse mercado.",
+      "url": "https://pipelinevalor.globo.com/mercado/noticia/atlas-governance-quer-um-assento-no-board-das-empresas-americanas.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/SqNU025Qxnoqf8tf3eYDph04NP4=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2023/E/y/TtxtF9Qa2lyjzTY3S1zA/010323atlas-20governance15.jpg",
+      "publishedAt": "2026-08-03T11:30:10+00:00",
+      "score": 18,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "7d0e44fd17ca6c52b86fac8ce6dec1e5",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/a-ilusao-do-crescimento-a-qualquer-custo-e-o-inevitavel-expurgo-das-scale-ups/",
+      "title": "A Ilusão do Crescimento a Qualquer Custo e o Inevitável Expurgo das Scale-ups",
+      "summary": "A Ilusão do Crescimento a Qualquer Custo e o Inevitável Expurgo das Scale-ups A segunda onda de recuperações judiciais no ecossistema de inovação impõe a disciplina financeira e liquida a era do capital abundante sem governança.",
+      "url": "https://startupi.com.br/a-ilusao-do-crescimento-a-qualquer-custo-e-o-inevitavel-expurgo-das-scale-ups/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "image": "https://startupi.com.br/wp-content/uploads/2024/10/financas.png",
+      "publishedAt": "2026-07-31T08:00:00+00:00",
+      "score": 17,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1,
+      "_key": "156a48dfa52e98e4418809538a3ff030",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/emergent-unicornio-em-13-meses-queima-caixa-para-ganhar-o-mundo.ghtml",
+      "title": "Emergent, unicórnio em 13 meses, queima caixa para ganhar o mundo",
+      "summary": "A Emergent atingiu o primeiro milhão de usuários em setembro de 2025, quando tinha 90 dias de criação.",
+      "url": "https://pipelinevalor.globo.com/startups/noticia/emergent-unicornio-em-13-meses-queima-caixa-para-ganhar-o-mundo.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/HJShqTNPhHmjAYnDRpc_O4Itb-c=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/k/V/JxS6R2Q5yKHE6kA8hI8Q/whatsapp-image-2026-07-29-at-18.46.56-2.jpeg",
+      "publishedAt": "2026-07-30T10:45:09+00:00",
+      "score": 17,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "0dc601a863a130af8224f26f9fe676d9",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/valutia-mira-us-30-mi-para-brasileiros-globais-em-segundo-fundo.ghtml",
+      "title": "Valutia busca US$ 30 milhões para brasileiros globais",
+      "summary": "A dupla quer repetir a tese que batizou a Valutia: investir nos empreendedores brasileiros diaspóricos.",
+      "url": "https://pipelinevalor.globo.com/startups/noticia/valutia-mira-us-30-mi-para-brasileiros-globais-em-segundo-fundo.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/Y7jV8CMae_sV1FwqwWIzb4W3HxE=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2025/L/0/dE5ZlyTO64K9oY8Av4NQ/whatsapp-image.jpg",
+      "publishedAt": "2026-07-27T19:22:53+00:00",
+      "score": 17,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "97585722367d99d6a6e097cff717cc3c",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/a-estrategia-sem-alucinacao-da-bridgewise-para-acelerar-no-brasil.ghtml",
+      "title": "A estratégia ‘sem alucinação’ da Bridgewise para acelerar no Brasil",
+      "summary": "Fundada em 2019, a firma já oferece análises de ações e BDRs no site da B3, investidora da fintech por meio do fundo L4 Venture Builder desde 2023.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/a-estrategia-sem-alucinacao-da-bridgewise-para-acelerar-no-brasil.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/x5pfaZcCVV2X0X9l3y-hBq27LnQ=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2024/t/v/I0Wv6oRieeq0B4SeGk5Q/gaby-diamant-cofundador-e-ceo-da-bridgewise.jpg",
+      "publishedAt": "2026-07-24T10:28:17+00:00",
+      "score": 17,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "f0232aed400bb88c27fe0d47472874ff",
+      "summaryMethod": "regra"
+    },
+    {
+      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/um-outro-birman-de-olho-no-varejo-na-ponta-de-tecnologia.ghtml",
+      "title": "Um outro Birman de olho no varejo — na ponta de tecnologia",
+      "summary": "Ele é fundador da Venda AI, que oferece automatização das vendas de lojas por meio do WhatsApp, poupando o trabalho dos lojistas no atendimento digital, agilizando vendas com IA e orquestrando campanhas para reativação de clientes antigos.",
+      "url": "https://pipelinevalor.globo.com/startups/noticia/um-outro-birman-de-olho-no-varejo-na-ponta-de-tecnologia.ghtml",
+      "source": "Pipeline Valor",
+      "region": "Brasil",
+      "image": "https://s2-pipelinevalor.glbimg.com/y9l_AR_e-XfzowV-PS5mZZIBK2s=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/M/m/OSoCfbTyKVtyOlhH4AGg/allan-birman.jpeg",
+      "publishedAt": "2026-07-22T10:00:14+00:00",
+      "score": 17,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Pipeline Valor"
+      ],
+      "coverageCount": 1,
+      "_key": "7e176d1ad9b1ee68ba995017d80b6503",
+      "summaryMethod": "regra"
+    }
+  ]
+}
