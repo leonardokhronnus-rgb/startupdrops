@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T15:01:55.840043+00:00",
+  "updatedAt": "2026-08-11T15:25:11.388459+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -228,11 +228,6 @@
     {
       "source": "Business Insider Tech",
       "url": "https://www.businessinsider.com/sai/rss",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "The Verge",
-      "url": "https://www.theverge.com/rss/index.xml",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -2782,6 +2777,27 @@
       "coverageCount": 1
     },
     {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/cinema-e-streaming/spotify-vai-colocar-um-cracha-em-artistas-criados-por-ia/",
+      "_key": "0d5feebe3028d8e8d74403a35b541e55",
+      "title": "Spotify vai colocar um ‘crachá’ em artistas criados por IA",
+      "originalTitle": "Spotify vai colocar um ‘crachá’ em artistas criados por IA",
+      "summary": "Spotify vai identificar perfis de artistas criados por IA com selo próprio e, por padrão, tirá-los das recomendações da plataforma O post Spotify vai colocar um ‘crachá’ em artistas criados por IA apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/cinema-e-streaming/spotify-vai-colocar-um-cracha-em-artistas-criados-por-ia/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/selo-ia-spotify-1024x576.webp",
+      "publishedAt": "2026-08-11T14:37:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/cnt-mda-50-dos-brasileiros-defende-proibicao-de-propaganda-eleitoral-feita-com-ia/",
       "_key": "9568d39bb59ba8212a4f162ee4208628",
       "title": "CNT/MDA: 50% dos brasileiros defende proibição de propaganda eleitoral feita com IA",
@@ -3542,6 +3558,48 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale",
+      "_key": "cdc107ad57490f9585de6e07af631dee",
+      "title": "Why AI-driven purchase intent so rarely becomes a completed sale",
+      "originalTitle": "Why AI-driven purchase intent so rarely becomes a completed sale",
+      "summary": "Presented by Rezolve Ai When an AI assistant recommends a product or brand, it generates something valuable: a purchase-ready consumer with high intent and low friction in their decision.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2rNA1MUoPpYaHqSbQDH7lO/8babc736e93899827c7440a692332b47/AdobeStock_536581972.jpeg?w=300&q=30",
+      "publishedAt": "2026-08-11T15:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/inteligencia-artificial/nvidia-lanca-novo-modelo-aberto-de-ia-para-aplicacoes-empresariais/",
+      "_key": "b7fba895745382943bd5e7b889cb28ea",
+      "title": "empresariais",
+      "originalTitle": "empresariais",
+      "summary": "Nova ferramenta combina um modelo compacto e roteamento inteligente para equilibrar desempenho, velocidade e gastos no uso corporativo O post Nvidia lança novo modelo aberto de IA para aplicações empresariais apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/inteligencia-artificial/nvidia-lanca-novo-modelo-aberto-de-ia-para-aplicacoes-empresariais/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/linhas-de-cdigo-fonte-dados-arquitetura-software-programa-app-hacker-1024x684.jpg",
+      "publishedAt": "2026-08-11T14:42:55+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/brics-discutem-integracao-de-sistemas-de-pagamento-e-moedas-digitais-diz-bc-da-india/",
@@ -5961,6 +6019,27 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/upgrade-no-setup-mouses-gamer-sem-fio-em-promocao-na-amazon-14/",
+      "_key": "a3b667244172ea131c990ba0d1614ff8",
+      "title": "Upgrade no setup: mouses gamer sem fio em promoção na Amazon",
+      "originalTitle": "Upgrade no setup: mouses gamer sem fio em promoção na Amazon",
+      "summary": "Se você ainda usa um mouse com fio ou quer melhorar a precisão nas partidas, este é o momento certo para agir. Reunimos três opções de mouses gamer sem fio disponíveis na Amazon, com sensores de alta performance e designs pensados para quem leva os games a sério.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/upgrade-no-setup-mouses-gamer-sem-fio-em-promocao-na-amazon-14/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31zy93Vq31L._SL500_.jpg",
+      "publishedAt": "2026-08-11T14:40:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/oms-defende-calendario-vacinal-apos-trump-determinar-reducao-de-vacinas-infantis/",
