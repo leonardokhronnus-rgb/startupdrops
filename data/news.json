@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T15:48:40.548532+00:00",
+  "updatedAt": "2026-08-11T17:57:32.621913+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -200,11 +200,6 @@
     }
   ],
   "failures": [
-    {
-      "source": "Startupi",
-      "url": "https://startupi.com.br/feed/",
-      "reason": "falhou direto e via proxy"
-    },
     {
       "source": "Pipeline Valor",
       "url": "https://pipelinevalor.globo.com/rss/",
@@ -1252,6 +1247,27 @@
       "country": "BR"
     },
     {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/11/startup-de-ia-manus-meta.ghtml",
+      "_key": "7cb43aa7533412d5a1dd55492b2b5e4a",
+      "title": "Meta",
+      "originalTitle": "Meta",
+      "summary": "Manus havia sido comprada pela Meta Reprodução A startup chinesa de inteligência artificial Manus informou nesta terça-feira (11) que voltará a operar de forma independente e que excluirá parte dos dados de usuários como parte do processo de separação da Meta, empresa dona do Facebook e do Instagram.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/11/startup-de-ia-manus-meta.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/u1y8PjYc4I5-Udmvkym0m049cJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/G/s/5v8JTVSTABhH6lBvBBqQ/2023-09-27t184600z-1495928493-rc25h3asyq7s-rtrmadp-3-meta-platforms-virtual-reality.jpg",
+      "publishedAt": "2026-08-11T15:45:10+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startupi-https://startupi.com.br/inteligencia-artificial-esta-transformando-o-setor-imobiliario/",
       "_key": "4496c7b6dc16e75b53f789935b978548",
       "title": "Da obra ao pós-venda: como a inteligência artificial está transformando o setor imobiliário",
@@ -1592,6 +1608,27 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/games-e-consoles/afk-journey-recebe-crossover-com-digimon-adventure/",
+      "_key": "311cd2aad2a015b480d7eb4c829e66ae",
+      "title": "Digimon Adventure chega a AFK Journey em crossover limitado com Taichi, Yamato e digievoluções",
+      "originalTitle": "Digimon Adventure chega a AFK Journey em crossover limitado com Taichi, Yamato e digievoluções",
+      "summary": "Evento limitado adiciona Taichi &#038; Agumon, Yamato &#038; Gabumon, digievoluções para Wargreymon e Metalgarurumon, história inédita, missões e recompensas especiais O post Digimon Adventure chega a AFK Journey em crossover limitado com Taichi, Yamato e digievoluções apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/games-e-consoles/afk-journey-recebe-crossover-com-digimon-adventure/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/Digimon-Adventure-AFK-Journey-1024x576.jpg",
+      "publishedAt": "2026-08-11T16:03:53+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Startupi-https://startupi.com.br/por-que-a-ia-autonoma-deixou-de-ser-um-risco/",
@@ -2226,6 +2263,48 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/-guac-signal-sparked-chipotle-s-bid-to-recall-jalapenos-video",
+      "_key": "d0751d1eaf6744f04eaf01730c5c33bb",
+      "title": "'Guac Signal' Sparked Chipotle's Frantic Bid to Recall Jalapeños",
+      "originalTitle": "'Guac Signal' Sparked Chipotle's Frantic Bid to Recall Jalapeños",
+      "summary": "Chipotle Mexican Grill Inc. figured out that jalapeños were the source of a salmonella outbreak and began an automated recall system to notify restaurants and destroy the tainted peppers.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-11/-guac-signal-sparked-chipotle-s-bid-to-recall-jalapenos-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-11T16:52:29+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
+      "_key": "49c2b866f26fc08d0c51db0225a9c8db",
+      "title": "Kyoto Fusioneering starts work on key fusion power plant device",
+      "originalTitle": "Kyoto Fusioneering starts work on key fusion power plant device",
+      "summary": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/UNITY-3-kyoto-fusioneering.jpg?resize=1200,675",
+      "publishedAt": "2026-08-11T15:00:00+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/vale3-por-que-bbi-e-bba-tem-compra-para-vale-enquanto-ubs-bb-tem-cautela-com-acao/",
       "_key": "321a456a1e7a566553fe9e502163495d",
       "title": "VALE3: por que BBI e BBA têm compra para Vale, enquanto UBS BB tem cautela com ação?",
@@ -2743,6 +2822,48 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/open-interest-8-11-2026-video",
+      "_key": "dce17fb8aab12f4cb4b97304202a1952",
+      "title": "AI Billions, Oil Swings and an Inflation Test | Open Interest 8/11/2026",
+      "originalTitle": "AI Billions, Oil Swings and an Inflation Test | Open Interest 8/11/2026",
+      "summary": "Interest.\" The AI money machine keeps rolling as Intel, Nvidia and Anthropic line up billions. Meanwhile, oil erases earlier gains as Pakistan signals optimism over a US-Iran deal.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-11/open-interest-8-11-2026-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-11T16:38:44+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/ai-data-center-boom-is-maxing-out-p-c-insurers-aig-ceo-says",
+      "_key": "0c148a3ae58c13c8065544053ec1fe31",
+      "title": "AI Data Center Boom Is ‘Maxing Out’ P&C Insurers, AIG CEO Says",
+      "originalTitle": "AI Data Center Boom Is ‘Maxing Out’ P&C Insurers, AIG CEO Says",
+      "summary": "American International Group Inc. Chief Executive Officer Eric Andersen said that while the artificial intelligence buildout presents a “great opportunity” for the insurance industry, it’s also pushing property and casualty providers to their limits.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/ai-data-center-boom-is-maxing-out-p-c-insurers-aig-ceo-says",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-11T16:36:54+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/economia/ipca-julho-inflacao-taxa-selic/",
@@ -3534,6 +3655,216 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/natura-faz-mea-culpa-apos-balanco-sem-grandes-surpresas/",
+      "_key": "94edea6cb9498e53f7a12cb5edae86ae",
+      "title": "surpresas",
+      "originalTitle": "surpresas",
+      "summary": "A Natura confirmou os alertas que havia antecipado há cerca de um mês em sua prévia do resultado do segundo trimestre de 2026 ao divulgar o balanço consolidado do período na noite da segunda-feira, 10 de agosto.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/natura-faz-mea-culpa-apos-balanco-sem-grandes-surpresas/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/03/natura-loja-300x169.jpg",
+      "publishedAt": "2026-08-11T17:24:14+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/us-sees-iran-war-oil-supply-disruptions-lasting-through-2027",
+      "_key": "f3f973e1adccf61ec7ea70a629cc79d6",
+      "title": "US Sees Iran War Oil Supply Disruptions Lasting Through 2027",
+      "originalTitle": "US Sees Iran War Oil Supply Disruptions Lasting Through 2027",
+      "summary": "The US now expects oil supply disruptions stemming from the US-Iran war to reach about 600,000 barrels per day through the end of next year as the conflict continues to crimp shipments via the critical Strait of Hormuz.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/us-sees-iran-war-oil-supply-disruptions-lasting-through-2027",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-11T17:08:23+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/tse-se-reune-na-quinta-para-discutir-ia-de-bolsonaro-e-uso-de-deepfake-nas-eleicoes/",
+      "_key": "8a1f82b697b47cca2e18f1f0d200f54e",
+      "title": "TSE se reune na quinta para discutir IA de Bolsonaro e uso de “deepfake” nas eleições",
+      "originalTitle": "TSE se reune na quinta para discutir IA de Bolsonaro e uso de “deepfake” nas eleições",
+      "summary": "Encontro convocado por Nunes Marques deve tratar da representação contra Flávio e o PL e pode orientar a Corte sobre o uso de conteúdos que reproduzem imagem e voz de pessoas The post TSE se reune na quinta para discutir IA de Bolsonaro e uso de “deepfake” nas eleições appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/tse-se-reune-na-quinta-para-discutir-ia-de-bolsonaro-e-uso-de-deepfake-nas-eleicoes/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/julgamento-tse-bolsonaro_mcamgo_abr_30062023-16.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T17:06:02+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/uber-exits-serve-robotics-stake-as-delivery-alliance-unravels",
+      "_key": "3386114074f79406bec44a77a944640f",
+      "title": "Uber Exits Serve Robotics Stake as Delivery Alliance Unravels",
+      "originalTitle": "Uber Exits Serve Robotics Stake as Delivery Alliance Unravels",
+      "summary": "Uber Technologies Inc. has divested from long-time partner Serve Robotics Inc. as the two companies clash over how to deploy delivery robots, the latest setback in Uber’s push to facilitate autonomous services on its platform.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/uber-exits-serve-robotics-stake-as-delivery-alliance-unravels",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-11T17:05:31+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/microsoft-teria-aumentado-preco-do-windows-11-oem-deixando-pcs-mais-caros/",
+      "_key": "c55f5e72695c116c5f3eaf518cdb2116",
+      "title": "Microsoft teria aumentado preço do Windows 11 “OEM”, deixando PCs mais caros",
+      "originalTitle": "Microsoft teria aumentado preço do Windows 11 “OEM”, deixando PCs mais caros",
+      "summary": "Licenças OEM do Windows 11 são aquelas negociadas com os fabricantes. Reajuste vem em um momento em que PCs já estão mais caros por causa da crise das memórias. Microsoft teria aumentado preço do Windows 11 “OEM”, deixando PCs mais caros",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/noticias/microsoft-teria-aumentado-preco-do-windows-11-oem-deixando-pcs-mais-caros/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/03/Asus-Zenbook-A14-Foto-Thassius-Veloso-Tecnoblog-3.jpg",
+      "publishedAt": "2026-08-11T16:48:07+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/som-de-cinema-em-casa-confira-uma-selecao-de-soundbars-em-promocao-na-amazon-2/",
+      "_key": "e6998bc4b0a910c34478737d15eaad1a",
+      "title": "Som de cinema em casa: confira uma seleção de soundbars em promoção na Amazon",
+      "originalTitle": "Som de cinema em casa: confira uma seleção de soundbars em promoção na Amazon",
+      "summary": "Quem busca melhorar a experiência de áudio em casa sem complicação encontrou o momento certo. Reunimos três soundbars em oferta na Amazon — modelos de marcas consagradas, com subwoofer sem fio, tecnologias como Dolby Atmos e conectividade Bluetooth. Confira.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/som-de-cinema-em-casa-confira-uma-selecao-de-soundbars-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/21yPj5NGVgL._SL500_.jpg",
+      "publishedAt": "2026-08-11T16:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/inteligencia-artificial/resumo-de-ia-no-google-pode-virar-atalho-e-deixar-jornais-sem-leitores/",
+      "_key": "0b6863a3c3cec6ee6785f5286fde57c3",
+      "title": "Resumo de IA no Google pode virar atalho e deixar jornais sem leitores",
+      "originalTitle": "Resumo de IA no Google pode virar atalho e deixar jornais sem leitores",
+      "summary": "Jornais franceses questionam o uso de seus conteúdos em resumos de IA do Google e pedem compensação pelo material utilizado O post Resumo de IA no Google pode virar atalho e deixar jornais sem leitores apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/inteligencia-artificial/resumo-de-ia-no-google-pode-virar-atalho-e-deixar-jornais-sem-leitores/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/busca_google-e1769510988782-1024x577.jpg",
+      "publishedAt": "2026-08-11T16:37:33+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/games-e-consoles/halloween-the-game-e-banido-na-australia-e-gera-preocupacao-sobre-gta-6/",
+      "_key": "1663103c8d3ce5dc1307705711355311",
+      "title": "Jogo de Halloween é banido na Austrália e preocupa fãs de GTA 6",
+      "originalTitle": "Jogo de Halloween é banido na Austrália e preocupa fãs de GTA 6",
+      "summary": "Uso de drogas que concedem vantagens ao jogador fez novo game de terror ter sua classificação negada; decisão reacendeu dúvidas sobre como GTA 6 será tratado no país O post Jogo de Halloween é banido na Austrália e preocupa fãs de GTA 6 apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/games-e-consoles/halloween-the-game-e-banido-na-australia-e-gera-preocupacao-sobre-gta-6/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/Halloween-The-Game-Bloody-Disgusting.webp",
+      "publishedAt": "2026-08-11T16:33:11+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/auxilio-doenca-inss.ghtml",
+      "_key": "fc8193f6aaccba7e3cfc5391dd3a133f",
+      "title": "Auxílio-doença: veja quem tem direito, como pedir e quais documentos apresentar",
+      "originalTitle": "Auxílio-doença: veja quem tem direito, como pedir e quais documentos apresentar",
+      "summary": "contribuições ao INSS. Desde julho, a gestação de alto risco passou a integrar a relação de situações que permitem o acesso ao benefício sem o cumprimento desse prazo. Com a mudança, o número de doenças e condições que dispensam a carência subiu para 18.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/auxilio-doenca-inss.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/gkyZgh2GY2BhTHD4Z9vG8n_jJR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/w/4/Aq3ewNRl6RMpT5BzFGcg/globo-canal-5-20241122-1800-frame-276008.jpeg",
+      "publishedAt": "2026-08-11T16:29:50+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/som-potente-no-bolso-selecao-de-caixas-de-som-bluetooth-em-promocao-na-amazon/",
+      "_key": "34c53f1089a5b88bcb519b95783889b4",
+      "title": "Som potente no bolso: seleção de caixas de som Bluetooth em promoção na Amazon",
+      "originalTitle": "Som potente no bolso: seleção de caixas de som Bluetooth em promoção na Amazon",
+      "summary": "Quem busca qualidade sonora aliada à praticidade encontrou o momento certo para agir. Reunimos três opções de caixas de som Bluetooth em promoção na Amazon — do compacto ao robusto, com resistência à água, bateria duradoura e conectividade moderna.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/som-potente-no-bolso-selecao-de-caixas-de-som-bluetooth-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41JzCA9ATQL._SL500_.jpg",
+      "publishedAt": "2026-08-11T16:20:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/business/global/entenda-como-trump-usou-conteiner-de-catering-para-sair-da-turquia-apos-ameaca-do-ira/",
@@ -5908,6 +6239,90 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale",
+      "_key": "6152aae94ea25557560316b5479e4b9b",
+      "title": "now",
+      "originalTitle": "now",
+      "summary": "Looking for great pair of earbuds that work particularly well with Android phones? The Google Pixel Buds 2a are currently discounted to $99 (usually $129) at various retailers, including Amazon, Best Buy, and directly from Google.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Buds-2a-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-11T17:31:06+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "_key": "632279ad4ec915f287b6f5af1e715107",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "originalTitle": "Made by Google 2026: all the Pixel news and announcements",
+      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-11T17:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "_key": "f2b81aec6387d5bc63cd9435c60c405e",
+      "title": "deepfakes",
+      "originalTitle": "deepfakes",
+      "summary": "camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-11T16:19:15+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/quer-jogar-com-mais-imersao-confira-headsets-gamer-em-promocao-na-amazon-5/",
+      "_key": "eebb2f8ca06ad81a1524bf5e2e84d3c2",
+      "title": "Quer jogar com mais imersão? Confira headsets gamer em promoção na Amazon",
+      "originalTitle": "Quer jogar com mais imersão? Confira headsets gamer em promoção na Amazon",
+      "summary": "Seja para competir online, se comunicar com a equipe ou simplesmente mergulhar de cabeça no jogo, um bom headset faz toda a diferença. Separamos três opções de headsets gamer que estão em oferta agora na Amazon — com modelos para diferentes perfis de jogadores e bolsos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/quer-jogar-com-mais-imersao-confira-headsets-gamer-em-promocao-na-amazon-5/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41j1S82Wg8L._SL500_.jpg",
+      "publishedAt": "2026-08-11T16:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/quer-mais-velocidade-no-pc-confira-uma-selecao-de-ssds-em-promocao-na-amazon-6/",
