@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T20:29:31.921412+00:00",
+  "updatedAt": "2026-08-11T13:44:10.439195+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -190,6 +190,24 @@
   ],
   "articles": [
     {
+      "id": "Brazil Journal-https://braziljournal.com/de-go-local-a-go-global-a-ai-esta-ampliando-a-ambicao-das-startups/",
+      "_key": "8241cf18316b849a5be06a802d91422f",
+      "title": "De ‘go local’ a ‘go global’. A AI está ampliando a ambição das startups",
+      "summary": "Brian Requarth vendeu o marketplace de imóveis Viva Real para a OLX Brasil em 2020 por R$ 2,9 bilhões. Meses depois, fundou a Latitud Ventures – um fundo de venture capital para ser o “primeiro cheque” de startups latino-americanas.",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/de-go-local-a-go-global-a-ai-esta-ampliando-a-ambicao-das-startups/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/08-11-Brian-Requarth-ok-237x300.jpg?x40941",
+      "publishedAt": "2026-08-11T09:50:48+00:00",
+      "score": 68,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/10/investimento-circular-como-o-dinheiro-gira-entre-gigantes-de-ia-e-alimenta-temor-de-nova-bolha.ghtml",
       "_key": "f43aafe47431bec3e9f46f64f11dc4ee",
       "title": "'Investimento circular': como o dinheiro gira entre gigantes de IA e alimenta temor de nova bolha",
@@ -222,6 +240,24 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Crunchbase News"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/negocios/inteligencia-artificial/gama-fund-de-google-e-monashees-estende-prazo-de-inscricoes/",
+      "_key": "5dec9808419656a8177652e38680aa23",
+      "title": "Gama Fund, de Google e Monashees, estende prazo de inscrições",
+      "summary": "Google (Imagem: RYO Alexandre/Shutterstock) Fundo já recebeu 600 startups interessadas nos cheques de US$ 2 milhões; foco são empresas AI-native early stage O post Gama Fund, de Google e Monashees, estende prazo de inscrições apareceu primeiro em Startups .",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/negocios/inteligencia-artificial/gama-fund-de-google-e-monashees-estende-prazo-de-inscricoes/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "image": "https://startups.com.br/wp-content/uploads/2026/01/Google-Shutterstock.jpg",
+      "publishedAt": "2026-08-11T12:57:56+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
       ],
       "coverageCount": 1
     },
@@ -294,6 +330,42 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol",
+      "_key": "10fde6c88d6f6a28db691aa167ea35df",
+      "title": "Joby flexes military muscle with $500 million defense acquisition",
+      "summary": "Joby Aviation announced it was acquiring Dayton, Ohio-based defense firm Resonant Sciences in a $500 million deal, in a bid by the electric aircraft company to expand further into the military industrial complex.",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol",
+      "source": "The Verge",
+      "region": "Internacional",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC01507.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-11T12:00:00+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/dinheiro-esquecido-bc-atualiza-balanco-e-diz-que-r-51-bilhoes-podem-ser-resgatados-2266-milhoes-de-pessoas-tem-direito.ghtml",
+      "_key": "d5027985378481a9c72e3d1990ed3652",
+      "title": "'Dinheiro esquecido': BC atualiza balanço e diz que R$ 5,1 bilhões podem ser resgatados; 22,66 milhões de pessoas têm direito",
+      "summary": "O Banco Central (BC) atualizou os dados e informou nesta terça-feira (11) que ainda existem, nas instituições financeiras, R$ 5,12 bilhões em \"recursos esquecidos\" pelos clientes. O balanço considera valores contabilizados até junho deste ano.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/dinheiro-esquecido-bc-atualiza-balanco-e-diz-que-r-51-bilhoes-podem-ser-resgatados-2266-milhoes-de-pessoas-tem-direito.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/V7uKJ7K0ogi3tOM0sEJIlBujADo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Z/uUFBmGQYOkiUHnBgSATg/73cc1fd0-8430-11f1-bee8-53ce494e1abc.jpg",
+      "publishedAt": "2026-08-11T11:48:30+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
       ],
       "coverageCount": 1
     },
@@ -491,6 +563,24 @@
       "summaryMethod": "regra"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/carlos-bolsonaro-declara-patrimonio-de-r-278-milhoes-ao-tse-para-disputa-ao-senado/",
+      "_key": "27863fcdeb6bd0a5818122fc3666a1c9",
+      "title": "Carlos Bolsonaro declara patrimônio de R$ 2,78 milhões ao TSE para disputa ao Senado",
+      "summary": "Candidato ao Senado por Santa Catarina concentra a maior parcela dos bens em investimentos e também declarou participação em duas empresas The post Carlos Bolsonaro declara patrimônio de R$ 2,78 milhões ao TSE para disputa ao Senado appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/carlos-bolsonaro-declara-patrimonio-de-r-278-milhoes-ao-tse-para-disputa-ao-senado/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/54966212926_03db92b122_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T13:26:03+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startups.com.br-https://startups.com.br/negocios/venture-capital/boom-da-ia-mascara-crise-de-retornos-no-venture-capital-mostra-pitchbook/",
       "title": "Boom da IA mascara crise de retornos no venture capital, mostra PitchBook",
       "summary": "papel\", enquanto distribuições de capital seguem abaixo da média",
@@ -507,6 +597,42 @@
       "coverageCount": 1,
       "_key": "2142282ad15a85297c6787b160b986b5",
       "summaryMethod": "regra"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/economia/ata-do-copom-agosto-2026-mercado-futuro-selic/",
+      "_key": "0da29e34cc8c1c9d9697ecbb9910cf8c",
+      "title": "Ata do Copom: Risco fiscal e inflação dividem mercado sobre novos cortes na Selic",
+      "summary": "Com o Banco Central dividido entre a desinflação em curso e as incertezas fiscais, economistas debatem se o ciclo de cortes da Selic vai continuar ou estacionar nos 14% The post Ata do Copom: Risco fiscal e inflação dividem mercado sobre novos cortes na Selic appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/economia/ata-do-copom-agosto-2026-mercado-futuro-selic/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-27T220544Z_1_LYNXNPEL1Q0XS_RTROPTP_4_BACEN-FISCAL-DEZEMBRO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T13:27:44+00:00",
+      "score": 45,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/bc-ve-inflacao-desacelerando-mas-ve-pressao-do-petroleo-e-de-gastos-publicos-porta-fica-aberta-para-proxima-decisao.ghtml",
+      "_key": "4fd36c1c2e4fcb88f460f79d38823e2c",
+      "title": "BC vê inflação desacelerando, mas aponta pressão do petróleo e de gastos públicos",
+      "summary": "Selic: Copom reduz taxa básica de juros para 14% ao ano O Banco Central observou nesta terça-feira (11) que a inflação para os consumidores desacelerou nos últimos meses, embora ainda permaneça acima da meta, e apontou que há pressão dos gastos públicos (estimulando a demanda) e de choques de oferta, como a alta do petróleo — decorrente da guerra no Oriente Médio.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/bc-ve-inflacao-desacelerando-mas-ve-pressao-do-petroleo-e-de-gastos-publicos-porta-fica-aberta-para-proxima-decisao.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/3awwhN6Cj__nqfP-6jfq38z5PCY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/j/nt1vKFRAAqiYIGneP7ow/globo-canal-5-20260710-2000-frame-69824.jpeg",
+      "publishedAt": "2026-08-11T11:07:29+00:00",
+      "score": 45,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/para-o-fed-de-st-louis-ai-nao-garante-inflacao-menor-e-o-fed-precisa-apertar/",
@@ -602,6 +728,24 @@
       "summaryMethod": "regra"
     },
     {
+      "id": "G1 Economia-https://g1.globo.com/es/espirito-santo/noticia/2026/08/11/crise-na-apex-posso-perder-dinheiro-entenda-o-que-se-sabe-sobre-divida-de-quase-r-1-bi-e-o-impacto-para-clientes.ghtml",
+      "_key": "c6dfb8816188a843ba8cc5ca82a12920",
+      "title": "Crise na Apex: posso perder dinheiro? Entenda o que se sabe sobre dívida de quase R$ 1 bi e o impacto para clientes",
+      "summary": "Auditoria vai apurar crise na Apex A Apex Partners, plataforma de investimentos do Espírito Santo, enfrenta uma crise após uma investigação interna apontar \"inconsistências financeiras\" na empresa.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/11/crise-na-apex-posso-perder-dinheiro-entenda-o-que-se-sabe-sobre-divida-de-quase-r-1-bi-e-o-impacto-para-clientes.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/MCLxQlPEI79orntkd0u7clqQNVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/w/uZdkcyR7SKRgrmg5ZTWg/thumb-fotos-2026-08-08t095427.323.jpg",
+      "publishedAt": "2026-08-11T07:01:18+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startupi-https://startupi.com.br/openai-sobe-barreira-para-enfrentar-um-novo-inimigo-ela-mesma/",
       "_key": "bfa0081077c7ebd98de53afdbb27b4e9",
       "title": "OpenAI sobe barreira para enfrentar um novo inimigo: ela mesma",
@@ -669,6 +813,24 @@
       "coverageCount": 3,
       "_key": "e10ef6eefaa4bd99e65b38f8c0cda72e",
       "summaryMethod": "regra"
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/dolar-ibovespa.ghtml",
+      "_key": "b5bc1b4ee0ad5dfe36a36a753bf43152",
+      "title": "Dólar abre em queda, de olho em inflação e ata do Copom",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta terça-feira (11) em queda, com um recuo de 0,10% perto das 9h, cotado a R$ 5,1053. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/dolar-ibovespa.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/9Nox_bbbmGyxR3BOJXDd71OGVmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/d/z/vFoW5MRSmwxWJBILyNcQ/muitas-notas-de-dolares-dos-eua.jpg",
+      "publishedAt": "2026-08-11T12:00:09+00:00",
+      "score": 42,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/uber-supera-estimativas-no-segundo-trimestre/",
@@ -753,6 +915,78 @@
       "coverageCount": 2,
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra"
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/df/distrito-federal/noticia/2026/08/11/fgc-emprestimo-brb.ghtml",
+      "_key": "60a40a5763c7f1eeb955527bc49e86b0",
+      "title": "FGC diz que ainda não recebeu todas as informações necessárias para analisar empréstimo pedido pelo BRB",
+      "summary": "Fachada do banco BRB. Reprodução/TV Globo O Fundo Garantidor de Crédito (FGC) afirmou, em documento enviado ao Supremo Tribunal Federal (STF), que ainda não recebeu todas as informações necessárias para analisar a operação de empréstimo pedida pelo Banco de Brasília (BRB).",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/11/fgc-emprestimo-brb.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/6yZlpYs-zrahjtLoNFxE3cM4Vyk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/V/Rne3I7SJC8FQJYtn0rvg/captura-de-tela-2026-04-25-204321.png",
+      "publishedAt": "2026-08-11T11:15:57+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees/",
+      "_key": "3402f6c5f06873fa4674784a6bab406d",
+      "title": "The VC Firm That Helped Build Latin America’s Startup Scene Is Crossing Into Silicon Valley",
+      "summary": "Monashees, one of Latin America's oldest and most influential VC firms, believes the next phase of the region's startup ecosystem requires a permanent Silicon Valley presence, opening a San Francisco office last year.",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "image": "https://news.crunchbase.com/wp-content/uploads/2021/02/California_.jpg",
+      "publishedAt": "2026-08-11T11:00:59+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/a-embraer-da-floresta-uma-historia-de-potencia-empreendedora-no-coracao-da-amazonia/",
+      "_key": "329ff74a951d69423eb0bf3269942f23",
+      "title": "A Embraer da floresta, uma história de potência empreendedora no coração da Amazônia",
+      "summary": "Startupi A Embraer da floresta, uma história de potência empreendedora no coração da Amazônia “Voadeiro” da AeroRiver promete reduzir a viagem Manaus–Parintins de 10 para 3 horas — e abrir uma nova lógica de mobilidade na floresta.",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/a-embraer-da-floresta-uma-historia-de-potencia-empreendedora-no-coracao-da-amazonia/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/aeroriver.jpg",
+      "publishedAt": "2026-08-11T08:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/a-ultima-milha-das-startups-o-que-a-guerra-dos-galpoes-revela-sobre-o-proximo-ciclo-de-inovacao-no-brasil/",
+      "_key": "30be8565c7d951c794b5edb82d1f6ba8",
+      "title": "A última milha das startups: o que a guerra dos galpões revela sobre o próximo ciclo de inovação no Brasil",
+      "summary": "Startupi A última milha das startups: o que a guerra dos galpões revela sobre o próximo ciclo de inovação no Brasil Com vacância em mínimos históricos e frete representando até 60% da operação, a disputa por infraestrutura logística entre gigantes do e-commerce abre um mapa de oportunidades para startups de logística, automação, ESG e dados — e redefine o que significa resolver problemas reais no varejo.",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/a-ultima-milha-das-startups-o-que-a-guerra-dos-galpoes-revela-sobre-o-proximo-ciclo-de-inovacao-no-brasil/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/galpap-logistico.jpg",
+      "publishedAt": "2026-08-11T08:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/venda-de-remedios-nos-marketplaces-fica-mais-perto-qual-o-impacto-nas-farmacias/",
@@ -1123,6 +1357,96 @@
       "summaryMethod": "regra"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-11082026/",
+      "_key": "a55e6212b17b22654a2b1462ed48bc4b",
+      "title": "Renda Fixa Hoje: as taxas de CDBs, LCIs e LCAs na XP nesta terça-feira (11)",
+      "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: as taxas de CDBs, LCIs e LCAs na XP nesta terça-feira (11) appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-11082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/daniel-dan-ZbMuzk8iJAI-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T13:27:14+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/exportacoes-do-brasil-aos-eua-caem-122percent-no-ano-e-atingem-menor-nivel-em-3-anos.ghtml",
+      "_key": "05bfaecb8573f1994ddcf42486575868",
+      "title": "Exportações do Brasil aos EUA caem 12,2% no ano e atingem menor nível em 3 anos para o período",
+      "summary": "Tarifaço americano: Brasil calcula que medida atinge 18% das exportações pros EUA As exportações brasileiras para os Estados Unidos somaram US$ 21 bilhões entre janeiro e julho de 2026, queda de 12,2% na comparação com o mesmo período do ano passado.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/exportacoes-do-brasil-aos-eua-caem-122percent-no-ano-e-atingem-menor-nivel-em-3-anos.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/Y5OUBctDA60pvQ47Y6qiCNV63BI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/C/yRvQeGSj6mhcurnHfH7g/78090845-1004.webp",
+      "publishedAt": "2026-08-11T13:18:19+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/btg-pactual-bate-estimativas-do-mercado-e-alcanca-lucro-recorde-de-r-51-bilhoes/",
+      "_key": "ed27633ce571824192c238fba7b122e0",
+      "title": "BTG Pactual bate estimativas do mercado e alcança lucro recorde de R$ 5,1 bilhões",
+      "summary": "Num período marcado por um cenário geopolítico e macroeconômico doméstico incerto e volátil, situação que não parece que irá se dissipar tão cedo, o BTG Pactual fechou o segundo trimestre batendo recorde nas linhas de lucro e receita.",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/btg-pactual-bate-estimativas-do-mercado-e-alcanca-lucro-recorde-de-r-51-bilhoes/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "image": "https://neofeed.com.br/wp-content/uploads/2024/02/btg-pactual-300x169.webp",
+      "publishedAt": "2026-08-11T09:33:55+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/investimento-em-saneamento-basico-bate-recorde-em-2024-mas-brasil-ainda-enfrenta-desafios-para-universalizar-acesso-diz-entidade.ghtml",
+      "_key": "21809fc891e87ee762c538520bbef0b4",
+      "title": "Investimento em saneamento básico bate recorde em 2024, mas Brasil ainda enfrenta desafios para universalizar acesso, diz entidade",
+      "summary": "Apesar de o setor de saneamento básico ter registrado, pelo terceiro ano consecutivo, recorde de investimentos, o Brasil ainda enfrenta desafios para universalizar o acesso aos serviços de saneamento.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/investimento-em-saneamento-basico-bate-recorde-em-2024-mas-brasil-ainda-enfrenta-desafios-para-universalizar-acesso-diz-entidade.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/fvBRBn9ietl2HS3bSlIklXQ6BYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/T/r5NdFASU6hw4vudfw9tg/captura-de-tela-2026-01-04-225255.png",
+      "publishedAt": "2026-08-11T03:00:38+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/loterias/mega-sena/noticia/2026/08/11/mega-sena-pode-pagar-premio-de-r-35-milhoes-nesta-terca-feira-acompanhe-ao-vivo.ghtml",
+      "_key": "9ba89f0e5629c93e76a44283a7149c0d",
+      "title": "Mega-Sena pode pagar prêmio de R$ 3,5 milhões nesta terça-feira; acompanhe ao vivo",
+      "summary": "Como funciona a Mega-Sena? O concurso 3.043 da Mega-Sena pode pagar um prêmio de R$ 3,5 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta terça-feira (11), em São Paulo.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/11/mega-sena-pode-pagar-premio-de-r-35-milhoes-nesta-terca-feira-acompanhe-ao-vivo.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/ta-_PCbXeOCvNKWb9Sx3SZHdMBI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/5/MJd3u6SCGT2G7x4M0U5A/captura-de-tela-2026-07-16-205336.png",
+      "publishedAt": "2026-08-11T03:00:34+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/10/ciencia-e-espaco/quando-tera-um-eclipse-solar-total-visivel-no-brasil/",
       "_key": "715523f6ca3e2abd4b14efb1f444735a",
       "title": "Quando terá um eclipse solar total visível no Brasil?",
@@ -1403,6 +1727,168 @@
       "coverageCount": 1,
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra"
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights",
+      "_key": "bcd99875834407cb4443c0ba03ba9152",
+      "title": "LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips — and it's open weights",
+      "summary": "LTX , the open world model company spun out of Lightricks, today released LTX-2.5, the newest version of its open-weights video and world model and it arrives natively integrated into ComfyUI , the node-based workflow tool that has become the de facto prototyping environment for open generative media, through a strategic day-one launch partnership between the two companies.",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/W3t8pOZ5akOZxRtoey9OE/a8fd8f9856ffbbd478a4108f7312c5e7/ChatGPT_Image_Aug_10__2026__10_06_12_PM.png?w=300&q=30",
+      "publishedAt": "2026-08-11T13:00:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/ipca-inflacao-julho.ghtml",
+      "_key": "993b44e132157b58904984ef6856114c",
+      "title": "IPCA: Inflação desacelera para 0,07% em julho com queda nos preços dos alimentos",
+      "summary": "IPCA desacelera a 0,07% em julho O Índice Nacional de Preços ao Consumidor Amplo (IPCA), considerado a inflação oficial do país, subiu 0,07% em julho, segundo dados divulgados nesta terça-feira (11) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/ipca-inflacao-julho.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/iRn3ZXT0i-HlJrhwbj_sTBuMSWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/Z/2OvfDbT2mqL8FQTdy4UQ/2026-08-11t120847z-1-lynxmpem7a0uk-rtroptp-4-brazil-economy-inflation.jpg",
+      "publishedAt": "2026-08-11T12:00:40+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/brics-discutem-integracao-de-sistemas-de-pagamento-e-moedas-digitais-diz-presidente-do-bc-da-india.ghtml",
+      "_key": "bf5921b2201555b344a0ef0cf21cfea6",
+      "title": "Brics discutem integração de sistemas de pagamento e moedas digitais, diz presidente do BC da Índia",
+      "summary": "BC trabalha em PIX Internacional e em garantia e prepara novas regras contra golpes e mensagens inde Os países do Brics discutem formas de integrar seus sistemas de pagamentos rápidos e as moedas digitais emitidas por bancos centrais, afirmou nesta terça-feira (11) o presidente do Banco Central da Índia, Sanjay Malhotra.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/brics-discutem-integracao-de-sistemas-de-pagamento-e-moedas-digitais-diz-presidente-do-bc-da-india.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/LzT52WNYxOjbKpbS7xBAVSMp4vU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/b/7/UL1KvQTFKmrxPipzXROw/06familia2-copiar.jpg",
+      "publishedAt": "2026-08-11T11:54:20+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/noruega-tambem-vai-deixar-de-comprar-carne-do-brasil-a-partir-de-setembro-apos-decisao-da-ue.ghtml",
+      "_key": "c053f43708a0377775d37e0b1b5c4c4d",
+      "title": "Noruega também vai deixar de comprar carne do Brasil a partir de setembro após decisão da UE",
+      "summary": "Imagem ilustrativa de carne bovina. Cindie Hansen/Unplash Após a União Europeia, a Noruega também decidiu que deixará de comprar produtos de origem de animal do Brasil a partir de 3 de setembro. O país nórdico não faz parte da UE, mas seguirá a decisão do bloco.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/noruega-tambem-vai-deixar-de-comprar-carne-do-brasil-a-partir-de-setembro-apos-decisao-da-ue.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/Rz6CsLNUf4LOCW8kuDfQURAm52M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/2/0SbRBjRDq2vkw5Yx7LWA/cindie-hansen-cvj-7tzjva0-unsplash.jpg",
+      "publishedAt": "2026-08-11T11:28:41+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "_key": "b50361bc49f2019218731878347bc97d",
+      "title": "The AI takeover of mathematics has begun",
+      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI.",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "source": "The Verge",
+      "region": "Internacional",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-11T11:00:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/sucessao-na-jbs-marca-volta-da-familia-batista-ao-comando-diz-financial-times.ghtml",
+      "_key": "97cf570d9e838ffb4edbd13c313e3ab8",
+      "title": "Sucessão na JBS marca volta da família Batista ao comando, diz Financial Times",
+      "summary": "Unidade de empacotamento da JBS em Greeley, no estado americano do Colorado Shannon Stapleton/Reuters Uma reportagem publicada nesta terça-feira (11/8) no Financial Times, um dos mais prestigiosos periódicos de economia, destacou uma mudança em curso na JBS, a maior processadora de carne do mundo: a ascensão de Wesley Batista Filho, de 34 anos, ao comando da empresa.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/sucessao-na-jbs-marca-volta-da-familia-batista-ao-comando-diz-financial-times.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/Pf4Xl1HAou9-ljoiV3buI5r0xVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/z/ehVwszQRuGTctJyJgAuw/2025-12-12t181522z-1-lynxmpelbb115-rtroptp-4-brazil-jbs.jpg",
+      "publishedAt": "2026-08-11T10:18:23+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/economia/ipca-desacelera-para-007-em-julho-com-queda-dos-precos-dos-alimentos/",
+      "_key": "b5f93495075f0de2611c0811ce619675",
+      "title": "IPCA desacelera para 0,07% em julho com queda dos preços dos alimentos",
+      "summary": "Conta de luz subiu 3,09% e pressionou a inflação, mas quedas de tomate, batata e combustíveis ajudaram a conter o índice no mês. IPCA nos últimos 12 meses segue acima do teto da meta do Banco Central",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/economia/ipca-desacelera-para-007-em-julho-com-queda-dos-precos-dos-alimentos/",
+      "source": "Exame",
+      "region": "Brasil",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/07/8782.jpg",
+      "publishedAt": "2026-08-11T09:07:19+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
+      "_key": "f5f5b951f9f5aecbfb2599a55190a374",
+      "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
+      "summary": "Earlier today, OpenAI launched GPT-5.6-Cyber , a specialized model designed to perform advanced vulnerability research and exploit development for approved defenders — including categories of work that its general-purpose models will often refuse.",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1vFvZadzVgpBpKJvEUCDS9/e9b912eb53c0fda59b01e8676b3613b3/ChatGPT_Image_Aug_10__2026__07_36_04_PM.png?w=300&q=30",
+      "publishedAt": "2026-08-10T23:53:23+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/jbs-anuncia-wesley-batista-filho-como-novo-ceo-global-e-ja-mira-o-sp-400/",
+      "_key": "504dab10b6fbbc6c33fe97750b14ff3c",
+      "title": "JBS anuncia Wesley Batista Filho como novo CEO global e já mira o S&P 400",
+      "summary": "Prestes a completar, em dezembro, oito anos à frente das operações globais da JBS, Gilberto Tomazoni vai deixar o comando da companhia. E o grupo decidiu buscar em casa – literalmente &#8211; o nome do seu substituto.",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/jbs-anuncia-wesley-batista-filho-como-novo-ceo-global-e-ja-mira-o-sp-400/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/jbs-wesley-batista-filho-gilberto-tomazoni-300x169.jpg",
+      "publishedAt": "2026-08-10T21:02:10+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/10/youtube-dobra-exigencia-de-horas-de-exibicao-para-novos-criadores-comecarem-a-ganhar-dinheiro-com-videos-na-plataforma.ghtml",
@@ -1733,6 +2219,456 @@
       "summaryMethod": "regra"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/tesouro-direto-taxas-sobem-com-ipca-mais-forte-e-novo-alerta-do-bc/",
+      "_key": "8e673b3cbcdfe02d878e35cfe7183c6a",
+      "title": "Tesouro Direto: taxas sobem com IPCA mais forte e novo alerta do BC",
+      "summary": "IPCA de julho subiu 0,07%, acima da expectativa de 0,03%; BC afirma que reagirá \"com firmeza\" a efeitos de segunda ordem de choques de oferta, mesmo após cortar a Selic para 14% na semana passada The post Tesouro Direto: taxas sobem com IPCA mais forte e novo alerta do BC appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-taxas-sobem-com-ipca-mais-forte-e-novo-alerta-do-bc/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/inflacao-supermercado-alimentos.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T13:41:49+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/quaest-um-em-cada-cinco-eleitores-decide-voto-para-presidente-so-na-ultima-semana/",
+      "_key": "9738a5aea6364fa3efb05474a06ca33f",
+      "title": "Quaest: Um em cada cinco eleitores decide voto para presidente só na última semana,",
+      "summary": "Pesquisa mostra que 10% escolhem o candidato a presidente no próprio dia da votação; entre independentes, decisão tende a ocorrer mais tarde The post Quaest: Um em cada cinco eleitores decide voto para presidente só na última semana, appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/quaest-um-em-cada-cinco-eleitores-decide-voto-para-presidente-so-na-ultima-semana/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/09/cropped-2-ao-vivo-domingo-urna.jpg?fit=225%2C300&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T13:36:40+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/economia/producao-industrial-sobe-em-8-dos-18-locais-pesquisados-em-junho-diz-ibge/",
+      "_key": "36cf1928916399ecd8709609dd49bcb8",
+      "title": "Produção industrial sobe em 8 dos 18 locais pesquisados em junho, diz IBGE",
+      "summary": "Em São Paulo, maior parque industrial do País, houve uma queda de 0,9% The post Produção industrial sobe em 8 dos 18 locais pesquisados em junho, diz IBGE appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/economia/producao-industrial-sobe-em-8-dos-18-locais-pesquisados-em-junho-diz-ibge/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-26T122231Z_1_LYNXMPEM1P0T4_RTROPTP_4_BYD-BRAZIL.jpg?fit=300%2C168&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T13:31:12+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/flavio-cobra-apoio-de-campagnolo-a-carlos-bolsonaro-e-expoe-tensao-no-pl-de-sc/",
+      "_key": "115cdcc424b8c628e46f1ea1998da367",
+      "title": "Flávio cobra apoio de Campagnolo a Carlos Bolsonaro e expõe tensão no PL de SC",
+      "summary": "Senador pediu que deputada grave vídeo em apoio ao irmão ou deixe de usar imagens da família Bolsonaro The post Flávio cobra apoio de Campagnolo a Carlos Bolsonaro e expõe tensão no PL de SC appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/flavio-cobra-apoio-de-campagnolo-a-carlos-bolsonaro-e-expoe-tensao-no-pl-de-sc/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-24T130234Z_204898995_RC20NIAA5ZZH_RTRMADP_3_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T13:05:38+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt",
+      "_key": "5e9bf55fcf2f2648730155ba03ca9b7d",
+      "title": "Your AI agent may be ready. Your sales motion probably isn’t.",
+      "summary": "Presented by Salesforce Interested buyers don&#x27;t generate revenue. Live customers do. That&#x27;s the lesson I keep drawing from watching hundreds of ISV partnerships navigate the agent economy over the last 18 months. The companies pulling ahead aren&#x27;t winning on features.",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5E1nBeQY6cEONX6MsUYste/80a5c3946c1855b768c3bb213c527722/Digital_head_trajectory.png?w=300&q=30",
+      "publishedAt": "2026-08-11T13:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/depois-do-foie-gras-quais-praticas-de-criacao-e-abate-de-animais-podem-ser-proibidas.ghtml",
+      "_key": "1c600af4d5a6c02c248e1a57a36da91d",
+      "title": "Depois do foie gras, quais práticas de criação e abate de animais podem ser proibidas?",
+      "summary": "Brasil é o segundo país a proibir produção e comércio de foie gras Brasil proibiu a alimentação forçada de patos e gansos, mas mantém práticas como o descarte de pintinhos machos, o abate de vacas grávidas e o confinamento em gaiolas.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/depois-do-foie-gras-quais-praticas-de-criacao-e-abate-de-animais-podem-ser-proibidas.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/FOxvpZ0LvpZ4O9IVYq9NIR4H8z0=/s.glbimg.com/jo/g1/f/original/2017/06/23/pintinhos.jpg",
+      "publishedAt": "2026-08-11T12:39:19+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/internet-e-redes-sociais/redes-sociais-terao-prazo-para-mostrar-como-protegem-criancas/",
+      "_key": "88827ddabbd7cc05cc4e929573ae6c91",
+      "title": "Redes sociais terão prazo para mostrar como protegem crianças",
+      "summary": "ECA Digital exige relatórios semestrais de redes sociais sobre denúncias, contas infantis e medidas de proteção a menores O post Redes sociais terão prazo para mostrar como protegem crianças apareceu primeiro em Olhar Digital .",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/internet-e-redes-sociais/redes-sociais-terao-prazo-para-mostrar-como-protegem-criancas/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/adolescentes_smartphone-1024x673.jpg",
+      "publishedAt": "2026-08-11T12:19:56+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/bloomberg-brief-08-11-2026-video",
+      "_key": "59dd094f1b4e533a69dded6dd1865614",
+      "title": "Bonds Slide Amid Inflation Concerns as Oil Rises on Hormuz Deal Outlook | Bloomberg Brief 08/11/2026",
+      "summary": "Treasuries fall and US equity futures waver as rising oil prices stoke inflation fears. President Trump hardens his stance toward Iran with new demands, clouding the prospect of an immediate agreement on the Strait of Hormuz.",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-11/bloomberg-brief-08-11-2026-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-11T12:10:26+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/carros/noticia/2026/08/11/ford-do-brasil-adianta-recall-do-mustang.ghtml",
+      "_key": "ec1ef252c09a41a04ff76f935708e7d2",
+      "title": "Ford do Brasil adianta a inspeção por recall de 1.371 unidades do Mustang",
+      "summary": "Ford Mustang GT Divulgação / Ford A Ford do Brasil havia anunciado em 21 de julho um recall para o Mustang por falha nos limpadores do para-brisa. Os modelos envolvidos foram fabricados entre 2024 e 2026.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/11/ford-do-brasil-adianta-recall-do-mustang.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/odS03ps3shGTuYMaqTku9FfGSYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/A/BnhRMgRz6vc3Ri99A96A/lancamento-ford-mustang-de-setima-geracao-no-brasil-001.jpg",
+      "publishedAt": "2026-08-11T11:48:58+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/esta-bicicleta-eletrica-usa-pneus-largos-para-encarar-a-cidade/",
+      "_key": "c384c95a1add60dcf46e1ec53dbbbae5",
+      "title": "Esta bicicleta elétrica usa pneus largos para encarar a cidade",
+      "summary": "Fat bike elétrica Batch eFT.3 combina pneus largos, motor de 750 W, suspensão e assistência ao pedal de até 45 km/h nas ruas O post Esta bicicleta elétrica usa pneus largos para encarar a cidade apareceu primeiro em Olhar Digital .",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/esta-bicicleta-eletrica-usa-pneus-largos-para-encarar-a-cidade/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/bicicleta-eletrica-eft-3-1-1024x682.webp",
+      "publishedAt": "2026-08-11T11:35:49+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/hora-de-renovar-a-sala-selecao-de-tvs-oled-e-qled-samsung-em-promocao-na-amazon/",
+      "_key": "f9b325e1356dd84392e8bb7f682d3b61",
+      "title": "Hora de renovar a sala: seleção de TVs OLED e QLED Samsung em promoção na Amazon",
+      "summary": "Se você está de olho em uma TV com imagem de qualidade e tecnologia de ponta, a Amazon reuniu algumas das melhores opções da linha Samsung em oferta agora mesmo. A seleção inclui três modelos — do QLED Full HD ao OLED 4K — para diferentes bolsos e necessidades.",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/hora-de-renovar-a-sala-selecao-de-tvs-oled-e-qled-samsung-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "image": "https://m.media-amazon.com/images/I/418Y-M7w6FL._SL500_.jpg",
+      "publishedAt": "2026-08-11T11:20:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/colombia-quake-levels-buildings-sparks-survivor-search-video",
+      "_key": "cb058a75423cbfb92e9944a80cec3031",
+      "title": "Colombia Quake Levels Buildings, Sparks Survivor Search",
+      "summary": "A magnitude 7.4 earthquake shook western Colombia on Monday, reducing buildings to rubble, sending residents into the streets and setting off a desperate search for people trapped under the debris. (Source: Bloomberg)",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-11/colombia-quake-levels-buildings-sparks-survivor-search-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-11T11:12:51+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Wired-https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+      "_key": "0fa2653b76e072eac175faeb0a76c9c5",
+      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+      "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
+      "summaryMethod": "regra",
+      "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+      "source": "Wired",
+      "region": "Internacional",
+      "image": "https://media.wired.com/photos/6a7a6916b0493fdce2877f53/master/pass/Distilling-AI-More-Complicated-Than-You-Think-Business.jpg",
+      "publishedAt": "2026-08-11T11:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Wired"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/india-s-retail-traders-lost-9-6-billion-in-equity-derivatives",
+      "_key": "d4d07681df62ccafe92386908bf0a5d3",
+      "title": "India’s Small Traders Lose $9.6 Billion in Options Despite Curbs",
+      "summary": "Individuals in India lost 916.85 billion rupees ($9.6 billion) buying and selling equity futures and options in the year ended March, down from 1.1 trillion rupees a year earlier, the government told lawmakers on Tuesday.",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-retail-traders-lost-9-6-billion-in-equity-derivatives",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-11T10:37:26+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/11/eca-digital-redes-sociais-deverao-abrir-dados-sobre-denuncias-de-violacoes-contra-menores.ghtml",
+      "_key": "73c047cd5bba84222d641923086bdeb0",
+      "title": "ECA Digital: redes sociais deverão abrir dados sobre denúncias de violações contra menores",
+      "summary": "Jovem usa o celular em Sidney, na Austrália; país aprovou lei que proíbe acesso de menores de 16 anos às redes sociais Hollie Adams/Reuters Plataformas com mais de 1 milhão de crianças e adolescentes como usuários deverão publicar até 17 de setembro relatórios de transparência para informar o que fazem para proteger menores de idade em seus serviços, conforme despacho da Agência Nacional de Proteção de Dados (ANPD) publicado no Diário Oficial da União (DOU) nesta terça-feira (11).",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/11/eca-digital-redes-sociais-deverao-abrir-dados-sobre-denuncias-de-violacoes-contra-menores.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/k4USkohCtOZy1lWDK9hUcaUnu2s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/B/xc5FLXRvAW2xpSL6wIDg/2025-12-03t231218z-777753869-rc2d1iaem5lh-rtrmadp-3-australia-socialmedia-mentalhealth.jpg",
+      "publishedAt": "2026-08-11T10:36:16+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/iphone-18-pro-custo-de-fabricacao-pode-ser-38-maior/",
+      "_key": "3c7bb5305aac10d511f881b0867c6369",
+      "title": "iPhone 18 Pro: alta de 38% no custo de produção",
+      "summary": "Próximo celular premium da Maçã teria maior custo principalmente pela crise de memória RAM. iPhone 17 Pro também pode ter preço afetado. iPhone 18 Pro: alta de 38% no custo de produção",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/noticias/iphone-18-pro-custo-de-fabricacao-pode-ser-38-maior/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/02/iphone-17-pro-max-4.jpg",
+      "publishedAt": "2026-08-11T10:33:06+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/inteligencia-artificial/reward-hacking-egress-aberto-e-sandbox-nao-estao-na-biblia-mas-explicam-fugas-de-ias/",
+      "_key": "a53f30adcac98bf20c112d419f7e5c6b",
+      "title": "Reward hacking, egress aberto e sandbox 'não estão na Bíblia', mas explicam fugas de IAs",
+      "summary": "Quatro modelos escaparam de ambientes de teste em 17 dias. Nenhum ganho conciência: os três conceitos abaixo dão conta de todos os casos, e valem para qualquer empresa que rode agentes",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/inteligencia-artificial/reward-hacking-egress-aberto-e-sandbox-nao-estao-na-biblia-mas-explicam-fugas-de-ias/",
+      "source": "Exame",
+      "region": "Brasil",
+      "image": "https://classic.exame.com/wp-content/uploads/2025/07/GettyImages-2197821080.jpg",
+      "publishedAt": "2026-08-11T08:00:38+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/europe-stocks-poised-to-grind-higher-bnp-paribas-says-video",
+      "_key": "5b59a1799b41f0cc43f400f650703347",
+      "title": "Europe Stocks Poised to 'Grind Higher,' BNP Paribas Says",
+      "summary": "Benedicte Lowe, Europe equity derivates strategist at BNP Paribas Markets 360, says it's \"undeniable that the macro story is picking up in Europe,\" and that means \"positive picture for stocks.\" She speaks on Bloomberg Television. (Source: Bloomberg)",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-11/europe-stocks-poised-to-grind-higher-bnp-paribas-says-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-11T07:21:25+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/aluminum-hits-seven-week-high-as-hormuz-impasse-threatens-supply",
+      "_key": "4ab05e8464eb161b82b07ced205c5598",
+      "title": "Aluminum Extends Rally After Brazilian Plant Cuts Output to 50%",
+      "summary": "Aluminum extended gains — and touched a seven-week high — after a key alumina producer said it was slashing production, adding to major supply-side disruptions for the metal this year.",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/aluminum-hits-seven-week-high-as-hormuz-impasse-threatens-supply",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-11T05:16:45+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/guias/melhor-celular-realme/",
+      "_key": "8038ea93b039251d27efe61201854f83",
+      "title": "Melhor celular Realme em 2026: qual modelo comprar no Brasil?",
+      "summary": "Descubra a diferença entre os celulares Realme e escolha o melhor para o seu dia a dia; marca chinesa comercializa desde modelos básicos até smartphones topo de linha Melhor celular Realme em 2026: qual modelo comprar no Brasil?",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/guias/melhor-celular-realme/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/realme-16-pro-plus.jpg",
+      "publishedAt": "2026-08-11T01:11:21+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "_key": "f05c41915a0ae35c487c8ef0f1084f1a",
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise.",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "source": "The Verge",
+      "region": "Internacional",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/zuckerberg_stock_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-10T22:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/10/china-pede-para-entrar-em-disputa-do-brasil-contra-tarifaco-dos-eua-na-omc.ghtml",
+      "_key": "2d291690d903de15203ee34c82edc4d7",
+      "title": "Após Brasil acionar OMC, China pede para participar de consultas sobre tarifaço dos EUA",
+      "summary": "EUA respondem ao Brasil na OMC e dizem que estão 'à disposição' para discutir tarifaço A China pediu nesta segunda-feira (10) para participar das consultas na Organização Mundial do Comércio (OMC) sobre a ação movida pelo Brasil contra o tarifaço imposto pelo presidente dos Estados Unidos aos parceiros comerciais.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/10/china-pede-para-entrar-em-disputa-do-brasil-contra-tarifaco-dos-eua-na-omc.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/CUHWg6KfnrUi97WSM2ip7cOXOWI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/8/LVgYoMRlAiT98WTFqd5w/54516359466-5bb59d10d2-k.jpg",
+      "publishedAt": "2026-08-10T21:32:40+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/um-novo-guidance-faz-acao-da-embraer-voar/",
+      "_key": "5e24f69f02b36a00d854645ffc7bd681",
+      "title": "Um novo guidance faz ação da Embraer “voar”",
+      "summary": "A revisão para cima de parte das projeções financeiras para 2026 da fabricante brasileira de aeronaves Embraer está por trás do bom desempenho das ações da companhia nesta segunda-feira, 10 de agosto. Na B3, as ações EMBJ3 fecharam em alta de 2,3%.",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/um-novo-guidance-faz-acao-da-embraer-voar/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "image": "https://neofeed.com.br/wp-content/uploads/2025/08/embraer-praetor-500-300x169.webp",
+      "publishedAt": "2026-08-10T21:30:58+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/poder/fim-da-escala-6x1-e-autonomia-do-bc-congresso-trava-pauta-economica-a-espera-das-urnas/",
+      "_key": "2512048359613039253cdad451378217",
+      "title": "Fim da escala 6×1 e autonomia do BC: Congresso trava pauta econômica à espera das urnas",
+      "summary": "Brasília — A menos de dois meses para as eleições, a pauta econômica do Congresso Nacional emperrou de vez, à espera do resultado das urnas em outubro e da nova composição das bancadas partidárias no Legislativo para 2027.",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/poder/fim-da-escala-6x1-e-autonomia-do-bc-congresso-trava-pauta-economica-a-espera-das-urnas/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "image": "https://neofeed.com.br/wp-content/uploads/2023/05/congresso-nacional-300x169.jpg",
+      "publishedAt": "2026-08-10T21:17:28+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/x-muda-regras-de-monetizacao-e-pode-finalmente-esvaziar-perfis-caca-clique/",
+      "_key": "2bb5f0787679d380aa177f39ac4424df",
+      "title": "X muda regras de monetização e pode finalmente esvaziar perfis caça-clique",
+      "summary": "Rede social substituirá sistema de monetização para valorizar criadores originais na plataforma. Atuais participantes terão que se inscrever novamente. X muda regras de monetização e pode finalmente esvaziar perfis caça-clique",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/noticias/x-muda-regras-de-monetizacao-e-pode-finalmente-esvaziar-perfis-caca-clique/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/08/capa-x-bloqueado-3.png",
+      "publishedAt": "2026-08-10T21:02:47+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/10/quem-e-wesley-batista-filho-que-sera-o-novo-ceo-global-da-jbs.ghtml",
       "_key": "b5e1e9b8d4655e319a43e18886169442",
       "title": "Quem é Wesley Batista Filho, que será o novo CEO global da JBS",
@@ -1757,6 +2693,24 @@
       "summary": "Galaxy S26 Plus de 256 GB sai pelo menor preço desde o lançamento em oferta no Magazine Luiza. Smartphone traz tela AMOLED de 6,7\" com QHD+, 12 GB de RAM e 7 anos de atualizações Galaxy S26 Plus atinge menor preço com cupom de 45% de desconto no Magalu",
       "summaryMethod": "regra",
       "url": "https://tecnoblog.net/achados/galaxy-s26-plus-atinge-menor-preco-com-cupom-de-45-de-desconto-no-magalu/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/03/galaxy-s26-ultra-achou-correu-1536x865.jpg",
+      "publishedAt": "2026-08-10T20:17:47+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://achados.tecnoblog.net/galaxy-s26-plus-atinge-menor-preco-com-cupom-de-45-de-desconto-no-magalu/",
+      "_key": "33b7e8ec448027143a8f3847fe65fef2",
+      "title": "Galaxy S26 Plus atinge menor preço com cupom de 45% de desconto no Magalu",
+      "summary": "Galaxy S26 Plus de 256 GB sai pelo menor preço histórico em oferta no Magazine Luiza. Smartphone traz tela AMOLED de 6,7\" com QHD+, 12 GB de RAM e 7 anos de atualizações Galaxy S26 Plus atinge menor preço com cupom de 45% de desconto no Magalu",
+      "summaryMethod": "regra",
+      "url": "https://achados.tecnoblog.net/galaxy-s26-plus-atinge-menor-preco-com-cupom-de-45-de-desconto-no-magalu/",
       "source": "Tecnoblog",
       "region": "Brasil",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2026/03/galaxy-s26-ultra-achou-correu-1536x865.jpg",
@@ -2579,6 +3533,24 @@
       "coverageCount": 1
     },
     {
+      "id": "Tecnoblog-https://achados.tecnoblog.net/galaxy-a36-128-gb-surge-em-promocao-com-preco-imbativel-no-mercado-livre/",
+      "_key": "6b455c3189d810c3a21755e6226959c7",
+      "title": "Galaxy A36 (128 GB) surge em promoção com preço imbatível no Mercado Livre",
+      "summary": "O Galaxy A36 (128 GB) atingiu o menor preço histórico em oferta no Mercado Livre e sai com 56% de desconto. Celular intermediário traz tela Super AMOLED de 6,7\" e câmera principal de 50 MP Galaxy A36 (128 GB) surge em promoção com preço imbatível no Mercado Livre",
+      "summaryMethod": "regra",
+      "url": "https://achados.tecnoblog.net/galaxy-a36-128-gb-surge-em-promocao-com-preco-imbativel-no-mercado-livre/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-a36-achados-1060x596.png",
+      "publishedAt": "2026-08-07T20:32:15+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/asimov-estava-certo-sobre-regras-para-ia-diz-ex-diretor-de-ciberseguranca-dos-eua/",
       "_key": "ed5253709cf22c0a91339ac835ea0a7d",
       "title": "“Asimov estava certo” sobre regras para IA, diz ex-diretor de cibersegurança dos EUA",
@@ -2832,6 +3804,276 @@
       "coverageCount": 3,
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/grupo-sbf-sao-martinho-terra-santa-e-mais-empresas-divulgam-resultados-do-2t/",
+      "_key": "fe0d371946fa35284e4ed2da83a42747",
+      "title": "Grupo SBF, São Martinho, Terra Santa e mais empresas divulgam resultados do 2T",
+      "summary": "Grupo SBF dispara no lucro, enquanto São Martinho e Terra Santa têm queda nos resultados e Ferbasa volta ao azul no 2T26 The post Grupo SBF, São Martinho, Terra Santa e mais empresas divulgam resultados do 2T appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/grupo-sbf-sao-martinho-terra-santa-e-mais-empresas-divulgam-resultados-do-2t/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/06/MPZ_20190606_6891.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T13:02:09+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/buying-opportunity-forms-around-s-p-skeptics-refusal-to-give-up",
+      "_key": "8858aaf0a56745015322c29dc94cd2a7",
+      "title": "Buying Opportunity Forms Around S&P Skeptics’ Refusal to Give Up",
+      "summary": "US stocks may be sitting at a record, but anxiety about everything from geopolitics to inflation and a divided Federal Reserve is keeping animal spirits at bay. And that may be just what the rally needs to continue.",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/buying-opportunity-forms-around-s-p-skeptics-refusal-to-give-up",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-11T12:44:36+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/pro/nova-york-avanca-contra-terceirizacao-de-entregadores-da-amazon/",
+      "_key": "b1ece84bd8980af0ce6b7a75106ee297",
+      "title": "Nova York avança contra terceirização de entregadores da Amazon",
+      "summary": "A disputa reúne sindicatos que defendem melhores condições de trabalho e empresas que temem efeitos sobre preços, empregos e operações O post Nova York avança contra terceirização de entregadores da Amazon apareceu primeiro em Olhar Digital .",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/pro/nova-york-avanca-contra-terceirizacao-de-entregadores-da-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2023/10/amazon-entrega-1024x640.jpg",
+      "publishedAt": "2026-08-11T12:27:18+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/us-stock-futures-rise-as-oil-erases-gains-on-iran-optimism",
+      "_key": "8792ba817f14a94648b303c144076470",
+      "title": "US Stock Futures Rise as Oil Erases Gains on Iran Optimism",
+      "summary": "US stock futures are slightly up before the bell on Tuesday as oil erased an earlier advance while traders await key inflation data for guidance on Federal Reserve interest-rate policy.",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/us-stock-futures-rise-as-oil-erases-gains-on-iran-optimism",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-11T12:10:15+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-em-julho.ghtml",
+      "_key": "1cdf07b673afeaccb524abce41665ce2",
+      "title": "Preço dos alimentos: o que ficou mais caro e o que barateou em julho",
+      "summary": "Imagem ilustrativa de frutas, legumes e verduras no supermercado. Tomate, batata-inglesa e cenoura lideraram as quedas de preços, enquanto leite e frutas registraram as maiores altas do mês. Divulgação.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-em-julho.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/7kn9NujH6GpkHL3ygRO9qHDp2G8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/e/7/B1bOpQRemt8dv0qCP9FQ/leite-engin-akyurt-2rlleycpvti-unsplash.jpg",
+      "publishedAt": "2026-08-11T12:01:23+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/fed-to-take-wait-and-see-stance-on-rates-laura-cooper-video",
+      "_key": "31dfab1b9f8dd100866fe49c75ccf9eb",
+      "title": "Fed to Take Wait-and-See Stance on Rates: Laura Cooper",
+      "summary": "Laura Cooper, Nuveen Global Investment Strategist, joins Bloomberg's Vonnie Quinn on \"Bloomberg Brief\" to discuss the rise in real yields and the case for the Federal Reserve's policy tightening. (Source: Bloomberg)",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-11/fed-to-take-wait-and-see-stance-on-rates-laura-cooper-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-11T11:56:39+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/ihg-sees-positive-momentum-continuing-in-second-half",
+      "_key": "60b0faa372c384d12bc475f4f46d07cb",
+      "title": "IHG Sees Positive Momentum Continuing in Second Half",
+      "summary": "Elie Maalouf, chief executive officer at InterContinental Hotels Group Plc, discusses the hotel group's first-half performance, factors contributing to demand and the outlook for the second half. \"There's a sense of prosperity,\" Maalouf tells Bloomberg Television.",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-11/ihg-sees-positive-momentum-continuing-in-second-half",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-11T11:50:31+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/the-pulse-8-11-2026-video",
+      "_key": "00d3dc1cbfc170d58ba2df611966f0ba",
+      "title": "The Pulse 8/11/2026",
+      "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-11/the-pulse-8-11-2026-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-11T11:16:54+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/turkish-funds-urge-action-as-stock-swings-threaten-msci-status",
+      "_key": "c23934b4f6459e050f621d9b15a6f091",
+      "title": "Turkish Funds Urge Action as Stock Swings Threaten MSCI Status",
+      "summary": "Turkish investment funds are urging authorities to crack down on unusual trading activity that’s sent some stock prices soaring and has put the nation at risk of exclusion from major equity benchmarks.",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/turkish-funds-urge-action-as-stock-swings-threaten-msci-status",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-11T11:05:32+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-promocao-na-amazon-34/",
+      "_key": "14b7412414f24dd4cbfd1d356e3092b6",
+      "title": "Hora de renovar a sala: Smart TVs 4K em promoção na Amazon",
+      "summary": "Se você está pensando em trocar aquela televisão antiga por um modelo mais moderno, este é um bom momento para pesquisar. Reunimos três opções de Smart TVs 4K disponíveis na Amazon com boas configurações para diferentes perfis de uso. Confira a seleção.",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-promocao-na-amazon-34/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "image": "https://m.media-amazon.com/images/I/417VfFP6sAL._SL500_.jpg",
+      "publishedAt": "2026-08-11T11:00:31+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/internet-e-redes-sociais/jogos-de-hoje-11-08-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/",
+      "_key": "b524d2d423d3889c01a3eb10c7953098",
+      "title": "Jogos de hoje (11/08/26): onde assistir futebol ao vivo e horários das partidas",
+      "summary": "Quer saber quem joga hoje? Confira horários e onde assistir ao vivo aos jogos de hoje (11/08/26) do futebol do Brasil e do mundo na TV e no streaming O post Jogos de hoje (11/08/26): onde assistir futebol ao vivo e horários das partidas apareceu primeiro em Olhar Digital .",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/internet-e-redes-sociais/jogos-de-hoje-11-08-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2024/06/futebol-streaming.jpg",
+      "publishedAt": "2026-08-11T11:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/governo-define-datas-para-recesso-no-natal-e-no-ano-novo-veja-regras.ghtml",
+      "_key": "1d5d679c6893c6b2e4583a850442c9c1",
+      "title": "Governo define datas para recesso no Natal e no Ano Novo; veja regras",
+      "summary": "Escritório com decoração natalina Pexels O governo federal definiu as regras para o recesso de Natal e Ano Novo dos servidores públicos federais em 2026. O período será dividido em dois blocos: de 21 a 25 de dezembro e de 28 de dezembro a 1º de janeiro de 2027.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/governo-define-datas-para-recesso-no-natal-e-no-ano-novo-veja-regras.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/0jA-vJDop6WtF0F-pjY_-NlMSDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/Vwb9FFTuejspQRr7lgYQ/pexels-utopix-pictures-pictures-9755513-14524118.jpg",
+      "publishedAt": "2026-08-11T10:44:05+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Wired-https://www.wired.com/story/book-excerpt-rise-and-fall-of-the-artificial-state-jill-lepore-silicon-valley-sci-fi/",
+      "_key": "1af8e2656954657a1a32c36d283eecf7",
+      "title": "Elon Musk, Sam Altman, and the Misreading of Science Fiction",
+      "summary": "Beyond Elon Musk’s interpretation of The Odyssey, Silicon Valley leaders have often misunderstood classic books like Foundation and The Hitchhiker’s Guide to the Galaxy. It’s evident in their tech.",
+      "summaryMethod": "regra",
+      "url": "https://www.wired.com/story/book-excerpt-rise-and-fall-of-the-artificial-state-jill-lepore-silicon-valley-sci-fi/",
+      "source": "Wired",
+      "region": "Internacional",
+      "image": "https://media.wired.com/photos/6a79da0bdf07565eeae29714/master/pass/Book%20Excerpt%20Elon%20Musk,%20Sam%20Altman,%20and%20the%20Misreading%20of%20Science%20Fiction_v3.jpg",
+      "publishedAt": "2026-08-11T10:30:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Wired"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/golpe-das-tarefas-veja-como-uma-falsa-vaga-de-home-office-fez-uma-trabalhadora-perder-r-12-mil.ghtml",
+      "_key": "93c58e8d3d177b48d7021aae79732b13",
+      "title": "'Golpe das tarefas': veja como uma falsa vaga de home office fez uma trabalhadora perder R$ 1,2 mil",
+      "summary": "Criminosos abordam vítimas através de ligações de celular, mensagens de WhatsApp, texto ou e-mail Reprodução/TV Globo Ester Nunes, de 26 anos, entrou para as estatísticas de vítimas de golpes financeiros.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/golpe-das-tarefas-veja-como-uma-falsa-vaga-de-home-office-fez-uma-trabalhadora-perder-r-12-mil.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/nMm8tdls7OQ2jQkzC_ttwnHCdQo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/w/p/BjxgONSImkFbBbw9kvwA/criminosos-abordam-vitimas-atraves-de-ligacoes-de-celular-mensagens-de-whatsapp-texto-ou-e-mail.jpeg",
+      "publishedAt": "2026-08-11T05:00:13+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/10/governo-define-datas-para-recesso-no-natal-e-no-ano-novo-veja-regras.ghtml",
+      "_key": "40637ace7ec188aa9f4539d9b04c22ee",
+      "title": "Governo define datas para recesso no Natal e no Ano Novo; veja regras",
+      "summary": "Escritório com decoração natalina Pexels O governo federal definiu as regras para o recesso de Natal e Ano Novo dos servidores públicos federais em 2026. O período será dividido em dois blocos: de 21 a 25 de dezembro e de 28 de dezembro a 1º de janeiro de 2027.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/10/governo-define-datas-para-recesso-no-natal-e-no-ano-novo-veja-regras.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/0jA-vJDop6WtF0F-pjY_-NlMSDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/Vwb9FFTuejspQRr7lgYQ/pexels-utopix-pictures-pictures-9755513-14524118.jpg",
+      "publishedAt": "2026-08-10T22:52:38+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/economia/eua-afirmam-que-estao-a-disposicao-do-brasil-para-conversar-sobre-tarifaco/",
