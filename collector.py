@@ -451,7 +451,7 @@ def collect(use_ai, max_age_days):
             distinct_from_title = normalize_txt(clean_summary) != normalize_txt(title)
 
             # Portão de relevância: precisa ter pelo menos 1 palavra do ecossistema
-            haystack = (final_title + " " + clean_summary).lower()
+            haystack = (title + " " + clean_summary).lower()
             is_relevant = any(kw in haystack for kw in RELEVANCE_REQUIRED)
 
             # Portão de bloqueio: termos que nunca devem entrar
