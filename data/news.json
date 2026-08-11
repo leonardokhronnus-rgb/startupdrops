@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T14:28:46.019190+00:00",
+  "updatedAt": "2026-08-11T15:01:55.840043+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -71,6 +71,18 @@
       "region": "Internacional"
     },
     {
+      "name": "Tech.eu",
+      "region": "Internacional"
+    },
+    {
+      "name": "EU-Startups",
+      "region": "Internacional"
+    },
+    {
+      "name": "Finsider",
+      "region": "Internacional"
+    },
+    {
       "name": "Business Insider Tech",
       "region": "Internacional"
     },
@@ -129,6 +141,62 @@
     {
       "name": "FT Companies",
       "region": "Internacional"
+    },
+    {
+      "name": "Caixin Global",
+      "region": "Internacional"
+    },
+    {
+      "name": "SCMP Tech",
+      "region": "Internacional"
+    },
+    {
+      "name": "SCMP Business",
+      "region": "Internacional"
+    },
+    {
+      "name": "Reuters China",
+      "region": "Internacional"
+    },
+    {
+      "name": "Nikkei Asia",
+      "region": "Internacional"
+    },
+    {
+      "name": "TechNode",
+      "region": "Internacional"
+    },
+    {
+      "name": "KrASIA",
+      "region": "Internacional"
+    },
+    {
+      "name": "Inc42",
+      "region": "Internacional"
+    },
+    {
+      "name": "YourStory",
+      "region": "Internacional"
+    },
+    {
+      "name": "ETtech",
+      "region": "Internacional"
+    },
+    {
+      "name": "MediaNama",
+      "region": "Internacional"
+    },
+    {
+      "name": "YourStory Startups",
+      "region": "Internacional"
+    },
+    {
+      "name": "Inc42 Startups",
+      "region": "Internacional"
+    },
+    {
+      "name": "Indian Web2",
+      "region": "Internacional"
     }
   ],
   "failures": [
@@ -153,8 +221,18 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "Finsider",
+      "url": "https://finsider.eu/feed/",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Business Insider Tech",
       "url": "https://www.businessinsider.com/sai/rss",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -186,9 +264,118 @@
       "source": "Reuters Business",
       "url": "https://feeds.reuters.com/reuters/businessNews",
       "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Caixin Global",
+      "url": "https://www.caixinglobal.com/rss/all.xml",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Reuters China",
+      "url": "https://feeds.reuters.com/reuters/CNTopNews",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "KrASIA",
+      "url": "https://kr.asia/feed/",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "MediaNama",
+      "url": "https://www.medianama.com/feed/",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Indian Web2",
+      "url": "https://indianweb2.com/feed/",
+      "reason": "falhou direto e via proxy"
     }
   ],
   "articles": [
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/11/palette-raises-eur3m-pre-seed-to-develop-an-os-for-ai-native-teams/",
+      "_key": "c4b5c38d3e96310196b9ac9bf7d3a227",
+      "title": "Palette raises €3M pre-seed to develop an OS for AI-native teams",
+      "originalTitle": "Palette raises €3M pre-seed to develop an OS for AI-native teams",
+      "summary": "Copenhagen-basedAI software startup Palette has raised €3 million in pre-seed funding to expandits platform for teams adopting AI across their organisations. The round wasled by Ugly Duckling Ventures...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/11/palette-raises-eur3m-pre-seed-to-develop-an-os-for-ai-native-teams/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/palette-featured-187.png",
+      "publishedAt": "2026-08-11T06:05:02+00:00",
+      "score": 89,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/06/vangrid-raises-9m-seed-to-build-a-decentralised-spatial-intelligence-network-for-the-physical-ai-era/",
+      "_key": "fd2f1140c5826e861d2a94a422274a88",
+      "title": "Vangrid raises $9M seed to build a decentralised spatial intelligence network for the Physical AI era",
+      "originalTitle": "Vangrid raises $9M seed to build a decentralised spatial intelligence network for the Physical AI era",
+      "summary": "Vangrid, a Dutch startup developing a decentralised spatial intelligence network to be deployed on smartphones, has raised $9 million in seed funding.Vangrid's goal is to make high-fidelity spatial d...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/06/vangrid-raises-9m-seed-to-build-a-decentralised-spatial-intelligence-network-for-the-physical-ai-era/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-17-956.png",
+      "publishedAt": "2026-08-06T16:00:00+00:00",
+      "score": 84,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/zug-based-zerolook-raises-e1-6-million-to-tackle-ai-driven-flight-search-costs/",
+      "_key": "3bd10dc2651e113075ae9e60de9bb478",
+      "title": "Zug-based Zerolook raises €1.6 million to tackle AI-driven flight search costs",
+      "originalTitle": "Zug-based Zerolook raises €1.6 million to tackle AI-driven flight search costs",
+      "summary": "announced a €1.6 million (CHF 1.5 million/ $1.9 million) pre-Seed funding round. The round was led by London-based Playfair, with participation from Vento Ventures, TrueSight Ventures, Alpha Venture and angels from technology, travel and financial services.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/zug-based-zerolook-raises-e1-6-million-to-tackle-ai-driven-flight-search-costs/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T142559.288-1.jpg",
+      "publishedAt": "2026-08-11T08:58:14+00:00",
+      "score": 73,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/10/visoid-raises-25m-to-expand-ai-visualisation-platform-for-architects/",
+      "_key": "20e7d1b7d7db773920a42c77c056c572",
+      "title": "Visoid raises $2.5M to expand AI visualisation platform for architects",
+      "originalTitle": "Visoid raises $2.5M to expand AI visualisation platform for architects",
+      "summary": "Oslo-based AI startupVisoid has raised $2.5 million in funding to accelerate the development of itsAI visualisation platform for architects and support its international growth.The round was led by Sk...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/10/visoid-raises-25m-to-expand-ai-visualisation-platform-for-architects/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/visoid-featured-468.png",
+      "publishedAt": "2026-08-10T08:30:00+00:00",
+      "score": 73,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "Brazil Journal-https://braziljournal.com/de-go-local-a-go-global-a-ai-esta-ampliando-a-ambicao-das-startups/",
       "_key": "8241cf18316b849a5be06a802d91422f",
@@ -204,6 +391,49 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Brazil Journal"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/aum-ventures-raises-225-crore-first-close-for-deeptech-fund",
+      "_key": "d2e38c50175c5073ab156dd69f85a4a2",
+      "title": "Aum Ventures raises Rs 225 Cr first close for new deeptech fund",
+      "originalTitle": "Aum Ventures raises Rs 225 Cr first close for new deeptech fund",
+      "summary": "Aum Ventures has raised Rs 225 crore in the first close of its Rs 750 crore India Innovation Fund II, targeting early-stage Indian deeptech startups across space, semiconductors, AI, defence and advanced manufacturing.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/aum-ventures-raises-225-crore-first-close-for-deeptech-fund",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/AumVentures-1786360028632.png",
+      "publishedAt": "2026-08-10T11:18:17+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/10/edgify-raises-9m-to-expand-its-edge-ai-platform/",
+      "_key": "dc49fccbacf5c48751f7d69028ade7dd",
+      "title": "Edgify raises $9M to expand its edge AI platform",
+      "originalTitle": "Edgify raises $9M to expand its edge AI platform",
+      "summary": "Edge AI infrastructure company Edgify has raised $9million in Series A+ funding to accelerate the rollout of its platform forphysical retail and expand its technology into other industries. The round ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/10/edgify-raises-9m-to-expand-its-edge-ai-platform/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/edgify-featured-664.png",
+      "publishedAt": "2026-08-10T07:00:00+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
       ],
       "coverageCount": 1
     },
@@ -223,7 +453,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Crunchbase News-https://news.crunchbase.com/venture/active-startup-investors-july-2026-khosla-yc-coatue-nvda/",
@@ -241,7 +472,8 @@
       "sourcesCovered": [
         "Crunchbase News"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/negocios/inteligencia-artificial/gama-fund-de-google-e-monashees-estende-prazo-de-inscricoes/",
@@ -258,6 +490,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/luxembourgs-space-biotech-exobiosphere-secures-e1-million-to-find-cures-from-space/",
+      "_key": "ed904b79ee987099ff755382eb3bdc11",
+      "title": "Luxembourg’s space BioTech Exobiosphere secures €1 million to find “cures from space”",
+      "originalTitle": "Luxembourg’s space BioTech Exobiosphere secures €1 million to find “cures from space”",
+      "summary": "Exobiosphere, the Luxembourg-based space BioTech startup working on drug discovery and biomedical research in microgravity, has been awarded €1 million in non-dilutive funding through Luxembourg&#8217;s Jeune Entreprise Innovante (JEI) aid scheme.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/luxembourgs-space-biotech-exobiosphere-secures-e1-million-to-find-cures-from-space/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T182157.878.jpg",
+      "publishedAt": "2026-08-11T12:55:30+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
       ],
       "coverageCount": 1
     },
@@ -277,6 +531,70 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
+      "coverageCount": 1,
+      "country": "US"
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/07/chip-startup-olix-raises-312m-mobilise-launches-investment-arm-and-a-deep-dive-into-july-funding/",
+      "_key": "4b2227ed976e78385a6e525b1eeec69b",
+      "title": "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding",
+      "originalTitle": "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding",
+      "summary": "This week, we tracked more than 35 tech funding deals worth over €1 billion and 5 exits, M A transactions, rumours, and related news stories across Europe.If email is more your thing, you can alwa...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/07/chip-startup-olix-raises-312m-mobilise-launches-investment-arm-and-a-deep-dive-into-july-funding/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2024/01/this-week-in-european-tech-292.png",
+      "publishedAt": "2026-08-07T14:29:30+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/07/platter-lands-follow-on-funding-from-verb-ventures-to-modernise-food-supply-operations/",
+      "_key": "139fdc1da718a2e6736fe9ce9c5c001f",
+      "title": "Platter lands follow-on funding from Verb Ventures to modernise food supply operations",
+      "originalTitle": "Platter lands follow-on funding from Verb Ventures to modernise food supply operations",
+      "summary": "UK-based Platter, a food-native operating system for suppliers, wholesalers and manufacturers, has raised an extension to its latest venture round, joined by Verb Ventures. The UK is home to around 25...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/07/platter-lands-follow-on-funding-from-verb-ventures-to-modernise-food-supply-operations/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-22-203.png",
+      "publishedAt": "2026-08-07T09:03:00+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/06/pokebot-raises-hundreds-of-millions-of-dollars-in-pre-a-funding/",
+      "_key": "ac1d42560eb48145f391e580e5cf3fec",
+      "title": "PokeBot Raises Hundreds of Millions of Dollars in Pre-A Funding",
+      "originalTitle": "PokeBot Raises Hundreds of Millions of Dollars in Pre-A Funding",
+      "summary": "Partners. The months-old company is developing household robots for tasks including clothes folding and cooking. A demonstration showed one of its robots autonomously cooking mapo tofu in nine minutes. [TechNode reporting]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/06/pokebot-raises-hundreds-of-millions-of-dollars-in-pre-a-funding/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/pokebot.png?fit=1012%2C492&amp;ssl=1",
+      "publishedAt": "2026-08-06T06:15:09+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
       "coverageCount": 1
     },
     {
@@ -295,7 +613,8 @@
       ],
       "coverageCount": 1,
       "_key": "b8abccefdb66331c5a7d45526a74bbff",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/negocios/intel-segue-a-fila-dos-grandes-investimentos-em-ia-e-levanta-us-20-bi-em-acoes-para-brigar-com-tsmc/",
@@ -313,7 +632,8 @@
       "sourcesCovered": [
         "NeoFeed"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/inovacao/intel-segue-a-fila-dos-grandes-investimentos-em-ia-e-levanta-us-20-bi-em-acoes-para-brigar-com-tsmc/",
@@ -330,6 +650,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "NeoFeed"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/11/hsbc-asset-management-invests-in-london-founded-model-ml/",
+      "_key": "854f9794cd2b72665a2cc04e41ca632f",
+      "title": "HSBC Asset Management invests in London-founded Model ML",
+      "originalTitle": "HSBC Asset Management invests in London-founded Model ML",
+      "summary": "Model ML, the London-founded AI automation startup for financial services founded by two brothers, has received equity investment from HSBC’s asset management arm, it said today. The new funding for a...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/11/hsbc-asset-management-invests-in-london-founded-model-ml/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/smart-1-447.jpg",
+      "publishedAt": "2026-08-11T11:11:00+00:00",
+      "score": 52,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
       ],
       "coverageCount": 1
     },
@@ -349,7 +691,8 @@
       "sourcesCovered": [
         "Startupi"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Startupi-https://startupi.com.br/como-interpretar-o-balanco-entre-a-fragil-economia-do-brasil-e-o-forte-lucro-recorrente-de-bilhoes-do-itau/",
@@ -367,7 +710,8 @@
       "sourcesCovered": [
         "Startupi"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Startupi-https://startupi.com.br/dinheiro-na-mesa-mas-travas-no-caminho-por-que-a-parceria-usp-santander-ainda-nao-e-a-solucao-para-a-inovacao/",
@@ -384,6 +728,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/startups/xai-cofounders-startup-river-ai-raises-1-1-billion-to-expand-custom-ai-tools/articleshow/133158065.cms",
+      "_key": "d9940e0836e0878fa408f18103fffeee",
+      "title": "XAI cofounder's startup River AI raises $1.1 billion to expand custom AI tools",
+      "originalTitle": "XAI cofounder's startup River AI raises $1.1 billion to expand custom AI tools",
+      "summary": "River AI said it is betting that enterprise AI will shift ​from companies using general-purpose ⁠models from ‌large labs to customizing and ​owning their ​own models, using open-weight models.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/startups/xai-cofounders-startup-river-ai-raises-1-1-billion-to-expand-custom-ai-tools/articleshow/133158065.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133158065,imgsize-176734.cms",
+      "publishedAt": "2026-08-11T14:45:49+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -403,7 +769,8 @@
       "sourcesCovered": [
         "The Verge"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/dinheiro-esquecido-bc-atualiza-balanco-e-diz-que-r-51-bilhoes-podem-ser-resgatados-2266-milhoes-de-pessoas-tem-direito.ghtml",
@@ -420,6 +787,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/banking-finance/article/3363623/shein-set-take-orders-hong-kong-ipo-next-week-eyeing-us35b-valuation-sources?utm_source=rss_feed",
+      "_key": "46aabd17323ebeb5780e9a60cfa51e50",
+      "title": "Shein set to take orders for Hong Kong IPO next week, eyeing US$35b valuation: sources",
+      "originalTitle": "Shein set to take orders for Hong Kong IPO next week, eyeing US$35b valuation: sources",
+      "summary": "Fast-fashion retailer Shein Global Holdings is planning to take investor orders for its Hong Kong initial public offering (IPO) as soon as next week, aiming for a valuation of US$35 billion, according to people familiar with the matter.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/banking-finance/article/3363623/shein-set-take-orders-hong-kong-ipo-next-week-eyeing-us35b-valuation-sources?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/11/c8d0dae2-7e95-49b0-8076-f85b462da2bd_ce706725.jpg?itok=0L26AyZi&v=1786428320",
+      "publishedAt": "2026-08-11T06:05:22+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
       ],
       "coverageCount": 1
     },
@@ -439,7 +828,8 @@
       "sourcesCovered": [
         "Startupi"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/negocios/speedbird-abre-serie-b-de-us-30m-para-ser-a-embraer-dos-drones/",
@@ -457,7 +847,8 @@
       "sourcesCovered": [
         "Startups.com.br"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/podcast/somos-muito-avessos-a-hype-diz-pedro-thompson-com-novo-fundo/",
@@ -475,7 +866,8 @@
       ],
       "coverageCount": 1,
       "_key": "ae522b320c905c10d91b8dfd45d68f63",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Business Insider Tech-https://www.businessinsider.com/jack-ma-invests-30-million-ai-insurance-startup-corgi-2026-8",
@@ -501,7 +893,8 @@
       ],
       "coverageCount": 2,
       "_key": "cedcad94811509c637454d7996e83be5",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/a-moove-vai-operar-carros-autonomos-com-a-waymo-e-ja-vale-us-21-bilhoes/",
@@ -534,7 +927,8 @@
       ],
       "coverageCount": 3,
       "_key": "fc12b1b798771bb6103516e62acde90c",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/negocios/fintech/robinhood-faz-ipo-de-fundo-que-permite-ao-varejo-investir-em-startups-do-vale-do-silicio/",
@@ -560,7 +954,8 @@
       ],
       "coverageCount": 2,
       "_key": "e0f624b4cb386a92647b6c35c6ef9ec2",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/10/nvidia-negocia-pacote-de-r-255-trilhoes-para-financiar-infraestrutura-de-ia.ghtml",
@@ -578,7 +973,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/opiniao-quem-manda-na-economia/",
@@ -596,7 +992,8 @@
       "sourcesCovered": [
         "Brazil Journal"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/spacex-planos-de-startup-capex-de-big-tech/",
@@ -614,7 +1011,8 @@
       ],
       "coverageCount": 1,
       "_key": "2630ff6f1f1c083ab3f7be435dbbeb58",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/carlos-bolsonaro-declara-patrimonio-de-r-278-milhoes-ao-tse-para-disputa-ao-senado/",
@@ -631,6 +1029,91 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/stockholms-quartr-lands-e15-6-million-to-expand-its-ai-ready-public-company-ir-data-coverage/",
+      "_key": "c3ada0851df753a92345e0773e096973",
+      "title": "Stockholm’s Quartr lands €15.6 million to expand its AI-ready public company IR data coverage",
+      "originalTitle": "Stockholm’s Quartr lands €15.6 million to expand its AI-ready public company IR data coverage",
+      "summary": "Quartr, the Stockholm-based company behind the world&#8217;s leading first-party data layer for institutional finance and AI, has closed an €15.6 million ($18 million) funding round to accelerate product development and widen its coverage of public company data worldwide.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/stockholms-quartr-lands-e15-6-million-to-expand-its-ai-ready-public-company-ir-data-coverage/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Quartr.jpg",
+      "publishedAt": "2026-08-11T11:17:05+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/11/german-biotech-aquanab-secures-funding-to-tackle-sea-lice-with-nanoantibodies/",
+      "_key": "7e88b86605b6b3d80ec32a012103b4d9",
+      "title": "German biotech AquaNab secures funding to tackle sea lice with nanoantibodies",
+      "originalTitle": "German biotech AquaNab secures funding to tackle sea lice with nanoantibodies",
+      "summary": "Hamburg-basedbiotechnology startup AquaNab has secured investment from Nordic Foodtech VC toadvance its nanoantibody platform for treating and preventing diseases inaquaculture. The investment marks t...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/11/german-biotech-aquanab-secures-funding-to-tackle-sea-lice-with-nanoantibodies/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/aquanab-featured-407.png",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/10/july-2026s-top-10-european-tech-deals-you-need-to-know-about/",
+      "_key": "f9e8d177d7594969320f0bd6f141022d",
+      "title": "July 2026's top 10 European tech deals you need to know about",
+      "originalTitle": "July 2026's top 10 European tech deals you need to know about",
+      "summary": "European tech funding remained resilient in July despite adecline in deal activity. Companies raised €8.6 billion across 267 fundingrounds, compared with €8.3 billion across 293 deals in June. This re...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/10/july-2026s-top-10-european-tech-deals-you-need-to-know-about/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/july-2026-featured-136.png",
+      "publishedAt": "2026-08-10T10:00:00+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Inc42-https://inc42.com/buzz/galaxeye-acquires-starops-to-expand-satellite-engineering-capabilities/",
+      "_key": "36ae4b5d38dd888bb53b6d088865fed4",
+      "title": "GalaxEye Acquires StarOps To Expand Satellite Engineering Capabilities",
+      "originalTitle": "GalaxEye Acquires StarOps To Expand Satellite Engineering Capabilities",
+      "summary": "Spacetech startup GalaxEye has acquired Bengaluru-based spacecraft engineering company StarOps to deepen its in-house satellite engineering capabilities. The integration also&#8230;",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://inc42.com/buzz/galaxeye-acquires-starops-to-expand-satellite-engineering-capabilities/",
+      "source": "Inc42",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/galaxeye-ftr.jpg",
+      "publishedAt": "2026-08-10T08:53:04+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Inc42"
       ],
       "coverageCount": 1
     },
@@ -650,7 +1133,8 @@
       ],
       "coverageCount": 1,
       "_key": "2142282ad15a85297c6787b160b986b5",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/economia/ata-do-copom-agosto-2026-mercado-futuro-selic/",
@@ -668,7 +1152,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/bc-ve-inflacao-desacelerando-mas-ve-pressao-do-petroleo-e-de-gastos-publicos-porta-fica-aberta-para-proxima-decisao.ghtml",
@@ -686,7 +1171,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/para-o-fed-de-st-louis-ai-nao-garante-inflacao-menor-e-o-fed-precisa-apertar/",
@@ -704,7 +1190,8 @@
       "sourcesCovered": [
         "Brazil Journal"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
@@ -729,7 +1216,8 @@
       ],
       "coverageCount": 2,
       "_key": "6d4b287543a4770156816b086cc1c3f6",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/quase-unicornio-o-valuation-da-decade-startup-de-dois-ex-nubank.ghtml",
@@ -761,7 +1249,8 @@
       ],
       "coverageCount": 3,
       "_key": "6ee46d67563120ca068fa72fb1854f8f",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Startupi-https://startupi.com.br/agtechs-e-o-credito-privado-emissao-de-cras-e-fiagros-estruturados-por-startups-do-agro/",
@@ -779,7 +1268,8 @@
       ],
       "coverageCount": 1,
       "_key": "f8e0775a3d215483d2c4272db6e00e3e",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Startupi-https://startupi.com.br/inteligencia-artificial-esta-transformando-o-setor-imobiliario/",
@@ -796,6 +1286,49 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/ibm-together-ai-ink-240-million-deal-for-nvidia-powered-ai-inference-cluster/articleshow/133154010.cms",
+      "_key": "508ea93757d6f6ac83414d469fda1bd5",
+      "title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster",
+      "originalTitle": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster",
+      "summary": "The ‌cluster will ⁠provide ⁠inference for open-source AI models, which have ​gained traction as businesses seek to rein in AI ​costs and weigh concerns about cybersecurity incidents involving models from Anthropic, OpenAI and ​Meta.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ibm-together-ai-ink-240-million-deal-for-nvidia-powered-ai-inference-cluster/articleshow/133154010.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133154010,imgsize-31398.cms",
+      "publishedAt": "2026-08-11T12:13:48+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/plus/tech/tech-trends/article/3363659/unitree-ipo-deluge-masks-humanoid-robots-limitations?utm_source=rss_feed",
+      "_key": "2b2f6ee475576342b508b554b91b9ec0",
+      "title": "Unitree IPO deluge masks humanoid robots’ limitations",
+      "originalTitle": "Unitree IPO deluge masks humanoid robots’ limitations",
+      "summary": "Unitree Robotics’ Shanghai initial public offering (IPO) was more than 5,500 times oversubscribed by retail investors as optimism about fast stock gains and Chinese robot demand outweighed concerns about a US import ban.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/plus/tech/tech-trends/article/3363659/unitree-ipo-deluge-masks-humanoid-robots-limitations?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/11/449b922a-96d4-4687-a594-e207783e8920_3ff87aec.jpg?itok=EYjqDTvY&v=1786439133",
+      "publishedAt": "2026-08-11T09:05:41+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -815,6 +1348,49 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/chelsea-co-owner-todd-boehlys-eldridge-acquires-ownership-stake-in-slovak-ai-firm-sudolabs/",
+      "_key": "67e14a724c2b6cfc49a4c23ec38e122c",
+      "title": "Chelsea co-owner Todd Boehly’s Eldridge acquires ownership stake in Slovak AI firm Sudolabs",
+      "originalTitle": "Chelsea co-owner Todd Boehly’s Eldridge acquires ownership stake in Slovak AI firm Sudolabs",
+      "summary": "Eldridge, a global holding company with over €64.8 billion ($75 billion) in assets under management, has acquired a significant ownership stake in Sudolabs, a Slovakia-based provider of custom agentic AI systems and consulting services for enterprise clients.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/chelsea-co-owner-todd-boehlys-eldridge-acquires-ownership-stake-in-slovak-ai-firm-sudolabs/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-10T154800.063.jpg",
+      "publishedAt": "2026-08-10T10:50:53+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3363519/how-long-can-ai-memory-price-boom-last-research-suggests-not-much-longer?utm_source=rss_feed",
+      "_key": "2914dc15621a0e2bd5879d9e538c0035",
+      "title": "How long can the AI memory price boom last? Research suggests not much longer",
+      "originalTitle": "How long can the AI memory price boom last? Research suggests not much longer",
+      "summary": "A sharp run-up in global memory-chip stocks is beginning to falter as cooling price growth raises questions over how long the sector’s explosive boom can last, even as artificial intelligence demand remains robust and Chinese producers prepare to add more supply.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3363519/how-long-can-ai-memory-price-boom-last-research-suggests-not-much-longer?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/53a41fb1-1da3-4a97-87ff-8608a998c117_20b89988.jpg?itok=bYllNOEB&v=1786349362",
+      "publishedAt": "2026-08-10T08:30:10+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
       "coverageCount": 1
     },
     {
@@ -833,6 +1409,28 @@
       "sourcesCovered": [
         "Startupi"
       ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/10/unitree-opens-a-share-ipo-subscription/",
+      "_key": "01296946ae09e4871fdd33c7d71168ed",
+      "title": "Unitree opens A-share IPO subscription",
+      "originalTitle": "Unitree opens A-share IPO subscription",
+      "summary": "Unitree opened online subscription for its IPO on the Shanghai Stock Exchange’s STAR Market on Aug. 10. Chinese media have described the offering as the country’s first IPO by a humanoid robot maker.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/10/unitree-opens-a-share-ipo-subscription/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/07/1ecce1b4fe8b46ec812549127ff8b5ab_3840x2160-scaled.jpg?fit=1024%2C576&amp;ssl=1",
+      "publishedAt": "2026-08-10T07:24:24+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
       "coverageCount": 1
     },
     {
@@ -850,6 +1448,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363251/backed-deepseek-unitree-ipo-tests-investor-appetite-chinas-ai-robotics-boom?utm_source=rss_feed",
+      "_key": "d4b65b9bad1a143aa7c23e906927797a",
+      "title": "boom",
+      "originalTitle": "boom",
+      "summary": "The long-awaited initial public offering of Unitree Robotics, which values the Hangzhou-based firm at 60.99 billion yuan (US$9 billion), is set to serve as a valuation benchmark for China’s booming embodied-AI sector, buoyed by retail investor excitement and high-profile AI backers like DeepSeek.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363251/backed-deepseek-unitree-ipo-tests-investor-appetite-chinas-ai-robotics-boom?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/f2a695ed-4224-42c6-b853-47affbfa26d4_639a121d.jpg?itok=g2Pq7IlL&v=1786075247",
+      "publishedAt": "2026-08-07T04:23:35+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -884,7 +1504,8 @@
       ],
       "coverageCount": 3,
       "_key": "e10ef6eefaa4bd99e65b38f8c0cda72e",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/dolar-ibovespa.ghtml",
@@ -902,7 +1523,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/uber-supera-estimativas-no-segundo-trimestre/",
@@ -928,7 +1550,8 @@
       ],
       "coverageCount": 2,
       "_key": "4b0e952fa61a5756d8642487f919997b",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/sam-altman-reage-a-propostas-de-desacelerar-a-ia/",
@@ -960,7 +1583,8 @@
       ],
       "coverageCount": 3,
       "_key": "76fce56e8b9e7f29fc056c9f524bd11f",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/openai-anthropic-balancos-big-techs/",
@@ -986,7 +1610,29 @@
       ],
       "coverageCount": 2,
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/por-que-a-ia-autonoma-deixou-de-ser-um-risco/",
+      "_key": "adc6270422ca87efec0b4e9ad285c9a1",
+      "title": "Por que a IA autônoma deixou de ser um risco para virar o maior ativo de confiança dos bancos",
+      "originalTitle": "Por que a IA autônoma deixou de ser um risco para virar o maior ativo de confiança dos bancos",
+      "summary": "Startupi Por que a IA autônoma deixou de ser um risco para virar o maior ativo de confiança dos bancos * Por Letícia D&#8217;Angelo Um cliente que precisa fechar um financiamento imobiliário já não necessita aguardar o horário comercial.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/por-que-a-ia-autonoma-deixou-de-ser-um-risco/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/Leticia-DAngelo-Zenvia-1-.jpg",
+      "publishedAt": "2026-08-11T14:49:59+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/purple-metrics-contrata-novo-head-de-marketing-science/",
@@ -1004,7 +1650,8 @@
       "sourcesCovered": [
         "Startups.com.br"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/df/distrito-federal/noticia/2026/08/11/fgc-emprestimo-brb.ghtml",
@@ -1022,7 +1669,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Crunchbase News-https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees/",
@@ -1040,7 +1688,8 @@
       "sourcesCovered": [
         "Crunchbase News"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Startupi-https://startupi.com.br/a-embraer-da-floresta-uma-historia-de-potencia-empreendedora-no-coracao-da-amazonia/",
@@ -1058,7 +1707,8 @@
       "sourcesCovered": [
         "Startupi"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Startupi-https://startupi.com.br/a-ultima-milha-das-startups-o-que-a-guerra-dos-galpoes-revela-sobre-o-proximo-ciclo-de-inovacao-no-brasil/",
@@ -1075,6 +1725,49 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/bristols-electric-air-taxi-developer-vertical-aerospace-secures-e86-6-million-in-financing-commitments/",
+      "_key": "01c62aac150fe7379990f6657799ca9c",
+      "title": "Bristol’s electric ‘air taxi’ developer Vertical Aerospace secures €86.6 million in financing commitments",
+      "originalTitle": "Bristol’s electric ‘air taxi’ developer Vertical Aerospace secures €86.6 million in financing commitments",
+      "summary": "Vertical Aerospace, a Bristol-based aerospace tech company that builds all-electric, vertical take-off and landing aircraft (eVTOLs), has announced about €86.6 million ($100 million) in financing commitments from existing and new investors The financing is intended to support progress toward certification and commercialisation of Valo, its piloted, four-passenger eVTOL aircraft.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/bristols-electric-air-taxi-developer-vertical-aerospace-secures-e86-6-million-in-financing-commitments/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T130648.290.jpg",
+      "publishedAt": "2026-08-11T07:37:43+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363570/unitree-ipo-frenzy-leaves-chinese-retail-investors-1-5500-odds?utm_source=rss_feed",
+      "_key": "ac0223efc453e3c8a98d148f8c601232",
+      "title": "Unitree IPO frenzy leaves Chinese retail investors with 1-in-5,500 odds",
+      "originalTitle": "Unitree IPO frenzy leaves Chinese retail investors with 1-in-5,500 odds",
+      "summary": "While Unitree Robotics’ early backers are poised for a windfall in one of China’s most closely watched technology initial public offerings (IPOs), retail investors are scrambling for a tiny chance of securing shares.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363570/unitree-ipo-frenzy-leaves-chinese-retail-investors-1-5500-odds?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/963c8ba2-88ae-4a11-a8b2-7aaa18bfb194_1ad28bed.jpg?itok=Z5z5qVjc&v=1786371929",
+      "publishedAt": "2026-08-11T01:00:09+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -1094,7 +1787,8 @@
       "sourcesCovered": [
         "Brazil Journal"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/negocios/o-proximo-negocio-de-us-500-bilhoes-da-nvidia-e-financiar-quem-compra-nvidia/",
@@ -1112,7 +1806,8 @@
       "sourcesCovered": [
         "NeoFeed"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/business/startups-nvidia-negocia-pacote-de-us-500b-para-infraestrutura-de-ia/",
@@ -1130,7 +1825,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/negocios/big-techs/nvidia-negocia-pacote-de-us-500b-para-infraestrutura-de-ia/",
@@ -1148,7 +1844,8 @@
       "sourcesCovered": [
         "Startups.com.br"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/10/ciencia-e-espaco/maior-mapa-2d-do-universo-tem-bilhoes-de-estrelas-e-galaxias-veja/",
@@ -1166,7 +1863,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-10/ibm-turns-to-canadian-bond-market-for-first-time-since-2012",
@@ -1184,7 +1882,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "The Verge-https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
@@ -1202,7 +1901,8 @@
       "sourcesCovered": [
         "The Verge"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/foundever-traz-augusto-krambeck-como-novo-diretor-de-rh-no-brasil/",
@@ -1219,6 +1919,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363544/agibot-overtakes-unitree-top-global-humanoid-robot-vendor-first-half-amid-ipo-push?utm_source=rss_feed",
+      "_key": "91556c816dec503ba5818064f2938b95",
+      "title": "AgiBot overtakes Unitree as top global humanoid robot vendor in first half amid IPO push",
+      "originalTitle": "AgiBot overtakes Unitree as top global humanoid robot vendor in first half amid IPO push",
+      "summary": "China’s AgiBot has surpassed its domestic rival Unitree Robotics to become the world’s largest humanoid robot vendor in the first half of 2026, according to new research, as both industry heavyweights prepare for public listings amid a physical AI boom.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363544/agibot-overtakes-unitree-top-global-humanoid-robot-vendor-first-half-amid-ipo-push?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/72452036-a6ee-4600-9497-b9bbbb133a83_356970c6.jpg?itok=RkVThmo1&v=1786357118",
+      "publishedAt": "2026-08-10T11:30:09+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -1238,6 +1960,28 @@
       "sourcesCovered": [
         "Startupi"
       ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/the-eu-ai-act-misses-the-point-agent-risk-is-a-moving-target/",
+      "_key": "051b9acb839fcafc369cd41f45e80e7c",
+      "title": "The EU AI Act misses the point: agent risk is a moving target",
+      "originalTitle": "The EU AI Act misses the point: agent risk is a moving target",
+      "summary": "There are more than 7 million AI agents running inside businesses. But a growing number aren&#8217;t doing what they were built for. Not because they were reprogrammed, but because someone gave them a new permission, a new tool, or a new database to access.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/the-eu-ai-act-misses-the-point-agent-risk-is-a-moving-target/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/The-EU-AI-Act-misses-the-point-agent-risk-is-a-moving-target.png",
+      "publishedAt": "2026-08-10T10:28:46+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
       "coverageCount": 1
     },
     {
@@ -1256,7 +2000,8 @@
       "sourcesCovered": [
         "Startupi"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/finde/bolsa-ibovespa-grupo-de-empresarios-busca-apoio-politico-para-dar-acoes-a-todo-recem-nascido/",
@@ -1274,7 +2019,8 @@
       "sourcesCovered": [
         "NeoFeed"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/eventos/rpe-summit-reune-executivos-do-varejo-e-tecnologia-em-agosto/",
@@ -1291,6 +2037,49 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3363351/cambricon-posts-108-surge-first-half-revenue-amid-chinas-massive-ai-chip-drive?utm_source=rss_feed",
+      "_key": "f6d476237d228b5250b64a231fdc2564",
+      "title": "Cambricon posts 108% surge in first-half revenue amid China’s massive AI chip drive",
+      "originalTitle": "Cambricon posts 108% surge in first-half revenue amid China’s massive AI chip drive",
+      "summary": "hardware. The chipmaker’s revenue for the first six months of the year reached 6 billion yuan (US$890 million), while profits also jumped 122.6 per cent year on year to 2.3 billion yuan, according to a stock exchange filing.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3363351/cambricon-posts-108-surge-first-half-revenue-amid-chinas-massive-ai-chip-drive?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/360e13e3-78b5-4cc4-97cd-071e69264e09_1ff4110e.jpg?itok=Mzy_8GZF&v=1786106681",
+      "publishedAt": "2026-08-07T12:54:54+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers?utm_source=rss_feed",
+      "_key": "d98e9e8aaeb52f1147ac5771e90db091",
+      "title": "researchers",
+      "originalTitle": "researchers",
+      "summary": "China’s top open-weight AI model Kimi K3 broke out of its isolated test environment during a cybersecurity evaluation, according to US security researchers, following similar high-profile incidents involving closed frontier models from OpenAI and Anthropic that highlight the growing challenge of constraining AI behaviour.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/7ce4be02-f4d2-4532-af50-fd270e279b04_bfbf76ff.jpg?itok=WcKz264j&v=1786085775",
+      "publishedAt": "2026-08-07T08:00:06+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -1310,7 +2099,8 @@
       "sourcesCovered": [
         "Startupi"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/custo-ia-fragmentacao-dados-totvs/",
@@ -1328,7 +2118,8 @@
       ],
       "coverageCount": 1,
       "_key": "6fca2cf0dee7db2b15c64bc87c769d1c",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
@@ -1346,7 +2137,8 @@
       ],
       "coverageCount": 1,
       "_key": "2e96c02b224df586e1a3052b14139d9b",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/spacex-recua-apos-balanco-gastos-bilionarios-com-ia/",
@@ -1364,7 +2156,8 @@
       ],
       "coverageCount": 1,
       "_key": "211cd191de1d475c9571b850b36be931",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/branded-content/zoop-a-gente-vai-conversar-cada-vez-mais-e-clicar-cada-vez-menos/",
@@ -1390,7 +2183,8 @@
       ],
       "coverageCount": 2,
       "_key": "646e9f0dd48dbcf5ce48a73a13942a78",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/inovacao/a-velha-economia-espelha-o-boom-de-lucros-da-ia-para-alem-das-big-techs/",
@@ -1408,7 +2202,8 @@
       "sourcesCovered": [
         "NeoFeed"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/10/primeiro-a-openai-depois-a-meta-por-que-robos-de-ia-continuam-fazendo-ataques-hackers.ghtml",
@@ -1426,7 +2221,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/99-e-movida-anunciam-parceria/",
@@ -1444,7 +2240,50 @@
       ],
       "coverageCount": 1,
       "_key": "3867d1aeae160c2b8cd73363f57050b8",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/vale3-por-que-bbi-e-bba-tem-compra-para-vale-enquanto-ubs-bb-tem-cautela-com-acao/",
+      "_key": "321a456a1e7a566553fe9e502163495d",
+      "title": "VALE3: por que BBI e BBA têm compra para Vale, enquanto UBS BB tem cautela com ação?",
+      "originalTitle": "VALE3: por que BBI e BBA têm compra para Vale, enquanto UBS BB tem cautela com ação?",
+      "summary": "Valuation e diferenças na tese das ações levam a visões diversas dos bancões para VALE3 The post VALE3: por que BBI e BBA têm compra para Vale, enquanto UBS BB tem cautela com ação? appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/vale3-por-que-bbi-e-bba-tem-compra-para-vale-enquanto-ubs-bb-tem-cautela-com-acao/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T14:56:40+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/empresas-em-desacordo-com-a-lgpd/",
+      "_key": "61684efedd9e626ab3722c3a1d0858b3",
+      "title": "Erros comuns colocam empresas em desacordo com a LGPD sem que os gestores percebam",
+      "originalTitle": "Erros comuns colocam empresas em desacordo com a LGPD sem que os gestores percebam",
+      "summary": "Startupi Erros comuns colocam empresas em desacordo com a LGPD sem que os gestores percebam A Lei Geral de Proteção de Dados (LGPD) já faz parte da rotina das empresas brasileiras há alguns anos, mas a falsa sensação de conformidade ainda é um dos principais desafios enfrentados pelas organizações.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/empresas-em-desacordo-com-a-lgpd/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/lgpd.jpg",
+      "publishedAt": "2026-08-11T14:53:39+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-11082026/",
@@ -1462,7 +2301,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/exportacoes-do-brasil-aos-eua-caem-122percent-no-ano-e-atingem-menor-nivel-em-3-anos.ghtml",
@@ -1479,6 +2319,49 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/tsmc-sony-to-invest-4-7-billion-in-joint-venture-for-image-sensors/articleshow/133152815.cms",
+      "_key": "62def5a11dc984d471cb5c4594bc2df3",
+      "title": "TSMC, Sony to invest $4.7 billion in joint venture for image sensors",
+      "originalTitle": "TSMC, Sony to invest $4.7 billion in joint venture for image sensors",
+      "summary": "Sony will ⁠be ⁠the controlling shareholder and invest 465 billion yen ($2.92 billion) through ​a combination of cash and asset transfers, including its newly constructed ​chip factory in Kumamoto prefecture, while TSMC will invest 282 billion yen, the companies said in a joint ​statement.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-sony-to-invest-4-7-billion-in-joint-venture-for-image-sensors/articleshow/133152815.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133152815,imgsize-95820.cms",
+      "publishedAt": "2026-08-11T11:29:11+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/what-europes-oldest-companies-can-teach-its-newest-startups/",
+      "_key": "984fd7b1a1f1517cf920b2d31c724ca3",
+      "title": "What Europe’s oldest companies can teach its newest startups",
+      "originalTitle": "What Europe’s oldest companies can teach its newest startups",
+      "summary": "Europe loves founder stories. We celebrate the courage it takes to build something from nothing, challenge established industries and create entirely new markets. Rightly so. Europe needs more ambitious founders willing to build the companies of tomorrow.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/what-europes-oldest-companies-can-teach-its-newest-startups/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/What-Europes-oldest-companies-can-teach-its-newest-startups.png",
+      "publishedAt": "2026-08-11T10:13:45+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
       ],
       "coverageCount": 1
     },
@@ -1498,7 +2381,8 @@
       "sourcesCovered": [
         "NeoFeed"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/investimento-em-saneamento-basico-bate-recorde-em-2024-mas-brasil-ainda-enfrenta-desafios-para-universalizar-acesso-diz-entidade.ghtml",
@@ -1516,7 +2400,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/loterias/mega-sena/noticia/2026/08/11/mega-sena-pode-pagar-premio-de-r-35-milhoes-nesta-terca-feira-acompanhe-ao-vivo.ghtml",
@@ -1534,7 +2419,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/10/ciencia-e-espaco/quando-tera-um-eclipse-solar-total-visivel-no-brasil/",
@@ -1552,7 +2438,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-10/largest-private-school-bond-deal-in-two-years-hits-muni-market",
@@ -1570,7 +2457,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "The Verge-https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
@@ -1588,7 +2476,8 @@
       "sourcesCovered": [
         "The Verge"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/10/embraer-tem-receita-recorde-de-r-113-bilhoes-no-2o-trimestre-de-2026-e-entrega-65-avioes.ghtml",
@@ -1606,7 +2495,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Crunchbase News-https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/",
@@ -1623,6 +2513,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Crunchbase News"
+      ],
+      "coverageCount": 1,
+      "country": "US"
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/10/european-tech-weekly-recap-eur28b-in-deals-and-mays-highlights/",
+      "_key": "15c2ebc4f822f80d676fe2207b83676c",
+      "title": "highlights",
+      "originalTitle": "highlights",
+      "summary": "Last week, we tracked more than 35 tech funding deals worth over €1 billion and 5 exits, M A transactions, rumours, and related news stories across Europe. 📊 Our latest monthly report, published l...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/10/european-tech-weekly-recap-eur28b-in-deals-and-mays-highlights/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/featured-image-09082026-436.png",
+      "publishedAt": "2026-08-10T08:00:00+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
       ],
       "coverageCount": 1
     },
@@ -1641,6 +2553,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/06/the-uks-top-funded-tech-companies-in-h1-2026/",
+      "_key": "879043758a0d906c060c317d69ee20be",
+      "title": "The UK's top-funded tech companies in H1 2026",
+      "originalTitle": "The UK's top-funded tech companies in H1 2026",
+      "summary": "According toTech.eu's H1 2026 report, the UK remained Europe's largest technology fundingmarket in the first half of 2026, raising €18.7 billion across 423 deals.Capital was concentrated in a limited ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/06/the-uks-top-funded-tech-companies-in-h1-2026/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/uk-h12026-featured-522.png",
+      "publishedAt": "2026-08-06T14:36:00+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
       ],
       "coverageCount": 1
     },
@@ -1668,7 +2602,8 @@
       ],
       "coverageCount": 2,
       "_key": "0f9327f6fe1dc2f07d1db0c0a3291d26",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/intelipost-nomeia-richerland-medeiros-como-novo-cto/",
@@ -1694,7 +2629,8 @@
       ],
       "coverageCount": 2,
       "_key": "dd324317f8ebcf8f99e5ddda86a4b06a",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
@@ -1712,7 +2648,8 @@
       ],
       "coverageCount": 1,
       "_key": "45786850a1858eae7735e755cd6446f2",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/esta-na-hora-de-ouvir-alex-karp/",
@@ -1730,7 +2667,8 @@
       ],
       "coverageCount": 1,
       "_key": "f60d82c7dbbfc90fa7cc4026aaae5c3a",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/em-ano-impar-vela-latam-deve-passar-de-10-aquisicoes.ghtml",
@@ -1762,7 +2700,8 @@
       ],
       "coverageCount": 3,
       "_key": "5688ead35e8fd8ff83e8e99c24263d52",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Crunchbase News-https://news.crunchbase.com/venture/data-billion-dollar-rounds-set-global-funding-record-july-2026/",
@@ -1780,7 +2719,8 @@
       ],
       "coverageCount": 1,
       "_key": "f49559c4bae0f86f79fd3a828cc51186",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/kesh-levanta-meio-bilhao-com-a-leste-para-devolver-juros-como-cashback.ghtml",
@@ -1798,7 +2738,8 @@
       ],
       "coverageCount": 1,
       "_key": "b8531d55c39d24d53c339823e343be62",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Startupi-https://startupi.com.br/agencias-de-fomento-e-cvc-viram-canal-alternativo-para-financiar-inovacao-em-meio-a-juros-altos-como-essa-sinergia-muda-ma-e-valor-de-startups/",
@@ -1816,7 +2757,29 @@
       ],
       "coverageCount": 1,
       "_key": "13b870ed1e29d827b269774230c0b2de",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/usiminas-bba-ve-hora-de-pisar-no-freio-e-corta-recomendacao-para-neutra-acao-cai/",
+      "_key": "b43c4b959d1530d26ee0afcf09653d95",
+      "title": "Usiminas: BBA vê hora de pisar no freio e corta recomendação para neutra; ação cai",
+      "originalTitle": "Usiminas: BBA vê hora de pisar no freio e corta recomendação para neutra; ação cai",
+      "summary": "BBA considera que a combinação de menor força no mercado de aço e perspectivas mais fracas para os resultados da companhia justificam a recomendação The post Usiminas: BBA vê hora de pisar no freio e corta recomendação para neutra; ação cai appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/usiminas-bba-ve-hora-de-pisar-no-freio-e-corta-recomendacao-para-neutra-acao-cai/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/12/2023-12-19T145126Z_1_LYNXMPEJBI0KZ_RTROPTP_4_BRAZIL-USIMINAS-BLASTFURNACE.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T14:39:46+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/cnt-mda-50-dos-brasileiros-defende-proibicao-de-propaganda-eleitoral-feita-com-ia/",
@@ -1834,7 +2797,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/carros/noticia/2026/08/11/vendas-de-carros-desaceleram-na-china.ghtml",
@@ -1852,7 +2816,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "VentureBeat-https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights",
@@ -1869,6 +2834,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "VentureBeat"
+      ],
+      "coverageCount": 1,
+      "country": "US"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/samsung-aims-to-train-20000-youths-in-ai-in-india/articleshow/133154203.cms",
+      "_key": "472da6e577b1c8ce7ce78d5bca147935",
+      "title": "Samsung aims to train 20,000 youths in AI in India",
+      "originalTitle": "Samsung aims to train 20,000 youths in AI in India",
+      "summary": "This will be carried out under the 2026 edition of Samsung Innovation Campus (SIC), the flagship CSR programme dedicated to equipping young people with industry-relevant skills in artificial intelligence (AI), Samsung India said in a statement.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/samsung-aims-to-train-20000-youths-in-ai-in-india/articleshow/133154203.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133154203,imgsize-40350.cms",
+      "publishedAt": "2026-08-11T12:17:56+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -1888,7 +2875,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/brics-discutem-integracao-de-sistemas-de-pagamento-e-moedas-digitais-diz-presidente-do-bc-da-india.ghtml",
@@ -1906,7 +2894,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/noruega-tambem-vai-deixar-de-comprar-carne-do-brasil-a-partir-de-setembro-apos-decisao-da-ue.ghtml",
@@ -1923,6 +2912,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/french-media-asks-french-anti-trust-watchdog-to-act-on-googles-ai/articleshow/133152614.cms",
+      "_key": "663ab7b70476be3c9cd89b581627f803",
+      "title": "French media asks French anti-trust watchdog to act on Google's AI",
+      "originalTitle": "French media asks French anti-trust watchdog to act on Google's AI",
+      "summary": "The ​media have ⁠called on ‌the ​regulator ​to make a ⁠decision similar to the one ​in July that ​ordered Meta to put forward a payment plan and resume talks ‌with traditional media that are seeking ​fees for ​the ⁠use of their content by platforms' AI tools.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/french-media-asks-french-anti-trust-watchdog-to-act-on-googles-ai/articleshow/133152614.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133152614,imgsize-58302.cms",
+      "publishedAt": "2026-08-11T11:24:18+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -1942,7 +2953,8 @@
       "sourcesCovered": [
         "Exame"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
@@ -1960,7 +2972,8 @@
       "sourcesCovered": [
         "The Verge"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/sucessao-na-jbs-marca-volta-da-familia-batista-ao-comando-diz-financial-times.ghtml",
@@ -1977,6 +2990,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3363637/alibaba-says-modular-design-delivers-ai-data-centres-100-days-10-lower-cost?utm_source=rss_feed",
+      "_key": "4962add97412cdab10bbd115d08d2db4",
+      "title": "Alibaba says modular design delivers AI data centres in 100 days at 10% lower cost",
+      "originalTitle": "Alibaba says modular design delivers AI data centres in 100 days at 10% lower cost",
+      "summary": "As demand for artificial intelligence infrastructure surges, Alibaba Group Holding says it can deliver new data centres in a fraction of the usual time while cutting construction costs by 10 per cent through its proprietary modular architecture.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3363637/alibaba-says-modular-design-delivers-ai-data-centres-100-days-10-lower-cost?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/11/dad4da3b-9c09-4135-9f6d-501d5cfdca8e_d79841fd.jpg?itok=8AYCtf1A&v=1786432952",
+      "publishedAt": "2026-08-11T10:00:16+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -1996,6 +3031,49 @@
       "sourcesCovered": [
         "Exame"
       ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3363638/meta-challenge-chinas-open-weight-ai-dominance-amid-us-regulatory-fears?utm_source=rss_feed",
+      "_key": "d2217faff1edf7d9d801cc81d743e95c",
+      "title": "Meta to challenge China’s open-weight AI dominance amid US regulatory fears",
+      "originalTitle": "Meta to challenge China’s open-weight AI dominance amid US regulatory fears",
+      "summary": "China’s dominance in open-weight artificial intelligence faces a fresh challenge from Meta Platforms, whose renewed push into open-source models could lure away American customers anxious about looming regulatory restrictions in Washington, analysts say.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3363638/meta-challenge-chinas-open-weight-ai-dominance-amid-us-regulatory-fears?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/11/2468f940-c31a-4871-b80e-636356ea080f_9f0e4ad5.jpg?itok=0zS0xfAR&v=1786434296",
+      "publishedAt": "2026-08-11T07:30:39+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-users-of-ai-companions-bereft-after-government-tightens-regulations/articleshow/133141379.cms",
+      "_key": "d7d0b115124e0a3a0f05f0ec0eeae0f5",
+      "title": "Chinese users of AI companions bereft after government tightens regulations",
+      "originalTitle": "Chinese users of AI companions bereft after government tightens regulations",
+      "summary": "China has a tradition of paternalistic government regulations meant to pre-empt potential problems, said Yolanda Ma, an expert on AI governance. As an example, she referred to a few cases of suicides in the U.S. by young people after interacting with AI companions.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-users-of-ai-companions-bereft-after-government-tightens-regulations/articleshow/133141379.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133141379,imgsize-12020.cms",
+      "publishedAt": "2026-08-11T03:39:46+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
       "coverageCount": 1
     },
     {
@@ -2014,7 +3092,8 @@
       "sourcesCovered": [
         "VentureBeat"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/negocios/jbs-anuncia-wesley-batista-filho-como-novo-ceo-global-e-ja-mira-o-sp-400/",
@@ -2032,7 +3111,8 @@
       "sourcesCovered": [
         "NeoFeed"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/10/youtube-dobra-exigencia-de-horas-de-exibicao-para-novos-criadores-comecarem-a-ganhar-dinheiro-com-videos-na-plataforma.ghtml",
@@ -2050,7 +3130,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/fachin-vai-apresentar-projeto-de-lei-para-limitar-salarios-de-magistrados/",
@@ -2068,7 +3149,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/openai-freia-nova-ia-por-risco-de-ciberataques-autonomos/",
@@ -2086,7 +3168,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "The Verge-https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
@@ -2104,7 +3187,8 @@
       "sourcesCovered": [
         "The Verge"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/pix/noticia/2026/08/10/bc-trabalha-em-pix-internacional-em-garantia-de-credito-e-discute-uso-indevido-de-mensagens-nas-transacoes.ghtml",
@@ -2122,7 +3206,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/inovacao/em-nova-ofensiva-mark-zuckerberg-volta-a-disparar-contra-os-modelos-fechados-de-ia/",
@@ -2140,7 +3225,8 @@
       "sourcesCovered": [
         "NeoFeed"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/10/dolar-ibovespa.ghtml",
@@ -2158,7 +3244,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/opiniao-a-ai-esta-vivendo-1997/",
@@ -2175,6 +3262,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Brazil Journal"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech?utm_source=rss_feed",
+      "_key": "eb2fcb91e3a851a92fea111321bcf3fb",
+      "title": "China’s top AI is still trained on Nvidia chips. What is delaying a switch to local tech?",
+      "originalTitle": "China’s top AI is still trained on Nvidia chips. What is delaying a switch to local tech?",
+      "summary": "China’s most advanced artificial intelligence models are still being trained on Nvidia chips, sources at major Chinese large language model (LLM) developers say, as the prohibitively high cost of switching to local semiconductors continues to hamper Beijing’s push for self-sufficiency.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/b91890b6-60cb-40aa-86d7-9081e4fdc7e8_7c131702.jpg?itok=S4QqHJCH&v=1786337924",
+      "publishedAt": "2026-08-10T05:00:23+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -2194,7 +3303,8 @@
       "sourcesCovered": [
         "NeoFeed"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/09/cameras-com-ia-prometem-prever-crimes-antes-que-acontecam-mas-acendem-alerta-sobre-privacidade.ghtml",
@@ -2211,6 +3321,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363318/china-faces-new-ai-bottleneck-it-runs-out-chinese-language-training-data?utm_source=rss_feed",
+      "_key": "4aba5d83413dc42d0aacb18d8e6ca5a8",
+      "title": "China faces new AI bottleneck as it runs out of Chinese-language training data",
+      "originalTitle": "China faces new AI bottleneck as it runs out of Chinese-language training data",
+      "summary": "China’s high-stakes race to build next-generation artificial intelligence models is entering a critical new phase, where a less visible yet far more existential threat is coming into view: a severe shortage of high-quality training data.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363318/china-faces-new-ai-bottleneck-it-runs-out-chinese-language-training-data?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/e10ce937-9ea1-42f3-b3d3-be302e0411c3_7adca551.jpg?itok=FcF16R_f&v=1786096982",
+      "publishedAt": "2026-08-08T02:00:23+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -2230,6 +3362,49 @@
       "sourcesCovered": [
         "Brazil Journal"
       ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/native/tech/topics/evolving-world-agentic-ai/article/3363132/ai-scale-must-be-built-both-trust-and-innovation?utm_source=rss_feed",
+      "_key": "ccd617353347a5a4fc652f908041985f",
+      "title": "AI at scale must be built on both trust and innovation",
+      "originalTitle": "AI at scale must be built on both trust and innovation",
+      "summary": "[The content of this article has been produced by our advertising partner.] At the World Artificial Intelligence Conference (WAIC) 2026 in Shanghai, one message stood out above all others: artificial intelligence (AI) is no longer just a technology conversation, it is now a governance conversation.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/native/tech/topics/evolving-world-agentic-ai/article/3363132/ai-scale-must-be-built-both-trust-and-innovation?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/3af00936-1418-4ef5-9852-dd974e02e8af_6a646041.jpg?itok=h7GabMrO&v=1785993898",
+      "publishedAt": "2026-08-07T04:00:08+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/article/3363178/unrelenting-ai-demand-spawns-new-plant-chinese-pcb-maker-victory-giant?utm_source=rss_feed",
+      "_key": "7961ee4c09628faa9348888c37f64dfe",
+      "title": "Unrelenting AI demand spawns new plant for Chinese PCB maker Victory Giant",
+      "originalTitle": "Unrelenting AI demand spawns new plant for Chinese PCB maker Victory Giant",
+      "summary": "Chinese printed circuit board (PCB) maker Victory Giant Technology is aggressively expanding its manufacturing footprint and international order book, highlighting relentless growth momentum across China’s artificial intelligence hardware sector.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/article/3363178/unrelenting-ai-demand-spawns-new-plant-chinese-pcb-maker-victory-giant?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/842d3fdd-ac94-4d70-9499-4129dd21e591_9d8b70a2.jpg?itok=kpB7QWJF&v=1786008106",
+      "publishedAt": "2026-08-06T10:30:05+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
       "coverageCount": 1
     },
     {
@@ -2248,7 +3423,8 @@
       ],
       "coverageCount": 1,
       "_key": "77b0de17c62bb24803548f06fb3a9192",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/negocios/inovacao/tractian-capta-r-120m-com-bndes-para-projeto-de-robotica/",
@@ -2266,7 +3442,8 @@
       ],
       "coverageCount": 1,
       "_key": "20a12b2b2394f3bffd5df46e99a44189",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/adobe-reformula-estrategia-comercial-impacto-da-ia/",
@@ -2284,7 +3461,8 @@
       ],
       "coverageCount": 1,
       "_key": "3faa4ead528e74f67c5df25b64c5d3c2",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/la-fora/bending-spoons-faz-1a-compra-pos-ipo-e-leva-airtable-por-us-128b/",
@@ -2324,7 +3502,8 @@
       ],
       "coverageCount": 4,
       "_key": "8621cfa3e000cfdc0450339c93ed8235",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
@@ -2342,7 +3521,8 @@
       ],
       "coverageCount": 1,
       "_key": "70a3cc4274cc539190b81ce46ffafb4f",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/allianca-propoe-conversao-de-divida-enquanto-procura-comprador.ghtml",
@@ -2360,7 +3540,8 @@
       ],
       "coverageCount": 1,
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/brics-discutem-integracao-de-sistemas-de-pagamento-e-moedas-digitais-diz-bc-da-india/",
@@ -2378,7 +3559,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/cnt-mda-lula-lidera-disputa-com-flavio-por-424-a-287-no-primeiro-turno/",
@@ -2396,7 +3578,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/trump-embarcou-em-voo-secreto-por-meio-de-caminhao-devido-a-ameaca-do-ira/",
@@ -2414,7 +3597,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/allianca-saude-obtem-homologacao-do-plano-de-recuperacao-extrajudicial/",
@@ -2432,7 +3616,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/brasil/sp-intensifica-vacinacao-contra-sarampo-com-acao-em-supermercados-e-padarias/",
@@ -2450,7 +3635,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/iphone-ganhara-modo-que-prova-que-foto-e-real-e-nao-foi-gerada-por-ia/",
@@ -2468,7 +3654,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/esportes/trump-diz-que-infantino-e-fantastico-e-que-fifa-substitui-lo-sera-erro-terrivel/",
@@ -2485,6 +3672,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/hora-de-economizar-selecionamos-notebooks-em-promocao-na-amazon-para-todos-os-perfis/",
+      "_key": "4a19dbebb865d598e080417e25e1156e",
+      "title": "Hora de economizar: selecionamos notebooks em promoção na Amazon para todos os perfis",
+      "originalTitle": "Hora de economizar: selecionamos notebooks em promoção na Amazon para todos os perfis",
+      "summary": "Se você está pensando em trocar o notebook ou presentear alguém com um computador novo, o momento é oportuno. Reunimos três opções em oferta na Amazon que atendem desde quem precisa de um modelo compacto e acessível até quem quer mais desempenho para o dia a dia.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/hora-de-economizar-selecionamos-notebooks-em-promocao-na-amazon-para-todos-os-perfis/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31cXWnEdHBL._SL500_.jpg",
+      "publishedAt": "2026-08-11T14:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
       ],
       "coverageCount": 1
     },
@@ -2504,7 +3713,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/meta-e-tiktok-concordam-em-checar-informacoes-sobre-fronteira-na-espanha-apos-mortes/",
@@ -2521,6 +3731,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/ciencia-e-espaco/brasil-esta-no-coracao-de-uma-anomalia-do-campo-magnetico-da-terra/",
+      "_key": "d55779b382aad7d64a6d720d6a4bced1",
+      "title": "Brasil está no coração de uma anomalia do campo magnético da Terra",
+      "originalTitle": "Brasil está no coração de uma anomalia do campo magnético da Terra",
+      "summary": "Especialista explica a Anomalia Magnética do Atlântico Sul, uma região onde o campo magnético da Terra é mais fraco – e que cobre o Brasil O post Brasil está no coração de uma anomalia do campo magnético da Terra apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/ciencia-e-espaco/brasil-esta-no-coracao-de-uma-anomalia-do-campo-magnetico-da-terra/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Gelvam-Andr-Hartmann-Olhar-Espacial-1024x575.jpg",
+      "publishedAt": "2026-08-11T13:51:33+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
       ],
       "coverageCount": 1
     },
@@ -2540,7 +3772,8 @@
       "sourcesCovered": [
         "Wired"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/tesouro-direto-taxas-sobem-com-ipca-mais-forte-e-novo-alerta-do-bc/",
@@ -2558,7 +3791,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/governo-amplia-lista-de-doencas-que-dao-auxilio-doenca-sem-carencia-veja-quais.ghtml",
@@ -2576,7 +3810,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/quaest-um-em-cada-cinco-eleitores-decide-voto-para-presidente-so-na-ultima-semana/",
@@ -2594,7 +3829,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/economia/producao-industrial-sobe-em-8-dos-18-locais-pesquisados-em-junho-diz-ibge/",
@@ -2612,7 +3848,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/robotica/robo-transforma-violao-comum-em-instrumento-que-toca-sozinho/",
@@ -2630,7 +3867,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/smartwatch-com-ia-a-prova-dagua-e-muito-mais-veja-uma-selecao-em-promocao-na-amazon/",
@@ -2648,7 +3886,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/flavio-cobra-apoio-de-campagnolo-a-carlos-bolsonaro-e-expoe-tensao-no-pl-de-sc/",
@@ -2666,7 +3905,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "VentureBeat-https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt",
@@ -2684,7 +3924,8 @@
       "sourcesCovered": [
         "VentureBeat"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/hora-de-renovar-o-celular-veja-uma-selecao-de-smartphones-xiaomi-em-promocao-na-amazon-3/",
@@ -2702,7 +3943,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "The Verge-https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
@@ -2720,7 +3962,8 @@
       "sourcesCovered": [
         "The Verge"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/carros-e-tecnologia/um-aviao-supersonico-mais-silencioso-nasa-testa-o-x-59/",
@@ -2738,7 +3981,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/depois-do-foie-gras-quais-praticas-de-criacao-e-abate-de-animais-podem-ser-proibidas.ghtml",
@@ -2755,6 +3999,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/meta-tiktok-agree-to-fact-check-content-on-spain-border-crossings-after-deadly-incident/articleshow/133154378.cms",
+      "_key": "b0cd92e812502081af1b938e407083dd",
+      "title": "Meta, TikTok agree to fact check content on Spain border crossings after deadly incident",
+      "originalTitle": "Meta, TikTok agree to fact check content on Spain border crossings after deadly incident",
+      "summary": "The ⁠purpose ⁠is to prevent criminal networks from enticing potential migrants to ​attempt to cross with false information, which has led to ​tragic deaths, European Union tech chief Henna ‌Virkkunen said in a post on X late on Monday.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/meta-tiktok-agree-to-fact-check-content-on-spain-border-crossings-after-deadly-incident/articleshow/133154378.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133154378,imgsize-82950.cms",
+      "publishedAt": "2026-08-11T12:24:59+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -2774,7 +4040,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/bloomberg-brief-08-11-2026-video",
@@ -2792,7 +4059,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/carros/noticia/2026/08/11/ford-do-brasil-adianta-recall-do-mustang.ghtml",
@@ -2810,7 +4078,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/esta-bicicleta-eletrica-usa-pneus-largos-para-encarar-a-cidade/",
@@ -2828,7 +4097,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/hora-de-renovar-a-sala-selecao-de-tvs-oled-e-qled-samsung-em-promocao-na-amazon/",
@@ -2846,7 +4116,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/colombia-quake-levels-buildings-sparks-survivor-search-video",
@@ -2864,7 +4135,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Wired-https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
@@ -2882,7 +4154,8 @@
       "sourcesCovered": [
         "Wired"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/india-s-retail-traders-lost-9-6-billion-in-equity-derivatives",
@@ -2900,7 +4173,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/11/eca-digital-redes-sociais-deverao-abrir-dados-sobre-denuncias-de-violacoes-contra-menores.ghtml",
@@ -2918,7 +4192,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/iphone-18-pro-custo-de-fabricacao-pode-ser-38-maior/",
@@ -2936,7 +4211,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Exame-https://exame.com/inteligencia-artificial/reward-hacking-egress-aberto-e-sandbox-nao-estao-na-biblia-mas-explicam-fugas-de-ias/",
@@ -2954,7 +4230,8 @@
       "sourcesCovered": [
         "Exame"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/europe-stocks-poised-to-grind-higher-bnp-paribas-says-video",
@@ -2971,6 +4248,112 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Bloomberg Markets"
+      ],
+      "coverageCount": 1,
+      "country": "US"
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/ai-is-changing-cyber-threats-recovery-is-becoming-just-as-important-as-prevention",
+      "_key": "a94a8d57e43bba17bcce202a4812e988",
+      "title": "AI is changing cyber threats. Recovery is becoming just as important as prevention",
+      "originalTitle": "AI is changing cyber threats. Recovery is becoming just as important as prevention",
+      "summary": "At a Rubrik and YourStory roundtable in Bengaluru, engineering and cybersecurity leaders discussed how AI is expanding the attack surface, creating new security challenges, and shifting the focus from preventing breaches to recovering from them quickly.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/ai-is-changing-cyber-threats-recovery-is-becoming-just-as-important-as-prevention",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/ChatGPTImageAug112026122109PM-1786431243820.png",
+      "publishedAt": "2026-08-11T07:07:43+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-anthropics-plan-to-watermark-all-claude-generated-content-and-how-it-works/articleshow/133143899.cms",
+      "_key": "5caf6ebde57261c619f142fd2bd506db",
+      "title": "Explained: Anthropic’s plan to watermark all Claude-generated content, and how it works",
+      "originalTitle": "Explained: Anthropic’s plan to watermark all Claude-generated content, and how it works",
+      "summary": "Invisible watermarks will be woven directly into text generated by Claude models. It will not alter the meaning, quality, or readability of a response and can travel with the text when copied elsewhere, potentially persisting through some editing.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-anthropics-plan-to-watermark-all-claude-generated-content-and-how-it-works/articleshow/133143899.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133143899,imgsize-37551.cms",
+      "publishedAt": "2026-08-11T06:15:12+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3363620/gold-breakout-rally-sends-chinese-bullion-stocks-near-highs-central-banks-keep-buying?utm_source=rss_feed",
+      "_key": "b54ba6736d0de319ab85762b96c633eb",
+      "title": "Gold breakout rally sends Chinese bullion stocks near highs as central banks keep buying",
+      "originalTitle": "Gold breakout rally sends Chinese bullion stocks near highs as central banks keep buying",
+      "summary": "A rebound in gold prices has pushed shares of Chinese producers of the precious metal near record highs, while the bullion’s status as a strategic investment remains intact amid global central bank buying and financial stress in the world’s key economies.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3363620/gold-breakout-rally-sends-chinese-bullion-stocks-near-highs-central-banks-keep-buying?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/11/98ecc6d7-f45d-4463-b40a-6767f6738ed1_50e0931c.jpg?itok=EUMmcN-R&v=1786426990",
+      "publishedAt": "2026-08-11T06:00:13+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/11/alibaba-cloud-plans-to-more-than-double-global-modular-data-center-capacity/",
+      "_key": "1fe822a34d5bfa0d659b36be64b0d089",
+      "title": "Alibaba Cloud Plans to More Than Double Global Modular Data Center Capacity",
+      "originalTitle": "Alibaba Cloud Plans to More Than Double Global Modular Data Center Capacity",
+      "summary": "computing infrastructure continues to grow. The cloud-computing arm of Alibaba Group said its modular approach can support the deployment of large AI data centers in about 100 days. The company said the standardized design can [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/11/alibaba-cloud-plans-to-more-than-double-global-modular-data-center-capacity/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/03/%E9%98%BF%E9%87%8C%E4%BA%91.jpg?fit=600%2C600&amp;ssl=1",
+      "publishedAt": "2026-08-11T05:31:38+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/11/li-auto-expects-second-generation-ai-glasses-in-h2-2027/",
+      "_key": "e420fcf5cdd91ce671514cd302735f50",
+      "title": "Li Auto Expects Second-Generation AI Glasses in H2 2027",
+      "originalTitle": "Li Auto Expects Second-Generation AI Glasses in H2 2027",
+      "summary": "Li Auto expects the second generation of its Livis AI glasses to arrive in the second half of 2027. The company is evaluating lens-based display technologies with Zeiss and is also developing native compatibility with HarmonyOS.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/11/li-auto-expects-second-generation-ai-glasses-in-h2-2027/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/04/liauto-image3.jpeg?fit=1024%2C626&amp;ssl=1",
+      "publishedAt": "2026-08-11T05:28:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
       ],
       "coverageCount": 1
     },
@@ -2990,6 +4373,70 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
+      "coverageCount": 1,
+      "country": "US"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/govt-meta-meeting-later-this-week-to-assess-progress-after-multiple-rounds-of-talks-on-issues/articleshow/133141903.cms",
+      "_key": "26106c2e613e7d9a48025011981f5c3b",
+      "title": "Govt-Meta meeting later this week to assess progress after multiple rounds of talks",
+      "originalTitle": "Govt-Meta meeting later this week to assess progress after multiple rounds of talks",
+      "summary": "A technical round of discussions followed on Friday, during which the social media company detailed how it plans to address the Centre's concerns over deepfakes, child sexual abuse material and unlabelled synthetically-generated content on its platforms.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/govt-meta-meeting-later-this-week-to-assess-progress-after-multiple-rounds-of-talks-on-issues/articleshow/133141903.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133141903,imgsize-55252.cms",
+      "publishedAt": "2026-08-11T04:12:24+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/information-tech/hcltech-says-no-evidence-of-system-compromise-after-hacker-groups-data-breach-claim/articleshow/133140791.cms",
+      "_key": "4c599c5d326ed62d25d9467fdc5179ee",
+      "title": "HCLTech says no evidence of system compromise after hacker group’s data breach claim",
+      "originalTitle": "HCLTech says no evidence of system compromise after hacker group’s data breach claim",
+      "summary": "In an exchange filing, HCLTech said its initial investigation found the data \"may be limited and dated to a few years back.\" The company said there was no evidence of a breach of its systems, and no indication that any client engagement was affected.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-says-no-evidence-of-system-compromise-after-hacker-groups-data-breach-claim/articleshow/133140791.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133140791,imgsize-36978.cms",
+      "publishedAt": "2026-08-11T03:03:12+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/mark-zuckerberg-manifesto-sketches-out-metas-ambitions-for-world-changing-ai-technology/articleshow/133140500.cms",
+      "_key": "202452f4b2bd71db1306369216f3188b",
+      "title": "Mark Zuckerberg manifesto sketches out Meta's ambitions for world-changing AI technology",
+      "originalTitle": "Mark Zuckerberg manifesto sketches out Meta's ambitions for world-changing AI technology",
+      "summary": "In a document derided by critics as fantastical, Zuckerberg said his company is working toward an era where everyone will have the tools to create new businesses, receive Ph.D.-level tutoring and provide personalized lifestyle tips.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mark-zuckerberg-manifesto-sketches-out-metas-ambitions-for-world-changing-ai-technology/articleshow/133140500.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133140500,imgsize-48686.cms",
+      "publishedAt": "2026-08-11T02:23:11+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
       "coverageCount": 1
     },
     {
@@ -3008,7 +4455,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
@@ -3026,7 +4474,8 @@
       "sourcesCovered": [
         "The Verge"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/10/china-pede-para-entrar-em-disputa-do-brasil-contra-tarifaco-dos-eua-na-omc.ghtml",
@@ -3044,7 +4493,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/negocios/um-novo-guidance-faz-acao-da-embraer-voar/",
@@ -3062,7 +4512,8 @@
       "sourcesCovered": [
         "NeoFeed"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/poder/fim-da-escala-6x1-e-autonomia-do-bc-congresso-trava-pauta-economica-a-espera-das-urnas/",
@@ -3080,7 +4531,8 @@
       "sourcesCovered": [
         "NeoFeed"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/x-muda-regras-de-monetizacao-e-pode-finalmente-esvaziar-perfis-caca-clique/",
@@ -3098,7 +4550,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/10/quem-e-wesley-batista-filho-que-sera-o-novo-ceo-global-da-jbs.ghtml",
@@ -3116,7 +4569,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/achados/galaxy-s26-plus-atinge-menor-preco-com-cupom-de-45-de-desconto-no-magalu/",
@@ -3134,7 +4588,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://achados.tecnoblog.net/galaxy-s26-plus-atinge-menor-preco-com-cupom-de-45-de-desconto-no-magalu/",
@@ -3152,7 +4607,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/10/jbs-wesley-batista-filho-ceo.ghtml",
@@ -3170,7 +4626,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/jbs-anuncia-wesley-batista-filho-como-novo-ceo-global-a-partir-de-2027/",
@@ -3188,7 +4645,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "VentureBeat-https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push",
@@ -3206,7 +4664,8 @@
       "sourcesCovered": [
         "VentureBeat"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/hugo-motta-declara-apoio-a-reeleicao-de-lula-o-melhor-para-o-pais/",
@@ -3224,7 +4683,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/10/cinema-e-streaming/nasa-chega-ao-discovery-e-hbo-max-com-novos-conteudos-sobre-exploracao-espacial/",
@@ -3242,7 +4702,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/10/reviews/samsung-redmi-e-mais-smartwatches-em-promocao-que-valem-a-pena-conferir/",
@@ -3260,7 +4721,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/sem-alarde-microsoft-desativa-modo-senha-com-imagem-do-windows-11/",
@@ -3278,7 +4740,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/haddad-lanca-plano-de-seguranca-para-sp-com-agencia-antifaccao-e-ia-no-policiamento/",
@@ -3296,7 +4759,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/caiado-cita-arminio-fraga-como-preferencia-ao-ministerio-da-fazenda/",
@@ -3314,7 +4778,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/minhas-financas/ditr-2026-como-declarar/",
@@ -3332,7 +4797,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/terremoto-na-colombia-foi-sentido-no-equador-panama-venezuela-e-ate-em-manaus/",
@@ -3350,7 +4816,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/10/reviews/salve-a-humanidade-e-seja-o-heroi-os-melhores-jogos-de-ps5-em-promocao-na-amazon/",
@@ -3368,7 +4835,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/farmacias-balancos-mostram-avanco-de-rd-e-panvel-radl3-segue-favorita-de-banco/",
@@ -3386,7 +4854,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-10/chile-gives-struggling-copper-giant-codelco-a-2-4-billion-boost",
@@ -3404,7 +4873,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-10/deadly-earthquake-hits-colombia-video",
@@ -3422,7 +4892,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/10/reviews/samsung-lanca-tvs-mini-led-no-brasil-com-foco-em-ia-games-e-casa-conectada/",
@@ -3440,7 +4911,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/vale3-por-que-vale-ainda-pode-avancar-mesmo-com-minerio-em-queda/",
@@ -3458,7 +4930,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "VentureBeat-https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code",
@@ -3476,7 +4949,8 @@
       "sourcesCovered": [
         "VentureBeat"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/spotify-testa-botao-que-pula-trechos-comerciais-em-podcasts/",
@@ -3494,7 +4968,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/10/trump-amplia-prazo-de-regra-que-facilita-transporte-de-combustiveis-nos-eua.ghtml",
@@ -3512,7 +4987,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/zuckerberg-critica-regulacao-da-ia-e-diz-que-centralizacao-e-um-problema/",
@@ -3530,7 +5006,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "VentureBeat-https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
@@ -3548,7 +5025,8 @@
       "sourcesCovered": [
         "VentureBeat"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/10/eua-respondem-ao-brasil-na-omc-e-dizem-que-estao-a-disposicao-para-discutir-tarifaco.ghtml",
@@ -3566,7 +5044,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/10/tirar-discord-do-ar-como-pediu-janja-nao-resolve-problema-e-pode-empurrar-usuarios-para-outros-lugares.ghtml",
@@ -3584,7 +5063,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/linus-torvalds-encontrar-bugs-usando-ia-e-o-novo-normal-no-linux/",
@@ -3602,7 +5082,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "VentureBeat-https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next",
@@ -3620,7 +5101,8 @@
       "sourcesCovered": [
         "VentureBeat"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/samsung-estreia-linha-de-entrada-de-tvs-mini-led-no-brasil/",
@@ -3637,6 +5119,49 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Tecnoblog"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/the-renaissance-of-customer-care/",
+      "_key": "1e217b73980c03b94a01279716825816",
+      "title": "The renaissance of customer care",
+      "originalTitle": "The renaissance of customer care",
+      "summary": "The prediction was almost unanimous: AI would automate customer service out of existence. It got the direction exactly wrong. The technology meant to replace people is quietly making room for the one thing that makes service matter: the human relationship.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/the-renaissance-of-customer-care/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/The-renaissance-of-customer-care.png",
+      "publishedAt": "2026-08-10T13:59:57+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363549/enterprise-ai-costs-hit-2026-low-driven-price-wars-chinese-open-source-models-research?utm_source=rss_feed",
+      "_key": "3b11c01904df528fe2c9bfb20919251e",
+      "title": "Enterprise AI costs hit 2026 low driven by price wars, Chinese open-source models: research",
+      "originalTitle": "Enterprise AI costs hit 2026 low driven by price wars, Chinese open-source models: research",
+      "summary": "The cost for businesses to run AI models has fallen to a yearly low, according to research by investment bank Jefferies, driven by a heated global price war and a surge in adoption of low-cost Chinese open-source tools, such as those from DeepSeek.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363549/enterprise-ai-costs-hit-2026-low-driven-price-wars-chinese-open-source-models-research?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/9a6da837-2c9e-4e21-86a1-82ad760f4b06_dd5e5028.jpg?itok=Ko-HLPrr&v=1786359025",
+      "publishedAt": "2026-08-10T13:30:06+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -3656,6 +5181,49 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/opinion/world-opinion/article/3363437/us-does-its-robotics-industry-no-favours-fencing-it-china?utm_source=rss_feed",
+      "_key": "d82faca7367a9f8ae9caef216ebcc3b4",
+      "title": "US does its robotics industry no favours by fencing it off from China",
+      "originalTitle": "US does its robotics industry no favours by fencing it off from China",
+      "summary": "Concession speeches follow a formula: the vocabulary of defiance, thanks to the faithful, a promise that the fight goes on. Last month, Brendan Carr, chairman of the US Federal Communications Commission (FCC), essentially delivered one on behalf of American robotics.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3363437/us-does-its-robotics-industry-no-favours-fencing-it-china?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/e9de8bb6-b404-49a2-be0e-2e8329dfdc68_a5a5d09e.jpg?itok=Ve_Zg6pl&v=1786262331",
+      "publishedAt": "2026-08-10T12:30:06+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/10/isembard-a-politicians-wet-dream-says-its-founder/",
+      "_key": "f8dcb13cca2605512d14bc33e0437078",
+      "title": "Isembard founder: We're a politician's wet dream",
+      "originalTitle": "Isembard founder: We're a politician's wet dream",
+      "summary": "At the tail end of London’s Bakerloo tube line, heading towards a north-west London suburb called Harlesden, the whirring sound of manufacturing, from rotating electronic motors to cooling fans, can b...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/10/isembard-a-politicians-wet-dream-says-its-founder/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-745-952.png",
+      "publishedAt": "2026-08-10T12:30:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
       "coverageCount": 1
     },
     {
@@ -3674,7 +5242,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Wired-https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
@@ -3692,7 +5261,8 @@
       "sourcesCovered": [
         "Wired"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/economia/anac-planeja-leilao-do-santos-dumont-para-2027-e-preve-regras-para-atrair-aereas-estrangeiras/",
@@ -3710,7 +5280,8 @@
       "sourcesCovered": [
         "NeoFeed"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/videos/numeros-falam/o-numero-mais-importante-da-smart-fit-ja-nao-e-o-de-academias/",
@@ -3727,6 +5298,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "NeoFeed"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/china-evs/article/3363540/can-catls-battery-breakthrough-push-flying-cars-closer-commercial-reality-china?utm_source=rss_feed",
+      "_key": "c64c319a4e9a136d3a36c3d6901f8149",
+      "title": "Can CATL’s battery breakthrough push flying cars closer to a commercial reality in China?",
+      "originalTitle": "Can CATL’s battery breakthrough push flying cars closer to a commercial reality in China?",
+      "summary": "Contemporary Amperex Technology Ltd (CATL), the world’s largest electric vehicle (EV) battery maker, has thrown its weight behind flying cars after its aviation battery system cleared a major safety test.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-evs/article/3363540/can-catls-battery-breakthrough-push-flying-cars-closer-commercial-reality-china?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/85b78e33-987d-48b6-b01a-7fc3222fc41e_61e41012.jpg?itok=2GNFZUaE&v=1786355749",
+      "publishedAt": "2026-08-10T09:55:49+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
       ],
       "coverageCount": 1
     },
@@ -3746,6 +5339,70 @@
       "sourcesCovered": [
         "Brazil Journal"
       ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/10/tencent-reportedly-makes-workbuddy-a-top-strategic-ai-priority/",
+      "_key": "b001b1b75827a9de565ac347a0fc61e0",
+      "title": "Tencent reportedly makes WorkBuddy a top strategic AI priority",
+      "originalTitle": "Tencent reportedly makes WorkBuddy a top strategic AI priority",
+      "summary": "computing and organizational resources for the product. The campaign has included outdoor advertising in Beijing and Shenzhen and promotional placements across major mobile apps. WorkBuddy is a desktop AI office agent that can break down instructions into multiple [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/10/tencent-reportedly-makes-workbuddy-a-top-strategic-ai-priority/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/10/tencent-average_person-XYjLiJxQmAU-unsplash.jpg?fit=1024%2C683&amp;ssl=1",
+      "publishedAt": "2026-08-10T07:23:47+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/10/former-bytedance-robotics-head-reportedly-joins-xiaomi/",
+      "_key": "e24b6c113e4fdbd4be746bc5046f3b58",
+      "title": "Former ByteDance robotics head reportedly joins Xiaomi",
+      "originalTitle": "Former ByteDance robotics head reportedly joins Xiaomi",
+      "summary": "Former ByteDance robotics team head Kong Tao has reportedly joined Xiaomi, where he now leads a team developing foundation models for robots. Several people familiar with the matter said Kong joined Xiaomi in 2025 and brought a number of former ByteDance colleagues with him.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/10/former-bytedance-robotics-head-reportedly-joins-xiaomi/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/xiaomi_robotics_16x9_en.png?fit=1024%2C576&amp;ssl=1",
+      "publishedAt": "2026-08-10T07:22:38+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/10/wechat-tests-ai-assisted-writing-and-comments-in-moments/",
+      "_key": "82b930907f8aa7ac0125196b5cf23df0",
+      "title": "WeChat tests AI-assisted writing and comments in Moments",
+      "originalTitle": "WeChat tests AI-assisted writing and comments in Moments",
+      "summary": "WeChat is testing two AI features in Moments: AI-assisted writing and AI-generated comments. Screenshots from the test show an “AI Writing” button in the Moments publishing interface that can help users generate post copy.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/10/wechat-tests-ai-assisted-writing-and-comments-in-moments/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/wechat-adem-ay-zs-41Br0WhQ-unsplash.jpg?fit=1024%2C683&amp;ssl=1",
+      "publishedAt": "2026-08-10T07:07:08+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
       "coverageCount": 1
     },
     {
@@ -3764,7 +5421,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/09/por-que-miami-virou-a-nova-capital-dos-ultrarricos-nos-eua-e-ficou-mais-cara-ate-que-nova-york.ghtml",
@@ -3782,7 +5440,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/09/a-volta-por-cima-dos-irmaos-batista-como-donos-da-jbs-sairam-da-lava-jato-e-voltaram-aos-holofotes-com-participacao-ate-na-diplomacia-mundial.ghtml",
@@ -3800,7 +5459,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/empreendedorismo/pegn/noticia/2026/08/09/mercado-offline.ghtml",
@@ -3817,6 +5477,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363448/moore-threads-plans-hong-kong-listing-after-posting-147-jump-first-half-revenue?utm_source=rss_feed",
+      "_key": "4eabb61d5081d6add9e194aa84824423",
+      "title": "Moore Threads plans Hong Kong listing after posting 147% jump in first-half revenue",
+      "originalTitle": "Moore Threads plans Hong Kong listing after posting 147% jump in first-half revenue",
+      "summary": "Chinese artificial intelligence (AI) chip developer Moore Threads plans to seek a listing in Hong Kong after reporting a 147 per cent jump in first-half revenue, as the Nvidia challenger seeks fresh capital amid booming demand for home-grown computing power.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363448/moore-threads-plans-hong-kong-listing-after-posting-147-jump-first-half-revenue?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/b89e0597-86ae-47df-a3af-e8d24d9a5430_3ae7fd8c.jpg?itok=IMKz0-BW&v=1786274443",
+      "publishedAt": "2026-08-09T11:20:44+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -3836,7 +5518,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/09/familia-roncoleta-mantem-tradicao-agricola-ha-cinco-geracoes-em-getulina.ghtml",
@@ -3854,7 +5537,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/09/expo-rio-preto-atrai-50-mil-visitantes-na-primeira-semana.ghtml",
@@ -3872,7 +5556,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/no-rio-grande-do-sul-gabriel-souza-tem-um-desafio-que-so-caiado-entende/",
@@ -3890,7 +5575,8 @@
       "sourcesCovered": [
         "Brazil Journal"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/opiniao-por-que-o-agro-bombou-e-a-industria-brasileira-flopou/",
@@ -3908,7 +5594,8 @@
       "sourcesCovered": [
         "Brazil Journal"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/editorial-ninguem-cuida-do-circo/",
@@ -3926,7 +5613,8 @@
       "sourcesCovered": [
         "Brazil Journal"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/a-china-esta-atropelando-o-ocidente-este-livro-mostra-os-riscos-para-o-brasil/",
@@ -3944,7 +5632,8 @@
       "sourcesCovered": [
         "Brazil Journal"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/achados/galaxy-a36-128-gb-surge-em-promocao-com-preco-imbativel-no-mercado-livre/",
@@ -3962,7 +5651,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://achados.tecnoblog.net/galaxy-a36-128-gb-surge-em-promocao-com-preco-imbativel-no-mercado-livre/",
@@ -3980,7 +5670,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/asimov-estava-certo-sobre-regras-para-ia-diz-ex-diretor-de-ciberseguranca-dos-eua/",
@@ -3998,7 +5689,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/guias/melhor-smartwatch-samsung/",
@@ -4015,6 +5707,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Tecnoblog"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/06/mobilise-launches-investment-arm-to-scale-telecom-software-companies-through-strategic-partnerships/",
+      "_key": "d8c91d6cf6ffb38bcaf0e2af0f6f3f0b",
+      "title": "Mobilise launches investment arm to scale telecom software companies through strategic partnerships",
+      "originalTitle": "Mobilise launches investment arm to scale telecom software companies through strategic partnerships",
+      "summary": "Telecom software provider Mobilise has launched Mobilise Platforms Investments, a new division created to help specialist telecom technology businesses scale by combining strategic investment, t...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/06/mobilise-launches-investment-arm-to-scale-telecom-software-companies-through-strategic-partnerships/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-21-434.png",
+      "publishedAt": "2026-08-06T10:04:01+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
       ],
       "coverageCount": 1
     },
@@ -4034,7 +5748,8 @@
       "sourcesCovered": [
         "Rest of World"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Crunchbase News-https://news.crunchbase.com/ai/strategies-enhancing-exit-value-acquisitions-sagie/",
@@ -4052,7 +5767,8 @@
       ],
       "coverageCount": 1,
       "_key": "54767ef34638b518700b3ecd13a66fe3",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/",
@@ -4070,7 +5786,8 @@
       ],
       "coverageCount": 1,
       "_key": "f757af00d6a6db5fe034518ef6a0fa61",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/crise-do-controlador-da-havanna-gera-atrito-com-franqueados.ghtml",
@@ -4088,7 +5805,8 @@
       ],
       "coverageCount": 1,
       "_key": "36743c372e124f312df1d07d3badd828",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/nestle-tambem-esta-de-olho-na-bauducco.ghtml",
@@ -4106,7 +5824,8 @@
       ],
       "coverageCount": 1,
       "_key": "f0cad14b9285ad2f95dc05e8f9ac40e6",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/artigos/ia-revolucao-industrial/",
@@ -4124,7 +5843,8 @@
       ],
       "coverageCount": 1,
       "_key": "51eea369920d27ba9a73999f6890a40b",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Rest of World-https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
@@ -4142,7 +5862,8 @@
       "sourcesCovered": [
         "Rest of World"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
@@ -4160,7 +5881,8 @@
       ],
       "coverageCount": 1,
       "_key": "fc7975238e7c7729d6017faee29102dc",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "IT Forum-https://itforum.com.br/artigos/empresas-agent-ready/",
@@ -4185,7 +5907,8 @@
       ],
       "coverageCount": 2,
       "_key": "683ddbc5603d44b330f26cffea28bd93",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/openai-comeca-a-mostrar-anuncios-no-chatgpt-para-usuarios-no-brasil/",
@@ -4203,7 +5926,8 @@
       ],
       "coverageCount": 1,
       "_key": "b5c6986628ce67cc8ddf15b1c154013d",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
@@ -4235,7 +5959,8 @@
       ],
       "coverageCount": 3,
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/oms-defende-calendario-vacinal-apos-trump-determinar-reducao-de-vacinas-infantis/",
@@ -4253,7 +5978,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/china-mercado-de-carros-se-enfraquece-em-julho-com-demanda-fraca-e-alta-do-petroleo/",
@@ -4271,7 +5997,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/quer-jogar-sem-travar-confira-uma-selecao-de-notebooks-gamer-em-promocao-na-amazon-6/",
@@ -4289,7 +6016,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
@@ -4307,7 +6035,8 @@
       "sourcesCovered": [
         "The Verge"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/grupo-sbf-sao-martinho-terra-santa-e-mais-empresas-divulgam-resultados-do-2t/",
@@ -4325,7 +6054,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "The Verge-https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
@@ -4343,7 +6073,8 @@
       "sourcesCovered": [
         "The Verge"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/buying-opportunity-forms-around-s-p-skeptics-refusal-to-give-up",
@@ -4361,7 +6092,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/pro/nova-york-avanca-contra-terceirizacao-de-entregadores-da-amazon/",
@@ -4379,7 +6111,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/us-stock-futures-rise-as-oil-erases-gains-on-iran-optimism",
@@ -4397,7 +6130,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-em-julho.ghtml",
@@ -4415,7 +6149,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/fed-to-take-wait-and-see-stance-on-rates-laura-cooper-video",
@@ -4433,7 +6168,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/ihg-sees-positive-momentum-continuing-in-second-half",
@@ -4451,7 +6187,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/the-pulse-8-11-2026-video",
@@ -4469,7 +6206,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/turkish-funds-urge-action-as-stock-swings-threaten-msci-status",
@@ -4487,7 +6225,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-promocao-na-amazon-34/",
@@ -4505,7 +6244,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/internet-e-redes-sociais/jogos-de-hoje-11-08-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/",
@@ -4523,7 +6263,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/governo-define-datas-para-recesso-no-natal-e-no-ano-novo-veja-regras.ghtml",
@@ -4541,7 +6282,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Wired-https://www.wired.com/story/book-excerpt-rise-and-fall-of-the-artificial-state-jill-lepore-silicon-valley-sci-fi/",
@@ -4559,7 +6301,8 @@
       "sourcesCovered": [
         "Wired"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/coreweave-s-forecast-is-key-to-stopping-another-earnings-selloff",
@@ -4576,6 +6319,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Bloomberg Markets"
+      ],
+      "coverageCount": 1,
+      "country": "US"
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/flipkart-expands-tamil-nadu-footprint-focus-on-digital-commerce-tech-supply-chain",
+      "_key": "14c9e3ad3089449cf36479ad93f8abcc",
+      "title": "Flipkart expands Tamil Nadu footprint with focus on digital commerce, tech and supply chain",
+      "originalTitle": "Flipkart expands Tamil Nadu footprint with focus on digital commerce, tech and supply chain",
+      "summary": "The company said nearly 70,000 sellers from Tamil Nadu are using its platform to access customers nationwide, with businesses ranging from Tiruppur's knitwear cluster and textile hubs in Erode and Salem to Kancheepuram's silk weavers and artisan communities in Thanjavur.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/flipkart-expands-tamil-nadu-footprint-focus-on-digital-commerce-tech-supply-chain",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/47ea3f60084e11efbdcb2f46d4aa7266/FlipcartWalmartFeatureImage-1715923479781.jpg",
+      "publishedAt": "2026-08-11T07:32:19+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
       ],
       "coverageCount": 1
     },
@@ -4595,7 +6360,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Wired-https://www.wired.com/story/sealy-promo-code/",
@@ -4612,6 +6378,91 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Wired"
+      ],
+      "coverageCount": 1,
+      "country": "US"
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/11/doubao-introduces-a-12-service-fee-for-hotel-bookings-made-through-its-channel/",
+      "_key": "0fd29fea0cde6e2b9f10face4d4b6c7e",
+      "title": "Doubao Introduces a 12% Service Fee for Hotel Bookings Made Through Its Channel",
+      "originalTitle": "Doubao Introduces a 12% Service Fee for Hotel Bookings Made Through Its Channel",
+      "summary": "through its channel on Douyin’s local-services platform. The combined charge is about 12%, including an 11.4% software service fee and a 0.6% payment fee. The policy took effect on Aug. 10. The fee is applied to hotel orders completed through the channel. [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/11/doubao-introduces-a-12-service-fee-for-hotel-bookings-made-through-its-channel/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/05/china-doubao.png?fit=692%2C646&amp;ssl=1",
+      "publishedAt": "2026-08-11T04:57:24+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/11/chinese-makers-accounted-for-more-than-97-of-global-humanoid-robot-shipments-in-h1-2026/",
+      "_key": "ff679b9ef527dfbdd908af3ab881a518",
+      "title": "Chinese Makers Accounted for More Than 97% of Global Humanoid Robot Shipments in H1 2026",
+      "originalTitle": "Chinese Makers Accounted for More Than 97% of Global Humanoid Robot Shipments in H1 2026",
+      "summary": "Chinese manufacturers accounted for more than 97% of global humanoid robot shipments in the first half of 2026, with total global shipments reaching about 19,100 units, up from roughly 5,100 units in the same period last year.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/11/chinese-makers-accounted-for-more-than-97-of-global-humanoid-robot-shipments-in-h1-2026/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/12/G1-1.png?fit=1024%2C566&amp;ssl=1",
+      "publishedAt": "2026-08-11T04:48:51+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/11/beyond-mobility-unitrees-gd01-signals-the-next-phase-of-chinas-robotics-battle/",
+      "_key": "df7be3b613b3fefb69b33f863757bd25",
+      "title": "Beyond mobility: Unitree’s GD01 signals the next phase of China’s robotics battle",
+      "originalTitle": "Beyond mobility: Unitree’s GD01 signals the next phase of China’s robotics battle",
+      "summary": "In 2026, Unitree Robotics once again put itself at the center of the robotics industry’s conversation. Last month, Unitree founder and CEO Wang Xingxing appeared alongside the company’s GD01 manned mech on the cover of TIME magazine.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/11/beyond-mobility-unitrees-gd01-signals-the-next-phase-of-chinas-robotics-battle/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/GD01-pic1.png?fit=1024%2C568&amp;ssl=1",
+      "publishedAt": "2026-08-11T02:44:52+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/markets/article/3363591/hong-kong-index-compiler-proposes-adding-20-more-stocks-main-technology-tracker?utm_source=rss_feed",
+      "_key": "7ed7b650e5f72f0036e1c01cff8f8741",
+      "title": "Hong Kong index compiler proposes adding 20 more stocks to main technology tracker",
+      "originalTitle": "Hong Kong index compiler proposes adding 20 more stocks to main technology tracker",
+      "summary": "Hang Seng Indexes Company plans to expand the Hang Seng Tech Index (HSTECH) to 50 constituents and introduce “sales growth” as a criterion for selection to strengthen market representation, according to a consultation paper released on Monday.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/markets/article/3363591/hong-kong-index-compiler-proposes-adding-20-more-stocks-main-technology-tracker?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/11/62a49e73-be97-47c1-ad26-282f8b965a08_eaed0478.jpg?itok=WI_dw3x7&v=1786414185",
+      "publishedAt": "2026-08-11T02:09:55+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
       ],
       "coverageCount": 1
     },
@@ -4631,7 +6482,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/economia/eua-afirmam-que-estao-a-disposicao-do-brasil-para-conversar-sobre-tarifaco/",
@@ -4649,7 +6501,8 @@
       "sourcesCovered": [
         "InfoMoney"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-10/oil-jumps-as-markets-await-clarity-closing-bell-video",
@@ -4667,7 +6520,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "The Verge-https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
@@ -4685,7 +6539,8 @@
       "sourcesCovered": [
         "The Verge"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-10/fed-s-hammack-says-some-number-of-rate-hikes-may-be-needed",
@@ -4703,7 +6558,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-10/test-your-etf-knowledge-in-our-iq-test-video",
@@ -4721,7 +6577,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/10/ciencia-e-espaco/espelhos-no-espaco-podem-iluminar-a-terra-e-afetar-a-vida-noturna/",
@@ -4739,7 +6596,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-10/jbs-returns-leadership-to-batista-clan-as-scion-named-next-ceo",
@@ -4757,7 +6615,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-10/avantis-etf-cracks-small-cap-code-video",
@@ -4775,7 +6634,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/10/reviews/hora-de-renovar-sua-impressora-veja-uma-selecao-com-otimas-opcoes-em-promocao-na-amazon-2/",
@@ -4793,7 +6653,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/10/games-e-consoles/analise-do-cenario-de-rainbow-6-e-expectativas-para-o-futuro/",
@@ -4811,7 +6672,8 @@
       "sourcesCovered": [
         "Olhar Digital"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-10/freightwaves-ceo-says-freight-recession-is-over-video",
@@ -4829,7 +6691,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "The Verge-https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
@@ -4847,7 +6710,8 @@
       "sourcesCovered": [
         "The Verge"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-10/us-natural-gas-surges-as-hotter-outlooks-trigger-short-covering",
@@ -4865,7 +6729,8 @@
       "sourcesCovered": [
         "Bloomberg Markets"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/previsao-do-tempo-do-windows-usa-5-vezes-mais-ram-que-no-mac/",
@@ -4883,7 +6748,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/10/desenrola-adimplentes-quem-pode-participar.ghtml",
@@ -4901,7 +6767,8 @@
       "sourcesCovered": [
         "G1 Economia"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "VentureBeat-https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority",
@@ -4919,7 +6786,8 @@
       "sourcesCovered": [
         "VentureBeat"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/blog/ana-flor/post/2026/08/10/por-reaproximacao-com-lula-alcolumbre-atuou-por-neutralidade-da-federacao-uniao-pp-em-estados-chave.ghtml",
@@ -4936,6 +6804,91 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1,
+      "country": "BR"
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/10/revolut-clinches-french-banking-licence/",
+      "_key": "dfbdf04e8ebe41beccca7f9332457d51",
+      "title": "Revolut clinches French banking licence",
+      "originalTitle": "Revolut clinches French banking licence",
+      "summary": "Revolut today said it had secured a French banking licence, as it looks to beef up its regulatory standards across Western Europe, its fastest-growing region. Europe’s most valuable tech firm said it ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/10/revolut-clinches-french-banking-licence/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2024/08/revolut-106.png",
+      "publishedAt": "2026-08-10T09:13:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/10/apple-says-mainland-china-has-not-launched-qwen-integration-after-mac-guide-disappears/",
+      "_key": "89eb55cef521b0f3c54d4dfadea267b6",
+      "title": "after Mac guide disappears",
+      "originalTitle": "after Mac guide disappears",
+      "summary": "Mac support guide mentioning the integration disappeared from Apple’s website. The guide appeared on Aug. 8 and said Apple Intelligence could work with Alibaba’s Qwen model. Apple customer service said it had not received [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/10/apple-says-mainland-china-has-not-launched-qwen-integration-after-mac-guide-disappears/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/10/apple-17.png?fit=1024%2C469&amp;ssl=1",
+      "publishedAt": "2026-08-10T07:23:12+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/10/china-gpu-maker-moore-threads-plans-hong-kong-listing-after-h1-revenue-jumps-147/",
+      "_key": "7af3144c721ed8e1ea16068c5737fa05",
+      "title": "China GPU maker Moore Threads plans Hong Kong listing after H1 revenue jumps 147%",
+      "originalTitle": "China GPU maker Moore Threads plans Hong Kong listing after H1 revenue jumps 147%",
+      "summary": "Hong Kong Stock Exchange’s Main Board. The plan was approved on Aug. 7 and disclosed on Aug. 10, while the timetable and offering size have not been finalized. The company reported first-half revenue [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/10/china-gpu-maker-moore-threads-plans-hong-kong-listing-after-h1-revenue-jumps-147/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2023/11/%E6%88%AA%E5%B1%8F2023-11-16-%E4%B8%8B%E5%8D%884.13.45.png?fit=720%2C488&amp;ssl=1",
+      "publishedAt": "2026-08-10T07:22:06+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/business/china-business/article/3363490/how-china-dram-champion-cxmts-msci-entry-could-lure-fund-inflows-cement-its-top-ranking?utm_source=rss_feed",
+      "_key": "225ee65291322e86e93ee611f7bf22c6",
+      "title": "How China DRAM champion CXMT’s MSCI entry could lure fund inflows, cement its top ranking",
+      "originalTitle": "How China DRAM champion CXMT’s MSCI entry could lure fund inflows, cement its top ranking",
+      "summary": "The inclusion of ChangXin Memory Technologies (CXMT) in a broad MSCI gauge of Chinese stocks may strengthen the chipmaker’s position as the most valuable stock on the onshore market, with the move expected to spur passive buying, analysts say.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3363490/how-china-dram-champion-cxmts-msci-entry-could-lure-fund-inflows-cement-its-top-ranking?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/a7b0b910-2374-4ca2-8bac-23ab473e6fc5_c7d240b2.jpg?itok=TK41-atk&v=1786337789",
+      "publishedAt": "2026-08-10T05:00:21+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -4955,7 +6908,8 @@
       "sourcesCovered": [
         "Wired"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/finde/novelas-em-ritmo-do-tiktok-microdramas-microtransacoes-e-um-possivel-macroproblema/",
@@ -4973,7 +6927,8 @@
       "sourcesCovered": [
         "NeoFeed"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Wired-https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
@@ -4991,7 +6946,8 @@
       "sourcesCovered": [
         "Wired"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/apos-chrome-edge-tambem-perdera-o-ublock-origin-e-outras-extensoes-mv2/",
@@ -5009,7 +6965,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/achados/moto-g86-512-gb-tem-promocao-na-amazon-com-2o-maior-desconto-ja-visto-de-46/",
@@ -5027,7 +6984,8 @@
       "sourcesCovered": [
         "Tecnoblog"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "BR"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
@@ -5045,7 +7003,8 @@
       "sourcesCovered": [
         "TechCrunch Startups"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
@@ -5062,6 +7021,49 @@
       "alsoIn": [],
       "sourcesCovered": [
         "TechCrunch Startups"
+      ],
+      "coverageCount": 1,
+      "country": "US"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363308/beyond-lithography-chinese-chip-toolmaker-achieves-wafer-polishing-breakthrough?utm_source=rss_feed",
+      "_key": "8d37953bc4a6f726dcf5c0c58d245eec",
+      "title": "breakthrough",
+      "originalTitle": "breakthrough",
+      "summary": "Chinese chip-tool developers continue to make technical progress, with the latest breakthrough in wafer polishing – a critical manufacturing step that flattens and smooths silicon discs – even as the industry remains heavily dependent on foreign suppliers for more complex manufacturing procedures.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363308/beyond-lithography-chinese-chip-toolmaker-achieves-wafer-polishing-breakthrough?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/1a781dc7-6d79-432c-a6ce-6d09e0414b6b_296c521c.jpg?itok=dfbyspSi&v=1786094324",
+      "publishedAt": "2026-08-07T10:30:07+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/07/alibaba-adds-scheduled-tasks-and-office-assistant-to-qwen-app/",
+      "_key": "112e5a0c012662819cdc12159100c98d",
+      "title": "Alibaba Adds Scheduled Tasks and Office Assistant to Qwen App",
+      "originalTitle": "Alibaba Adds Scheduled Tasks and Office Assistant to Qwen App",
+      "summary": "calls, a research mode and an agent marketplace, while adding support for the Qwen3.8-Max flagship model. The scheduled-task feature can handle recurring work such as compiling industry news and sorting emails.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/07/alibaba-adds-scheduled-tasks-and-office-assistant-to-qwen-app/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/10/qwen.png?fit=1024%2C576&amp;ssl=1",
+      "publishedAt": "2026-08-07T06:41:07+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
       ],
       "coverageCount": 1
     },
@@ -5080,6 +7082,28 @@
       "alsoIn": [],
       "sourcesCovered": [
         "TechCrunch Startups"
+      ],
+      "coverageCount": 1,
+      "country": "US"
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/06/meet-the-photonics-scaleups-building-tomorrow-s-critical-technologies/",
+      "_key": "ddd15ea78a7406772ec2d694079c30b8",
+      "title": "Meet the photonics scaleups building tomorrow's critical technologies",
+      "originalTitle": "Meet the photonics scaleups building tomorrow's critical technologies",
+      "summary": "From faster internet and more secure satellite communications to next-generation semiconductors, quantum technologies and energy-generating greenhouses, photonics is becoming one of Europe's most stra...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/06/meet-the-photonics-scaleups-building-tomorrow-s-critical-technologies/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-19-907.png",
+      "publishedAt": "2026-08-06T09:03:49+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
       ],
       "coverageCount": 1
     },
@@ -5107,7 +7131,8 @@
       ],
       "coverageCount": 2,
       "_key": "87cef42e52025ac035a2b692f50bad95",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Crunchbase News-https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager/",
@@ -5125,7 +7150,8 @@
       "sourcesCovered": [
         "Crunchbase News"
       ],
-      "coverageCount": 1
+      "coverageCount": 1,
+      "country": "US"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/tcl-lanca-o-tablet-intermediario-tab-a1-plus/",
@@ -5143,7 +7169,8 @@
       ],
       "coverageCount": 1,
       "_key": "ff07b0f08b6cb6790edbed5c2ed2a181",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/all-set-de-leo-jereissati-cria-vertical-de-retail-media.ghtml",
@@ -5161,7 +7188,8 @@
       ],
       "coverageCount": 1,
       "_key": "891e45723102f47e769137eef246a307",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Startupi-https://startupi.com.br/o-fim-do-dinheiro-facil-e-a-era-da-eficiencia-no-venture-capital-brasileiro/",
@@ -5179,7 +7207,8 @@
       ],
       "coverageCount": 1,
       "_key": "9e7fdd64fc9811f4a48ce9d3899e1f6a",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/a-nova-mao-de-obra-20-rodadas-em-tres-meses-para-startups-de-robos-humanoides.ghtml",
@@ -5197,7 +7226,8 @@
       ],
       "coverageCount": 1,
       "_key": "d3e57b42108dfa8cf76e875638e19bb7",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Brazil Journal-https://braziljournal.com/o-carnezinho-do-iphone-o-grande-experimento-da-apple-com-assinaturas/",
@@ -5215,7 +7245,8 @@
       ],
       "coverageCount": 1,
       "_key": "3cb007fa8af7dbcd6072530f97473b5a",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/gavea-encerra-gestao-de-multimercados-esse-mercado-mudou-diz-arminio-fraga.ghtml",
@@ -5233,7 +7264,8 @@
       ],
       "coverageCount": 1,
       "_key": "79d5aa86ddd16c0347d212080b4f6168",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/samsung-assembleia-extraordinaria/",
@@ -5251,7 +7283,8 @@
       ],
       "coverageCount": 1,
       "_key": "c48f7f4a67ce08a51f5215cef7c2b6bb",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/eua-restricao-componentes-chineses/",
@@ -5269,7 +7302,8 @@
       ],
       "coverageCount": 1,
       "_key": "c7bd4e71868c971aa3b34a353bbbd7ac",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/databricks-aquisicao-panther/",
@@ -5287,7 +7321,8 @@
       ],
       "coverageCount": 1,
       "_key": "2bf1e7cb1daa5301efba50326c688bf7",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/creditas-colhe-frutos-da-ia-antes-do-esperado-mas-lucro-segue-distante.ghtml",
@@ -5305,7 +7340,8 @@
       ],
       "coverageCount": 1,
       "_key": "da4f62ecc0b1c54f5c067b3aac6b18b4",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/asus-business-1-ano/",
@@ -5323,7 +7359,8 @@
       ],
       "coverageCount": 1,
       "_key": "fb6baea4038080185e417af297c71cf6",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
@@ -5341,7 +7378,8 @@
       ],
       "coverageCount": 1,
       "_key": "5d32ec3e111b325911aaba056fce4f1d",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/pre-candidato-presidencia-tecnologia/",
@@ -5359,7 +7397,8 @@
       ],
       "coverageCount": 1,
       "_key": "f33fc7f02217bce01cf6f99bbdf6d478",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Startupi-https://startupi.com.br/riw-um-barco-de-inovacao-num-oceano-de-problemas-e-oportunidades/",
@@ -5377,7 +7416,8 @@
       ],
       "coverageCount": 1,
       "_key": "518d6307a00bfb83b561962d98be77c7",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Crunchbase News-https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/",
@@ -5395,7 +7435,8 @@
       ],
       "coverageCount": 1,
       "_key": "a1096fb8f58adb197390e806085dd745",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "Startupi-https://startupi.com.br/tempestade-como-diagnostico-o-que-os-vendavais-no-brasil-revelam-sobre-a-falha-no-planejamento-urbano/",
@@ -5413,7 +7454,8 @@
       ],
       "coverageCount": 1,
       "_key": "d9a4f6daf2af528e5b262883ec57596c",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/tres-gestoras-de-vc-tomam-quase-metade-do-capital-nos-eua.ghtml",
@@ -5431,7 +7473,8 @@
       ],
       "coverageCount": 1,
       "_key": "e610fb42f6c264d995a07d4feab735d5",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/fornecedores-energia/",
@@ -5449,7 +7492,8 @@
       ],
       "coverageCount": 1,
       "_key": "2aaa930c87fea87345238d1e3e80d016",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
@@ -5467,7 +7511,8 @@
       ],
       "coverageCount": 1,
       "_key": "455326c2edf041a458851013bd3119e2",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/visa-compra-biocatch-por-us-24-bilhoes/",
@@ -5493,7 +7538,8 @@
       ],
       "coverageCount": 2,
       "_key": "6317b657c2b7d568ab4a6f26cfbc0a09",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/ipo-da-spacex-gerou-mais-saida-para-os-vcs-do-que-a-decada-passada-inteira.ghtml",
@@ -5518,7 +7564,8 @@
       ],
       "coverageCount": 2,
       "_key": "2c5a80e2839faf200bfce5f6610853e6",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/amazon-supera-us-3-trilhoes-em-valor-de-mercado/",
@@ -5536,7 +7583,8 @@
       ],
       "coverageCount": 1,
       "_key": "95a34614fbd524c0c2dd833d1a441a34",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/tivit-conclui-a-primeira-turma-de-projeto/",
@@ -5554,7 +7602,8 @@
       ],
       "coverageCount": 1,
       "_key": "d8d28dae733c2fb061b76e0cdbcc1bff",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/voce-esta-falando-com-uma-ia-aviso-passa-a-ser-obrigatorio-na-europa/",
@@ -5572,7 +7621,8 @@
       ],
       "coverageCount": 1,
       "_key": "18c393d3b5fb2de0bbbf0d823a189ae9",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/basf-reve-estrategia-para-fundo-de-startups-e-encerra-operacao-local.ghtml",
@@ -5590,7 +7640,8 @@
       ],
       "coverageCount": 1,
       "_key": "29e72fea6ea1520e512e3657268020f5",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
@@ -5608,7 +7659,8 @@
       ],
       "coverageCount": 1,
       "_key": "3c11d7ccb7cba47dcc1b728341ec516f",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/99-e-usp-anunciam-cooperacao-para-pesquisas-ia/",
@@ -5626,7 +7678,8 @@
       ],
       "coverageCount": 1,
       "_key": "2bbb61066e49186c028eed72b2423402",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Crunchbase News-https://news.crunchbase.com/seed/vanessa-larco-nea-premise-vc-investment-thesis-seed-ai/",
@@ -5644,7 +7697,8 @@
       ],
       "coverageCount": 1,
       "_key": "bf6fde00fa810e7b920163b75f7de04c",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
@@ -5662,7 +7716,8 @@
       ],
       "coverageCount": 1,
       "_key": "3c8368b70368d4282f5f2adc1aa62b63",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "US"
     },
     {
       "id": "IT Forum-https://itforum.com.br/noticias/amazon-receita-liquida/",
@@ -5680,7 +7735,8 @@
       ],
       "coverageCount": 1,
       "_key": "143645350b502419455a60058d8eaee0",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/com-vinci-arklok-triplica-operacao-e-volta-a-pagar-dividendos.ghtml",
@@ -5698,7 +7754,8 @@
       ],
       "coverageCount": 1,
       "_key": "4d0de2ece643b8ce52266b66e8426a11",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/mercado/noticia/atlas-governance-quer-um-assento-no-board-das-empresas-americanas.ghtml",
@@ -5716,7 +7773,8 @@
       ],
       "coverageCount": 1,
       "_key": "7d0e44fd17ca6c52b86fac8ce6dec1e5",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Startupi-https://startupi.com.br/a-ilusao-do-crescimento-a-qualquer-custo-e-o-inevitavel-expurgo-das-scale-ups/",
@@ -5734,7 +7792,8 @@
       ],
       "coverageCount": 1,
       "_key": "156a48dfa52e98e4418809538a3ff030",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/emergent-unicornio-em-13-meses-queima-caixa-para-ganhar-o-mundo.ghtml",
@@ -5752,7 +7811,8 @@
       ],
       "coverageCount": 1,
       "_key": "0dc601a863a130af8224f26f9fe676d9",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/valutia-mira-us-30-mi-para-brasileiros-globais-em-segundo-fundo.ghtml",
@@ -5770,7 +7830,8 @@
       ],
       "coverageCount": 1,
       "_key": "97585722367d99d6a6e097cff717cc3c",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/a-estrategia-sem-alucinacao-da-bridgewise-para-acelerar-no-brasil.ghtml",
@@ -5788,7 +7849,8 @@
       ],
       "coverageCount": 1,
       "_key": "f0232aed400bb88c27fe0d47472874ff",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/um-outro-birman-de-olho-no-varejo-na-ponta-de-tecnologia.ghtml",
@@ -5806,7 +7868,8 @@
       ],
       "coverageCount": 1,
       "_key": "7e176d1ad9b1ee68ba995017d80b6503",
-      "summaryMethod": "regra"
+      "summaryMethod": "regra",
+      "country": "BR"
     }
   ]
 }
