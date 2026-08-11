@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T13:44:10.439195+00:00",
+  "updatedAt": "2026-08-11T14:18:13.932548+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -262,6 +262,24 @@
       "coverageCount": 1
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-10/sec-alleges-fund-adviser-misled-investors-in-pre-ipo-schemes",
+      "_key": "5fcc0f52e44f54d1e86dd8406127b314",
+      "title": "SEC Alleges Fund Adviser Misled Investors in Pre-IPO Schemes",
+      "summary": "Investment adviser Adit Ventures and co-founder Eric Munson were accused by the US Securities and Exchange Commission of making false claims about investments and overcharging clients with millions of dollars in undisclosed fees to buy shares of companies including SpaceX and Klarna before they were offered to the public.",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/sec-alleges-fund-adviser-misled-investors-in-pre-ipo-schemes",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-10T22:27:20+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Crunchbase News-https://news.crunchbase.com/venture/educator-built-edtech-startup-ai-magicschool-kahn/",
       "title": "‘Nobody Wanted to Give A Former Principal Money’: How An Educator Built An Edtech AI Startup With $63M From VCs",
       "summary": "Founded by an educator fascinated by the educational potential of ChatGPT, MagicSchool AI leads off a series of articles featuring startup founders from non-technical backgrounds who have launched successful venture-backed companies.",
@@ -278,6 +296,24 @@
       "coverageCount": 1,
       "_key": "b8abccefdb66331c5a7d45526a74bbff",
       "summaryMethod": "regra"
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/intel-segue-a-fila-dos-grandes-investimentos-em-ia-e-levanta-us-20-bi-em-acoes-para-brigar-com-tsmc/",
+      "_key": "11fd7da44e3de6d09b3e3b69230c4a9b",
+      "title": "Intel segue a fila dos grandes investimentos em IA e levanta US$ 20 bi em ações para brigar com TSMC",
+      "summary": "Em mais um passo para ampliar seu volume de investimentos no plano de expansão da cadeia de suprimentos de inteligência artificial (IA), a fabricante americana de chips Intel anunciou que levantou US$ 20 bilhões em uma venda ampliada de suas ações, um terço a mais do que a meta inicial da companha.",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/intel-segue-a-fila-dos-grandes-investimentos-em-ia-e-levanta-us-20-bi-em-acoes-para-brigar-com-tsmc/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "image": "https://neofeed.com.br/wp-content/uploads/2025/04/intel-300x169.webp",
+      "publishedAt": "2026-08-11T14:04:47+00:00",
+      "score": 52,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Startupi-https://startupi.com.br/brasil-entrega-r-62-bilhoes-para-bets-em-2025-enquanto-economia-fraqueja/",
@@ -728,6 +764,24 @@
       "summaryMethod": "regra"
     },
     {
+      "id": "Startupi-https://startupi.com.br/inteligencia-artificial-esta-transformando-o-setor-imobiliario/",
+      "_key": "4496c7b6dc16e75b53f789935b978548",
+      "title": "Da obra ao pós-venda: como a inteligência artificial está transformando o setor imobiliário",
+      "summary": "Startupi Da obra ao pós-venda: como a inteligência artificial está transformando o setor imobiliário * Por Reinaldo Sima A inteligência artificial vem ocupando um espaço cada vez mais estratégico dentro das empresas.",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/inteligencia-artificial-esta-transformando-o-setor-imobiliario/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/Reinaldo-Sima.jpg",
+      "publishedAt": "2026-08-11T14:03:11+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/es/espirito-santo/noticia/2026/08/11/crise-na-apex-posso-perder-dinheiro-entenda-o-que-se-sabe-sobre-divida-de-quase-r-1-bi-e-o-impacto-para-clientes.ghtml",
       "_key": "c6dfb8816188a843ba8cc5ca82a12920",
       "title": "Crise na Apex: posso perder dinheiro? Entenda o que se sabe sobre dívida de quase R$ 1 bi e o impacto para clientes",
@@ -915,6 +969,24 @@
       "coverageCount": 2,
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/purple-metrics-contrata-novo-head-de-marketing-science/",
+      "_key": "87d9ca5e547c87aa368518fd5a629d1e",
+      "title": "Purple Metrics contrata novo head de Marketing Science",
+      "summary": "Eduardo Ogawa, novo head de Marketing Science da Purple Metrics (Imagem: Divulgação) Eduardo Ogawa assume o novo cargo para liderar a produtização da metodologia da Purple Metrics e guiar seus clientes O post Purple Metrics contrata novo head de Marketing Science apareceu primeiro em Startups .",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/danca-das-cadeiras/purple-metrics-contrata-novo-head-de-marketing-science/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Eduardo-Ogawa.jpg",
+      "publishedAt": "2026-08-11T14:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/df/distrito-federal/noticia/2026/08/11/fgc-emprestimo-brb.ghtml",
@@ -1729,6 +1801,42 @@
       "summaryMethod": "regra"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/cnt-mda-50-dos-brasileiros-defende-proibicao-de-propaganda-eleitoral-feita-com-ia/",
+      "_key": "9568d39bb59ba8212a4f162ee4208628",
+      "title": "CNT/MDA: 50% dos brasileiros defende proibição de propaganda eleitoral feita com IA",
+      "summary": "O TSE criou um conselho consultivo para acompanhar os riscos relacionados ao uso de inteligência artificial e à desinformação nas eleições de 2026 The post CNT/MDA: 50% dos brasileiros defende proibição de propaganda eleitoral feita com IA appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/cnt-mda-50-dos-brasileiros-defende-proibicao-de-propaganda-eleitoral-feita-com-ia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/inteligencia-artificial-ai-ia-tecnologia.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T13:58:36+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/carros/noticia/2026/08/11/vendas-de-carros-desaceleram-na-china.ghtml",
+      "_key": "c6ef2eaec7dd314910de010058328452",
+      "title": "Venda de carros cai na China, e marcas chinesas aceleram chegada ao Brasil e a novos mercados",
+      "summary": "Carros da Leapmotor prontos para exportação Divulgação / Leapmotor Dados da Associação de Automóveis de Passeio da China (CPCA) mostram que julho de 2026 foi o décimo mês consecutivo de queda nas vendas de automóveis no mercado doméstico da China.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/11/vendas-de-carros-desaceleram-na-china.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/-gJC5EoFbki1R_jGaFVd0Som6_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/L/GusCwuRPmv0SPLsnXCNQ/leapmotor-b10-reaching-europe-on-grimaldi-vessel.jpg",
+      "publishedAt": "2026-08-11T13:45:12+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "VentureBeat-https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights",
       "_key": "bcd99875834407cb4443c0ba03ba9152",
       "title": "LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips — and it's open weights",
@@ -1797,6 +1905,24 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/tecnologia/sobrou-dinheiro-do-5g-e-o-recurso-pode-virar-um-data-center-para-a-telebras/",
+      "_key": "ba0c97679ed19e426497d6ef1545e0da",
+      "title": "Sobrou dinheiro do 5G e o recurso pode virar um data center para a Telebras",
+      "summary": "Entidade que administra os recursos vai estudar também antena de TV 3.0 para famílias de baixa renda; propostas ainda precisam passar pela Anatel e pelo Ministério das Comunicações",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/tecnologia/sobrou-dinheiro-do-5g-e-o-recurso-pode-virar-um-data-center-para-a-telebras/",
+      "source": "Exame",
+      "region": "Brasil",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-11-at-10.58.33.jpeg",
+      "publishedAt": "2026-08-11T11:00:14+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
       ],
       "coverageCount": 1
     },
@@ -2219,6 +2345,132 @@
       "summaryMethod": "regra"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/allianca-saude-obtem-homologacao-do-plano-de-recuperacao-extrajudicial/",
+      "_key": "3db5608c59774c49d8f2d9d64fbb7223",
+      "title": "Alliança Saúde obtém homologação do plano de recuperação extrajudicial",
+      "summary": "No início de agosto, ⁠a empresa ​tinha submetido um pedido de ​homologação, que abrangia créditos sujeitos à ​recuperação ⁠extrajudicial no valor total ⁠de, aproximadamente, R$1,1 bilhão The post Alliança Saúde obtém homologação do plano de recuperação extrajudicial appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/allianca-saude-obtem-homologacao-do-plano-de-recuperacao-extrajudicial/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_707493547.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T14:12:11+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/sp-intensifica-vacinacao-contra-sarampo-com-acao-em-supermercados-e-padarias/",
+      "_key": "9d6de63e9bd66ce7d7ae37feacdd6754",
+      "title": "SP intensifica vacinação contra sarampo com ação em supermercados e padarias",
+      "summary": "Capital paulista concentra 20 dos 23 casos de sarampo confirmados no estado neste ano The post SP intensifica vacinação contra sarampo com ação em supermercados e padarias appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/sp-intensifica-vacinacao-contra-sarampo-com-acao-em-supermercados-e-padarias/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/sarampo_301119img_29213824.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T14:06:41+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/iphone-ganhara-modo-que-prova-que-foto-e-real-e-nao-foi-gerada-por-ia/",
+      "_key": "ac00e69f79a0072507aff5e2ab5942e5",
+      "title": "iPhone ganhará modo que prova que foto é real e não foi gerada por IA",
+      "summary": "Apple Reference Image foi encontrado em uma versão beta do iOS 27. Recurso autentica fotos tiradas diretamente pela câmera do iPhone. iPhone ganhará modo que prova que foto é real e não foi gerada por IA",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/noticias/iphone-ganhara-modo-que-prova-que-foto-e-real-e-nao-foi-gerada-por-ia/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/02/iphone-17-2.jpg",
+      "publishedAt": "2026-08-11T14:03:21+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/esportes/trump-diz-que-infantino-e-fantastico-e-que-fifa-substitui-lo-sera-erro-terrivel/",
+      "_key": "f273fca7b93c4c0aa00d7666db784f36",
+      "title": "Trump diz que Infantino é “fantástico” e que FIFA substituí-lo será “erro terrível”",
+      "summary": "A nova demonstração de apoio vem num momento em que Infantino está sob ataque de algumas confederações, como UEFA (Europa), AFC (Ásia) e Concacaf (Américas Central e do Norte) The post Trump diz que Infantino é &#8220;fantástico&#8221; e que FIFA substituí-lo será “erro terrível” appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/esportes/trump-diz-que-infantino-e-fantastico-e-que-fifa-substitui-lo-sera-erro-terrivel/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-19T225851Z_1_LYNXMPEM6I0EL_RTROPTP_4_SOCCER-WORLDCUP-ESP-ARG.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T14:00:18+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/natura-natu3-surpreende-baixas-expectativas-e-acao-sobe-3-apos-balanco-do-2t/",
+      "_key": "60d28ce6e9f262fbb56d60fe3a0af44d",
+      "title": "Natura (NATU3) surpreende baixas expectativas e ação sobe 3% após balanço do 2T",
+      "summary": "Natura surpreendeu positivamente, após expectativas terem sido revisadas para baixo em função da prévia de vendas decepcionante The post Natura (NATU3) surpreende baixas expectativas e ação sobe 3% após balanço do 2T appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/natura-natu3-surpreende-baixas-expectativas-e-acao-sobe-3-apos-balanco-do-2t/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-13T162042Z_1925112301_RC26N4AFNR7W_RTRMADP_3_NATURA-CO-HLDG-RESULTS-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T13:56:57+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/meta-e-tiktok-concordam-em-checar-informacoes-sobre-fronteira-na-espanha-apos-mortes/",
+      "_key": "57e4aa4f46bdd75c3c832745b067aead",
+      "title": "Meta e TikTok concordam em checar informações sobre fronteira na Espanha após mortes",
+      "summary": "O objetivo é impedir que redes criminosas induzam potenciais imigrantes ⁠a ‌tentar a travessia com informações falsas The post Meta e TikTok concordam em checar informações sobre fronteira na Espanha após mortes appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/meta-e-tiktok-concordam-em-checar-informacoes-sobre-fronteira-na-espanha-apos-mortes/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-31T110320Z_1791917232_RC2ZOMAQ02KK_RTRMADP_3_MIGRATION-EUROPE-SPAIN-CEUTA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T13:53:48+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Wired-https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
+      "_key": "0e475102da6eb48fd4d494fa05d1c19b",
+      "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
+      "summary": "New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent—vastly outpacing the impact of data centers.",
+      "summaryMethod": "regra",
+      "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
+      "source": "Wired",
+      "region": "Internacional",
+      "image": "https://media.wired.com/photos/6a7a2036c58ed7121c9fbad3/master/pass/AIEmission.jpg",
+      "publishedAt": "2026-08-11T13:45:02+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Wired"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/tesouro-direto-taxas-sobem-com-ipca-mais-forte-e-novo-alerta-do-bc/",
       "_key": "8e673b3cbcdfe02d878e35cfe7183c6a",
       "title": "Tesouro Direto: taxas sobem com IPCA mais forte e novo alerta do BC",
@@ -2233,6 +2485,24 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/governo-amplia-lista-de-doencas-que-dao-auxilio-doenca-sem-carencia-veja-quais.ghtml",
+      "_key": "9ba850b687732b2c6168cffc42dd68a4",
+      "title": "Governo amplia lista de doenças que dão auxílio-doença sem carência; veja quais",
+      "summary": "Previdência Social Marco Favero/ Agencia RBS O Ministério da Previdência Social ampliou a lista de doenças e condições que dão direito ao auxílio por incapacidade temporária — o antigo auxílio-doença — sem a exigência da carência mínima de 12 contribuições à Previdência Social.",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/governo-amplia-lista-de-doencas-que-dao-auxilio-doenca-sem-carencia-veja-quais.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "image": "https://s2-g1.glbimg.com/jG-04z3geTLJL8_dlxoPJAS63FM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/F/pCQBGuTMmeVKbMKytAyA/4264355-0aa403e0aad2e81.jpg",
+      "publishedAt": "2026-08-11T13:41:41+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
       ],
       "coverageCount": 1
     },
@@ -2273,6 +2543,42 @@
       "coverageCount": 1
     },
     {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/robotica/robo-transforma-violao-comum-em-instrumento-que-toca-sozinho/",
+      "_key": "c006a0b6027e5f2934b0d7a9f90aae20",
+      "title": "Robô transforma violão comum em instrumento que toca sozinho",
+      "summary": "Robô criado na Nova Zelândia toca violão acústico a partir de tablaturas digitais e pode até dividir a performance com um músico O post Robô transforma violão comum em instrumento que toca sozinho apareceu primeiro em Olhar Digital .",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/robotica/robo-transforma-violao-comum-em-instrumento-que-toca-sozinho/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/robo-violao.webp",
+      "publishedAt": "2026-08-11T13:20:20+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/smartwatch-com-ia-a-prova-dagua-e-muito-mais-veja-uma-selecao-em-promocao-na-amazon/",
+      "_key": "76b72e1d9a56f3b1e832f94e484311cc",
+      "title": "Smartwatch com IA, à prova d’água e muito mais: veja uma seleção em promoção na Amazon",
+      "summary": "Os smartwatches deixaram de ser apenas acessórios e se tornaram companheiros essenciais do dia a dia — monitoram a saúde, registram treinos, conectam ao smartphone e ainda deixam o visual mais moderno.",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/smartwatch-com-ia-a-prova-dagua-e-muito-mais-veja-uma-selecao-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "image": "https://m.media-amazon.com/images/I/51Fd-ffbZrL._SL500_.jpg",
+      "publishedAt": "2026-08-11T13:20:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/flavio-cobra-apoio-de-campagnolo-a-carlos-bolsonaro-e-expoe-tensao-no-pl-de-sc/",
       "_key": "115cdcc424b8c628e46f1ea1998da367",
       "title": "Flávio cobra apoio de Campagnolo a Carlos Bolsonaro e expõe tensão no PL de SC",
@@ -2305,6 +2611,60 @@
       "alsoIn": [],
       "sourcesCovered": [
         "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/hora-de-renovar-o-celular-veja-uma-selecao-de-smartphones-xiaomi-em-promocao-na-amazon-3/",
+      "_key": "b1cb2c93e4e9cdb2f1ce7014c7ad82ac",
+      "title": "Hora de renovar o celular: veja uma seleção de smartphones Xiaomi em promoção na Amazon",
+      "summary": "Se você está pensando em trocar de celular, a Amazon reúne agora algumas boas opções da linha Xiaomi com configurações generosas de memória e armazenamento. Separamos três modelos em oferta que valem a atenção — confira abaixo.",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/hora-de-renovar-o-celular-veja-uma-selecao-de-smartphones-xiaomi-em-promocao-na-amazon-3/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "image": "https://m.media-amazon.com/images/I/41XlLhOaQAL._SL500_.jpg",
+      "publishedAt": "2026-08-11T13:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
+      "_key": "76861ef2491ec7c1d34305d32f1e880c",
+      "title": "Bumble now lets men make the first move",
+      "summary": "Bumble was famously built around exclusively giving women the power to initiate messages in heterosexual matches when it first launched in 2014 - but now the times they are a-changin' for the dating app.",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
+      "source": "The Verge",
+      "region": "Internacional",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24349708/STK144_Bumble.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-11T13:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/carros-e-tecnologia/um-aviao-supersonico-mais-silencioso-nasa-testa-o-x-59/",
+      "_key": "d731c6ea9c2608ad5f42eb27dce1e63d",
+      "title": "Um avião supersônico mais silencioso? NASA testa o X-59",
+      "summary": "NASA testa o X-59, avião supersônico criado para trocar o estrondo tradicional por um som mais suave sobre áreas habitadas O post Um avião supersônico mais silencioso? NASA testa o X-59 apareceu primeiro em Olhar Digital .",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/carros-e-tecnologia/um-aviao-supersonico-mais-silencioso-nasa-testa-o-x-59/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/x-59-948x1024.jpg",
+      "publishedAt": "2026-08-11T12:49:30+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
       ],
       "coverageCount": 1
     },
@@ -3806,6 +4166,60 @@
       "summaryMethod": "regra"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/china-mercado-de-carros-se-enfraquece-em-julho-com-demanda-fraca-e-alta-do-petroleo/",
+      "_key": "a79f0f86c8c8f50bedd0541f150be782",
+      "title": "China: mercado de carros se enfraquece em julho com demanda fraca e alta do petróleo",
+      "summary": "Vendas no varejo de carros de passeio caíram 20,9% em julho ante um ano antes, para 1,46 milhão de unidades The post China: mercado de carros se enfraquece em julho com demanda fraca e alta do petróleo appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/china-mercado-de-carros-se-enfraquece-em-julho-com-demanda-fraca-e-alta-do-petroleo/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/2024-11-08T085416Z_1174387651_RC28O8AZ6JNM_RTRMADP_3_CHINA-AUTOS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T13:55:35+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/quer-jogar-sem-travar-confira-uma-selecao-de-notebooks-gamer-em-promocao-na-amazon-6/",
+      "_key": "bfdca7dacb15a78e4448d1c6984b6996",
+      "title": "Quer jogar sem travar? Confira uma seleção de notebooks gamer em promoção na Amazon",
+      "summary": "Se você está em busca de um notebook gamer para jogar com performance de verdade — seja em títulos exigentes ou para trabalho pesado — a Amazon reúne algumas boas opções com hardware atual e preços competitivos.",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/reviews/quer-jogar-sem-travar-confira-uma-selecao-de-notebooks-gamer-em-promocao-na-amazon-6/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "image": "https://m.media-amazon.com/images/I/31nbsSiZmVL._SL500_.jpg",
+      "publishedAt": "2026-08-11T13:40:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "_key": "5e6183914b176af5ccbb105ee3633248",
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories.",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "source": "The Verge",
+      "region": "Internacional",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-11T13:27:20+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/grupo-sbf-sao-martinho-terra-santa-e-mais-empresas-divulgam-resultados-do-2t/",
       "_key": "fe0d371946fa35284e4ed2da83a42747",
       "title": "Grupo SBF, São Martinho, Terra Santa e mais empresas divulgam resultados do 2T",
@@ -3820,6 +4234,24 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+      "_key": "75b7a7df91b9ffb96ffad585a516fca8",
+      "title": "GuliKit&#8217;s new Switch controller features next-generation anti-drift thumbsticks",
+      "summary": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago.",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+      "source": "The Verge",
+      "region": "Internacional",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-11T13:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
       ],
       "coverageCount": 1
     },
@@ -4036,6 +4468,24 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Wired"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/coreweave-s-forecast-is-key-to-stopping-another-earnings-selloff",
+      "_key": "edc5dedb1e6a588921063839fbb96036",
+      "title": "CoreWeave’s Forecast Is Key to Stopping Another Earnings Selloff",
+      "summary": "CoreWeave Inc. shares have been on a roll lately after a monthslong slump. Now, the neocloud provider’s earnings after the close Tuesday can give investors a sense of whether the rally is sustainable.",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/coreweave-s-forecast-is-key-to-stopping-another-earnings-selloff",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "image": "",
+      "publishedAt": "2026-08-11T08:44:11+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
       ],
       "coverageCount": 1
     },
