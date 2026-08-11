@@ -2960,9 +2960,13 @@ function triggerRefresh(){
 // ── FILTER ────────────────────────────────────────────────────────────────────
 function isRelevantDrop(a){
   const hay=`${a.title} ${a.summary}`.toLowerCase();
-  const blocked=['mega-sena','loteria','sorteio','futebol','campeonato','copa do mundo','olimpíada','horóscopo','novela','big brother','bbb ','reality show','bets ','apostas esportivas','cassino','saneamento básico','previsão do tempo','tabela de jogos','jbs ','batista clan','save $','disrupt ','techcrunch disrupt','register now','buy tickets'];
+  const relevant=['startup','scale-up','venture','investimento','funding','captação','rodada','aporte','seed','valuation','aquisição','acquire','ipo','unicórnio','unicorn','tecnologia','technology','tech','software','saas','plataforma','inteligência artificial','artificial intelligence',' ia ',' ai ','machine learning','llm','chatgpt','openai','gemini','robô','robot','automação','chip','semiconductor','cloud','fintech','edtech','healthtech','deeptech','nubank','ifood','totvs','stone','rappi','amazon','google','apple','microsoft','meta','nvidia','bytedance','alibaba','tencent','baidu','anthropic','spacex'];
+  const blocked=['mega-sena','loteria','sorteio','futebol','campeonato','copa do mundo','olimpíada','eleição','candidato','partido político','deputado','senador','horóscopo','novela','big brother','bbb ','reality show','bets ','apostas esportivas','cassino','saneamento básico','abastecimento de água','previsão do tempo'];
   if(blocked.some(k=>hay.includes(k))) return false;
-  return true;
+  // Títulos genéricos demais sem contexto no resumo são descartados
+  const genericTitle=/^(openai|google|meta|amazon|apple|microsoft|nvidia|\w+)\s+(avança|anuncia|apresenta|lança|atinge|registra|alcança)\s+em\s+/i;
+  if(genericTitle.test(a.title) && !relevant.some(k=>hay.includes(k))) return false;
+  return relevant.some(k=>hay.includes(k));
 }
 function isDenseEnough(a){
   // Matéria manual sempre passa (você é o editor). Agregada precisa ter resumo denso.
