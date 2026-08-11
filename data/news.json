@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T14:18:13.932548+00:00",
+  "updatedAt": "2026-08-11T14:28:46.019190+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -304,6 +304,24 @@
       "summary": "Em mais um passo para ampliar seu volume de investimentos no plano de expansão da cadeia de suprimentos de inteligência artificial (IA), a fabricante americana de chips Intel anunciou que levantou US$ 20 bilhões em uma venda ampliada de suas ações, um terço a mais do que a meta inicial da companha.",
       "summaryMethod": "regra",
       "url": "https://neofeed.com.br/negocios/intel-segue-a-fila-dos-grandes-investimentos-em-ia-e-levanta-us-20-bi-em-acoes-para-brigar-com-tsmc/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "image": "https://neofeed.com.br/wp-content/uploads/2025/04/intel-300x169.webp",
+      "publishedAt": "2026-08-11T14:04:47+00:00",
+      "score": 52,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/inovacao/intel-segue-a-fila-dos-grandes-investimentos-em-ia-e-levanta-us-20-bi-em-acoes-para-brigar-com-tsmc/",
+      "_key": "301a93e0d709d1a991624555e0b379e1",
+      "title": "Intel segue a fila dos grandes investimentos em IA e levanta US$ 20 bi em ações para brigar com TSMC",
+      "summary": "Em mais um passo para ampliar seu volume de investimentos no plano de expansão da cadeia de suprimentos de inteligência artificial (IA), a fabricante americana de chips Intel anunciou que levantou US$ 20 bilhões em uma venda ampliada de suas ações, um terço a mais do que a meta inicial da companha.",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/inovacao/intel-segue-a-fila-dos-grandes-investimentos-em-ia-e-levanta-us-20-bi-em-acoes-para-brigar-com-tsmc/",
       "source": "NeoFeed",
       "region": "Brasil",
       "image": "https://neofeed.com.br/wp-content/uploads/2025/04/intel-300x169.webp",
@@ -2345,6 +2363,60 @@
       "summaryMethod": "regra"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/brics-discutem-integracao-de-sistemas-de-pagamento-e-moedas-digitais-diz-bc-da-india/",
+      "_key": "10be2ab7687f8e4dec94bc30e63db904",
+      "title": "Brics discutem integração de sistemas de pagamento e moedas digitais, diz BC da Índia",
+      "summary": "Índia sediará a edição de 2026 da cúpula anual do grupo The post Brics discutem integração de sistemas de pagamento e moedas digitais, diz BC da Índia appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/brics-discutem-integracao-de-sistemas-de-pagamento-e-moedas-digitais-diz-bc-da-india/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/06/Bandeira-da-India.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T14:24:33+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/cnt-mda-lula-lidera-disputa-com-flavio-por-424-a-287-no-primeiro-turno/",
+      "_key": "345f89efce27a8b41b12b049371b5c00",
+      "title": "CNT/MDA: Lula tem 42% contra 28% de Flávio Bolsonaro em cenário de primeiro turno",
+      "summary": "Levantamento ouviu 2.002 eleitores entre 5 e 9 de agosto; distância no primeiro turno fica próxima da registrada em junho The post CNT/MDA: Lula tem 42% contra 28% de Flávio Bolsonaro em cenário de primeiro turno appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/cnt-mda-lula-lidera-disputa-com-flavio-por-424-a-287-no-primeiro-turno/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/eleicao-presidente.png?fit=300%2C150&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T14:23:11+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/trump-embarcou-em-voo-secreto-por-meio-de-caminhao-devido-a-ameaca-do-ira/",
+      "_key": "7fc5fdd7e8d7515aef6e2de14ed46cf5",
+      "title": "Trump embarcou em voo secreto por meio de caminhão devido à ameaça do Irã",
+      "summary": "Reportagem afirma que presidente saiu da Turquia após ameaça de assassinato The post Trump embarcou em voo secreto por meio de caminhão devido à ameaça do Irã appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/trump-embarcou-em-voo-secreto-por-meio-de-caminhao-devido-a-ameaca-do-ira/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460853080.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T14:16:49+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/allianca-saude-obtem-homologacao-do-plano-de-recuperacao-extrajudicial/",
       "_key": "3db5608c59774c49d8f2d9d64fbb7223",
       "title": "Alliança Saúde obtém homologação do plano de recuperação extrajudicial",
@@ -4166,6 +4238,24 @@
       "summaryMethod": "regra"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/oms-defende-calendario-vacinal-apos-trump-determinar-reducao-de-vacinas-infantis/",
+      "_key": "f3a9703658b75d8b0b662af0cf66598f",
+      "title": "OMS defende calendário vacinal após Trump determinar redução de vacinas infantis",
+      "summary": "OMS defende calendário vacinal após Trump determinar redução do número de vacinas infantis The post OMS defende calendário vacinal após Trump determinar redução de vacinas infantis appeared first on InfoMoney .",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/oms-defende-calendario-vacinal-apos-trump-determinar-reducao-de-vacinas-infantis/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/vacina-dengue.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T14:16:21+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/china-mercado-de-carros-se-enfraquece-em-julho-com-demanda-fraca-e-alta-do-petroleo/",
       "_key": "a79f0f86c8c8f50bedd0541f150be782",
       "title": "China: mercado de carros se enfraquece em julho com demanda fraca e alta do petróleo",
@@ -4504,6 +4594,24 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Wired-https://www.wired.com/story/sealy-promo-code/",
+      "_key": "961624430ef2d14ea69739a889f69baa",
+      "title": "Sealy Promo Codes: $100 Off",
+      "summary": "Whether you’re switching from springs to memory foam or just want to sleep cooler this summer, these Sealy mattress deals will have you waking up refreshed—and with cash left in your wallet.",
+      "summaryMethod": "regra",
+      "url": "https://www.wired.com/story/sealy-promo-code/",
+      "source": "Wired",
+      "region": "Internacional",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "publishedAt": "2026-08-11T05:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Wired"
       ],
       "coverageCount": 1
     },
