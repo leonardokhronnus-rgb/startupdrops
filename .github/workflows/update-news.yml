@@ -26,7 +26,7 @@ jobs:
       - name: Rodar coletor
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: run: python collector.py --max-age 60
+        run: python collector.py --max-age 60
 
       - name: Commitar arquivo atualizado
         run: |
