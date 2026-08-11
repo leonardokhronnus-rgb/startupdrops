@@ -2503,11 +2503,28 @@ function contentRegion(a){
   if(globalSignals.test(text)) return 'internacional';
   return /intern/i.test(a.region)?'internacional':'brasil';
 }
+const SOURCE_COUNTRY = {
+  'Startupi':'BR','Startups.com.br':'BR','NeoFeed':'BR','Exame':'BR','Brazil Journal':'BR',
+  'Pipeline Valor':'BR','IT Forum':'BR','Olhar Digital':'BR','Tecnoblog':'BR',
+  'Inovação Tecnológica':'BR','InfoMoney':'BR','Baguete':'BR','Época Negócios':'BR',
+  'Exame Economia':'BR','Exame Invest':'BR','G1 Economia':'BR','Valor Econômico':'BR',
+  'CNN Brasil Business':'BR','Infomoney Economia':'BR','Broadcast Político':'BR',
+  'TechCrunch Startups':'US','Crunchbase News':'US','VentureBeat':'US',
+  'Business Insider Tech':'US','Rest of World':'US','The Verge':'US',
+  'Ars Technica':'US','Wired':'US','Reuters Business':'US','Bloomberg Markets':'US',
+  'FT Companies':'US','Reuters Technology':'US',
+  'Sifted':'EU','Tech.eu':'EU','EU-Startups':'EU','Finsider':'EU',
+  'SCMP Tech':'CN','SCMP Business':'CN','Tech in Asia China':'CN',
+  'Nikkei Asia':'CN','China Briefing':'CN','Caixin Global':'CN','TechNode':'CN','KrASIA':'CN',
+  'Inc42':'IN','YourStory':'IN','ETtech':'IN','MediaNama':'IN',
+  'YourStory Startups':'IN','Inc42 Startups':'IN','Indian Web2':'IN','Tech in Asia India':'IN',
+};
 function articleCountry(a){
-  if(a.country && a.country!=='?' && a.country.length===2) return a.country.toUpperCase();
-  // fallback por heurística de região
+  if(a.country && a.country!=="?" && a.country.length===2) return a.country.toUpperCase();
+  const c=SOURCE_COUNTRY[a.source];
+  if(c) return c;
   const rk=regionKey(a);
-  return rk==='brasil'?'BR':'US';
+  return rk==="brasil"?"BR":"US";
 }
 function countryFlag(country){
   const flags={BR:'🇧🇷',US:'🇺🇸',CN:'🇨🇳',IN:'🇮🇳',EU:'🇪🇺'};
