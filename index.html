@@ -2990,7 +2990,8 @@ function isDenseEnough(a){
   if(a.isManual) return true;
   const s=(a.summary||'').trim();
   const distinct=normalize(s)!==normalize(a.title||'');
-  return s.length>=160 && /[.!?]/.test(s) && distinct;
+  const c=articleCountry(a);
+  return s.length>=(c==='BR'?120:70) && /[.!?]/.test(s) && distinct;
 }
 function filtered(){
   const base=dedupe([...MANUAL,...ALL].filter(a=>a.isManual||isArticleUrl(a.url)).filter(isDenseEnough).filter(isRelevantDrop));
