@@ -136,6 +136,12 @@ BLOCKLIST = [
     "bets ", "apostas esportivas", "cassino", "jogo do bicho",
     "saneamento básico", "abastecimento de água", "esgoto",
     "previsão do tempo", "temperatura", "chuva",
+    # empresas fora do ecossistema de tech/startups
+    "jbs ", " jbs", "batista clan", "meat supplier", "meatpacker",
+    "frigorífico", "frigorif",
+    # propaganda e eventos
+    "save $", "register now", "buy tickets", "early bird",
+    "disrupt ", "techcrunch disrupt",
 ]
 
 

@@ -2960,7 +2960,7 @@ function triggerRefresh(){
 // ── FILTER ────────────────────────────────────────────────────────────────────
 function isRelevantDrop(a){
   const hay=`${a.title} ${a.summary}`.toLowerCase();
-  const blocked=['mega-sena','loteria','sorteio','futebol','campeonato','copa do mundo','olimpíada','horóscopo','novela','big brother','bbb ','reality show','bets ','apostas esportivas','cassino','saneamento básico','previsão do tempo','tabela de jogos'];
+  const blocked=['mega-sena','loteria','sorteio','futebol','campeonato','copa do mundo','olimpíada','horóscopo','novela','big brother','bbb ','reality show','bets ','apostas esportivas','cassino','saneamento básico','previsão do tempo','tabela de jogos','jbs ','batista clan','save $','disrupt ','techcrunch disrupt','register now','buy tickets'];
   if(blocked.some(k=>hay.includes(k))) return false;
   return true;
 }
