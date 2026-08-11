@@ -324,17 +324,16 @@ def summary_by_ai(title, raw_summary, region, country="US"):
     lang_note = "O conteúdo pode estar em chinês — traduza e interprete para português do Brasil." if is_chinese else ""
     
     prompt = (
-        f"Você é editor de um portal brasileiro de inteligência para founders sobre startups e tecnologia global.\n"
-        f"{lang_note}\n"
-        f"Com base no título e texto abaixo, gere em português do Brasil:\n\n"
-        f"1. TÍTULO: título jornalístico específico e direto (máx 90 chars). Evite títulos vagos como 'X avança em Y'.\n"
-        f"2. O QUE ACONTECEU: 2 frases objetivas explicando o fato. Inclua números e nomes quando disponíveis.\n"
-        f"3. POR QUE IMPORTA: 1 frase explicando a relevância para founders, investidores ou quem trabalha com startups.\n\n"
-        f"NÃO invente dados. NÃO inclua legendas de foto, créditos de imagem ou descrições visuais.\n"
-        f"Responda APENAS neste formato exato:\n"
-        f"TÍTULO: [título]\n"
-        f"O QUE ACONTECEU: [2 frases]\n"
-        f"POR QUE IMPORTA: [1 frase]\n\n"
+        f"Você é editor sênior de um portal brasileiro sobre startups e tecnologia global.\n"
+        f"REGRAS ABSOLUTAS:\n"
+        f"- Escreva TUDO em português do Brasil correto e fluente. ZERO palavras em inglês no texto final.\n"
+        f"- Se o original estiver em inglês ou chinês, TRADUZA completamente. Não misture idiomas.\n"
+        f"- O TÍTULO deve ser específico: diga O QUE aconteceu, com QUEM e POR QUÊ importa. NUNCA use 'X avança em Y' ou 'X anuncia Z'.\n"
+        f"- NÃO invente dados. NÃO inclua legendas de foto ou créditos de imagem.\n\n"
+        f"Com base no título e texto abaixo, gere:\n"
+        f"TÍTULO: [título específico em pt-BR, máx 90 chars, sem verbos vagos]\n"
+        f"O QUE ACONTECEU: [2 frases objetivas em pt-BR com fatos, números e nomes]\n"
+        f"POR QUE IMPORTA: [1 frase em pt-BR sobre relevância para founders/investidores]\n\n"
         f"Título original: {title}\n"
         f"Texto: {source_text}"
     )
@@ -420,17 +419,8 @@ def collect(use_ai, max_age_days):
                 continue
             seen_now.add(key)
 
-            if key in by_key:
-                # Reprocessa se: tem título genérico OU foi feito sem IA e IA está disponível agora
-                existing_art = by_key[key]
-                has_generic_title = bool(re.search(
-                    r'\bavança em\b|\banuncia\b.*\bplano\b|\bapresenta\b|\blança\b|\batinge\b|\bregistra\b|\balcança\b',
-                    existing_art.get("title",""), re.I
-                ))
-                was_rule_based = existing_art.get("summaryMethod","regra") == "regra"
-                if not (use_ai and (has_generic_title or was_rule_based)):
-                    continue
-                # Cai através pra reprocessar
+            if key in by_key:  # já arquivada
+                continue
 
             raw_summary = entry.get("summary", "") or ""
             published = parse_date(entry)
