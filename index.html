@@ -27,7 +27,10 @@ html{font-size:15px;} body{background:var(--bg);color:var(--ink);font-family:var
 .logo{font-family:var(--serif);font-size:2.7rem;font-weight:900;letter-spacing:-.03em;line-height:1;}
 .logo em{color:var(--accent);font-style:normal;}
 .logo-sub{font-size:.62rem;letter-spacing:.15em;text-transform:uppercase;color:var(--ink4);margin-top:5px;}
+.nav-divider{color:var(--rule);margin:0 4px;font-size:.8rem;}
 .logo-link{text-decoration:none;color:inherit;display:inline-block;cursor:pointer;}
+.logo-link:hover{text-decoration:none;}
+.site-nav a[data-cat^="country-"]{font-size:1.1rem;padding:4px 6px;letter-spacing:0;}
 .header-right{text-align:right;font-size:.7rem;color:var(--ink4);line-height:2;}
 
 .site-nav{border-bottom:1px solid var(--rule);padding:0 28px;display:flex;position:sticky;top:0;background:var(--bg);z-index:100;}
@@ -43,6 +46,9 @@ html{font-size:15px;} body{background:var(--bg);color:var(--ink);font-family:var
 .ticker-inner{display:inline-block;animation:ticker 60s linear infinite;font-size:.73rem;color:rgba(255,255,255,.9);font-weight:500;}
 .ticker-inner span{margin:0 32px;}
 .ticker-inner span::before{content:'▸ ';opacity:.5;}
+.ticker-link{margin:0 32px;color:rgba(255,255,255,.9);text-decoration:none;white-space:nowrap;}
+.ticker-link::before{content:'▸ ';opacity:.5;}
+.ticker-link:hover{color:#fff;text-decoration:underline;}
 @keyframes ticker{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 
 .wrap{max-width:1300px;margin:0 auto;padding:0 28px;}
@@ -120,6 +126,28 @@ html{font-size:15px;} body{background:var(--bg);color:var(--ink);font-family:var
 
 /* LIST */
 .news-list{display:flex;flex-direction:column;}
+.sec-sub{font-size:.68rem;color:var(--ink4);letter-spacing:.05em;margin-left:12px;font-weight:400;text-transform:none;}
+.radar-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-bottom:32px;}
+.radar-card{background:#fff;border:1px solid var(--rule2);border-radius:10px;padding:16px 18px;display:flex;flex-direction:column;gap:6px;}
+.radar-card .radar-country{font-size:.7rem;font-weight:700;letter-spacing:.08em;color:var(--ink4);}
+.radar-card .radar-title{font-family:var(--serif);font-size:1rem;font-weight:700;color:var(--ink);line-height:1.35;}
+.radar-card .radar-summary{font-size:.78rem;color:var(--ink2);line-height:1.5;}
+.radar-card .radar-source{font-size:.65rem;color:var(--ink4);margin-top:4px;}
+.radar-card:hover{border-color:var(--accent);box-shadow:0 2px 12px rgba(0,0,0,.06);}
+.radar-card a{text-decoration:none;color:inherit;}
+.learn-grid{display:flex;flex-direction:column;gap:14px;margin-bottom:32px;}
+.learn-card{background:linear-gradient(135deg,#f8f9ff 0%,#fff 100%);border:1px solid #e0e5ff;border-left:4px solid var(--accent);border-radius:10px;padding:18px 20px;}
+.learn-card .learn-flag{font-size:1.2rem;margin-bottom:6px;}
+.learn-card .learn-headline{font-size:.82rem;color:var(--ink2);margin-bottom:10px;}
+.learn-card .learn-signal{font-size:.75rem;font-weight:700;color:var(--accent);letter-spacing:.06em;text-transform:uppercase;margin-bottom:4px;}
+.learn-card .learn-text{font-size:.82rem;color:var(--ink);line-height:1.5;}
+.learn-card .learn-opp{margin-top:10px;padding-top:10px;border-top:1px solid #e0e5ff;}
+.learn-card .learn-opp-label{font-size:.7rem;font-weight:700;color:#16a34a;letter-spacing:.06em;text-transform:uppercase;margin-bottom:3px;}
+.why-matters{margin-top:10px;padding:10px 14px;background:#f0f4ff;border-radius:6px;border-left:3px solid var(--accent);}
+.why-matters-label{font-size:.65rem;font-weight:800;color:var(--accent);letter-spacing:.1em;text-transform:uppercase;margin-bottom:4px;}
+.why-matters-text{font-size:.8rem;color:var(--ink2);line-height:1.5;}
+.beat-link.country-flag{font-size:.9rem;}
+@media(max-width:640px){.radar-grid{grid-template-columns:1fr;}}
 .pagination{display:flex;align-items:center;justify-content:center;gap:6px;flex-wrap:wrap;margin:26px 0 8px;}
 .pagination button{min-width:38px;height:38px;padding:0 10px;border:1px solid var(--rule2);background:#fff;color:var(--ink2);font-family:var(--sans);font-size:.82rem;font-weight:600;border-radius:8px;cursor:pointer;transition:all .15s;}
 .pagination button:hover:not(:disabled){border-color:var(--accent);color:var(--accent);}
@@ -467,6 +495,12 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
     <a href="#" data-page="news" data-cat="startups">Startups</a>
     <a href="#" data-page="news" data-cat="mercado">Mercado</a>
     <a href="#" data-page="news" data-cat="techia">Tech & IA</a>
+    <span class="nav-divider">|</span>
+    <a href="#" data-page="news" data-cat="country-BR">🇧🇷</a>
+    <a href="#" data-page="news" data-cat="country-US">🇺🇸</a>
+    <a href="#" data-page="news" data-cat="country-EU">🇪🇺</a>
+    <a href="#" data-page="news" data-cat="country-CN">🇨🇳</a>
+    <a href="#" data-page="news" data-cat="country-IN">🇮🇳</a>
     <a href="#" data-page="edu" class="nav-edu">Educação</a>
   </nav>
   <div class="header-right">
@@ -529,6 +563,7 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
           <div class="news-list" id="news-list"></div>
           <div class="pagination" id="pagination"></div>
         </div>
+
       </div>
       <aside class="side-col">
         <div class="side-block">
@@ -540,6 +575,13 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
             <a class="beat-link" href="#" data-side-filter="mercado">Mercado</a>
             <a class="beat-link" href="#" data-side-filter="techia">Tech & IA</a>
             <a class="beat-link" href="#educacao" data-page-shortcut="edu">Educação</a>
+          </div>
+          <div class="side-title" style="margin-top:16px;">Ecossistemas</div>
+          <div class="beat-grid">
+            <a class="beat-link country-flag" href="#" data-side-filter="country-US">🇺🇸 EUA</a>
+            <a class="beat-link country-flag" href="#" data-side-filter="country-EU">🇪🇺 Europa</a>
+            <a class="beat-link country-flag" href="#" data-side-filter="country-CN">🇨🇳 China</a>
+            <a class="beat-link country-flag" href="#" data-side-filter="country-IN">🇮🇳 Índia</a>
           </div>
         </div>
         <div class="side-block">
@@ -2461,8 +2503,25 @@ function contentRegion(a){
   if(globalSignals.test(text)) return 'internacional';
   return /intern/i.test(a.region)?'internacional':'brasil';
 }
+function articleCountry(a){
+  if(a.country && a.country!=='?' && a.country.length===2) return a.country.toUpperCase();
+  // fallback por heurística de região
+  const rk=regionKey(a);
+  return rk==='brasil'?'BR':'US';
+}
+function countryFlag(country){
+  const flags={BR:'🇧🇷',US:'🇺🇸',CN:'🇨🇳',IN:'🇮🇳',EU:'🇪🇺'};
+  return flags[country]||'🌎';
+}
+function countryLabel(country){
+  const labels={BR:'Brasil',US:'EUA',CN:'China',IN:'Índia',EU:'Europa'};
+  return labels[country]||'Internacional';
+}
 function regionKey(a){ return a.contentRegion || contentRegion(a); }
-function regionLabel(a){ return regionKey(a)==='brasil'?'🇧🇷 Brasil':'🌎 Internacional'; }
+function regionLabel(a){
+  const c=articleCountry(a);
+  return `${countryFlag(c)} ${countryLabel(c)}`;
+}
 function isArticleUrl(url){
   try{
     const u=new URL(url);
@@ -2567,10 +2626,11 @@ function cleanPtText(text){
     .replace(/^(Startupi|Startups\.com\.br|Venture Capital|Funding|Startups|Tech|IA|Mercado|Fintech|Economia)\s+/i,'')
     // Remove legenda/crédito de foto no início: "Legenda | Crédito: Fonte / site.com "
     .replace(/^[^.!?]{0,120}\|\s*(Crédito|Credito|Foto|Fonte|Imagem|Reprodução)\s*:\s*[^.!?]{2,120}?(?:\.com|\.br|\.org|\.net)\s+(?=[A-ZÀ-Ú])/i,'')
-    // Legenda seguida de crédito sem barra, terminando em domínio
     .replace(/^(Crédito|Credito|Foto|Fonte|Imagem|Reprodução)\s*:\s*[^.!?]{2,120}?(?:\.com|\.br|\.org|\.net)\s+(?=[A-ZÀ-Ú])/i,'')
-    // Fallback: legenda curta | Crédito: ... sem domínio explícito
     .replace(/^[^.!?]{0,120}\|\s*(Crédito|Credito|Foto|Fonte|Imagem|Reprodução)\s*:\s*[^.!?]{2,80}\s+(?=[A-ZÀ-Ú])/i,'')
+    // Remove padrão "Descrição do local Fotógrafo/Reuters Texto..." sem pipe
+    .replace(/^[^.!?]{0,180}\s+\w[\w\s]{2,30}\/(Reuters|AFP|AP|Getty|Bloomberg|Shutterstock|EPA|EFE|Lusa|Folhapress)\s+(?=[A-ZÀ-Ú])/i,'')
+    .replace(/^[^.!?]{0,180}(Reuters|AFP|AP|Getty|Bloomberg|Shutterstock|EPA|EFE|Lusa|Folhapress|Agência Brasil)[^.!?]{0,60}\s+(?=[A-ZÀ-Ú][a-zà-ú])/i,'')
     .replace(/^[^.!?]{0,90}\|\s*Foto:\s*[^.!?]{2,80}\s+/i,'')
     .replace(/\s*\|\s*Foto:\s*[^.!?]{2,80}\s+/i,' ')
     .replace(/^Foto:\s*[^.!?]{2,80}\s+/i,'');
@@ -2898,6 +2958,16 @@ function triggerRefresh(){
 }
 
 // ── FILTER ────────────────────────────────────────────────────────────────────
+function isRelevantDrop(a){
+  const hay=`${a.title} ${a.summary}`.toLowerCase();
+  const relevant=['startup','scale-up','venture','investimento','funding','captação','rodada','aporte','seed','valuation','aquisição','acquire','ipo','unicórnio','unicorn','tecnologia','technology','tech','software','saas','plataforma','inteligência artificial','artificial intelligence',' ia ',' ai ','machine learning','llm','chatgpt','openai','gemini','robô','robot','automação','chip','semiconductor','cloud','fintech','edtech','healthtech','deeptech','nubank','ifood','totvs','stone','rappi','amazon','google','apple','microsoft','meta','nvidia','bytedance','alibaba','tencent','baidu','anthropic','spacex'];
+  const blocked=['mega-sena','loteria','sorteio','futebol','campeonato','copa do mundo','olimpíada','eleição','candidato','partido político','deputado','senador','horóscopo','novela','big brother','bbb ','reality show','bets ','apostas esportivas','cassino','saneamento básico','abastecimento de água','previsão do tempo'];
+  if(blocked.some(k=>hay.includes(k))) return false;
+  // Títulos genéricos demais sem contexto no resumo são descartados
+  const genericTitle=/^(openai|google|meta|amazon|apple|microsoft|nvidia|\w+)\s+(avança|anuncia|apresenta|lança|atinge|registra|alcança)\s+em\s+/i;
+  if(genericTitle.test(a.title) && !relevant.some(k=>hay.includes(k))) return false;
+  return relevant.some(k=>hay.includes(k));
+}
 function isDenseEnough(a){
   // Matéria manual sempre passa (você é o editor). Agregada precisa ter resumo denso.
   if(a.isManual) return true;
@@ -2906,7 +2976,7 @@ function isDenseEnough(a){
   return s.length>=160 && /[.!?]/.test(s) && distinct;
 }
 function filtered(){
-  const base=dedupe([...MANUAL,...ALL].filter(a=>a.isManual||isArticleUrl(a.url)).filter(isDenseEnough));
+  const base=dedupe([...MANUAL,...ALL].filter(a=>a.isManual||isArticleUrl(a.url)).filter(isDenseEnough).filter(isRelevantDrop));
   const filteredBase = activeFilter==='all' ? base : base.filter(a=>{
     if(activeFilter==='brasil') return a.region==='brasil';
     if(activeFilter==='internacional') return a.region==='internacional';
@@ -2919,6 +2989,10 @@ function filtered(){
     if(activeFilter==='fintech') return hasTag(a,'fintech');
     if(activeFilter==='saas') return hasTag(a,'saas');
     if(activeFilter==='ia') return hasTag(a,'ia');
+    if(activeFilter.startsWith('country-')){
+      const c=activeFilter.replace('country-','').toUpperCase();
+      return articleCountry(a)===c;
+    }
     return true;
   });
   const searched = searchQuery ? filteredBase.filter(a=>matchesSearch(a,searchQuery)) : filteredBase;
@@ -2969,6 +3043,8 @@ function renderAll(){
   renderList(list);
   renderTrending(sideTrend);
   renderFundingSide(sideFunding);
+  renderGlobalRadar(arts);
+  renderLearnSection(arts);
   renderTicker(arts);
   document.getElementById('grid-section').style.display='block';
 }
@@ -3073,11 +3149,68 @@ function renderPagination(totalPages,totalItems){
     });
   });
 }
+
+// ── GLOBAL RADAR ──────────────────────────────────────────────────────────────
+function renderGlobalRadar(arts){
+  const section=document.getElementById('global-radar-section');
+  const grid=document.getElementById('radar-grid');
+  if(!section||!grid) return;
+  const countries=['BR','US','CN','IN'];
+  const picks=[];
+  countries.forEach(c=>{
+    const ca=arts.filter(a=>articleCountry(a)===c).slice(0,1);
+    if(ca.length) picks.push({country:c,...ca[0]});
+  });
+  if(!picks.length){ section.style.display='none'; return; }
+  grid.innerHTML=picks.map(a=>`
+    <div class="radar-card">
+      <div class="radar-country">${countryFlag(a.country)} ${countryLabel(a.country).toUpperCase()}</div>
+      <a href="${articleHref(a)}" class="radar-title">${a.title}</a>
+      <div class="radar-summary">${(a.summary||'').split('.')[0]}.</div>
+      <div class="radar-source">${a.source}</div>
+    </div>`).join('');
+  section.style.display='block';
+}
+
+// ── O QUE APRENDEMOS LÁ FORA ──────────────────────────────────────────────────
+function renderLearnSection(arts){
+  const section=document.getElementById('learn-section');
+  const grid=document.getElementById('learn-grid');
+  if(!section||!grid) return;
+  // Pega as 4-5 notícias internacionais mais relevantes (não BR) com whyMatters
+  const intl=arts.filter(a=>{
+    const c=articleCountry(a);
+    return c!=='BR' && a.whyMatters && a.whyMatters.length>10;
+  }).slice(0,5);
+  if(!intl.length){
+    // fallback: pega as mais relevantes mesmo sem whyMatters
+    const fallback=arts.filter(a=>articleCountry(a)!=='BR').slice(0,4);
+    if(!fallback.length){ section.style.display='none'; return; }
+    grid.innerHTML=fallback.map(a=>`
+      <div class="learn-card">
+        <div class="learn-flag">${countryFlag(articleCountry(a))}</div>
+        <div class="learn-headline">${a.source}</div>
+        <div class="learn-signal">Sinal</div>
+        <div class="learn-text">${a.title}</div>
+      </div>`).join('');
+    section.style.display='block';
+    return;
+  }
+  grid.innerHTML=intl.map(a=>`
+    <div class="learn-card">
+      <div class="learn-flag">${countryFlag(articleCountry(a))} <strong>${countryLabel(articleCountry(a)).toUpperCase()}</strong></div>
+      <div class="learn-headline">${a.source} · <a href="${articleHref(a)}" style="color:var(--ink2);text-decoration:none;">${a.title}</a></div>
+      <div class="learn-signal">Por que importa</div>
+      <div class="learn-text">${a.whyMatters}</div>
+    </div>`).join('');
+  section.style.display='block';
+}
+
 function renderTrending(arts){
   document.getElementById('trending').innerHTML=arts.map((a,i)=>`
     <a class="trend-row" href="${articleHref(a)}">
       <div class="trend-num">${String(i+1).padStart(2,'0')}</div>
-      <div><div class="trend-text">${a.title}</div><div class="trend-src">${a.source} · ${a.region==='brasil'?'🇧🇷':'🌎'}</div></div>
+      <div><div class="trend-text">${a.title}</div><div class="trend-src">${a.source} · ${countryFlag(articleCountry(a))}</div></div>
     </a>`).join('');
 }
 function renderFundingSide(arts){
@@ -3091,8 +3224,8 @@ function renderFundingSide(arts){
     </a>`).join('');
 }
 function renderTicker(arts){
-  const t=arts.slice(0,12).map(a=>a.title); const d=[...t,...t];
-  document.getElementById('ticker').innerHTML=d.map(x=>`<span>${x}</span>`).join('');
+  const items=arts.slice(0,12); const d=[...items,...items];
+  document.getElementById('ticker').innerHTML=d.map(a=>`<a href="${articleHref(a)}" class="ticker-link">${a.title}</a>`).join('');
 }
 
 function findArticleByHash(){
@@ -3127,6 +3260,11 @@ function renderArticle(){
     : `<p>Este é um resumo editorial da notícia. Para os detalhes completos, acesse a matéria original na fonte.</p>`;
   const subtitle = articleSubtitle(article);
   const deckHtml = subtitle ? `<p class="article-deck">${subtitle}</p>` : '';
+  const whyHtml = article.whyMatters ? `
+    <div class="why-matters">
+      <div class="why-matters-label">Por que importa</div>
+      <div class="why-matters-text">${article.whyMatters}</div>
+    </div>` : '';
 
   document.getElementById('article-main').innerHTML=`
     <div class="article-breadcrumb"><a href="#home">Home</a> / ${article.kicker}</div>
@@ -3139,6 +3277,7 @@ function renderArticle(){
       <div><strong>Redação ${BRAND.namePlain}</strong><br>${dateLabel}</div>
     </div>
     <div class="article-body">${paragraphs}</div>
+    ${whyHtml}
     ${hasExternalUrl ? `<div class="source-note"><a href="${article.url}" target="_blank" rel="noopener noreferrer">${originalSourceLine(article)}</a></div>` : ''}
     <div class="article-actions">
       ${hasExternalUrl ? `<a class="read-link" href="${article.url}" target="_blank" rel="noopener noreferrer">Ler matéria original →</a>` : ''}
