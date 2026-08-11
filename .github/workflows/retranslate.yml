@@ -1,0 +1,44 @@
+name: Retraduzir acervo StartupDrops (uso único)
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Máximo de artigos a traduzir (0 = todos)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+jobs:
+  retranslate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install feedparser requests anthropic
+
+      - name: Retraduzir acervo
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python retranslate.py --limit ${{ github.event.inputs.limit }}
+
+      - name: Commitar arquivo atualizado
+        run: |
+          git config user.name "StartupDrops Bot"
+          git config user.email "bot@startupdrops.local"
+          git add data/news.json
+          if git diff --staged --quiet; then
+            echo "Sem mudanças."
+          else
+            git commit -m "chore: retraduz acervo com IA $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
