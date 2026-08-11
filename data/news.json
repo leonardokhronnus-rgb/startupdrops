@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T19:23:20.555551+00:00",
+  "updatedAt": "2026-08-11T23:36:23.426998+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -273,6 +273,11 @@
     {
       "source": "KrASIA",
       "url": "https://kr.asia/feed/",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "MediaNama",
+      "url": "https://www.medianama.com/feed/",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -1603,6 +1608,48 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/desemprego-entre-jovens-sobe-no-mundo-e-ja-atinge-67-milhoes-ia-pode-agravar-cenario-diz-oit.ghtml",
+      "_key": "a0d84b3b75d2397353e81f1a82e1d68b",
+      "title": "Desemprego entre jovens sobe no mundo e já atinge 67 milhões; IA pode agravar cenário, diz OIT",
+      "originalTitle": "Desemprego entre jovens sobe no mundo e já atinge 67 milhões; IA pode agravar cenário, diz OIT",
+      "summary": "Taxa de desemprego fica em 5,4%, em junho O desemprego entre os jovens aumentou no mundo em 2025, em meio ao crescimento econômico mais fraco, às tensões geopolíticas e à criação lenta de empregos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/desemprego-entre-jovens-sobe-no-mundo-e-ja-atinge-67-milhoes-ia-pode-agravar-cenario-diz-oit.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/QgdgTVKZ7HezwOAXEzfDMmDf3Rg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/r/8iPxdrQqAAXzyZkuJ2Cw/videos-g1-3-.jpg",
+      "publishedAt": "2026-08-11T22:54:06+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/advisor/ia-na-gestao-de-recursos-onde-o-humano-perdeu-valor-e-onde-ganhou-muito/",
+      "_key": "963dd3db00f99f98a353a412c91a7302",
+      "title": "IA na gestão de recursos: onde o humano perdeu valor (e onde ganhou muito)",
+      "originalTitle": "IA na gestão de recursos: onde o humano perdeu valor (e onde ganhou muito)",
+      "summary": "trabalho do analista de investimentos – e por que o pensamento crítico se torna ainda mais decisivo para o investidor The post IA na gestão de recursos: onde o humano perdeu valor (e onde ganhou muito) appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/advisor/ia-na-gestao-de-recursos-onde-o-humano-perdeu-valor-e-onde-ganhou-muito/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/clara-outliers-1108.png?fit=300%2C168&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T22:04:22+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startup-manus-to-resume-independent-operations-as-deal-with-meta-unwinds/articleshow/133163825.cms",
@@ -2945,6 +2992,90 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/the-chinese-ai-model-rattling-silicon-valley-and-washington",
+      "_key": "b304e31a012fb44556dc50d636219b29",
+      "title": "The Chinese AI Model Rattling Silicon Valley and Washington",
+      "originalTitle": "The Chinese AI Model Rattling Silicon Valley and Washington",
+      "summary": "A new Chinese AI model is sending shockwaves through Silicon Valley and Washington. Today on Big Take Asia: What Moonshot’s controversial Kimi K3 means for the future of the global AI race. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-11/the-chinese-ai-model-rattling-silicon-valley-and-washington",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-11T22:00:04+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/nvidia-s-show-of-financial-force-soothes-jittery-credit-markets",
+      "_key": "4b6beaab2b5c86482e45332f8bee47b2",
+      "title": "Nvidia’s Show of Financial Force Soothes Jittery Credit Markets",
+      "originalTitle": "Nvidia’s Show of Financial Force Soothes Jittery Credit Markets",
+      "summary": "Nvidia Corp.’s commitments to backstop the artificial intelligence boom seemed to be swelling by the day. There was the reported $250 billion to help kickstart a massive data center for OpenAI in Ohio, the latest in a string of big financings it was involved with.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/nvidia-s-show-of-financial-force-soothes-jittery-credit-markets",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-11T20:38:08+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/politica/noticia/2026/08/11/taxa-das-blusinhas-congresso-vai-instalar-comissao-para-analisar-mp-na-quarta-feira.ghtml",
+      "_key": "225b415d72367fcd8350d61b8df52a56",
+      "title": "'Taxa das blusinhas': Congresso vai instalar comissão para analisar MP na quarta-feira",
+      "originalTitle": "'Taxa das blusinhas': Congresso vai instalar comissão para analisar MP na quarta-feira",
+      "summary": "quarta-feira (12) a sessão para instalar a comissão mista para analisar a medida provisória (MP) que acaba com o imposto de importação de 20% sobre compras internacionais de até US$ 50, a chamada \"taxa das blusinhas\".",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/11/taxa-das-blusinhas-congresso-vai-instalar-comissao-para-analisar-mp-na-quarta-feira.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/FBiDbC-sXcpy6hS38XL7tWsJYLI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/6/2/Ak33ydTO6G83KIxMyyPA/comercio-varejista.png",
+      "publishedAt": "2026-08-11T20:09:36+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/inteligencia-artificial/spacexai-cria-equipe-de-ias-que-trabalha-enquanto-voce-dorme/",
+      "_key": "f12715b273ef1bc2e968ad646e67217f",
+      "title": "SpaceXAI cria ‘equipe’ de IAs que trabalha enquanto você dorme",
+      "originalTitle": "SpaceXAI cria ‘equipe’ de IAs que trabalha enquanto você dorme",
+      "summary": "Nova ferramenta da SpaceXAI coordena agentes de IA, compartilha contexto e já ajuda equipes de vendas e finanças no trabalho O post SpaceXAI cria ‘equipe’ de IAs que trabalha enquanto você dorme apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/inteligencia-artificial/spacexai-cria-equipe-de-ias-que-trabalha-enquanto-voce-dorme/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/spacex-cursor-1024x567.jpg",
+      "publishedAt": "2026-08-11T19:03:56+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/trump-economia-fenomenal-nos-eua-resultam-de-tarifas-e-politicas-imigratorias/",
       "_key": "1f8e7730f39355dc3c4e65ec3a9cd66b",
       "title": "Trump: economia ‘fenomenal’ nos EUA resultam de tarifas e políticas imigratórias",
@@ -3881,6 +4012,300 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/a-visao-de-arminio-fraga-e-alfredo-setubal-sobre-as-licoes-dos-casos-master-e-reag/",
+      "_key": "5ccfba2822496c2eab46f88096232250",
+      "title": "A visão de Armínio Fraga e Alfredo Setubal sobre as lições dos casos Master e Reag",
+      "originalTitle": "A visão de Armínio Fraga e Alfredo Setubal sobre as lições dos casos Master e Reag",
+      "summary": "A crise provocada por casos como Banco Master e Reag reacendeu o debate sobre a arquitetura regulatória do sistema financeiro brasileiro, diante dos estragos causados, tanto financeiros como reputacionais para o mercado.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/a-visao-de-arminio-fraga-e-alfredo-setubal-sobre-as-licoes-dos-casos-master-e-reag/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/regulacao-cvm-300x169.jpg",
+      "publishedAt": "2026-08-11T22:42:38+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/justica-autoriza-recuperacao-extrajudicial-da-allianca-saude-que-tem-divida-de-r-11-bilhao.ghtml",
+      "_key": "9fdac91336a3c15822df6374e34d48a7",
+      "title": "Justiça autoriza recuperação extrajudicial da Alliança Saúde, que tem dívida de R$ 1,1 bilhão",
+      "originalTitle": "Justiça autoriza recuperação extrajudicial da Alliança Saúde, que tem dívida de R$ 1,1 bilhão",
+      "summary": "Recuperação extrajudicial: empresa garante operação normal e sem demissões A Alliança Saúde informou nesta terça-feira (11) que a 2ª Vara de Falências e Recuperações Judiciais de São Paulo autorizou o início do processo de recuperação extrajudicial da companhia e das demais empresas envolvidas.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/11/justica-autoriza-recuperacao-extrajudicial-da-allianca-saude-que-tem-divida-de-r-11-bilhao.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/lKMt4zmkRVOtIJmoGkm8QHYoM5E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/4/T9x9gzTSiSDxzzAJhUwA/cdb-laboratorio-1-.webp",
+      "publishedAt": "2026-08-11T22:31:57+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/oi-oibr3-empresa-adia-divulgacao-de-quatro-balancos-trimestrais-de-2025-e-2026/",
+      "_key": "fc92ba6aba48de291dc543f2776f29c4",
+      "title": "Oi (OIBR3): empresa adia divulgação de quatro balanços trimestrais de 2025 e 2026",
+      "originalTitle": "Oi (OIBR3): empresa adia divulgação de quatro balanços trimestrais de 2025 e 2026",
+      "summary": "Segundo a companhia, o processo de elaboração e revisão de suas informações financeiras permanece em andamento The post Oi (OIBR3): empresa adia divulgação de quatro balanços trimestrais de 2025 e 2026 appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/oi-oibr3-empresa-adia-divulgacao-de-quatro-balancos-trimestrais-de-2025-e-2026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/10/oi-tele-oibr3.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T22:31:07+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/stock-market-today-dow-s-p-live-updates",
+      "_key": "4ec3fc4fd311ab2a0de191c07fb1dc79",
+      "title": "Oil Gains With Iran in Focus, CoreWeave Rallies: Markets Wrap",
+      "originalTitle": "Oil Gains With Iran in Focus, CoreWeave Rallies: Markets Wrap",
+      "summary": "Crude oil posted a modest gain as traders remained wary over the prospects for a Middle East deal, tempering the mood ahead of crucial US inflation data. Sentiment toward technology stocks remained buoyant, with CoreWeave Inc. shares surging after the company bolstered its outlook.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-11T22:07:25+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/na-viveo-o-jogo-e-outro-depois-de-seis-trimestres-de-ajustes/",
+      "_key": "6cbe4d1a50438e07be60365d623fff5a",
+      "title": "Na Viveo, “o jogo é outro” depois de seis trimestres de ajustes",
+      "originalTitle": "Na Viveo, “o jogo é outro” depois de seis trimestres de ajustes",
+      "summary": "A Viveo passou os últimos seis trimestres tentando consertar o que havia saído do lugar. Cortou custos, renegociou contratos, reviu preços, reduziu a velocidade de crescimento em alguns negócios, atacou capital de giro e renegociou sua dívida.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/na-viveo-o-jogo-e-outro-depois-de-seis-trimestres-de-ajustes/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2024/11/viveo-centro-de-distribuicao-cajamar-300x169.webp",
+      "publishedAt": "2026-08-11T21:57:45+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/global/claude-lanca-marca-dagua-invisivel-em-textos-para-identificar-conteudo-gerado-por-ia/",
+      "_key": "0e2e2d535d53d8e4bdf352e0c17afb91",
+      "title": "Claude lança marca d’água invisível em textos para identificar conteúdo gerado por IA",
+      "originalTitle": "Claude lança marca d’água invisível em textos para identificar conteúdo gerado por IA",
+      "summary": "Sinal imperceptível e legível por máquina é incorporado a textos gerados pela IA da Anthropic The post Claude lança marca d&#8217;água invisível em textos para identificar conteúdo gerado por IA appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/global/claude-lanca-marca-dagua-invisivel-em-textos-para-identificar-conteudo-gerado-por-ia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T182307Z_2146561339_RC2UNLAWRGUG_RTRMADP_3_ANTHROPIC-SALESFORCE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-11T21:33:31+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/politica/noticia/2026/08/11/senado-aprova-linha-de-credito-para-industria-de-fertilizantes-mas-sem-estipular-valores.ghtml",
+      "_key": "2c153486f6e097473bb241156e02731a",
+      "title": "sem estipular valores",
+      "originalTitle": "sem estipular valores",
+      "summary": "programa, com oferta de financiamentos, para fomentar a indústria de fertilizantes em meio à guerra no Oriente Médio. O texto segue para sanção do presidente Luiz Inácio Lula Silva (PT).",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/11/senado-aprova-linha-de-credito-para-industria-de-fertilizantes-mas-sem-estipular-valores.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/nWDpJq1SvHFaIs5N1WNatt2M13U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/V/hzlz2EQE2jZBAHNfITig/pexels-kkwritesofficial-31673795.jpg",
+      "publishedAt": "2026-08-11T21:21:24+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/falha-no-zoom-descoberta-por-ia-permitia-invadir-pcs-e-celulares/",
+      "_key": "38e5b4e21ac340dd4469ad0ea3a37d7a",
+      "title": "IA descobre falha no Zoom que permitia invadir PCs e celulares",
+      "originalTitle": "IA descobre falha no Zoom que permitia invadir PCs e celulares",
+      "summary": "Brecha no recurso de anotação de tela foi explorada usando menos de 20 comandos de texto; plataforma de videoconferência já liberou atualização. IA descobre falha no Zoom que permitia invadir PCs e celulares",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/noticias/falha-no-zoom-descoberta-por-ia-permitia-invadir-pcs-e-celulares/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-zoom-2_tb.png",
+      "publishedAt": "2026-08-11T21:07:15+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
+      "_key": "bfe5585d8c450f9d815289f6882a3929",
+      "title": "for $120-per-month",
+      "originalTitle": "for $120-per-month",
+      "summary": "SpaceXAI, the division of SpaceX f ormerly known as xAI , is launching an early beta version of Grok Bot , a new agent designed to move AI assistants beyond answering prompts and toward continuously executing work across the software employees already use.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65dnXPFAFPxGWtfPsYnWgc/638125a94f51d541348c275f60f12788/ChatGPT_Image_Aug_11__2026__02_49_29_PM.png?w=300&q=30",
+      "publishedAt": "2026-08-11T21:07:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/games-e-consoles/o-que-e-geracao-procedural-a-magica-matematica-que-cria-universos-infinitos-nos-games/",
+      "_key": "08e3670d7379a0cba746b24e7c4dbae6",
+      "title": "O que é geração procedural: a “mágica matemática” que cria universos infinitos nos games",
+      "originalTitle": "O que é geração procedural: a “mágica matemática” que cria universos infinitos nos games",
+      "summary": "Através de algoritmos, é possível criar mundos inteiros e diversos elementos com o mínimo de esforço humano. Entenda como a geração procedural funciona e as possibilidades para o futuro.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/games-e-consoles/o-que-e-geracao-procedural-a-magica-matematica-que-cria-universos-infinitos-nos-games/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/Perlin-Noise-Sebastian-Hirnschall-1024x563.png",
+      "publishedAt": "2026-08-11T20:27:58+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/ciencia-e-espaco/como-os-maias-conseguiram-prever-eclipses-solares-com-precisao-ha-mil-anos/",
+      "_key": "cffa4fa489ff33ff7fad2b8097a2e61f",
+      "title": "Como os maias conseguiram prever eclipses solares com precisão há mil anos?",
+      "originalTitle": "Como os maias conseguiram prever eclipses solares com precisão há mil anos?",
+      "summary": "O Códice de Dresden revela um complexo sistema lunar que corrigia seus próprios descompassos e permaneceu preciso ao longo de muitas gerações O post Como os maias conseguiram prever eclipses solares com precisão há mil anos? apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/ciencia-e-espaco/como-os-maias-conseguiram-prever-eclipses-solares-com-precisao-ha-mil-anos/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Codice-de-Dresden-livro-dos-maias-que-previam-eclipses-914x1024.jpg",
+      "publishedAt": "2026-08-11T19:55:13+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/deutsche-sera-primeiro-banco-nao-chines-a-ter-clearing-de-yuan/",
+      "_key": "38e34262b66bb32c17a1ede59adff916",
+      "title": "Deutsche será primeiro banco não chinês a ter ‘clearing’ de yuan",
+      "originalTitle": "Deutsche será primeiro banco não chinês a ter ‘clearing’ de yuan",
+      "summary": "O Banco Popular da China, o BC do país, escolheu o Deutsche Bank para ser a primeira clearing house do yuan na União Europeia – em mais um passo para a internacionalização da moeda chinesa.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/deutsche-sera-primeiro-banco-nao-chines-a-ter-clearing-de-yuan/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2023/01/xi-jinping-258x300.jpg?x85156",
+      "publishedAt": "2026-08-11T19:47:53+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "_key": "bf4a69aa1e4f06abdf2c8d9b9d631248",
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "originalTitle": "ChatGPT and Gemini both just passed 1 billion users",
+      "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-11T19:41:42+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/microsoft-vai-permitir-login-no-edge-com-conta-apple-para-atrair-usuarios/",
+      "_key": "7cee453b11537a4f468c2ce95dc7899e",
+      "title": "usuários",
+      "originalTitle": "usuários",
+      "summary": "Recentemente, Edge passou a permitir login com Conta Google. Agora, Microsoft testa opção de login com Conta Apple nas versões para desktop do navegador. Microsoft vai permitir login no Edge com Conta Apple para atrair usuários",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/noticias/microsoft-vai-permitir-login-no-edge-com-conta-apple-para-atrair-usuarios/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-microsoft-edge-5.png",
+      "publishedAt": "2026-08-11T19:40:13+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/acoes-europeias-fecham-estaveis-com-otimismo-em-relacao-a-balancos/",
