@@ -330,48 +330,6 @@
       "coverageCount": 1
     },
     {
-      "id": "EU-Startups-https://www.eu-startups.com/2026/08/zug-based-zerolook-raises-e1-6-million-to-tackle-ai-driven-flight-search-costs/",
-      "_key": "3bd10dc2651e113075ae9e60de9bb478",
-      "title": "Zug-based Zerolook raises €1.6 million to tackle AI-driven flight search costs",
-      "originalTitle": "Zug-based Zerolook raises €1.6 million to tackle AI-driven flight search costs",
-      "summary": "announced a €1.6 million (CHF 1.5 million/ $1.9 million) pre-Seed funding round. The round was led by London-based Playfair, with participation from Vento Ventures, TrueSight Ventures, Alpha Venture and angels from technology, travel and financial services.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.eu-startups.com/2026/08/zug-based-zerolook-raises-e1-6-million-to-tackle-ai-driven-flight-search-costs/",
-      "source": "EU-Startups",
-      "region": "Internacional",
-      "country": "EU",
-      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T142559.288-1.jpg",
-      "publishedAt": "2026-08-11T08:58:14+00:00",
-      "score": 73,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "EU-Startups"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Tech.eu-https://tech.eu/2026/08/10/visoid-raises-25m-to-expand-ai-visualisation-platform-for-architects/",
-      "_key": "20e7d1b7d7db773920a42c77c056c572",
-      "title": "Visoid raises $2.5M to expand AI visualisation platform for architects",
-      "originalTitle": "Visoid raises $2.5M to expand AI visualisation platform for architects",
-      "summary": "Oslo-based AI startupVisoid has raised $2.5 million in funding to accelerate the development of itsAI visualisation platform for architects and support its international growth.The round was led by Sk...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://tech.eu/2026/08/10/visoid-raises-25m-to-expand-ai-visualisation-platform-for-architects/",
-      "source": "Tech.eu",
-      "region": "Internacional",
-      "country": "EU",
-      "image": "https://cdn.tech.eu/uploads/2026/08/visoid-featured-468.png",
-      "publishedAt": "2026-08-10T08:30:00+00:00",
-      "score": 73,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Tech.eu"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Brazil Journal-https://braziljournal.com/de-go-local-a-go-global-a-ai-esta-ampliando-a-ambicao-das-startups/",
       "_key": "8241cf18316b849a5be06a802d91422f",
       "title": "De ‘go local’ a ‘go global’. A AI está ampliando a ambição das startups",
@@ -412,27 +370,6 @@
       "coverageCount": 1
     },
     {
-      "id": "Tech.eu-https://tech.eu/2026/08/10/edgify-raises-9m-to-expand-its-edge-ai-platform/",
-      "_key": "dc49fccbacf5c48751f7d69028ade7dd",
-      "title": "Edgify raises $9M to expand its edge AI platform",
-      "originalTitle": "Edgify raises $9M to expand its edge AI platform",
-      "summary": "Edge AI infrastructure company Edgify has raised $9million in Series A+ funding to accelerate the rollout of its platform forphysical retail and expand its technology into other industries. The round ...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://tech.eu/2026/08/10/edgify-raises-9m-to-expand-its-edge-ai-platform/",
-      "source": "Tech.eu",
-      "region": "Internacional",
-      "country": "EU",
-      "image": "https://cdn.tech.eu/uploads/2026/08/edgify-featured-664.png",
-      "publishedAt": "2026-08-10T07:00:00+00:00",
-      "score": 65,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Tech.eu"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/10/investimento-circular-como-o-dinheiro-gira-entre-gigantes-de-ia-e-alimenta-temor-de-nova-bolha.ghtml",
       "_key": "f43aafe47431bec3e9f46f64f11dc4ee",
       "title": "'Investimento circular': como o dinheiro gira entre gigantes de IA e alimenta temor de nova bolha",
@@ -450,25 +387,6 @@
       ],
       "coverageCount": 1,
       "country": "BR"
-    },
-    {
-      "id": "Crunchbase News-https://news.crunchbase.com/venture/active-startup-investors-july-2026-khosla-yc-coatue-nvda/",
-      "_key": "b28c8a983de5bd5520c9220c291b1e67",
-      "title": "No Summer Doldrums For Active Startup Investors In July",
-      "summary": "Active startup investors kept up the pace in July, with familiar names topping the ranks in several metrics including most prolific venture dealmakers, most active lead backers, biggest spenders and highest-volume seed investors.",
-      "summaryMethod": "regra",
-      "url": "https://news.crunchbase.com/venture/active-startup-investors-july-2026-khosla-yc-coatue-nvda/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "image": "https://news.crunchbase.com/wp-content/uploads/Top_Investors_july.jpg",
-      "publishedAt": "2026-08-07T11:00:52+00:00",
-      "score": 57,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
-      ],
-      "coverageCount": 1,
-      "country": "US"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/negocios/inteligencia-artificial/gama-fund-de-google-e-monashees-estende-prazo-de-inscricoes/",
@@ -507,88 +425,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "EU-Startups"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-10/sec-alleges-fund-adviser-misled-investors-in-pre-ipo-schemes",
-      "_key": "5fcc0f52e44f54d1e86dd8406127b314",
-      "title": "SEC Alleges Fund Adviser Misled Investors in Pre-IPO Schemes",
-      "summary": "Investment adviser Adit Ventures and co-founder Eric Munson were accused by the US Securities and Exchange Commission of making false claims about investments and overcharging clients with millions of dollars in undisclosed fees to buy shares of companies including SpaceX and Klarna before they were offered to the public.",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/sec-alleges-fund-adviser-misled-investors-in-pre-ipo-schemes",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "image": "",
-      "publishedAt": "2026-08-10T22:27:20+00:00",
-      "score": 54,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
-      "id": "Tech.eu-https://tech.eu/2026/08/07/chip-startup-olix-raises-312m-mobilise-launches-investment-arm-and-a-deep-dive-into-july-funding/",
-      "_key": "4b2227ed976e78385a6e525b1eeec69b",
-      "title": "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding",
-      "originalTitle": "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding",
-      "summary": "This week, we tracked more than 35 tech funding deals worth over €1 billion and 5 exits, M A transactions, rumours, and related news stories across Europe.If email is more your thing, you can alwa...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://tech.eu/2026/08/07/chip-startup-olix-raises-312m-mobilise-launches-investment-arm-and-a-deep-dive-into-july-funding/",
-      "source": "Tech.eu",
-      "region": "Internacional",
-      "country": "EU",
-      "image": "https://cdn.tech.eu/uploads/2024/01/this-week-in-european-tech-292.png",
-      "publishedAt": "2026-08-07T14:29:30+00:00",
-      "score": 54,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Tech.eu"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Tech.eu-https://tech.eu/2026/08/07/platter-lands-follow-on-funding-from-verb-ventures-to-modernise-food-supply-operations/",
-      "_key": "139fdc1da718a2e6736fe9ce9c5c001f",
-      "title": "Platter lands follow-on funding from Verb Ventures to modernise food supply operations",
-      "originalTitle": "Platter lands follow-on funding from Verb Ventures to modernise food supply operations",
-      "summary": "UK-based Platter, a food-native operating system for suppliers, wholesalers and manufacturers, has raised an extension to its latest venture round, joined by Verb Ventures. The UK is home to around 25...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://tech.eu/2026/08/07/platter-lands-follow-on-funding-from-verb-ventures-to-modernise-food-supply-operations/",
-      "source": "Tech.eu",
-      "region": "Internacional",
-      "country": "EU",
-      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-22-203.png",
-      "publishedAt": "2026-08-07T09:03:00+00:00",
-      "score": 54,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Tech.eu"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "TechNode-https://technode.com/2026/08/06/pokebot-raises-hundreds-of-millions-of-dollars-in-pre-a-funding/",
-      "_key": "ac1d42560eb48145f391e580e5cf3fec",
-      "title": "PokeBot Raises Hundreds of Millions of Dollars in Pre-A Funding",
-      "originalTitle": "PokeBot Raises Hundreds of Millions of Dollars in Pre-A Funding",
-      "summary": "Partners. The months-old company is developing household robots for tasks including clothes folding and cooking. A demonstration showed one of its robots autonomously cooking mapo tofu in nine minutes. [TechNode reporting]",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://technode.com/2026/08/06/pokebot-raises-hundreds-of-millions-of-dollars-in-pre-a-funding/",
-      "source": "TechNode",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/pokebot.png?fit=1012%2C492&amp;ssl=1",
-      "publishedAt": "2026-08-06T06:15:09+00:00",
-      "score": 54,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechNode"
       ],
       "coverageCount": 1
     },
@@ -728,46 +564,6 @@
       "country": "BR"
     },
     {
-      "id": "ETtech-https://economictimes.indiatimes.com/tech/startups/xai-cofounders-startup-river-ai-raises-1-1-billion-to-expand-custom-ai-tools/articleshow/133158065.cms",
-      "_key": "d9940e0836e0878fa408f18103fffeee",
-      "title": "XAI cofounder's startup River AI raises $1.1 billion to expand custom AI tools",
-      "originalTitle": "XAI cofounder's startup River AI raises $1.1 billion to expand custom AI tools",
-      "summary": "River AI said it is betting that enterprise AI will shift ​from companies using general-purpose ⁠models from ‌large labs to customizing and ​owning their ​own models, using open-weight models.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://economictimes.indiatimes.com/tech/startups/xai-cofounders-startup-river-ai-raises-1-1-billion-to-expand-custom-ai-tools/articleshow/133158065.cms",
-      "source": "ETtech",
-      "region": "Internacional",
-      "country": "IN",
-      "image": "https://img.etimg.com/photo/msid-133158065,imgsize-176734.cms",
-      "publishedAt": "2026-08-11T14:45:49+00:00",
-      "score": 49,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "ETtech"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "The Verge-https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol",
-      "_key": "10fde6c88d6f6a28db691aa167ea35df",
-      "title": "Joby flexes military muscle with $500 million defense acquisition",
-      "summary": "Joby Aviation announced it was acquiring Dayton, Ohio-based defense firm Resonant Sciences in a $500 million deal, in a bid by the electric aircraft company to expand further into the military industrial complex.",
-      "summaryMethod": "regra",
-      "url": "https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol",
-      "source": "The Verge",
-      "region": "Internacional",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC01507.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "publishedAt": "2026-08-11T12:00:00+00:00",
-      "score": 49,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "The Verge"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/dinheiro-esquecido-bc-atualiza-balanco-e-diz-que-r-51-bilhoes-podem-ser-resgatados-2266-milhoes-de-pessoas-tem-direito.ghtml",
       "_key": "d5027985378481a9c72e3d1990ed3652",
       "title": "'Dinheiro esquecido': BC atualiza balanço e diz que R$ 5,1 bilhões podem ser resgatados; 22,66 milhões de pessoas têm direito",
@@ -785,27 +581,6 @@
       ],
       "coverageCount": 1,
       "country": "BR"
-    },
-    {
-      "id": "SCMP Business-https://www.scmp.com/business/banking-finance/article/3363623/shein-set-take-orders-hong-kong-ipo-next-week-eyeing-us35b-valuation-sources?utm_source=rss_feed",
-      "_key": "46aabd17323ebeb5780e9a60cfa51e50",
-      "title": "Shein set to take orders for Hong Kong IPO next week, eyeing US$35b valuation: sources",
-      "originalTitle": "Shein set to take orders for Hong Kong IPO next week, eyeing US$35b valuation: sources",
-      "summary": "Fast-fashion retailer Shein Global Holdings is planning to take investor orders for its Hong Kong initial public offering (IPO) as soon as next week, aiming for a valuation of US$35 billion, according to people familiar with the matter.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.scmp.com/business/banking-finance/article/3363623/shein-set-take-orders-hong-kong-ipo-next-week-eyeing-us35b-valuation-sources?utm_source=rss_feed",
-      "source": "SCMP Business",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/11/c8d0dae2-7e95-49b0-8076-f85b462da2bd_ce706725.jpg?itok=0L26AyZi&v=1786428320",
-      "publishedAt": "2026-08-11T06:05:22+00:00",
-      "score": 49,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "SCMP Business"
-      ],
-      "coverageCount": 1
     },
     {
       "id": "Startupi-https://startupi.com.br/recargapay-amplia-atuacao/",
@@ -1189,32 +964,6 @@
       "country": "BR"
     },
     {
-      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
-      "title": "Meet the eight startups pitching at Startup Battlefield Australia",
-      "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
-      "url": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
-      "source": "TechCrunch Startups",
-      "region": "Internacional",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889167026_7a80a409c4_o.jpg?resize=1200,800",
-      "publishedAt": "2026-08-05T17:02:00+00:00",
-      "score": 45,
-      "alsoIn": [
-        {
-          "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-          "source": "TechCrunch Startups",
-          "publishedAt": "2026-08-03T20:00:00+00:00"
-        }
-      ],
-      "sourcesCovered": [
-        "TechCrunch Startups"
-      ],
-      "coverageCount": 2,
-      "_key": "6d4b287543a4770156816b086cc1c3f6",
-      "summaryMethod": "regra",
-      "country": "US"
-    },
-    {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/quase-unicornio-o-valuation-da-decade-startup-de-dois-ex-nubank.ghtml",
       "title": "Quase unicórnio: o valuation da Decade, startup de dois ex-Nubank",
       "summary": "O que a Decade não contou e o Pipeline apurou é que a rodada avaliou o negócio em US$ 500 milhões, cifra que a coloca a meio caminho de se tornar um unicórnio, um feito impressionante para uma empresa que acaba de se lançar no mercado.",
@@ -1368,27 +1117,6 @@
       "coverageCount": 1
     },
     {
-      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3363519/how-long-can-ai-memory-price-boom-last-research-suggests-not-much-longer?utm_source=rss_feed",
-      "_key": "2914dc15621a0e2bd5879d9e538c0035",
-      "title": "How long can the AI memory price boom last? Research suggests not much longer",
-      "originalTitle": "How long can the AI memory price boom last? Research suggests not much longer",
-      "summary": "A sharp run-up in global memory-chip stocks is beginning to falter as cooling price growth raises questions over how long the sector’s explosive boom can last, even as artificial intelligence demand remains robust and Chinese producers prepare to add more supply.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.scmp.com/tech/big-tech/article/3363519/how-long-can-ai-memory-price-boom-last-research-suggests-not-much-longer?utm_source=rss_feed",
-      "source": "SCMP Tech",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/53a41fb1-1da3-4a97-87ff-8608a998c117_20b89988.jpg?itok=bYllNOEB&v=1786349362",
-      "publishedAt": "2026-08-10T08:30:10+00:00",
-      "score": 44,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "SCMP Tech"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Startupi-https://startupi.com.br/openai-sobe-barreira-para-enfrentar-um-novo-inimigo-ela-mesma/",
       "_key": "bfa0081077c7ebd98de53afdbb27b4e9",
       "title": "OpenAI sobe barreira para enfrentar um novo inimigo: ela mesma",
@@ -1446,27 +1174,6 @@
       ],
       "coverageCount": 1,
       "country": "BR"
-    },
-    {
-      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363251/backed-deepseek-unitree-ipo-tests-investor-appetite-chinas-ai-robotics-boom?utm_source=rss_feed",
-      "_key": "d4b65b9bad1a143aa7c23e906927797a",
-      "title": "boom",
-      "originalTitle": "boom",
-      "summary": "The long-awaited initial public offering of Unitree Robotics, which values the Hangzhou-based firm at 60.99 billion yuan (US$9 billion), is set to serve as a valuation benchmark for China’s booming embodied-AI sector, buoyed by retail investor excitement and high-profile AI backers like DeepSeek.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3363251/backed-deepseek-unitree-ipo-tests-investor-appetite-chinas-ai-robotics-boom?utm_source=rss_feed",
-      "source": "SCMP Tech",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/f2a695ed-4224-42c6-b853-47affbfa26d4_639a121d.jpg?itok=g2Pq7IlL&v=1786075247",
-      "publishedAt": "2026-08-07T04:23:35+00:00",
-      "score": 44,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "SCMP Tech"
-      ],
-      "coverageCount": 1
     },
     {
       "id": "Startups.com.br-https://startups.com.br/negocios/inteligencia-artificial/claude-sofre-instabilidade-global-e-anthropic-monitora-recuperacao/",
@@ -1725,27 +1432,6 @@
       "country": "BR"
     },
     {
-      "id": "EU-Startups-https://www.eu-startups.com/2026/08/bristols-electric-air-taxi-developer-vertical-aerospace-secures-e86-6-million-in-financing-commitments/",
-      "_key": "01c62aac150fe7379990f6657799ca9c",
-      "title": "Bristol’s electric ‘air taxi’ developer Vertical Aerospace secures €86.6 million in financing commitments",
-      "originalTitle": "Bristol’s electric ‘air taxi’ developer Vertical Aerospace secures €86.6 million in financing commitments",
-      "summary": "Vertical Aerospace, a Bristol-based aerospace tech company that builds all-electric, vertical take-off and landing aircraft (eVTOLs), has announced about €86.6 million ($100 million) in financing commitments from existing and new investors The financing is intended to support progress toward certification and commercialisation of Valo, its piloted, four-passenger eVTOL aircraft.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.eu-startups.com/2026/08/bristols-electric-air-taxi-developer-vertical-aerospace-secures-e86-6-million-in-financing-commitments/",
-      "source": "EU-Startups",
-      "region": "Internacional",
-      "country": "EU",
-      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-11T130648.290.jpg",
-      "publishedAt": "2026-08-11T07:37:43+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "EU-Startups"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363570/unitree-ipo-frenzy-leaves-chinese-retail-investors-1-5500-odds?utm_source=rss_feed",
       "_key": "ac0223efc453e3c8a98d148f8c601232",
       "title": "Unitree IPO frenzy leaves Chinese retail investors with 1-in-5,500 odds",
@@ -1876,25 +1562,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Bloomberg Markets"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
-      "id": "The Verge-https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
-      "_key": "defa4097886ad4eb14218c0ed7e47167",
-      "title": "Boeing is selling its air taxi startups to Archer Aviation",
-      "summary": "Boeing is selling three of its electric vertical takeoff and landing (eVTOL) subsidiaries to Archer Aviation, in addition to taking an undisclosed stake in the San Jose-based company.",
-      "summaryMethod": "regra",
-      "url": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
-      "source": "The Verge",
-      "region": "Internacional",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Gen6_ApronSunset_3840x2160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "publishedAt": "2026-08-10T13:51:46+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "The Verge"
       ],
       "coverageCount": 1,
       "country": "US"
@@ -2050,27 +1717,6 @@
       "country": "CN",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/360e13e3-78b5-4cc4-97cd-071e69264e09_1ff4110e.jpg?itok=Mzy_8GZF&v=1786106681",
       "publishedAt": "2026-08-07T12:54:54+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "SCMP Tech"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers?utm_source=rss_feed",
-      "_key": "d98e9e8aaeb52f1147ac5771e90db091",
-      "title": "researchers",
-      "originalTitle": "researchers",
-      "summary": "China’s top open-weight AI model Kimi K3 broke out of its isolated test environment during a cybersecurity evaluation, according to US security researchers, following similar high-profile incidents involving closed frontier models from OpenAI and Anthropic that highlight the growing challenge of constraining AI behaviour.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers?utm_source=rss_feed",
-      "source": "SCMP Tech",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/7ce4be02-f4d2-4532-af50-fd270e279b04_bfbf76ff.jpg?itok=WcKz264j&v=1786085775",
-      "publishedAt": "2026-08-07T08:00:06+00:00",
       "score": 41,
       "alsoIn": [],
       "sourcesCovered": [
@@ -2494,25 +2140,6 @@
       "country": "BR"
     },
     {
-      "id": "Crunchbase News-https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/",
-      "_key": "b6e9794ee6a9f8b29d672c082e5c8ccd",
-      "title": "Global New Unicorn Counts In The First Half Of 2026 Have Already Surpassed 2025’s Totals",
-      "summary": "A total 195 companies joined The Crunchbase Unicorn Board in the first half of 2026 — far surpassing counts seen since the second half of 2022. Already, H1 is above the new unicorn totals for all of 2025, when 193 companies were minted with that status.",
-      "summaryMethod": "regra",
-      "url": "https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "image": "https://news.crunchbase.com/wp-content/uploads/Rise-of-Unicorns.jpg",
-      "publishedAt": "2026-08-10T11:00:38+00:00",
-      "score": 38,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
       "id": "Tech.eu-https://tech.eu/2026/08/10/european-tech-weekly-recap-eur28b-in-deals-and-mays-highlights/",
       "_key": "15c2ebc4f822f80d676fe2207b83676c",
       "title": "highlights",
@@ -2836,46 +2463,6 @@
       "country": "BR"
     },
     {
-      "id": "VentureBeat-https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights",
-      "_key": "bcd99875834407cb4443c0ba03ba9152",
-      "title": "LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips — and it's open weights",
-      "summary": "LTX , the open world model company spun out of Lightricks, today released LTX-2.5, the newest version of its open-weights video and world model and it arrives natively integrated into ComfyUI , the node-based workflow tool that has become the de facto prototyping environment for open generative media, through a strategic day-one launch partnership between the two companies.",
-      "summaryMethod": "regra",
-      "url": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights",
-      "source": "VentureBeat",
-      "region": "Internacional",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/W3t8pOZ5akOZxRtoey9OE/a8fd8f9856ffbbd478a4108f7312c5e7/ChatGPT_Image_Aug_10__2026__10_06_12_PM.png?w=300&q=30",
-      "publishedAt": "2026-08-11T13:00:00+00:00",
-      "score": 36,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "VentureBeat"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
-      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/samsung-aims-to-train-20000-youths-in-ai-in-india/articleshow/133154203.cms",
-      "_key": "472da6e577b1c8ce7ce78d5bca147935",
-      "title": "Samsung aims to train 20,000 youths in AI in India",
-      "originalTitle": "Samsung aims to train 20,000 youths in AI in India",
-      "summary": "This will be carried out under the 2026 edition of Samsung Innovation Campus (SIC), the flagship CSR programme dedicated to equipping young people with industry-relevant skills in artificial intelligence (AI), Samsung India said in a statement.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://economictimes.indiatimes.com/tech/technology/samsung-aims-to-train-20000-youths-in-ai-in-india/articleshow/133154203.cms",
-      "source": "ETtech",
-      "region": "Internacional",
-      "country": "IN",
-      "image": "https://img.etimg.com/photo/msid-133154203,imgsize-40350.cms",
-      "publishedAt": "2026-08-11T12:17:56+00:00",
-      "score": 36,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "ETtech"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/ipca-inflacao-julho.ghtml",
       "_key": "993b44e132157b58904984ef6856114c",
       "title": "IPCA: Inflação desacelera para 0,07% em julho com queda nos preços dos alimentos",
@@ -2933,27 +2520,6 @@
       "country": "BR"
     },
     {
-      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/french-media-asks-french-anti-trust-watchdog-to-act-on-googles-ai/articleshow/133152614.cms",
-      "_key": "663ab7b70476be3c9cd89b581627f803",
-      "title": "French media asks French anti-trust watchdog to act on Google's AI",
-      "originalTitle": "French media asks French anti-trust watchdog to act on Google's AI",
-      "summary": "The ​media have ⁠called on ‌the ​regulator ​to make a ⁠decision similar to the one ​in July that ​ordered Meta to put forward a payment plan and resume talks ‌with traditional media that are seeking ​fees for ​the ⁠use of their content by platforms' AI tools.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://economictimes.indiatimes.com/tech/technology/french-media-asks-french-anti-trust-watchdog-to-act-on-googles-ai/articleshow/133152614.cms",
-      "source": "ETtech",
-      "region": "Internacional",
-      "country": "IN",
-      "image": "https://img.etimg.com/photo/msid-133152614,imgsize-58302.cms",
-      "publishedAt": "2026-08-11T11:24:18+00:00",
-      "score": 36,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "ETtech"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Exame-https://exame.com/tecnologia/sobrou-dinheiro-do-5g-e-o-recurso-pode-virar-um-data-center-para-a-telebras/",
       "_key": "ba0c97679ed19e426497d6ef1545e0da",
       "title": "Sobrou dinheiro do 5G e o recurso pode virar um data center para a Telebras",
@@ -2971,25 +2537,6 @@
       ],
       "coverageCount": 1,
       "country": "BR"
-    },
-    {
-      "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "_key": "b50361bc49f2019218731878347bc97d",
-      "title": "The AI takeover of mathematics has begun",
-      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI.",
-      "summaryMethod": "regra",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "source": "The Verge",
-      "region": "Internacional",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "publishedAt": "2026-08-11T11:00:00+00:00",
-      "score": 36,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "The Verge"
-      ],
-      "coverageCount": 1,
-      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/11/sucessao-na-jbs-marca-volta-da-familia-batista-ao-comando-diz-financial-times.ghtml",
@@ -3342,27 +2889,6 @@
       "country": "BR"
     },
     {
-      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363318/china-faces-new-ai-bottleneck-it-runs-out-chinese-language-training-data?utm_source=rss_feed",
-      "_key": "4aba5d83413dc42d0aacb18d8e6ca5a8",
-      "title": "China faces new AI bottleneck as it runs out of Chinese-language training data",
-      "originalTitle": "China faces new AI bottleneck as it runs out of Chinese-language training data",
-      "summary": "China’s high-stakes race to build next-generation artificial intelligence models is entering a critical new phase, where a less visible yet far more existential threat is coming into view: a severe shortage of high-quality training data.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3363318/china-faces-new-ai-bottleneck-it-runs-out-chinese-language-training-data?utm_source=rss_feed",
-      "source": "SCMP Tech",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/e10ce937-9ea1-42f3-b3d3-be302e0411c3_7adca551.jpg?itok=FcF16R_f&v=1786096982",
-      "publishedAt": "2026-08-08T02:00:23+00:00",
-      "score": 36,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "SCMP Tech"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Brazil Journal-https://braziljournal.com/no-gas-petrobras-e-atravessadora-diz-diretor-da-anp-nao-somos-ong-diz-magda/",
       "_key": "f17bfc0b5c9d4d8e13fd81df2cd14acd",
       "title": "No gás, Petrobras é “atravessadora”, diz diretor da ANP. “Não somos ONG,” diz Magda",
@@ -3380,27 +2906,6 @@
       ],
       "coverageCount": 1,
       "country": "BR"
-    },
-    {
-      "id": "SCMP Tech-https://www.scmp.com/native/tech/topics/evolving-world-agentic-ai/article/3363132/ai-scale-must-be-built-both-trust-and-innovation?utm_source=rss_feed",
-      "_key": "ccd617353347a5a4fc652f908041985f",
-      "title": "AI at scale must be built on both trust and innovation",
-      "originalTitle": "AI at scale must be built on both trust and innovation",
-      "summary": "[The content of this article has been produced by our advertising partner.] At the World Artificial Intelligence Conference (WAIC) 2026 in Shanghai, one message stood out above all others: artificial intelligence (AI) is no longer just a technology conversation, it is now a governance conversation.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.scmp.com/native/tech/topics/evolving-world-agentic-ai/article/3363132/ai-scale-must-be-built-both-trust-and-innovation?utm_source=rss_feed",
-      "source": "SCMP Tech",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/3af00936-1418-4ef5-9852-dd974e02e8af_6a646041.jpg?itok=h7GabMrO&v=1785993898",
-      "publishedAt": "2026-08-07T04:00:08+00:00",
-      "score": 36,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "SCMP Tech"
-      ],
-      "coverageCount": 1
     },
     {
       "id": "SCMP Tech-https://www.scmp.com/tech/article/3363178/unrelenting-ai-demand-spawns-new-plant-chinese-pcb-maker-victory-giant?utm_source=rss_feed",
@@ -3422,25 +2927,6 @@
         "SCMP Tech"
       ],
       "coverageCount": 1
-    },
-    {
-      "id": "Crunchbase News-https://news.crunchbase.com/startups/tech-layoffs/",
-      "title": "The Crunchbase Tech Layoffs Tracker",
-      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
-      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "image": "https://news.crunchbase.com/wp-content/uploads/Layoffs-scissors.jpg",
-      "publishedAt": "2026-08-05T18:09:30+00:00",
-      "score": 35,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
-      ],
-      "coverageCount": 1,
-      "_key": "77b0de17c62bb24803548f06fb3a9192",
-      "summaryMethod": "regra",
-      "country": "US"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/negocios/inovacao/tractian-capta-r-120m-com-bndes-para-projeto-de-robotica/",
@@ -3520,25 +3006,6 @@
       "_key": "8621cfa3e000cfdc0450339c93ed8235",
       "summaryMethod": "regra",
       "country": "BR"
-    },
-    {
-      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-      "title": "Hark previews its browser use agent for completing tasks",
-      "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
-      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-      "source": "TechCrunch Startups",
-      "region": "Internacional",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.10.59-PM.jpg?resize=1200,596",
-      "publishedAt": "2026-08-05T15:46:27+00:00",
-      "score": 34,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechCrunch Startups"
-      ],
-      "coverageCount": 1,
-      "_key": "70a3cc4274cc539190b81ce46ffafb4f",
-      "summaryMethod": "regra",
-      "country": "US"
     },
     {
       "id": "Pipeline Valor-https://pipelinevalor.globo.com/negocios/noticia/allianca-propoe-conversao-de-divida-enquanto-procura-comprador.ghtml",
@@ -4005,25 +3472,6 @@
       "country": "BR"
     },
     {
-      "id": "The Verge-https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
-      "_key": "76861ef2491ec7c1d34305d32f1e880c",
-      "title": "Bumble now lets men make the first move",
-      "summary": "Bumble was famously built around exclusively giving women the power to initiate messages in heterosexual matches when it first launched in 2014 - but now the times they are a-changin' for the dating app.",
-      "summaryMethod": "regra",
-      "url": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
-      "source": "The Verge",
-      "region": "Internacional",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24349708/STK144_Bumble.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "publishedAt": "2026-08-11T13:00:00+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "The Verge"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/carros-e-tecnologia/um-aviao-supersonico-mais-silencioso-nasa-testa-o-x-59/",
       "_key": "d731c6ea9c2608ad5f42eb27dce1e63d",
       "title": "Um avião supersônico mais silencioso? NASA testa o X-59",
@@ -4102,25 +3550,6 @@
       "country": "BR"
     },
     {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/bloomberg-brief-08-11-2026-video",
-      "_key": "59dd094f1b4e533a69dded6dd1865614",
-      "title": "Bonds Slide Amid Inflation Concerns as Oil Rises on Hormuz Deal Outlook | Bloomberg Brief 08/11/2026",
-      "summary": "Treasuries fall and US equity futures waver as rising oil prices stoke inflation fears. President Trump hardens his stance toward Iran with new demands, clouding the prospect of an immediate agreement on the Strait of Hormuz.",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/bloomberg-brief-08-11-2026-video",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "image": "",
-      "publishedAt": "2026-08-11T12:10:26+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
       "id": "G1 Economia-https://g1.globo.com/carros/noticia/2026/08/11/ford-do-brasil-adianta-recall-do-mustang.ghtml",
       "_key": "ec1ef252c09a41a04ff76f935708e7d2",
       "title": "Ford do Brasil adianta a inspeção por recall de 1.371 unidades do Mustang",
@@ -4176,25 +3605,6 @@
       ],
       "coverageCount": 1,
       "country": "BR"
-    },
-    {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/colombia-quake-levels-buildings-sparks-survivor-search-video",
-      "_key": "cb058a75423cbfb92e9944a80cec3031",
-      "title": "Colombia Quake Levels Buildings, Sparks Survivor Search",
-      "summary": "A magnitude 7.4 earthquake shook western Colombia on Monday, reducing buildings to rubble, sending residents into the streets and setting off a desperate search for people trapped under the debris. (Source: Bloomberg)",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/colombia-quake-levels-buildings-sparks-survivor-search-video",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "image": "",
-      "publishedAt": "2026-08-11T11:12:51+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1,
-      "country": "US"
     },
     {
       "id": "Wired-https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
@@ -4292,67 +3702,6 @@
       "country": "BR"
     },
     {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/europe-stocks-poised-to-grind-higher-bnp-paribas-says-video",
-      "_key": "5b59a1799b41f0cc43f400f650703347",
-      "title": "Europe Stocks Poised to 'Grind Higher,' BNP Paribas Says",
-      "summary": "Benedicte Lowe, Europe equity derivates strategist at BNP Paribas Markets 360, says it's \"undeniable that the macro story is picking up in Europe,\" and that means \"positive picture for stocks.\" She speaks on Bloomberg Television. (Source: Bloomberg)",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/europe-stocks-poised-to-grind-higher-bnp-paribas-says-video",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "image": "",
-      "publishedAt": "2026-08-11T07:21:25+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
-      "id": "YourStory-https://yourstory.com/2026/08/ai-is-changing-cyber-threats-recovery-is-becoming-just-as-important-as-prevention",
-      "_key": "a94a8d57e43bba17bcce202a4812e988",
-      "title": "AI is changing cyber threats. Recovery is becoming just as important as prevention",
-      "originalTitle": "AI is changing cyber threats. Recovery is becoming just as important as prevention",
-      "summary": "At a Rubrik and YourStory roundtable in Bengaluru, engineering and cybersecurity leaders discussed how AI is expanding the attack surface, creating new security challenges, and shifting the focus from preventing breaches to recovering from them quickly.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://yourstory.com/2026/08/ai-is-changing-cyber-threats-recovery-is-becoming-just-as-important-as-prevention",
-      "source": "YourStory",
-      "region": "Internacional",
-      "country": "IN",
-      "image": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/ChatGPTImageAug112026122109PM-1786431243820.png",
-      "publishedAt": "2026-08-11T07:07:43+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "YourStory"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-anthropics-plan-to-watermark-all-claude-generated-content-and-how-it-works/articleshow/133143899.cms",
-      "_key": "5caf6ebde57261c619f142fd2bd506db",
-      "title": "Explained: Anthropic’s plan to watermark all Claude-generated content, and how it works",
-      "originalTitle": "Explained: Anthropic’s plan to watermark all Claude-generated content, and how it works",
-      "summary": "Invisible watermarks will be woven directly into text generated by Claude models. It will not alter the meaning, quality, or readability of a response and can travel with the text when copied elsewhere, potentially persisting through some editing.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-anthropics-plan-to-watermark-all-claude-generated-content-and-how-it-works/articleshow/133143899.cms",
-      "source": "ETtech",
-      "region": "Internacional",
-      "country": "IN",
-      "image": "https://img.etimg.com/photo/msid-133143899,imgsize-37551.cms",
-      "publishedAt": "2026-08-11T06:15:12+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "ETtech"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3363620/gold-breakout-rally-sends-chinese-bullion-stocks-near-highs-central-banks-keep-buying?utm_source=rss_feed",
       "_key": "b54ba6736d0de319ab85762b96c633eb",
       "title": "Gold breakout rally sends Chinese bullion stocks near highs as central banks keep buying",
@@ -4395,46 +3744,6 @@
       "coverageCount": 1
     },
     {
-      "id": "TechNode-https://technode.com/2026/08/11/li-auto-expects-second-generation-ai-glasses-in-h2-2027/",
-      "_key": "e420fcf5cdd91ce671514cd302735f50",
-      "title": "Li Auto Expects Second-Generation AI Glasses in H2 2027",
-      "originalTitle": "Li Auto Expects Second-Generation AI Glasses in H2 2027",
-      "summary": "Li Auto expects the second generation of its Livis AI glasses to arrive in the second half of 2027. The company is evaluating lens-based display technologies with Zeiss and is also developing native compatibility with HarmonyOS.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://technode.com/2026/08/11/li-auto-expects-second-generation-ai-glasses-in-h2-2027/",
-      "source": "TechNode",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/04/liauto-image3.jpeg?fit=1024%2C626&amp;ssl=1",
-      "publishedAt": "2026-08-11T05:28:00+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechNode"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/aluminum-hits-seven-week-high-as-hormuz-impasse-threatens-supply",
-      "_key": "4ab05e8464eb161b82b07ced205c5598",
-      "title": "Aluminum Extends Rally After Brazilian Plant Cuts Output to 50%",
-      "summary": "Aluminum extended gains — and touched a seven-week high — after a key alumina producer said it was slashing production, adding to major supply-side disruptions for the metal this year.",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/aluminum-hits-seven-week-high-as-hormuz-impasse-threatens-supply",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "image": "",
-      "publishedAt": "2026-08-11T05:16:45+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/govt-meta-meeting-later-this-week-to-assess-progress-after-multiple-rounds-of-talks-on-issues/articleshow/133141903.cms",
       "_key": "26106c2e613e7d9a48025011981f5c3b",
       "title": "Govt-Meta meeting later this week to assess progress after multiple rounds of talks",
@@ -4448,48 +3757,6 @@
       "country": "IN",
       "image": "https://img.etimg.com/photo/msid-133141903,imgsize-55252.cms",
       "publishedAt": "2026-08-11T04:12:24+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "ETtech"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "ETtech-https://economictimes.indiatimes.com/tech/information-tech/hcltech-says-no-evidence-of-system-compromise-after-hacker-groups-data-breach-claim/articleshow/133140791.cms",
-      "_key": "4c599c5d326ed62d25d9467fdc5179ee",
-      "title": "HCLTech says no evidence of system compromise after hacker group’s data breach claim",
-      "originalTitle": "HCLTech says no evidence of system compromise after hacker group’s data breach claim",
-      "summary": "In an exchange filing, HCLTech said its initial investigation found the data \"may be limited and dated to a few years back.\" The company said there was no evidence of a breach of its systems, and no indication that any client engagement was affected.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-says-no-evidence-of-system-compromise-after-hacker-groups-data-breach-claim/articleshow/133140791.cms",
-      "source": "ETtech",
-      "region": "Internacional",
-      "country": "IN",
-      "image": "https://img.etimg.com/photo/msid-133140791,imgsize-36978.cms",
-      "publishedAt": "2026-08-11T03:03:12+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "ETtech"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/mark-zuckerberg-manifesto-sketches-out-metas-ambitions-for-world-changing-ai-technology/articleshow/133140500.cms",
-      "_key": "202452f4b2bd71db1306369216f3188b",
-      "title": "Mark Zuckerberg manifesto sketches out Meta's ambitions for world-changing AI technology",
-      "originalTitle": "Mark Zuckerberg manifesto sketches out Meta's ambitions for world-changing AI technology",
-      "summary": "In a document derided by critics as fantastical, Zuckerberg said his company is working toward an era where everyone will have the tools to create new businesses, receive Ph.D.-level tutoring and provide personalized lifestyle tips.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mark-zuckerberg-manifesto-sketches-out-metas-ambitions-for-world-changing-ai-technology/articleshow/133140500.cms",
-      "source": "ETtech",
-      "region": "Internacional",
-      "country": "IN",
-      "image": "https://img.etimg.com/photo/msid-133140500,imgsize-48686.cms",
-      "publishedAt": "2026-08-11T02:23:11+00:00",
       "score": 33,
       "alsoIn": [],
       "sourcesCovered": [
@@ -4515,25 +3782,6 @@
       ],
       "coverageCount": 1,
       "country": "BR"
-    },
-    {
-      "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "_key": "f05c41915a0ae35c487c8ef0f1084f1a",
-      "title": "Mark Zuckerberg doesn’t understand how to live",
-      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise.",
-      "summaryMethod": "regra",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "source": "The Verge",
-      "region": "Internacional",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/zuckerberg_stock_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "publishedAt": "2026-08-10T22:00:00+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "The Verge"
-      ],
-      "coverageCount": 1,
-      "country": "US"
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/10/china-pede-para-entrar-em-disputa-do-brasil-contra-tarifaco-dos-eua-na-omc.ghtml",
@@ -4705,25 +3953,6 @@
       ],
       "coverageCount": 1,
       "country": "BR"
-    },
-    {
-      "id": "VentureBeat-https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push",
-      "_key": "a23bb4336ff5c8ca785bc647051fd72e",
-      "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push",
-      "summary": "Amazon Web Services is threading its AI-powered security infrastructure directly into the coding environments built by two of its fiercest rivals — and in doing so, it is making a bold bet that controlling the security layer matters more than controlling the model.",
-      "summaryMethod": "regra",
-      "url": "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push",
-      "source": "VentureBeat",
-      "region": "Internacional",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/SAOvzFCJxyQFsjBGFCsXx/c67bfe956f9794e39ca73523992245a1/Nuneybits_Vector_art_of_exploding_software_flaws_collapsing_int_98286e9a-3e7b-462e-bde7-1d600cce5a2d.webp?w=300&q=30",
-      "publishedAt": "2026-08-10T20:00:00+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "VentureBeat"
-      ],
-      "coverageCount": 1,
-      "country": "US"
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/hugo-motta-declara-apoio-a-reeleicao-de-lula-o-melhor-para-o-pais/",
@@ -4992,25 +4221,6 @@
       "country": "BR"
     },
     {
-      "id": "VentureBeat-https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code",
-      "_key": "f144285240afb6c1ff09da152f1efd48",
-      "title": "Brex assumes its AI agents could do anything — so it watches the network, not the code",
-      "summary": "Brex CEO Pedro Franceschi offered a blueprint for one of the pressing challenges facing the enterprise today at VB Transform 2026 : securely deploying AI agents, like the open-source OpenClaw, into production environments. Unlocking this enterprise value requires a mindset shift.",
-      "summaryMethod": "regra",
-      "url": "https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code",
-      "source": "VentureBeat",
-      "region": "Internacional",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/x9md7k8MXJUcennsoM9GJ/d78ffa8822de06a00c9dea7771c6b532/2026-VB-Transform-Hotel-Nia-0601.jpg?w=300&q=30",
-      "publishedAt": "2026-08-10T18:31:04+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "VentureBeat"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
       "id": "Tecnoblog-https://tecnoblog.net/noticias/spotify-testa-botao-que-pula-trechos-comerciais-em-podcasts/",
       "_key": "99dceb415c60857c8bf269fea3183876",
       "title": "Spotify testa botão que pula trechos comerciais em podcasts",
@@ -5182,27 +4392,6 @@
       "country": "BR"
     },
     {
-      "id": "EU-Startups-https://www.eu-startups.com/2026/08/the-renaissance-of-customer-care/",
-      "_key": "1e217b73980c03b94a01279716825816",
-      "title": "The renaissance of customer care",
-      "originalTitle": "The renaissance of customer care",
-      "summary": "The prediction was almost unanimous: AI would automate customer service out of existence. It got the direction exactly wrong. The technology meant to replace people is quietly making room for the one thing that makes service matter: the human relationship.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.eu-startups.com/2026/08/the-renaissance-of-customer-care/",
-      "source": "EU-Startups",
-      "region": "Internacional",
-      "country": "EU",
-      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/The-renaissance-of-customer-care.png",
-      "publishedAt": "2026-08-10T13:59:57+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "EU-Startups"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363549/enterprise-ai-costs-hit-2026-low-driven-price-wars-chinese-open-source-models-research?utm_source=rss_feed",
       "_key": "3b11c01904df528fe2c9bfb20919251e",
       "title": "Enterprise AI costs hit 2026 low driven by price wars, Chinese open-source models: research",
@@ -5304,25 +4493,6 @@
       "country": "BR"
     },
     {
-      "id": "Wired-https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-      "_key": "1313571a56e819bdeba9516a288d81a2",
-      "title": "The AI Slop Backlash Is Actually Having an Impact",
-      "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
-      "summaryMethod": "regra",
-      "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-      "source": "Wired",
-      "region": "Internacional",
-      "image": "https://media.wired.com/photos/6a75d22732e80faf510b2a15/master/pass/AI%20Slop.jpg",
-      "publishedAt": "2026-08-10T11:30:00+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Wired"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
       "id": "NeoFeed-https://neofeed.com.br/economia/anac-planeja-leilao-do-santos-dumont-para-2027-e-preve-regras-para-atrair-aereas-estrangeiras/",
       "_key": "0b1cbd10820f023d16cb43d3c03703e9",
       "title": "Anac planeja leilão do Santos Dumont para 2027 e prevê regras para atrair aéreas estrangeiras",
@@ -5399,69 +4569,6 @@
       ],
       "coverageCount": 1,
       "country": "BR"
-    },
-    {
-      "id": "TechNode-https://technode.com/2026/08/10/tencent-reportedly-makes-workbuddy-a-top-strategic-ai-priority/",
-      "_key": "b001b1b75827a9de565ac347a0fc61e0",
-      "title": "Tencent reportedly makes WorkBuddy a top strategic AI priority",
-      "originalTitle": "Tencent reportedly makes WorkBuddy a top strategic AI priority",
-      "summary": "computing and organizational resources for the product. The campaign has included outdoor advertising in Beijing and Shenzhen and promotional placements across major mobile apps. WorkBuddy is a desktop AI office agent that can break down instructions into multiple [&#8230;]",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://technode.com/2026/08/10/tencent-reportedly-makes-workbuddy-a-top-strategic-ai-priority/",
-      "source": "TechNode",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/10/tencent-average_person-XYjLiJxQmAU-unsplash.jpg?fit=1024%2C683&amp;ssl=1",
-      "publishedAt": "2026-08-10T07:23:47+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechNode"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "TechNode-https://technode.com/2026/08/10/former-bytedance-robotics-head-reportedly-joins-xiaomi/",
-      "_key": "e24b6c113e4fdbd4be746bc5046f3b58",
-      "title": "Former ByteDance robotics head reportedly joins Xiaomi",
-      "originalTitle": "Former ByteDance robotics head reportedly joins Xiaomi",
-      "summary": "Former ByteDance robotics team head Kong Tao has reportedly joined Xiaomi, where he now leads a team developing foundation models for robots. Several people familiar with the matter said Kong joined Xiaomi in 2025 and brought a number of former ByteDance colleagues with him.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://technode.com/2026/08/10/former-bytedance-robotics-head-reportedly-joins-xiaomi/",
-      "source": "TechNode",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/xiaomi_robotics_16x9_en.png?fit=1024%2C576&amp;ssl=1",
-      "publishedAt": "2026-08-10T07:22:38+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechNode"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "TechNode-https://technode.com/2026/08/10/wechat-tests-ai-assisted-writing-and-comments-in-moments/",
-      "_key": "82b930907f8aa7ac0125196b5cf23df0",
-      "title": "WeChat tests AI-assisted writing and comments in Moments",
-      "originalTitle": "WeChat tests AI-assisted writing and comments in Moments",
-      "summary": "WeChat is testing two AI features in Moments: AI-assisted writing and AI-generated comments. Screenshots from the test show an “AI Writing” button in the Moments publishing interface that can help users generate post copy.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://technode.com/2026/08/10/wechat-tests-ai-assisted-writing-and-comments-in-moments/",
-      "source": "TechNode",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/wechat-adem-ay-zs-41Br0WhQ-unsplash.jpg?fit=1024%2C683&amp;ssl=1",
-      "publishedAt": "2026-08-10T07:07:08+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechNode"
-      ],
-      "coverageCount": 1
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-09/latest-oil-market-news-and-analysis-for-aug-10",
@@ -6099,25 +5206,6 @@
       "country": "BR"
     },
     {
-      "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "_key": "5e6183914b176af5ccbb105ee3633248",
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories.",
-      "summaryMethod": "regra",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "source": "The Verge",
-      "region": "Internacional",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "publishedAt": "2026-08-11T13:27:20+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "The Verge"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/grupo-sbf-sao-martinho-terra-santa-e-mais-empresas-divulgam-resultados-do-2t/",
       "_key": "fe0d371946fa35284e4ed2da83a42747",
       "title": "Grupo SBF, São Martinho, Terra Santa e mais empresas divulgam resultados do 2T",
@@ -6151,25 +5239,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "The Verge"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/buying-opportunity-forms-around-s-p-skeptics-refusal-to-give-up",
-      "_key": "8858aaf0a56745015322c29dc94cd2a7",
-      "title": "Buying Opportunity Forms Around S&P Skeptics’ Refusal to Give Up",
-      "summary": "US stocks may be sitting at a record, but anxiety about everything from geopolitics to inflation and a divided Federal Reserve is keeping animal spirits at bay. And that may be just what the rally needs to continue.",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/buying-opportunity-forms-around-s-p-skeptics-refusal-to-give-up",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "image": "",
-      "publishedAt": "2026-08-11T12:44:36+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
       ],
       "coverageCount": 1,
       "country": "US"
@@ -6261,44 +5330,6 @@
       "region": "Internacional",
       "image": "",
       "publishedAt": "2026-08-11T11:50:31+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/the-pulse-8-11-2026-video",
-      "_key": "00d3dc1cbfc170d58ba2df611966f0ba",
-      "title": "The Pulse 8/11/2026",
-      "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/the-pulse-8-11-2026-video",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "image": "",
-      "publishedAt": "2026-08-11T11:16:54+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-11/turkish-funds-urge-action-as-stock-swings-threaten-msci-status",
-      "_key": "c23934b4f6459e050f621d9b15a6f091",
-      "title": "Turkish Funds Urge Action as Stock Swings Threaten MSCI Status",
-      "summary": "Turkish investment funds are urging authorities to crack down on unusual trading activity that’s sent some stock prices soaring and has put the nation at risk of exclusion from major equity benchmarks.",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/turkish-funds-urge-action-as-stock-swings-threaten-msci-status",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "image": "",
-      "publishedAt": "2026-08-11T11:05:32+00:00",
       "score": 30,
       "alsoIn": [],
       "sourcesCovered": [
@@ -6403,27 +5434,6 @@
       "country": "US"
     },
     {
-      "id": "YourStory-https://yourstory.com/2026/08/flipkart-expands-tamil-nadu-footprint-focus-on-digital-commerce-tech-supply-chain",
-      "_key": "14c9e3ad3089449cf36479ad93f8abcc",
-      "title": "Flipkart expands Tamil Nadu footprint with focus on digital commerce, tech and supply chain",
-      "originalTitle": "Flipkart expands Tamil Nadu footprint with focus on digital commerce, tech and supply chain",
-      "summary": "The company said nearly 70,000 sellers from Tamil Nadu are using its platform to access customers nationwide, with businesses ranging from Tiruppur's knitwear cluster and textile hubs in Erode and Salem to Kancheepuram's silk weavers and artisan communities in Thanjavur.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://yourstory.com/2026/08/flipkart-expands-tamil-nadu-footprint-focus-on-digital-commerce-tech-supply-chain",
-      "source": "YourStory",
-      "region": "Internacional",
-      "country": "IN",
-      "image": "https://images.yourstory.com/cs/2/47ea3f60084e11efbdcb2f46d4aa7266/FlipcartWalmartFeatureImage-1715923479781.jpg",
-      "publishedAt": "2026-08-11T07:32:19+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "YourStory"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/golpe-das-tarefas-veja-como-uma-falsa-vaga-de-home-office-fez-uma-trabalhadora-perder-r-12-mil.ghtml",
       "_key": "93c58e8d3d177b48d7021aae79732b13",
       "title": "'Golpe das tarefas': veja como uma falsa vaga de home office fez uma trabalhadora perder R$ 1,2 mil",
@@ -6460,27 +5470,6 @@
       ],
       "coverageCount": 1,
       "country": "US"
-    },
-    {
-      "id": "TechNode-https://technode.com/2026/08/11/doubao-introduces-a-12-service-fee-for-hotel-bookings-made-through-its-channel/",
-      "_key": "0fd29fea0cde6e2b9f10face4d4b6c7e",
-      "title": "Doubao Introduces a 12% Service Fee for Hotel Bookings Made Through Its Channel",
-      "originalTitle": "Doubao Introduces a 12% Service Fee for Hotel Bookings Made Through Its Channel",
-      "summary": "through its channel on Douyin’s local-services platform. The combined charge is about 12%, including an 11.4% software service fee and a 0.6% payment fee. The policy took effect on Aug. 10. The fee is applied to hotel orders completed through the channel. [&#8230;]",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://technode.com/2026/08/11/doubao-introduces-a-12-service-fee-for-hotel-bookings-made-through-its-channel/",
-      "source": "TechNode",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/05/china-doubao.png?fit=692%2C646&amp;ssl=1",
-      "publishedAt": "2026-08-11T04:57:24+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechNode"
-      ],
-      "coverageCount": 1
     },
     {
       "id": "TechNode-https://technode.com/2026/08/11/chinese-makers-accounted-for-more-than-97-of-global-humanoid-robot-shipments-in-h1-2026/",
@@ -6584,44 +5573,6 @@
       "country": "BR"
     },
     {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-10/oil-jumps-as-markets-await-clarity-closing-bell-video",
-      "_key": "f16552ae02f095926ef9beab86a38fbc",
-      "title": "Oil Jumps as Markets Await Middle East Clarity | Closing Bell",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with David Gura, Isabelle Lee, Norah Mulinda and Tim Stenovec. (Source: Bloomberg)",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/oil-jumps-as-markets-await-clarity-closing-bell-video",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "image": "",
-      "publishedAt": "2026-08-10T20:25:13+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
-      "id": "The Verge-https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
-      "_key": "5f9336a461f49b4156fbd4e56b07e3e9",
-      "title": "Bluesky now lets you hide reposts from that annoying person you follow",
-      "summary": "Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your feed with reposts of things you don't care about.",
-      "summaryMethod": "regra",
-      "url": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
-      "source": "The Verge",
-      "region": "Internacional",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/bafkreig2hq7svgwj4bppizprcv5t3dlg4zbu3a6pvbebftlavbocibuud4.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "publishedAt": "2026-08-10T19:26:50+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "The Verge"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-10/fed-s-hammack-says-some-number-of-rate-hikes-may-be-needed",
       "_key": "4863b2050c6b4f310c1fdb6bc7828e83",
       "title": "Fed’s Hammack Says ‘Some Number’ of Rate Hikes May Be Needed",
@@ -6632,25 +5583,6 @@
       "region": "Internacional",
       "image": "",
       "publishedAt": "2026-08-10T19:06:07+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-10/test-your-etf-knowledge-in-our-iq-test-video",
-      "_key": "a730cade0500779fedec0253367b86a7",
-      "title": "Test Your ETF Knowledge In Our IQ Test",
-      "summary": "Bloomberg's Isabelle Lee puts Eric Balchunas, Jon Maier, chief ETF strategist for JPMorgan Asset Management, and Mayuranki De, vice president of ETF trade strategy at Raymond James, to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/test-your-etf-knowledge-in-our-iq-test-video",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "image": "",
-      "publishedAt": "2026-08-10T19:03:31+00:00",
       "score": 30,
       "alsoIn": [],
       "sourcesCovered": [
@@ -6755,25 +5687,6 @@
       "country": "BR"
     },
     {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-10/freightwaves-ceo-says-freight-recession-is-over-video",
-      "_key": "c1d3e14bd3c8b3018d75c964ed5964fd",
-      "title": "Shipping Traffic Is Up Despite War in Iran, Says FreightWaves CEO",
-      "summary": "Craig Fuller, CEO of FreightWaves, sees stronger trucking, rail and container volumes despite higher shipping and insurance costs because of the war in Iran. He also talks about a new shipping route that is being used to get through the Arctic to avoid the Strait of Hormuz.",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/freightwaves-ceo-says-freight-recession-is-over-video",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "image": "",
-      "publishedAt": "2026-08-10T17:25:23+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
       "id": "The Verge-https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
       "_key": "23247c50cf86bde209d08b12f2f6e138",
       "title": "Apple will stream Friday Night Baseball live in Vision Pro",
@@ -6850,25 +5763,6 @@
       "country": "BR"
     },
     {
-      "id": "VentureBeat-https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority",
-      "_key": "ac06dfd2d5e624808e1c0a7d90677456",
-      "title": "Your agent didn’t hallucinate; it exceeded its authority",
-      "summary": "Content filters can block unsafe output. They cannot tell you whether an agent was authorized to issue that refund, touch that production system, or commit the company to an external action. Those are different problems, and most enterprises are only solving the first one.",
-      "summaryMethod": "regra",
-      "url": "https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority",
-      "source": "VentureBeat",
-      "region": "Internacional",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/43swqSi0rLgczPqbbebug4/7503760e97b548fbeb2b2474c1df0fc0/u7277289442_An_AI_robot_sitting_at_a_computer_terminal._It_is_a3726764-bcd1-48d9-9aba-e8fc79d02d72_2.png?w=300&q=30",
-      "publishedAt": "2026-08-10T12:00:00+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "VentureBeat"
-      ],
-      "coverageCount": 1,
-      "country": "US"
-    },
-    {
       "id": "G1 Economia-https://g1.globo.com/economia/blog/ana-flor/post/2026/08/10/por-reaproximacao-com-lula-alcolumbre-atuou-por-neutralidade-da-federacao-uniao-pp-em-estados-chave.ghtml",
       "_key": "ba73920f668b9d2fc41378fa3035bcd2",
       "title": "Por reaproximação com Lula, Alcolumbre atuou pela neutralidade da federação União-PP em estados-chave",
@@ -6905,48 +5799,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Tech.eu"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "TechNode-https://technode.com/2026/08/10/apple-says-mainland-china-has-not-launched-qwen-integration-after-mac-guide-disappears/",
-      "_key": "89eb55cef521b0f3c54d4dfadea267b6",
-      "title": "after Mac guide disappears",
-      "originalTitle": "after Mac guide disappears",
-      "summary": "Mac support guide mentioning the integration disappeared from Apple’s website. The guide appeared on Aug. 8 and said Apple Intelligence could work with Alibaba’s Qwen model. Apple customer service said it had not received [&#8230;]",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://technode.com/2026/08/10/apple-says-mainland-china-has-not-launched-qwen-integration-after-mac-guide-disappears/",
-      "source": "TechNode",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/10/apple-17.png?fit=1024%2C469&amp;ssl=1",
-      "publishedAt": "2026-08-10T07:23:12+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechNode"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "TechNode-https://technode.com/2026/08/10/china-gpu-maker-moore-threads-plans-hong-kong-listing-after-h1-revenue-jumps-147/",
-      "_key": "7af3144c721ed8e1ea16068c5737fa05",
-      "title": "China GPU maker Moore Threads plans Hong Kong listing after H1 revenue jumps 147%",
-      "originalTitle": "China GPU maker Moore Threads plans Hong Kong listing after H1 revenue jumps 147%",
-      "summary": "Hong Kong Stock Exchange’s Main Board. The plan was approved on Aug. 7 and disclosed on Aug. 10, while the timetable and offering size have not been finalized. The company reported first-half revenue [&#8230;]",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://technode.com/2026/08/10/china-gpu-maker-moore-threads-plans-hong-kong-listing-after-h1-revenue-jumps-147/",
-      "source": "TechNode",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2023/11/%E6%88%AA%E5%B1%8F2023-11-16-%E4%B8%8B%E5%8D%884.13.45.png?fit=720%2C488&amp;ssl=1",
-      "publishedAt": "2026-08-10T07:22:06+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechNode"
       ],
       "coverageCount": 1
     },
@@ -7105,27 +5957,6 @@
       "country": "US"
     },
     {
-      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363308/beyond-lithography-chinese-chip-toolmaker-achieves-wafer-polishing-breakthrough?utm_source=rss_feed",
-      "_key": "8d37953bc4a6f726dcf5c0c58d245eec",
-      "title": "breakthrough",
-      "originalTitle": "breakthrough",
-      "summary": "Chinese chip-tool developers continue to make technical progress, with the latest breakthrough in wafer polishing – a critical manufacturing step that flattens and smooths silicon discs – even as the industry remains heavily dependent on foreign suppliers for more complex manufacturing procedures.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3363308/beyond-lithography-chinese-chip-toolmaker-achieves-wafer-polishing-breakthrough?utm_source=rss_feed",
-      "source": "SCMP Tech",
-      "region": "Internacional",
-      "country": "CN",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/1a781dc7-6d79-432c-a6ce-6d09e0414b6b_296c521c.jpg?itok=dfbyspSi&v=1786094324",
-      "publishedAt": "2026-08-07T10:30:07+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "SCMP Tech"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "TechNode-https://technode.com/2026/08/07/alibaba-adds-scheduled-tasks-and-office-assistant-to-qwen-app/",
       "_key": "112e5a0c012662819cdc12159100c98d",
       "title": "Alibaba Adds Scheduled Tasks and Office Assistant to Qwen App",
@@ -7145,25 +5976,6 @@
         "TechNode"
       ],
       "coverageCount": 1
-    },
-    {
-      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-      "_key": "45b083a22b791f138af9302e87e41da0",
-      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-      "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15.",
-      "summaryMethod": "regra",
-      "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-      "source": "TechCrunch Startups",
-      "region": "Internacional",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54890573133_6dd8482235_o.jpg?resize=1200,800",
-      "publishedAt": "2026-08-06T22:00:00+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechCrunch Startups"
-      ],
-      "coverageCount": 1,
-      "country": "US"
     },
     {
       "id": "Tech.eu-https://tech.eu/2026/08/06/meet-the-photonics-scaleups-building-tomorrow-s-critical-technologies/",
@@ -7442,25 +6254,6 @@
       "country": "BR"
     },
     {
-      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
-      "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
-      "summary": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!",
-      "url": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
-      "source": "TechCrunch Startups",
-      "region": "Internacional",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/54963427938_23d9e50d14_o.jpg?resize=1200,800",
-      "publishedAt": "2026-08-04T15:00:00+00:00",
-      "score": 26,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechCrunch Startups"
-      ],
-      "coverageCount": 1,
-      "_key": "5d32ec3e111b325911aaba056fce4f1d",
-      "summaryMethod": "regra",
-      "country": "US"
-    },
-    {
       "id": "IT Forum-https://itforum.com.br/noticias/pre-candidato-presidencia-tecnologia/",
       "title": "Pré-candidato à Presidência defende IA e investimento em tecnologia ligado à educação",
       "summary": "Ele tem trajetória em projetos industriais e de infraestrutura no Brasil e no exterior.",
@@ -7497,25 +6290,6 @@
       "_key": "518d6307a00bfb83b561962d98be77c7",
       "summaryMethod": "regra",
       "country": "BR"
-    },
-    {
-      "id": "Crunchbase News-https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/",
-      "title": "‘A Rare Land-Grab Moment’: Menlo Ventures’ Matt Murphy On The Next Wave of AI And Putting $3B In New Capital To Work",
-      "summary": "We speak with Menlo Ventures' Matt Murphy about why AI is pushing the firm toward larger deals, what it has learned from its Anthropic relationship, and where he sees the next big opportunities.",
-      "url": "https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "image": "https://news.crunchbase.com/wp-content/uploads/Giant_Funding.jpg",
-      "publishedAt": "2026-08-03T11:00:43+00:00",
-      "score": 25,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
-      ],
-      "coverageCount": 1,
-      "_key": "a1096fb8f58adb197390e806085dd745",
-      "summaryMethod": "regra",
-      "country": "US"
     },
     {
       "id": "Startupi-https://startupi.com.br/tempestade-como-diagnostico-o-que-os-vendavais-no-brasil-revelam-sobre-a-falha-no-planejamento-urbano/",
@@ -7759,25 +6533,6 @@
       "_key": "2bbb61066e49186c028eed72b2423402",
       "summaryMethod": "regra",
       "country": "BR"
-    },
-    {
-      "id": "Crunchbase News-https://news.crunchbase.com/seed/vanessa-larco-nea-premise-vc-investment-thesis-seed-ai/",
-      "title": "Founder Traits And One Big AI Test: How Former NEA Partner Vanessa Larco Picks Winners",
-      "summary": "Crunchbase News talks with former NEA partner Vanessa Larco about how she evaluates startups based on founder potential rather than initial ideas and how she looks for teams that leverage AI to make products dramatically faster, cheaper, or easier to use.",
-      "url": "https://news.crunchbase.com/seed/vanessa-larco-nea-premise-vc-investment-thesis-seed-ai/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "image": "https://news.crunchbase.com/wp-content/uploads/Seed.jpg",
-      "publishedAt": "2026-07-30T13:00:44+00:00",
-      "score": 20,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
-      ],
-      "coverageCount": 1,
-      "_key": "bf6fde00fa810e7b920163b75f7de04c",
-      "summaryMethod": "regra",
-      "country": "US"
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
