@@ -4,17 +4,17 @@ StartupDrops — Coletor de notícias
 -----------------------------------
 Lê os RSS das fontes, deduplica contra o arquivo existente, resume o que é novo
 (IA da Anthropic com fallback para regras) e ACUMULA em data/news.json.
-
+ 
 Uso:
     pip install feedparser requests anthropic
     python collector.py                 # roda a coleta
     python collector.py --no-ai         # força só a lógica de regras
     python collector.py --max-age 45    # mantém no arquivo notícias dos últimos 45 dias
-
+ 
 Variáveis de ambiente:
     ANTHROPIC_API_KEY   -> se presente, ativa o resumo por IA (senão cai na regra)
 """
-
+ 
 import argparse
 import hashlib
 import json
@@ -24,86 +24,88 @@ import sys
 import time
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
-
+ 
 import feedparser
 import requests
-
+ 
 # ── FONTES ────────────────────────────────────────────────────────────────────
 # Mesmas fontes do portal. Ajuste as URLs conforme necessário.
 SOURCES = [
-    # Brasil
+    # Google News RSS e usado como resgate quando o feed nativo da publicacao
+    # esta quebrado. Formato: news.google.com/rss/search?q=when:2d site:DOMINIO
+ 
+    # -- BRASIL: startups e tech (feeds nativos funcionando) --
     {"name": "Startupi",              "region": "Brasil",         "country": "BR", "feed": "https://startupi.com.br/feed/"},
     {"name": "Startups.com.br",       "region": "Brasil",         "country": "BR", "feed": "https://startups.com.br/feed/"},
     {"name": "NeoFeed",               "region": "Brasil",         "country": "BR", "feed": "https://neofeed.com.br/feed/"},
-    {"name": "Exame",                 "region": "Brasil",         "country": "BR", "feed": "https://exame.com/feed/"},
     {"name": "Brazil Journal",        "region": "Brasil",         "country": "BR", "feed": "https://braziljournal.com/feed/"},
-    {"name": "Pipeline Valor",        "region": "Brasil",         "country": "BR", "feed": "https://pipelinevalor.globo.com/rss/"},
-    {"name": "IT Forum",              "region": "Brasil",         "country": "BR", "feed": "https://itforum.com.br/feed/"},
     {"name": "Olhar Digital",         "region": "Brasil",         "country": "BR", "feed": "https://olhardigital.com.br/feed/"},
     {"name": "Tecnoblog",             "region": "Brasil",         "country": "BR", "feed": "https://tecnoblog.net/feed/"},
-    {"name": "Inovação Tecnológica",  "region": "Brasil",         "country": "BR", "feed": "https://www.inovacaotecnologica.com.br/boletim/rss.xml"},
     {"name": "InfoMoney",             "region": "Brasil",         "country": "BR", "feed": "https://www.infomoney.com.br/feed/"},
-    {"name": "Baguete",               "region": "Brasil",         "country": "BR", "feed": "https://www.baguete.com.br/rss.xml"},
-    {"name": "Época Negócios",        "region": "Brasil",         "country": "BR", "feed": "https://epocanegocios.globo.com/rss/epoca-negocios/"},
-    # Internacional
+    {"name": "Exame",                 "region": "Brasil",         "country": "BR", "feed": "https://exame.com/feed/"},
+    {"name": "G1 Economia",           "region": "Brasil",         "country": "BR", "feed": "https://g1.globo.com/dynamo/economia/rss2.xml"},
+ 
+    # -- BRASIL: resgate via Google News (feeds nativos quebrados) --
+    {"name": "IT Forum",              "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:itforum.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Pipeline Valor",        "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:pipelinevalor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Valor Economico",       "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Exame Economia",        "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:exame.com+economia&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Epoca Negocios",        "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:epocanegocios.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "CNN Brasil Business",   "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:cnnbrasil.com.br+economia&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Estadao Economia",      "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:estadao.com.br+economia&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "PEGN",                  "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "MIT Tech Review BR",    "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:mittechreview.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+ 
+    # -- EUA / GLOBAL: startups, VC e tech --
     {"name": "TechCrunch Startups",   "region": "Internacional",  "country": "US", "feed": "https://techcrunch.com/category/startups/feed/"},
     {"name": "Crunchbase News",       "region": "Internacional",  "country": "US", "feed": "https://news.crunchbase.com/feed/"},
     {"name": "VentureBeat",           "region": "Internacional",  "country": "US", "feed": "https://venturebeat.com/feed/"},
-    {"name": "Sifted",                "region": "Internacional",  "country": "EU", "feed": "https://sifted.eu/feed"},
-    {"name": "Tech.eu",                "region": "Internacional",  "country": "EU", "feed": "https://tech.eu/feed/"},
-    {"name": "EU-Startups",            "region": "Internacional",  "country": "EU", "feed": "https://www.eu-startups.com/feed/"},
-    {"name": "Finsider",               "region": "Internacional",  "country": "EU", "feed": "https://finsider.eu/feed/"},
-    {"name": "Business Insider Tech",  "region": "Internacional",  "country": "US", "feed": "https://www.businessinsider.com/sai/rss"},
-    {"name": "Rest of World",         "region": "Internacional",  "country": "US", "feed": "https://restofworld.org/feed/latest/"},
     {"name": "The Verge",             "region": "Internacional",  "country": "US", "feed": "https://www.theverge.com/rss/index.xml"},
-    {"name": "Ars Technica",          "region": "Internacional",  "country": "US", "feed": "https://feeds.arstechnica.com/arstechnica/index"},
     {"name": "Wired",                 "region": "Internacional",  "country": "US", "feed": "https://www.wired.com/feed/rss"},
-
-    # Brasil — Economia e Mercado
-    {"name": "Exame Economia",        "region": "Brasil",         "country": "BR", "feed": "https://exame.com/economia/feed/"},
-    {"name": "Exame Invest",          "region": "Brasil",         "country": "BR", "feed": "https://exame.com/invest/feed/"},
-    {"name": "G1 Economia",           "region": "Brasil",         "country": "BR", "feed": "https://g1.globo.com/dynamo/economia/rss2.xml"},
-    {"name": "Valor Econômico",       "region": "Brasil",         "country": "BR", "feed": "https://valor.globo.com/rss/ultimas-noticias/"},
-    {"name": "CNN Brasil Business",   "region": "Brasil",         "country": "BR", "feed": "https://www.cnnbrasil.com.br/economia/feed/"},
-    {"name": "Infomoney Economia",    "region": "Brasil",         "country": "BR", "feed": "https://www.infomoney.com.br/economia/feed/"},
-    {"name": "Broadcast Político",    "region": "Brasil",         "country": "BR", "feed": "https://www.estadao.com.br/economia/rss/"},
-    # Internacional — Economia e Mercado
-    {"name": "Reuters Business",      "region": "Internacional",  "country": "US", "feed": "https://feeds.reuters.com/reuters/businessNews"},
+    {"name": "Rest of World",         "region": "Internacional",  "country": "US", "feed": "https://restofworld.org/feed/latest/"},
+    {"name": "a16z",                  "region": "Internacional",  "country": "US", "feed": "https://a16z.com/feed/"},
+    {"name": "First Round Review",    "region": "Internacional",  "country": "US", "feed": "https://review.firstround.com/feed.xml"},
+    {"name": "Axios Pro Rata",        "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:2d+site:axios.com+venture+OR+startup&hl=en-US&gl=US&ceid=US:en"},
+ 
+    # -- EUA / GLOBAL: resgate via Google News --
+    {"name": "Reuters Business",      "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:2d+site:reuters.com+business&hl=en-US&gl=US&ceid=US:en"},
+    {"name": "Reuters Tech",          "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:2d+site:reuters.com+technology&hl=en-US&gl=US&ceid=US:en"},
+    {"name": "Bloomberg Tech",        "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:2d+site:bloomberg.com+technology+OR+startup&hl=en-US&gl=US&ceid=US:en"},
     {"name": "Bloomberg Markets",     "region": "Internacional",  "country": "US", "feed": "https://feeds.bloomberg.com/markets/news.rss"},
-    {"name": "FT Companies",          "region": "Internacional",  "country": "US", "feed": "https://www.ft.com/companies?format=rss"},
-    # 🇨🇳 China
-    {"name": "Caixin Global",         "region": "Internacional",  "country": "CN", "feed": "https://www.caixinglobal.com/rss/all.xml"},
+    {"name": "The Information",       "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:2d+site:theinformation.com&hl=en-US&gl=US&ceid=US:en"},
+ 
+    # -- EUROPA --
+    {"name": "Tech.eu",               "region": "Internacional",  "country": "EU", "feed": "https://tech.eu/feed/"},
+    {"name": "EU-Startups",           "region": "Internacional",  "country": "EU", "feed": "https://www.eu-startups.com/feed/"},
+    {"name": "Sifted",                "region": "Internacional",  "country": "EU", "feed": "https://news.google.com/rss/search?q=when:3d+site:sifted.eu&hl=en-US&gl=US&ceid=US:en"},
+ 
+    # -- AMERICA LATINA (novo eixo) --
+    {"name": "Contxto",               "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:3d+site:contxto.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "LABS Latam",            "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:3d+site:labsnews.com&hl=en-US&gl=US&ceid=US:en"},
+ 
+    # -- CHINA --
     {"name": "SCMP Tech",             "region": "Internacional",  "country": "CN", "feed": "https://www.scmp.com/rss/36/feed"},
-    {"name": "SCMP Business",          "region": "Internacional",  "country": "CN", "feed": "https://www.scmp.com/rss/92/feed"},
-    {"name": "Reuters China",         "region": "Internacional",  "country": "CN", "feed": "https://feeds.reuters.com/reuters/CNTopNews"},
-    {"name": "Nikkei Asia",           "region": "Internacional",  "country": "CN", "feed": "https://asia.nikkei.com/rss/feed/nar"},
-    {"name": "TechNode",               "region": "Internacional",  "country": "CN", "feed": "https://technode.com/feed/"},
-    {"name": "KrASIA",                 "region": "Internacional",  "country": "CN", "feed": "https://kr.asia/feed/"},
-    # 🇮🇳 Índia
+    {"name": "SCMP Business",         "region": "Internacional",  "country": "CN", "feed": "https://www.scmp.com/rss/92/feed"},
+    {"name": "TechNode",              "region": "Internacional",  "country": "CN", "feed": "https://technode.com/feed/"},
+    {"name": "Caixin Global",         "region": "Internacional",  "country": "CN", "feed": "https://news.google.com/rss/search?q=when:2d+site:caixinglobal.com&hl=en-US&gl=US&ceid=US:en"},
+    {"name": "KrASIA",                "region": "Internacional",  "country": "CN", "feed": "https://news.google.com/rss/search?q=when:3d+site:kr-asia.com&hl=en-US&gl=US&ceid=US:en"},
+ 
+    # -- INDIA --
     {"name": "Inc42",                 "region": "Internacional",  "country": "IN", "feed": "https://inc42.com/feed/"},
     {"name": "YourStory",             "region": "Internacional",  "country": "IN", "feed": "https://yourstory.com/feed"},
     {"name": "ETtech",                "region": "Internacional",  "country": "IN", "feed": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms"},
-    {"name": "MediaNama",             "region": "Internacional",  "country": "IN", "feed": "https://www.medianama.com/feed/"},
-    {"name": "YourStory Startups",     "region": "Internacional",  "country": "IN", "feed": "https://yourstory.com/category/startups/feed"},
-    {"name": "Inc42 Startups",         "region": "Internacional",  "country": "IN", "feed": "https://inc42.com/startups/feed/"},
-    {"name": "Indian Web2",            "region": "Internacional",  "country": "IN", "feed": "https://indianweb2.com/feed/"},
-
-    # Alguns feeds mudam de URL ou exigem checagem. Rode o collector e veja se
-    # aparecem em "falhas"; se falharem, ajuste a URL ou remova.
-    # {"name": "MIT Tech Review BR",  "region": "Brasil",         "country": "BR", "feed": "https://mittechreview.com.br/feed/"},
-    # {"name": "PEGN",                "region": "Brasil",         "country": "BR", "feed": "https://revistapegn.globo.com/rss/ultimas/feed.xml"},
-    # {"name": "Axios",               "region": "Internacional",  "country": "US", "feed": "https://api.axios.com/feed/"},
+    {"name": "Entrackr",              "region": "Internacional",  "country": "IN", "feed": "https://news.google.com/rss/search?q=when:2d+site:entrackr.com&hl=en-IN&gl=IN&ceid=IN:en"},
 ]
-
+ 
 DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "news.json")
 USER_AGENT = "StartupDropsBot/1.0 (+https://startupdrops)"
 REQUEST_TIMEOUT = 20
-
+ 
 # Portão de qualidade: resumo precisa ter pelo menos este tamanho pra virar matéria.
 # Fontes que só entregam trecho curto (HBR, muitos paywalls) são descartadas
 # em vez de virarem card raso.
 MIN_SUMMARY_CHARS = 180
-
+ 
 # Palavras que caracterizam o ecossistema. Pelo menos UMA precisa estar
 # no título ou resumo para a notícia entrar no portal.
 RELEVANCE_REQUIRED = [
@@ -125,7 +127,7 @@ RELEVANCE_REQUIRED = [
     "amazon", "google", "apple", "microsoft", "meta", "nvidia", "bytedance",
     "alibaba", "tencent", "baidu", "openai", "anthropic", "spacex",
 ]
-
+ 
 # Termos que bloqueiam a notícia mesmo que passe no portão de relevância
 BLOCKLIST = [
     "mega-sena", "loteria", "lotto", "sorteio", "futebol", "campeonato",
@@ -143,13 +145,13 @@ BLOCKLIST = [
     "save $", "register now", "buy tickets", "early bird",
     "disrupt ", "techcrunch disrupt",
 ]
-
-
+ 
+ 
 def normalize_txt(s):
     s = (s or "").lower()
     s = re.sub(r"[^a-z0-9]", "", s)
     return s[:120]
-
+ 
 # Termos que sobem o score de uma notícia (relevância p/ ecossistema de startups)
 KEYWORDS_STRONG = [
     "rodada", "aporte", "investimento", "série a", "série b", "seed", "captação",
@@ -159,13 +161,13 @@ KEYWORDS_STRONG = [
 ]
 KEYWORDS_SOFT = ["fintech", "saas", "ia", "inteligência artificial", "ai ", "scale-up", "edtech", "healthtech",
                  "selic", "juros", "banco central", "copom", "inflação", "câmbio", "dólar", "pib", "economia"]
-
-
+ 
+ 
 # ── UTIL ──────────────────────────────────────────────────────────────────────
 def now_utc():
     return datetime.now(timezone.utc)
-
-
+ 
+ 
 def parse_date(entry):
     for key in ("published", "updated", "created"):
         val = entry.get(key)
@@ -185,16 +187,16 @@ def parse_date(entry):
             except Exception:
                 pass
     return now_utc()
-
-
+ 
+ 
 def strip_html(text):
     text = re.sub(r"<[^>]+>", " ", text or "")
     text = re.sub(r"&[a-z]+;", " ", text)
     text = re.sub(r"\s+", " ", text)
     text = strip_photo_credit(text)
     return text.strip()
-
-
+ 
+ 
 def strip_photo_credit(text):
     """Remove legenda/crédito de foto no início do texto."""
     patterns = [
@@ -210,8 +212,8 @@ def strip_photo_credit(text):
     for p in patterns:
         text = re.sub(p, "", text, flags=re.I)
     return text.strip()
-
-
+ 
+ 
 def first_image(entry):
     # media:content / media:thumbnail
     for key in ("media_content", "media_thumbnail"):
@@ -231,8 +233,8 @@ def first_image(entry):
         if m:
             return m.group(1)
     return ""
-
-
+ 
+ 
 def score_article(title, summary):
     text = f"{title} {summary}".lower()
     score = 30
@@ -243,8 +245,8 @@ def score_article(title, summary):
         if kw in text:
             score += 3
     return min(score, 100)
-
-
+ 
+ 
 def og_image(url):
     """Busca og:image / twitter:image na própria página quando o RSS não traz imagem."""
     try:
@@ -264,26 +266,26 @@ def og_image(url):
     except Exception:
         pass
     return ""
-
-
+ 
+ 
 def resolve_image(entry, url):
     img = first_image(entry)
     if img and not re.search(r"youtube\.com/embed|youtu\.be|\.svg(\?|$)", img, re.I):
         return img
     return og_image(url)
-
-
+ 
+ 
 def make_id(source, url):
     return f"{source}-{url}"
-
-
+ 
+ 
 def canonical_key(url):
     """Chave p/ deduplicar: domínio + caminho, sem querystring/fragment."""
     u = re.sub(r"[#?].*$", "", url or "")
     u = re.sub(r"^https?://(www\.)?", "", u).rstrip("/").lower()
     return hashlib.md5(u.encode()).hexdigest()
-
-
+ 
+ 
 # ── RESUMO ────────────────────────────────────────────────────────────────────
 def summary_by_rule(title, raw_summary):
     """Fallback: limpa o texto e corta em frases completas (sem inventar dado)."""
@@ -299,11 +301,11 @@ def summary_by_rule(title, raw_summary):
         total += len(s)
     result = " ".join(out).strip()
     return result if result else title
-
-
+ 
+ 
 _anthropic_client = None
-
-
+ 
+ 
 def get_anthropic():
     global _anthropic_client
     if _anthropic_client is not None:
@@ -318,8 +320,8 @@ def get_anthropic():
     except Exception as e:
         print(f"  [ia] indisponível ({e}); usando regra", file=sys.stderr)
         return None
-
-
+ 
+ 
 def summary_by_ai(title, raw_summary, region, country="US"):
     client = get_anthropic()
     if not client:
@@ -369,19 +371,19 @@ def summary_by_ai(title, raw_summary, region, country="US"):
         print(f"  [ia] falha na sumarização ({e}); usando regra", file=sys.stderr)
         return None, None
         return None
-
-
+ 
+ 
 def build_summary(title, raw_summary, region, use_ai, country="US"):
     if use_ai:
         ai_summary, ai_title = summary_by_ai(title, raw_summary, region, country)
         if ai_summary:
             return ai_summary, "ia", ai_title
     return summary_by_rule(title, raw_summary), "regra", None
-
-
+ 
+ 
 # ── COLETA ────────────────────────────────────────────────────────────────────
 PROXY_URL = "https://api.allorigins.win/raw?url={url}"
-
+ 
 def fetch_feed(source):
     headers = {"User-Agent": USER_AGENT}
     url = source["feed"]
@@ -396,25 +398,25 @@ def fetch_feed(source):
         except Exception:
             continue
     return None, f"falhou direto e via proxy"
-
-
+ 
+ 
 def collect(use_ai, max_age_days):
     existing = load_existing()
     by_key = {a.get("_key") or canonical_key(a["url"]): a for a in existing.get("articles", [])}
-
+ 
     articles = list(by_key.values())
     failures = []
     seen_now = set()
     new_count = 0
     skipped_thin = 0
-
+ 
     for source in SOURCES:
         print(f"→ {source['name']}", file=sys.stderr)
         parsed, err = fetch_feed(source)
         if err or parsed is None:
             failures.append({"source": source["name"], "url": source["feed"], "reason": err or "sem retorno"})
             continue
-
+ 
         for entry in parsed.entries[:25]:
             url = entry.get("link", "").strip()
             title = strip_html(entry.get("title", "")).strip()
@@ -424,15 +426,15 @@ def collect(use_ai, max_age_days):
             if key in seen_now:
                 continue
             seen_now.add(key)
-
+ 
             if key in by_key:  # já arquivada
                 continue
-
+ 
             raw_summary = entry.get("summary", "") or ""
             published = parse_date(entry)
             country = source.get("country", "US")
             summary, method, ai_title = build_summary(title, raw_summary, source["region"], use_ai, country)
-
+ 
             # Extrai "Por que importa" do summary se vier do formato AI
             why_matters = ""
             clean_summary = summary.strip()
@@ -440,26 +442,26 @@ def collect(use_ai, max_age_days):
                 parts_split = clean_summary.split("||WHY||", 1)
                 clean_summary = parts_split[0].strip()
                 why_matters = parts_split[1].strip()
-
+ 
             # Portão de qualidade
             enough_length = len(clean_summary) >= MIN_SUMMARY_CHARS
             enough_sentences = len(re.findall(r"[.!?]", clean_summary)) >= 1
             distinct_from_title = normalize_txt(clean_summary) != normalize_txt(title)
-
+ 
             # Portão de relevância: precisa ter pelo menos 1 palavra do ecossistema
             haystack = (title + " " + clean_summary).lower()
             is_relevant = any(kw in haystack for kw in RELEVANCE_REQUIRED)
-
+ 
             # Portão de bloqueio: termos que nunca devem entrar
             is_blocked = any(kw in haystack for kw in BLOCKLIST)
-
+ 
             if not (enough_length and enough_sentences and distinct_from_title and is_relevant) or is_blocked:
                 skipped_thin += 1
                 continue
-
+ 
             score = score_article(title, clean_summary)
             final_title = ai_title if ai_title else title
-
+ 
             article = {
                 "id": make_id(source["name"], url),
                 "_key": key,
@@ -482,7 +484,7 @@ def collect(use_ai, max_age_days):
             by_key[key] = article
             articles.append(article)
             new_count += 1
-
+ 
     # poda por idade
     cutoff = now_utc() - timedelta(days=max_age_days)
     kept = []
@@ -494,7 +496,7 @@ def collect(use_ai, max_age_days):
         if dt >= cutoff:
             kept.append(a)
     kept.sort(key=lambda a: (a.get("score", 0), a["publishedAt"]), reverse=True)
-
+ 
     payload = {
         "updatedAt": now_utc().isoformat(),
         "editorialFocus": "Brasil + Internacional equilibrado",
@@ -505,8 +507,8 @@ def collect(use_ai, max_age_days):
     save(payload)
     print(f"\n✓ {new_count} novas · {len(kept)} no arquivo · {skipped_thin} descartadas (resumo raso) · {len(failures)} falhas", file=sys.stderr)
     return payload
-
-
+ 
+ 
 def load_existing():
     if os.path.exists(DATA_PATH):
         try:
@@ -521,24 +523,24 @@ def load_existing():
         except Exception:
             pass
     return {"articles": []}
-
-
+ 
+ 
 def save(payload):
     os.makedirs(os.path.dirname(DATA_PATH), exist_ok=True)
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
-
-
+ 
+ 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-ai", action="store_true", help="força só a lógica de regras")
     ap.add_argument("--max-age", type=int, default=60, help="dias de notícia mantidos no arquivo")
     args = ap.parse_args()
-
+ 
     use_ai = (not args.no_ai) and bool(os.environ.get("ANTHROPIC_API_KEY"))
     print(f"Resumo: {'IA (com fallback p/ regra)' if use_ai else 'somente regra'}", file=sys.stderr)
     collect(use_ai=use_ai, max_age_days=args.max_age)
-
-
+ 
+ 
 if __name__ == "__main__":
     main()
