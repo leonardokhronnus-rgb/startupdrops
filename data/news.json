@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T06:01:19.664487+00:00",
+  "updatedAt": "2026-08-12T10:01:44.569424+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -281,6 +281,11 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "MediaNama",
+      "url": "https://www.medianama.com/feed/",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Indian Web2",
       "url": "https://indianweb2.com/feed/",
       "reason": "falhou direto e via proxy"
@@ -372,6 +377,48 @@
       "coverageCount": 1
     },
     {
+      "id": "Tech.eu-https://tech.eu/2026/08/12/cytix-raises-7m-series-a-to-tackle-cyber-risks-from-ai-driven-software-development/",
+      "_key": "a06c3753526de9e54e30197931ecb6bd",
+      "title": "Cytix raises $7M Series A to tackle cyber risks from AI-driven software development",
+      "originalTitle": "Cytix raises $7M Series A to tackle cyber risks from AI-driven software development",
+      "summary": "Cybersecurity startup Cytix has raised $7 million in SeriesA funding to accelerate the rollout of its change risk management platform andexpand adoption among enterprise and regulated organisations. T...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/12/cytix-raises-7m-series-a-to-tackle-cyber-risks-from-ai-driven-software-development/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/cytix-featured-204.png",
+      "publishedAt": "2026-08-12T07:30:00+00:00",
+      "score": 70,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/12/strgy-ai-raises-eur1m-to-scale-its-ai-powered-strategy-execution-platform/",
+      "_key": "a4860147bd034565db35ce136e307300",
+      "title": "STRGY AI raises €1M to scale its AI-powered strategy execution platform",
+      "originalTitle": "STRGY AI raises €1M to scale its AI-powered strategy execution platform",
+      "summary": "Helsinki-based STRGY AI has raised €1million in angel funding to support the commercial growth and furtherdevelopment of StrategyOS, its AI-powered strategy execution platform. Theround was backed by ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/12/strgy-ai-raises-eur1m-to-scale-its-ai-powered-strategy-execution-platform/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/strgy-featured-149.png",
+      "publishedAt": "2026-08-12T07:00:00+00:00",
+      "score": 68,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Brazil Journal-https://braziljournal.com/de-go-local-a-go-global-a-ai-esta-ampliando-a-ambicao-das-startups/",
       "_key": "8241cf18316b849a5be06a802d91422f",
       "title": "De ‘go local’ a ‘go global’. A AI está ampliando a ambição das startups",
@@ -389,6 +436,27 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/qual-o-tamanho-do-desafio-do-ecossistema-de-empreendedorismo-em-tecnologia-no-brasil-frente-aos-massivos-investimentos-globais-no-setor/",
+      "_key": "3313db0743e393b23a75709baced4ebc",
+      "title": "Qual o tamanho do desafio do ecossistema de empreendedorismo em tecnologia no Brasil frente aos massivos investimentos globais no setor",
+      "originalTitle": "Qual o tamanho do desafio do ecossistema de empreendedorismo em tecnologia no Brasil frente aos massivos investimentos globais no setor",
+      "summary": "Startupi Qual o tamanho do desafio do ecossistema de empreendedorismo em tecnologia no Brasil frente aos massivos investimentos globais no setor Nvidia e investidores anunciam novo fundo de US$ 500 bilhões em infraestruturas de tecnologias: como startups brasileiras podem inovar com recursos escassos em um mundo de gigantes.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/qual-o-tamanho-do-desafio-do-ecossistema-de-empreendedorismo-em-tecnologia-no-brasil-frente-aos-massivos-investimentos-globais-no-setor/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/startupsummit25.jpg",
+      "publishedAt": "2026-08-12T08:00:00+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "YourStory-https://yourstory.com/2026/08/aum-ventures-raises-225-crore-first-close-for-deeptech-fund",
@@ -433,6 +501,27 @@
       "coverageCount": 1
     },
     {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/entravel-group-raises-e6-5-million-to-secure-larger-supplier-credit-facilities/",
+      "_key": "fe8608e22319816c9f1a6f58cc6a7b16",
+      "title": "Entravel Group raises €6.5 million to secure larger supplier credit facilities",
+      "originalTitle": "Entravel Group raises €6.5 million to secure larger supplier credit facilities",
+      "summary": "Entravel Group, the TravelTech founded in 2026, has raised €6.5 million ($7.5 million) in funding to secure larger supplier credit facilities, process higher booking volumes and expand its white-label model into traditional travel.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/entravel-group-raises-e6-5-million-to-secure-larger-supplier-credit-facilities/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Entravel-Group-raises-E6.5-million-to-secure-larger-supplier-credit-facilities.png",
+      "publishedAt": "2026-08-12T08:56:24+00:00",
+      "score": 62,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/funding/electric-mobility-startup-yulu-raises-93-million-in-equity-debt-to-expand-ev-fleet/articleshow/133170636.cms",
       "_key": "a342e5d1657ae99a715dc55b1622fb22",
       "title": "Electric mobility startup Yulu raises $93 million in equity, debt to expand EV fleet",
@@ -471,6 +560,48 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/12/monzo-and-lovable-backer-accel-raises-enlarged-800m-early-stage-fund/",
+      "_key": "51ca5772b03ce83e44373cd833242ffb",
+      "title": "Monzo and Lovable backer Accel raises enlarged $800M early-stage fund",
+      "originalTitle": "Monzo and Lovable backer Accel raises enlarged $800M early-stage fund",
+      "summary": "The VC giant, which has backed Lovable, Synthesia and other current prominent European startups, has raised an enlarged $800m fund to invest in early-stage startups across Europe and Israel as part of...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/12/monzo-and-lovable-backer-accel-raises-enlarged-800m-early-stage-fund/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/smart-1-458.jpg",
+      "publishedAt": "2026-08-12T08:35:58+00:00",
+      "score": 57,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/12/entravel-group-secures-75m-to-scale-its-travel-infrastructure-platform/",
+      "_key": "30da0e4c2845a6cecf5dbd4874ad8fdc",
+      "title": "Entravel Group secures $7.5M to scale its travel infrastructure platform",
+      "originalTitle": "Entravel Group secures $7.5M to scale its travel infrastructure platform",
+      "summary": "Traveltech companyEntravel Group has raised $7.5 million in funding to expand its white-labeltravel platform and develop a stablecoin-enabled financial layer for the travelindustry. The round was co-l...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/12/entravel-group-secures-75m-to-scale-its-travel-infrastructure-platform/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/entravel-featured-903.png",
+      "publishedAt": "2026-08-12T08:17:27+00:00",
+      "score": 57,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Crunchbase News-https://news.crunchbase.com/venture/active-startup-investors-july-2026-khosla-yc-coatue-nvda/",
@@ -1631,6 +1762,27 @@
       "country": "BR"
     },
     {
+      "id": "Tech.eu-https://tech.eu/2026/08/12/how-research-partnerships-under-the-msca-are-driving-innovation/",
+      "_key": "b1499daf27341988dad9d6116f81fdef",
+      "title": "How research partnerships under the MSCA are driving innovation [Sponsored]",
+      "originalTitle": "How research partnerships under the MSCA are driving innovation [Sponsored]",
+      "summary": "Companies that receive funding from the EU’s Marie Skłodowska-Curie Actions (MSCA) can take part in initiatives that have a major impact on innovation – in some instances securing nearly one patent pe...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/12/how-research-partnerships-under-the-msca-are-driving-innovation/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/icf-286.png",
+      "publishedAt": "2026-08-12T08:25:39+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "TechNode-https://technode.com/2026/08/12/bytedance-reportedly-forms-new-ai-data-and-safety-department/",
       "_key": "a8bba07482335f59f43f5131b72905de",
       "title": "ByteDance Reportedly Forms New AI Data and Safety Department",
@@ -1660,6 +1812,27 @@
       "whyMatters": "",
       "summaryMethod": "regra",
       "url": "https://olhardigital.com.br/2026/08/11/colunistas/civilizacao-perdida-na-amazonia-pode-ter-somado-milhoes-de-pessoas/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/marcas-geoliticas-na-amazonia-que-denotam-civilizao-antiga3-scaled.jpg",
+      "publishedAt": "2026-08-12T01:55:57+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/ciencia-e-espaco/civilizacao-perdida-na-amazonia-pode-ter-somado-milhoes-de-pessoas/",
+      "_key": "acaab4330ee1e598e646722db8c260f0",
+      "title": "Civilização perdida na Amazônia pode ter somado milhões de pessoas",
+      "originalTitle": "Civilização perdida na Amazônia pode ter somado milhões de pessoas",
+      "summary": "Alceu Ranzi analisa a descoberta que traz novas evidências de uma antiga civilização que ocupou a Amazônia entre 600 a.C. e 850 d.C. O post Civilização perdida na Amazônia pode ter somado milhões de pessoas apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/ciencia-e-espaco/civilizacao-perdida-na-amazonia-pode-ter-somado-milhoes-de-pessoas/",
       "source": "Olhar Digital",
       "region": "Brasil",
       "country": "BR",
@@ -3076,6 +3249,90 @@
       "country": "BR"
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/plus/tech/tech-war/article/3363781/zuckerberg-cites-china-threat-us-lead-ai-manifesto?utm_source=rss_feed",
+      "_key": "ec556f2aac56822071df67b6deaf0e7c",
+      "title": "Zuckerberg cites China threat to US lead in AI manifesto",
+      "originalTitle": "Zuckerberg cites China threat to US lead in AI manifesto",
+      "summary": "Meta Platforms CEO Mark Zuckerberg published a 6,500-word essay outlining his vision for artificial intelligence (AI), backing development of open-weight models and arguing that overregulation risks surrendering US leadership to China.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/plus/tech/tech-war/article/3363781/zuckerberg-cites-china-threat-us-lead-ai-manifesto?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/12/b44ebec5-5d34-44d0-b143-65b1ba5fc006_aebb3ae4.jpg?itok=zlU0D0fG&v=1786526473",
+      "publishedAt": "2026-08-12T09:21:28+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/global/jamie-dimon-supremacia-militar-dos-eua-mantem-o-dolar-no-topo-e-isso-pode-mudar/",
+      "_key": "a87ee6bc0f4eeec5f8afd770f7675cf3",
+      "title": "Jamie Dimon: supremacia militar dos EUA mantém o dólar no topo — e isso pode mudar",
+      "originalTitle": "Jamie Dimon: supremacia militar dos EUA mantém o dólar no topo — e isso pode mudar",
+      "summary": "CEO do JPMorgan disse que poder militar e econômico estão \"inextricavelmente ligados\" ao dólar. The post Jamie Dimon: supremacia militar dos EUA mantém o dólar no topo — e isso pode mudar appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/global/jamie-dimon-supremacia-militar-dos-eua-mantem-o-dolar-no-topo-e-isso-pode-mudar/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/JAMIE-DIMON-WARNS-DOLLAR-DOMINANCE-DEPENDS-ON-THE-MILITARY-IF-WERE-NOT-THE-STRONGEST-MILITARY-IN-25-YEARSWE-WONT-BE-THE-RESERVE-CURRENCY-EITHER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-12T08:00:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/foxconn-posts-quarterly-profit-surge-on-ai-server-demand/articleshow/133174561.cms",
+      "_key": "9a9fea4b964513a970e0db697f9810dc",
+      "title": "Foxconn posts quarterly profit surge on AI server demand",
+      "originalTitle": "Foxconn posts quarterly profit surge on AI server demand",
+      "summary": "NT$59.97 billion ($1.86 billion), up 35% from the previous year. Foxconn, whose official name is Hon Hai Precision Industry, has gone beyond assembling low-margin iPhones to making AI servers for US tech giant Nvidia, along with electric vehicles and robots.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/foxconn-posts-quarterly-profit-surge-on-ai-server-demand/articleshow/133174561.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133174561,imgsize-113474.cms",
+      "publishedAt": "2026-08-12T07:15:31+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3363741/hong-kong-seeks-tech-exposure-take-nasdaq-amid-beijings-rising-ai-dominance?utm_source=rss_feed",
+      "_key": "bc624545595a1253a4930c7234496925",
+      "title": "Hong Kong seeks tech exposure to take on Nasdaq amid Beijing’s rising AI dominance",
+      "originalTitle": "Hong Kong seeks tech exposure to take on Nasdaq amid Beijing’s rising AI dominance",
+      "summary": "Hong Kong is doubling down on efforts to increase its stock market’s exposure to the technology industry, as the city endeavours to catch up in the global artificial intelligence trade and potentially even challenge the Nasdaq.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3363741/hong-kong-seeks-tech-exposure-take-nasdaq-amid-beijings-rising-ai-dominance?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/12/c3cf6731-7f1a-4b38-b957-dbe9ec88079e_0195a7fe.jpg?itok=298GAS3Y&v=1786514436",
+      "publishedAt": "2026-08-12T06:00:38+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/stanchart-coo-sees-ai-boosting-productivity-video",
       "_key": "b5fd90e747c35d66824654a2851fef27",
       "title": "StanChart COO Sees AI Boosting Productivity",
@@ -4203,6 +4460,153 @@
       "country": "BR"
     },
     {
+      "id": "YourStory-https://yourstory.com/2026/08/duroflex-airboost-aims-solve-indias-biggest-wellness-challenge-deep-sleep",
+      "_key": "191260e56c0fac0e874cbc615e0171fb",
+      "title": "Duroflex Airboost aims to solve India's biggest wellness challenge: Deep Sleep",
+      "originalTitle": "Duroflex Airboost aims to solve India's biggest wellness challenge: Deep Sleep",
+      "summary": "As many as 60% of Indians get less than six hours of uninterrupted deep sleep every night. Next-gen sleep technology can help improve spinal support, cooling, and overnight recovery.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/duroflex-airboost-aims-solve-indias-biggest-wellness-challenge-deep-sleep",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/81f42290-b0f5-11ed-aa4d-75d0d1d6c429/1786438351307.jpeg",
+      "publishedAt": "2026-08-12T09:32:43+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/tech-bytes/unmasking-digital-syndicates-how-public-private-cooperation-transforms-cyber-investigations-in-india/articleshow/133177377.cms",
+      "_key": "dbf5e7b9fa900559346da8df92352c82",
+      "title": "Unmasking digital syndicates: How public-private cooperation transforms cyber investigations in India",
+      "originalTitle": "Unmasking digital syndicates: How public-private cooperation transforms cyber investigations in India",
+      "summary": "Indian law enforcement is leveraging blockchain transparency to combat financial crime effectively. Recent initiatives have focused on dismantling cyber fraud and narcotics trafficking syndicates.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/tech-bytes/unmasking-digital-syndicates-how-public-private-cooperation-transforms-cyber-investigations-in-india/articleshow/133177377.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133177377,imgsize-349844.cms",
+      "publishedAt": "2026-08-12T09:25:49+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/empreendedorismo/noticia/2026/08/12/os-trabalhadores-que-dao-adeus-a-clt-atras-do-sonho-de-viver-fazendo-videos-de-ia.ghtml",
+      "_key": "4ed957d234e7a751e43b8a300f0d46ad",
+      "title": "Os trabalhadores que 'dão adeus à CLT' atrás do sonho de viver fazendo vídeos de IA",
+      "originalTitle": "Os trabalhadores que 'dão adeus à CLT' atrás do sonho de viver fazendo vídeos de IA",
+      "summary": "Henrique Batista, de 36 anos, deixou o trabalho de entregas para se dedicar a canais dark no YouTube e mentorias Arquivo Pessoal Henrique Batista, de 36 anos, estava cansado de trabalhar entregando hambúrgueres.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/08/12/os-trabalhadores-que-dao-adeus-a-clt-atras-do-sonho-de-viver-fazendo-videos-de-ia.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/jVD9lhjiFqUw97gNtZ8Y2qKgF0c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/x/Luq4NGQeAMwuvJI4Rs0A/1d0dc711-932a-45fb-9ad3-1f4de2ac7936.png",
+      "publishedAt": "2026-08-12T08:47:25+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/como-estoques-recordes-e-avanco-do-agro-brasileiro-podem-reduzir-impacto-do-super-el-nino-no-mundo.ghtml",
+      "_key": "0deaba5832bdfcdb455adea844e82cd8",
+      "title": "Como estoques recordes e avanço do agro brasileiro podem reduzir impacto do 'super El Niño' no mundo",
+      "originalTitle": "Como estoques recordes e avanço do agro brasileiro podem reduzir impacto do 'super El Niño' no mundo",
+      "summary": "semelhantes no passado. Estoques de produtos agrícolas próximos de níveis recordes, avanços tecnológicos e o crescimento de países como Brasil e Rússia entre os grandes exportadores aumentaram a capacidade de compensar eventuais perdas de produção.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/como-estoques-recordes-e-avanco-do-agro-brasileiro-podem-reduzir-impacto-do-super-el-nino-no-mundo.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/FSiEJtARbCLm5GgWoNzuqJf73yM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/FW33AlQJqhKPxVjHpYww/whatsapp-image-2026-04-30-at-15.28.44-1-.jpeg",
+      "publishedAt": "2026-08-12T08:03:51+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/minhas-financas/boleto-parcelado-e-pix-no-credito-empresas-estao-financiando-os-proprios-clientes/",
+      "_key": "7fe906ff0445a9a892ac475fd3f4d206",
+      "title": "Boleto parcelado e Pix no crédito: empresas estão financiando os próprios clientes",
+      "originalTitle": "Boleto parcelado e Pix no crédito: empresas estão financiando os próprios clientes",
+      "summary": "Com cartão de crédito no limite, cresce a oferta de boleto parcelado e Pix no crédito; especialistas alertam para riscos de inadimplência e superendividamento The post Boleto parcelado e Pix no crédito: empresas estão financiando os próprios clientes appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/minhas-financas/boleto-parcelado-e-pix-no-credito-empresas-estao-financiando-os-proprios-clientes/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_763184527_Editorial_Use_Only.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-12T08:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs",
+      "_key": "029184b2371c326df6bb43e0a7dde15b",
+      "title": "Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs",
+      "originalTitle": "Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs",
+      "summary": "Across 170 enterprises, AI infrastructure has moved decisively into production — two-thirds now run AI workloads live and three in 10 run them at scale — while the ability to account for what that infrastructure costs has not kept pace.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "publishedAt": "2026-08-12T07:30:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+      "_key": "8a7b7444ae03929e19de9775092f9550",
+      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
+      "originalTitle": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
+      "summary": "Across 107 enterprises, agentic orchestration is not a choice of a single platform. The typical enterprise runs three orchestration platforms at once, and selects them for flexibility across models rather than affinity to any single one.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "publishedAt": "2026-08-12T07:30:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "TechNode-https://technode.com/2026/08/12/alibaba-cloud-makes-its-m890-ai-supernode-available-in-china/",
       "_key": "356ddef94b4fa20da007735ed0995c43",
       "title": "Alibaba Cloud Makes Its M890 AI Supernode Available in China",
@@ -4283,6 +4687,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-12/tata-sons-chair-chandra-steps-down-leaving-group-leaderless",
+      "_key": "f61bdf4988ef47f9ae6cc7533a833011",
+      "title": "Tata Sons Chairman N Chandrasekaran Resigns Ahead of AGM Next Week",
+      "originalTitle": "Tata Sons Chairman N Chandrasekaran Resigns Ahead of AGM Next Week",
+      "summary": "Natarajan Chandrasekaran will step down as chairman of Tata Sons Pvt. when his term ends in February 2027, deepening a leadership crisis at the Indian conglomerate at a time when it’s spearheading the country’s push into high-tech sectors.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/tata-sons-chair-chandra-steps-down-leaving-group-leaderless",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T05:38:25+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
       ],
       "coverageCount": 1
     },
@@ -7562,6 +7987,69 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/chinas-tencent-posts-11-second-quarter-revenue-rise-profit-misses-estimates/articleshow/133176646.cms",
+      "_key": "ab32d2f725d4cd8be198e24dca4a0a78",
+      "title": "China's Tencent posts 11% second-quarter revenue rise, profit misses estimates",
+      "originalTitle": "China's Tencent posts 11% second-quarter revenue rise, profit misses estimates",
+      "summary": "For the three months ​ended June, ⁠the Shenzhen-based ‌gaming and internet ​company ​reported revenue ⁠of 204.8 billion yuan ($30.36 billion), ​in line with ​analyst estimates of 202.2 billion yuan, according to LSEG data.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/chinas-tencent-posts-11-second-quarter-revenue-rise-profit-misses-estimates/articleshow/133176646.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133176646,imgsize-456406.cms",
+      "publishedAt": "2026-08-12T08:51:43+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/banking-finance/article/3363733/fed-policy-outweighs-geopolitical-risks-china-purchases-gold-forecasts-retreat-survey?utm_source=rss_feed",
+      "_key": "8c1fb18ed38e7c086f09a089ac543a8d",
+      "title": "Fed policy outweighs geopolitical risks, China purchases as gold forecasts retreat: survey",
+      "originalTitle": "Fed policy outweighs geopolitical risks, China purchases as gold forecasts retreat: survey",
+      "summary": "The US Federal Reserve’s rate policies under Kevin Warsh have outweighed geopolitical tensions and Beijing’s dedicated gold purchases to become the decisive factor influencing price forecasts for the precious metal, according to a survey.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/banking-finance/article/3363733/fed-policy-outweighs-geopolitical-risks-china-purchases-gold-forecasts-retreat-survey?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/12/6a00e9cf-c8df-4635-8909-1321c1a30efe_6eceee04.jpg?itok=z-bKlPmM&v=1786511499",
+      "publishedAt": "2026-08-12T08:00:14+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/12/honor-sets-aug-12-launch-for-its-robot-phone-in-china/",
+      "_key": "187014cedd3aabd6a4df264baafa83da",
+      "title": "Honor Sets Aug. 12 Launch for Its Robot Phone in China",
+      "originalTitle": "Honor Sets Aug. 12 Launch for Its Robot Phone in China",
+      "summary": "Honor has scheduled the China launch of its Robot Phone for Aug. 12. The device combines a smartphone with a motorized gimbal camera and AI-assisted subject tracking. Honor has also highlighted an imaging collaboration with ARRI.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/12/honor-sets-aug-12-launch-for-its-robot-phone-in-china/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/10/honor.jpeg?fit=1024%2C683&amp;ssl=1",
+      "publishedAt": "2026-08-12T05:59:43+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "TechNode-https://technode.com/2026/08/12/ios-27-beta-code-points-to-china-specific-apple-intelligence-setup/",
