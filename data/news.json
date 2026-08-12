@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T18:36:11.837697+00:00",
+  "updatedAt": "2026-08-12T20:27:28.077315+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -188,6 +188,11 @@
     }
   ],
   "failures": [
+    {
+      "source": "IT Forum",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:itforum.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
     {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -546,6 +551,27 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/-call-her-daddy-host-raises-money-at-500m-valuation-video",
+      "_key": "bfcff16bf66d273601b55f8a292a052a",
+      "title": "‘Call Her Daddy’ Host Raises Money at $500M Valuation",
+      "originalTitle": "‘Call Her Daddy’ Host Raises Money at $500M Valuation",
+      "summary": "Deals.\" Unwell, the media company founded by popular podcast host Alex Cooper, has received an investment from Hollywood super agent Patrick Whitesell that values the firm at $500 million, according to people familiar with the deal. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/-call-her-daddy-host-raises-money-at-500m-valuation-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T19:38:20+00:00",
+      "score": 57,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Tech.eu-https://tech.eu/2026/08/12/monzo-and-lovable-backer-accel-raises-enlarged-800m-early-stage-fund/",
@@ -1832,6 +1858,27 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-12/two-sigma-s-overdeck-offered-wife-633-million-her-lawyer-says",
+      "_key": "eb050dc013c56a1a5a37dc04477978c7",
+      "title": "Two Sigma’s Overdeck Offered Wife $633 Million, Her Lawyer Says",
+      "originalTitle": "Two Sigma’s Overdeck Offered Wife $633 Million, Her Lawyer Says",
+      "summary": "Two Sigma Investments’ billionaire co-founder John Overdeck schemed to leave his wife Laura “with as little as possible,” her lawyer said as the couple’s divorce trial began, an amount she pegged at $633 million.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/two-sigma-s-overdeck-offered-wife-633-million-her-lawyer-says",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T19:51:23+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/o-que-cyrela-e-empresas-de-shopping-revelam-sobre-a-nova-carteira-do-fii-trxf11/",
       "_key": "83cce71129bfc8d9d332a95af28903e0",
       "title": "O que Cyrela e empresas de shopping revelam sobre a “nova carteira” do FII TRXF11?",
@@ -2842,6 +2889,48 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/lakers-deal-bezos-eyes-liverpool-business-of-sports-video",
+      "_key": "842e904677939f94b121559dc853f9ea",
+      "title": "Record Lakers Deal, Bezos Eyes Liverpool: Business of Sports",
+      "originalTitle": "Record Lakers Deal, Bezos Eyes Liverpool: Business of Sports",
+      "summary": "The world of sports has become a multi-trillion dollar industry and teams continue to change hands at huge valuations. They discuss the sale of the Los Angeles Lakers and the Seattle Seahawks. Bloomberg's Michelle Davis reports on \"Bloomberg Deals.\" (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/lakers-deal-bezos-eyes-liverpool-business-of-sports-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T19:59:59+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/ancora-comfortable-with-its-offer-for-h-b-fuller-unit-video",
+      "_key": "3c11a746a40aab38e736a892f47a527e",
+      "title": "Ancora Comfortable With Its Offer for H.B. Fuller Unit",
+      "originalTitle": "Ancora Comfortable With Its Offer for H.B. Fuller Unit",
+      "summary": "Ancora Holdings Group is pushing to acquire H.B. Fuller Co.'s building adhesives unit for as much as $1.2 billion. James Chadwick is the president of Ancora's alternatives arm. He says the activist investor is comfortable with the offer and it would be a \"win-win\" for shareholders.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/ancora-comfortable-with-its-offer-for-h-b-fuller-unit-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T19:09:27+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/goldman-sachs-to-acquire-etf-provider-neos-in-2-3b-deal-video",
       "_key": "b7bfeabbd6a1337f03f01c41c18b6b99",
       "title": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal",
@@ -3569,6 +3658,48 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/reviews/economize-com-estilo-impressoras-em-promocao-na-amazon-que-valem-a-pena/",
+      "_key": "5368aeb86671fb655cb8306d5f1b56cf",
+      "title": "Economize com estilo: impressoras em promoção na Amazon que valem a pena",
+      "originalTitle": "Economize com estilo: impressoras em promoção na Amazon que valem a pena",
+      "summary": "Seja para o home office, para a escola dos filhos ou para o dia a dia da empresa, uma boa impressora faz toda a diferença. Separamos três opções em oferta na Amazon que combinam qualidade, praticidade e economia de tinta — vale muito a pena conferir antes que os estoques acabem.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/reviews/economize-com-estilo-impressoras-em-promocao-na-amazon-que-valem-a-pena/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "publishedAt": "2026-08-12T18:40:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/politica/noticia/2026/08/12/congresso-adia-instalacao-da-comissao-para-analisar-mp-da-taxa-das-blusinhas.ghtml",
+      "_key": "9c2a55e4d9a711d8212d3b5f331de7ac",
+      "title": "Congresso adia instalação da comissão para analisar MP da 'Taxa das Blusinhas'",
+      "originalTitle": "Congresso adia instalação da comissão para analisar MP da 'Taxa das Blusinhas'",
+      "summary": "instalação da comissão mista que vai analisar a medida provisória (MP) que acaba com o imposto de importação de 20% sobre compras internacionais de até US$ 50, a chamada taxa das blusinhas.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/12/congresso-adia-instalacao-da-comissao-para-analisar-mp-da-taxa-das-blusinhas.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/3FZpm_qycHMLNYPFojZfn_uikns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/6/q/6UrmURSgKq6357ps8a1Q/pecas-de-roupa-loja-vestuario-uberaba-19-03-2021-2-.jpg",
+      "publishedAt": "2026-08-12T18:22:28+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/inside-the-google-executive-moves-that-led-to-its-big-ai-reshuffle/articleshow/133189947.cms",
@@ -4948,6 +5079,174 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Tecnoblog-https://achados.tecnoblog.net/motorola-signature-512-gb-volta-a-ficar-mais-barato-com-cupom/",
+      "_key": "96c2fa0de49b0f6514590985e2b7ae71",
+      "title": "Motorola Signature (512 GB) volta a ficar mais barato com cupom",
+      "originalTitle": "Motorola Signature (512 GB) volta a ficar mais barato com cupom",
+      "summary": "Motorola Signature de 512 GB sai com 40% de desconto no Mercado Livre. O topo de linha traz Snapdragon 8 Gen 5, câmeras traseiras de 50 MP e tela AMOLED de 165 Hz Motorola Signature (512 GB) volta a ficar mais barato com cupom",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://achados.tecnoblog.net/motorola-signature-512-gb-volta-a-ficar-mais-barato-com-cupom/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/03/motorola-signature-esta-em-promocao-foto-giovanni-santa-rosatecnoblog.png",
+      "publishedAt": "2026-08-12T19:55:54+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/uma-vez-na-vida-islandia-testemunha-eclipse-solar-total-espanha-e-a-proxima/",
+      "_key": "30e4f0094ab203a5e69b0762a039ccba",
+      "title": "“Uma vez na vida”: Islândia testemunha eclipse solar total, Espanha é a próxima",
+      "originalTitle": "“Uma vez na vida”: Islândia testemunha eclipse solar total, Espanha é a próxima",
+      "summary": "Uma abertura nas nuvens permitiu que turistas e moradores locais pudessem vislumbrar o fenômeno ‌celestial The post &#8220;Uma vez na vida&#8221;: Islândia testemunha eclipse solar total, Espanha é a próxima appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/uma-vez-na-vida-islandia-testemunha-eclipse-solar-total-espanha-e-a-proxima/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-12-165111.png?fit=300%2C198&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-12T19:54:33+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-12/colombia-coffee-exports-partially-resume-after-quake",
+      "_key": "9cd97969c5226dfde3e44b61eaa6bd6f",
+      "title": "Colombia Coffee Exports Partially Resume After Quake",
+      "originalTitle": "Colombia Coffee Exports Partially Resume After Quake",
+      "summary": "Colombia partially resumed coffee exports through Buenaventura port, on the country’s the Pacific coast, after the earthquake, according to the Gustavo Gómez, head of the country’s coffee exporters association, Asoexport.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/colombia-coffee-exports-partially-resume-after-quake",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T19:46:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/ministerio-da-saude-anuncia-novas-regras-para-o-farmacia-popular-veja-o-que-muda/",
+      "_key": "b718d86cd28409618656bca8bc15e850",
+      "title": "Ministério da Saúde anuncia novas regras para o Farmácia Popular; veja o que muda",
+      "originalTitle": "Ministério da Saúde anuncia novas regras para o Farmácia Popular; veja o que muda",
+      "summary": "Atualmente, o programa possui cerca de 28 mil farmácias credenciadas e oferece gratuitamente 41 itens The post Ministério da Saúde anuncia novas regras para o Farmácia Popular; veja o que muda appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/ministerio-da-saude-anuncia-novas-regras-para-o-farmacia-popular-veja-o-que-muda/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/IMG8936-1024x683-1.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-12T19:43:45+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/calif-ag-calls-paramount-s-threat-to-leave-blackmail-video",
+      "_key": "beb9f9065451abe61dd6a80f8625e801",
+      "title": "Calif. AG Calls Paramount’s Threat to Leave ‘Blackmail’",
+      "originalTitle": "Calif. AG Calls Paramount’s Threat to Leave ‘Blackmail’",
+      "summary": "Deals.\" California Attorney General Rob Bonta called reports that Paramount Skydance plans to leave the state if its top lawyer doesn’t settle a lawsuit challenging the company’s planned merger with Warner Bros. Discovery “blackmail’ in a post on social media Tuesday.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/calif-ag-calls-paramount-s-threat-to-leave-blackmail-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T19:29:59+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/reviews/hora-de-jogar-uma-selecao-de-jogos-xbox-em-promocao-na-amazon/",
+      "_key": "87422e8484edc6f244350c6ad6a99199",
+      "title": "Hora de jogar: uma seleção de jogos Xbox em promoção na Amazon",
+      "originalTitle": "Hora de jogar: uma seleção de jogos Xbox em promoção na Amazon",
+      "summary": "Se você é fã de Xbox e está em busca de boas opções para renovar a biblioteca, chegou a hora certa. Reunimos três jogos em oferta na Amazon que valem a atenção — de aventuras em primeira pessoa a títulos para toda a família. Confira as opções e aproveite.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/reviews/hora-de-jogar-uma-selecao-de-jogos-xbox-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/51+Abc6+8mL._SL500_.jpg",
+      "publishedAt": "2026-08-12T19:20:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/wealth-management/com-guerra-e-fed-no-radar-avenue-aciona-o-modo-neutro-nas-carteiras/",
+      "_key": "bd22b573c2ef6e287f679509d929feca",
+      "title": "Com guerra e Fed no radar, Avenue aciona o “modo neutro” nas carteiras",
+      "originalTitle": "Com guerra e Fed no radar, Avenue aciona o “modo neutro” nas carteiras",
+      "summary": "A resiliência dos mercados globais diante da escalada das tensões no Oriente Médio no primeiro semestre surpreendeu analistas e economistas, diante dos poucos impactos sobre as atividades dos países e dos mercados.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/wealth-management/com-guerra-e-fed-no-radar-avenue-aciona-o-modo-neutro-nas-carteiras/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/investimento-incerteza-300x169.jpg",
+      "publishedAt": "2026-08-12T19:06:25+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/internet-e-redes-sociais/ia-do-facebook-ajuda-criadores-a-entender-seu-publico/",
+      "_key": "32702284d1fc6d2902eb747844c3294d",
+      "title": "IA do Facebook ajuda criadores a entender seu público",
+      "originalTitle": "IA do Facebook ajuda criadores a entender seu público",
+      "summary": "Novo Creator Studio do Facebook usa IA para analisar desempenho, entender a audiência e sugerir ações para criadores de conteúdo O post IA do Facebook ajuda criadores a entender seu público apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/internet-e-redes-sociais/ia-do-facebook-ajuda-criadores-a-entender-seu-publico/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/facebook-1-1024x682.jpg",
+      "publishedAt": "2026-08-12T18:10:02+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/maioridade-penal-aos-16-anos-entenda-o-que-muda-na-proposta-analisada-pela-camara/",
@@ -9046,6 +9345,27 @@
       "country": "US"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/cava-ceo-on-cyclospora-dining-trends-and-growth-outlook-video",
+      "_key": "7bc978b8ddedab11289460717c076f6b",
+      "title": "Cava CEO on Cyclospora, Dining Trends and Growth Outlook",
+      "originalTitle": "Cava CEO on Cyclospora, Dining Trends and Growth Outlook",
+      "summary": "Cava co-founder and CEO Brett Schulman says the company has not been impacted by the cyclospora outbreak. Speaking on \"Bloomberg The Close,\" Schulman also comments on recent dining trends and the company's growth outlook. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/cava-ceo-on-cyclospora-dining-trends-and-growth-outlook-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T19:57:25+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/reviews/echo-dot-em-destaque-confira-uma-selecao-de-smart-speakers-alexa-em-promocao-3/",
       "_key": "9a81fbe1fb24e9c69d94bd0024bd1fa9",
       "title": "Echo Dot em destaque: confira uma seleção de Smart Speakers Alexa em promoção",
@@ -10486,6 +10806,27 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "Tecnoblog-https://achados.tecnoblog.net/moto-g86-512-gb-tem-promocao-na-amazon-com-2o-maior-desconto-ja-visto-de-46/",
+      "_key": "ee9755a35d5593d020bb92d6ffeb39c3",
+      "title": "Moto G86 (512 GB) tem promoção na Amazon com 2º maior desconto já visto de 46%",
+      "originalTitle": "Moto G86 (512 GB) tem promoção na Amazon com 2º maior desconto já visto de 46%",
+      "summary": "Moto G86 (512 GB) tem tela POLED de 120 Hz e até 24 GB de RAM; celular da Motorola atinge o 2.º menor preço que já vimos com desconto de 46% no Pix Moto G86 (512 GB) tem promoção na Amazon com 2º maior desconto já visto de 46%",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://achados.tecnoblog.net/moto-g86-512-gb-tem-promocao-na-amazon-com-2o-maior-desconto-ja-visto-de-46/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2025/07/moto-g86-achados-1060x596.png",
+      "publishedAt": "2026-08-07T16:22:16+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "TechCrunch Startups-https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
