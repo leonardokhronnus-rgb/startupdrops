@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T15:45:54.201188+00:00",
+  "updatedAt": "2026-08-12T18:36:11.837697+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -15,19 +15,7 @@
       "region": "Brasil"
     },
     {
-      "name": "Exame",
-      "region": "Brasil"
-    },
-    {
       "name": "Brazil Journal",
-      "region": "Brasil"
-    },
-    {
-      "name": "Pipeline Valor",
-      "region": "Brasil"
-    },
-    {
-      "name": "IT Forum",
       "region": "Brasil"
     },
     {
@@ -39,19 +27,51 @@
       "region": "Brasil"
     },
     {
-      "name": "Inovação Tecnológica",
-      "region": "Brasil"
-    },
-    {
       "name": "InfoMoney",
       "region": "Brasil"
     },
     {
-      "name": "Baguete",
+      "name": "Exame",
       "region": "Brasil"
     },
     {
-      "name": "Época Negócios",
+      "name": "G1 Economia",
+      "region": "Brasil"
+    },
+    {
+      "name": "IT Forum",
+      "region": "Brasil"
+    },
+    {
+      "name": "Pipeline Valor",
+      "region": "Brasil"
+    },
+    {
+      "name": "Valor Economico",
+      "region": "Brasil"
+    },
+    {
+      "name": "Exame Economia",
+      "region": "Brasil"
+    },
+    {
+      "name": "Epoca Negocios",
+      "region": "Brasil"
+    },
+    {
+      "name": "CNN Brasil Business",
+      "region": "Brasil"
+    },
+    {
+      "name": "Estadao Economia",
+      "region": "Brasil"
+    },
+    {
+      "name": "PEGN",
+      "region": "Brasil"
+    },
+    {
+      "name": "MIT Tech Review BR",
       "region": "Brasil"
     },
     {
@@ -67,7 +87,47 @@
       "region": "Internacional"
     },
     {
-      "name": "Sifted",
+      "name": "The Verge",
+      "region": "Internacional"
+    },
+    {
+      "name": "Wired",
+      "region": "Internacional"
+    },
+    {
+      "name": "Rest of World",
+      "region": "Internacional"
+    },
+    {
+      "name": "a16z",
+      "region": "Internacional"
+    },
+    {
+      "name": "First Round Review",
+      "region": "Internacional"
+    },
+    {
+      "name": "Axios Pro Rata",
+      "region": "Internacional"
+    },
+    {
+      "name": "Reuters Business",
+      "region": "Internacional"
+    },
+    {
+      "name": "Reuters Tech",
+      "region": "Internacional"
+    },
+    {
+      "name": "Bloomberg Tech",
+      "region": "Internacional"
+    },
+    {
+      "name": "Bloomberg Markets",
+      "region": "Internacional"
+    },
+    {
+      "name": "The Information",
       "region": "Internacional"
     },
     {
@@ -79,71 +139,15 @@
       "region": "Internacional"
     },
     {
-      "name": "Finsider",
+      "name": "Sifted",
       "region": "Internacional"
     },
     {
-      "name": "Business Insider Tech",
+      "name": "Contxto",
       "region": "Internacional"
     },
     {
-      "name": "Rest of World",
-      "region": "Internacional"
-    },
-    {
-      "name": "The Verge",
-      "region": "Internacional"
-    },
-    {
-      "name": "Ars Technica",
-      "region": "Internacional"
-    },
-    {
-      "name": "Wired",
-      "region": "Internacional"
-    },
-    {
-      "name": "Exame Economia",
-      "region": "Brasil"
-    },
-    {
-      "name": "Exame Invest",
-      "region": "Brasil"
-    },
-    {
-      "name": "G1 Economia",
-      "region": "Brasil"
-    },
-    {
-      "name": "Valor Econômico",
-      "region": "Brasil"
-    },
-    {
-      "name": "CNN Brasil Business",
-      "region": "Brasil"
-    },
-    {
-      "name": "Infomoney Economia",
-      "region": "Brasil"
-    },
-    {
-      "name": "Broadcast Político",
-      "region": "Brasil"
-    },
-    {
-      "name": "Reuters Business",
-      "region": "Internacional"
-    },
-    {
-      "name": "Bloomberg Markets",
-      "region": "Internacional"
-    },
-    {
-      "name": "FT Companies",
-      "region": "Internacional"
-    },
-    {
-      "name": "Caixin Global",
+      "name": "LABS Latam",
       "region": "Internacional"
     },
     {
@@ -155,15 +159,11 @@
       "region": "Internacional"
     },
     {
-      "name": "Reuters China",
-      "region": "Internacional"
-    },
-    {
-      "name": "Nikkei Asia",
-      "region": "Internacional"
-    },
-    {
       "name": "TechNode",
+      "region": "Internacional"
+    },
+    {
+      "name": "Caixin Global",
       "region": "Internacional"
     },
     {
@@ -183,106 +183,34 @@
       "region": "Internacional"
     },
     {
-      "name": "MediaNama",
-      "region": "Internacional"
-    },
-    {
-      "name": "YourStory Startups",
-      "region": "Internacional"
-    },
-    {
-      "name": "Inc42 Startups",
-      "region": "Internacional"
-    },
-    {
-      "name": "Indian Web2",
+      "name": "Entrackr",
       "region": "Internacional"
     }
   ],
   "failures": [
     {
-      "source": "Pipeline Valor",
-      "url": "https://pipelinevalor.globo.com/rss/",
+      "source": "PEGN",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "IT Forum",
-      "url": "https://itforum.com.br/feed/",
+      "source": "a16z",
+      "url": "https://a16z.com/feed/",
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Baguete",
-      "url": "https://www.baguete.com.br/rss.xml",
+      "source": "First Round Review",
+      "url": "https://review.firstround.com/feed.xml",
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Época Negócios",
-      "url": "https://epocanegocios.globo.com/rss/epoca-negocios/",
+      "source": "Contxto",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:contxto.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Finsider",
-      "url": "https://finsider.eu/feed/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Business Insider Tech",
-      "url": "https://www.businessinsider.com/sai/rss",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Exame Economia",
-      "url": "https://exame.com/economia/feed/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Valor Econômico",
-      "url": "https://valor.globo.com/rss/ultimas-noticias/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "CNN Brasil Business",
-      "url": "https://www.cnnbrasil.com.br/economia/feed/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Infomoney Economia",
-      "url": "https://www.infomoney.com.br/economia/feed/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Broadcast Político",
-      "url": "https://www.estadao.com.br/economia/rss/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Reuters Business",
-      "url": "https://feeds.reuters.com/reuters/businessNews",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Caixin Global",
-      "url": "https://www.caixinglobal.com/rss/all.xml",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Reuters China",
-      "url": "https://feeds.reuters.com/reuters/CNTopNews",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "KrASIA",
-      "url": "https://kr.asia/feed/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "MediaNama",
-      "url": "https://www.medianama.com/feed/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Indian Web2",
-      "url": "https://indianweb2.com/feed/",
+      "source": "LABS Latam",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:labsnews.com&hl=en-US&gl=US&ceid=US:en",
       "reason": "falhou direto e via proxy"
     }
   ],
@@ -326,6 +254,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/vibe-coding-startup-lovable-raises-400-million-at-13-3-billion-valuation/articleshow/133187077.cms",
+      "_key": "3a83a08d3c51a58b5e5bba9a9687a8e5",
+      "title": "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation",
+      "originalTitle": "Vibe-coding startup Lovable raises $400 million at $13.3 billion valuation",
+      "summary": "Menlo Ventures and the EQT-managed Scaleup Europe Fund co-led the round. Tencent, Balderton Capital ‌and other ⁠new ⁠investors from Europe, Latin America and Asia also participated.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/vibe-coding-startup-lovable-raises-400-million-at-13-3-billion-valuation/articleshow/133187077.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133187077,imgsize-103.cms",
+      "publishedAt": "2026-08-12T15:42:28+00:00",
+      "score": 73,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -919,6 +868,27 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/no-goldman-sachs-um-cheque-de-us-225-bilhoes-para-avancar-nos-etfs/",
+      "_key": "cf5e9b81f1f863e53ad4fe64115168d9",
+      "title": "No Goldman Sachs, um cheque de US$ 2,25 bilhões para avançar nos ETFs",
+      "originalTitle": "No Goldman Sachs, um cheque de US$ 2,25 bilhões para avançar nos ETFs",
+      "summary": "O Goldman Sachs decidiu abrir novamente os cofres para ampliar a presença dos Exchange Traded Funds (ETFs) na carteira da Goldman Sachs Asset Management, o seu braço de gestão de investimentos e de ativos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/no-goldman-sachs-um-cheque-de-us-225-bilhoes-para-avancar-nos-etfs/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2024/05/goldman-sachs-2-300x169.jpg",
+      "publishedAt": "2026-08-12T16:03:54+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/pipo-saude-anuncia-nova-lideranca-para-acelerar-proxima-fase-de-crescimento/",
@@ -1860,6 +1830,48 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/o-que-cyrela-e-empresas-de-shopping-revelam-sobre-a-nova-carteira-do-fii-trxf11/",
+      "_key": "83cce71129bfc8d9d332a95af28903e0",
+      "title": "O que Cyrela e empresas de shopping revelam sobre a “nova carteira” do FII TRXF11?",
+      "originalTitle": "O que Cyrela e empresas de shopping revelam sobre a “nova carteira” do FII TRXF11?",
+      "summary": "Em entrevista ao InfoMoney, o gestor Gabriel Barbosa explica como as aquisições bilionárias estão mudando o perfil do portfólio The post O que Cyrela e empresas de shopping revelam sobre a &#8220;nova carteira&#8221; do FII TRXF11? appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/o-que-cyrela-e-empresas-de-shopping-revelam-sobre-a-nova-carteira-do-fii-trxf11/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-Tela-2026-08-12-as-12.54.11.png?fit=300%2C166&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-12T17:07:29+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/ciencia-e-espaco/eclipse-solar-historico-transforma-dia-em-noite-em-partes-da-europa/",
+      "_key": "caa9439c37e30f38e2b0f53458342765",
+      "title": "Eclipse solar histórico transforma dia em noite em partes da Europa",
+      "originalTitle": "Eclipse solar histórico transforma dia em noite em partes da Europa",
+      "summary": "Eclipse solar total cruza a Espanha nesta quarta (12), no primeiro do tipo no país desde 1905 e na Europa continental em mais de 20 anos O post Eclipse solar histórico transforma dia em noite em partes da Europa apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/ciencia-e-espaco/eclipse-solar-historico-transforma-dia-em-noite-em-partes-da-europa/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/eclipse-solar-total-noruega-1024x555.jpg",
+      "publishedAt": "2026-08-12T16:40:05+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/opep-eleva-previsao-de-producao-de-combustiveis-do-brasil-para-2026-e-2027/",
@@ -2830,6 +2842,48 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/goldman-sachs-to-acquire-etf-provider-neos-in-2-3b-deal-video",
+      "_key": "b7bfeabbd6a1337f03f01c41c18b6b99",
+      "title": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal",
+      "originalTitle": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal",
+      "summary": "Goldman Sachs Group will pay as much as $2.25 billion to buy Neos Investments, expanding its asset manager’s reach in the actively managed exchange-traded fund market. Bloomberg's Neil Sipes joins to discuss. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/goldman-sachs-to-acquire-etf-provider-neos-in-2-3b-deal-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T16:49:03+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/yardeni-raises-s-p-500-target-video",
+      "_key": "0195953ff8ad7a1c45268c678f8c4ea0",
+      "title": "Yardeni Raises S&P 500 Target on 'Fabulous Earnings Momentum'",
+      "originalTitle": "Yardeni Raises S&P 500 Target on 'Fabulous Earnings Momentum'",
+      "summary": "An in-line inflation reading spurred gains in both stocks and bonds, easing concern about imminent Federal Reserve interest-rate increases despite elevated oil prices. Ed Yardeni, Founder at Yardeni Research, talks about raising his S P target and the market melt up.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/yardeni-raises-s-p-500-target-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T16:31:29+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "EU-Startups-https://www.eu-startups.com/2026/08/unlearn-or-expire-why-unlearning-speed-matters-more-than-learning-speed/",
       "_key": "c330d6f21b48d9bda48e55cb416ad6a7",
       "title": "Unlearn or expire: Why unlearning speed matters more than learning speed",
@@ -3515,6 +3569,48 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/inside-the-google-executive-moves-that-led-to-its-big-ai-reshuffle/articleshow/133189947.cms",
+      "_key": "612b9d794ae89f0378765578977ddba2",
+      "title": "Inside the Google executive moves that led to its big AI reshuffle",
+      "originalTitle": "Inside the Google executive moves that led to its big AI reshuffle",
+      "summary": "On August 5, the Mountain View, California, tech giant announced a sweeping leadership overhaul of its Google DeepMind AI division in which its chief, Demis Hassabis, stepped aside in favor of his deputy, Koray Kavukcuoglu. Hassabis became chair, with fewer management obligations.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/inside-the-google-executive-moves-that-led-to-its-big-ai-reshuffle/articleshow/133189947.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133189947,imgsize-63298.cms",
+      "publishedAt": "2026-08-12T17:49:30+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+      "_key": "709620860709ae0ea081c15a05166635",
+      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+      "originalTitle": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+      "summary": "Elon Musk&#x27;s company SpaceXAI, formerly known as xAI, has released Grok 4.6 , its latest frontier AI model, with a focus on long-running agents, coding and knowledge work — and a pricing strategy designed to make those workloads cheaper to run.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1J59SGXBNdsrIt3Kw0ldLc/a141fa05285801695f63cba9b60fc522/a26da258-6757-46f3-857c-c143d56f830a.jpg?w=300&q=30",
+      "publishedAt": "2026-08-12T17:26:58+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/12/cnj-e-banco-central-firmam-convenio-para-criar-estrutura-nacional-de-rastreamento-da-compra-e-venda-de-precatorios.ghtml",
@@ -4854,6 +4950,195 @@
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/maioridade-penal-aos-16-anos-entenda-o-que-muda-na-proposta-analisada-pela-camara/",
+      "_key": "6c610d045e2e280d11f80a357e5fa714",
+      "title": "Maioridade penal aos 16 anos? Entenda o que muda na proposta analisada pela Câmara",
+      "originalTitle": "Maioridade penal aos 16 anos? Entenda o que muda na proposta analisada pela Câmara",
+      "summary": "PEC cria exceção para adolescentes de 16 e 17 anos em crimes hediondos e casos de crueldade extrema The post Maioridade penal aos 16 anos? Entenda o que muda na proposta analisada pela Câmara appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/maioridade-penal-aos-16-anos-entenda-o-que-muda-na-proposta-analisada-pela-camara/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/camara-deputado-pec-blindagem.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-12T17:12:19+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/espanha-se-recusa-a-discutir-soberania-dos-enclaves-com-marrocos/",
+      "_key": "b7befd0008f1072fc6ae5b8ff9a2f2bb",
+      "title": "Espanha se recusa a discutir soberania dos enclaves com Marrocos",
+      "originalTitle": "Espanha se recusa a discutir soberania dos enclaves com Marrocos",
+      "summary": "Desde sua independência em 1956, Marrocos considera Ceuta e Melilla como territórios ocupados pela Espanha The post Espanha se recusa a discutir soberania dos enclaves com Marrocos appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/espanha-se-recusa-a-discutir-soberania-dos-enclaves-com-marrocos/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-01T184939Z_1_LYNXMPEM702JI_RTROPTP_4_MIGRATION-EUROPE-SPAIN-CEUTA-1.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-12T17:04:14+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "_key": "52a02d64cc9571fa80ad8d92cf5742b7",
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "originalTitle": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800",
+      "publishedAt": "2026-08-12T16:46:02+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/reviews/som-de-cinema-em-casa-veja-uma-selecao-de-soundbars-em-promocao-na-amazon-9/",
+      "_key": "8a333b220c848bef7d6de837253c9a5e",
+      "title": "Som de cinema em casa: veja uma seleção de soundbars em promoção na Amazon",
+      "originalTitle": "Som de cinema em casa: veja uma seleção de soundbars em promoção na Amazon",
+      "summary": "Transformar a experiência de áudio em casa ficou mais acessível com as ofertas de soundbars disponíveis agora na Amazon. Reunimos três opções de marcas renomadas — JBL, Samsung e LG — para quem quer dar um upgrade no som da sala sem complicação.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/reviews/som-de-cinema-em-casa-veja-uma-selecao-de-soundbars-em-promocao-na-amazon-9/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/21yPj5NGVgL._SL500_.jpg",
+      "publishedAt": "2026-08-12T16:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/games-e-consoles/sony-enfrenta-processo-por-controle-de-precos-na-playstation-store/",
+      "_key": "a389df2ee5a9abd8f224682d5a9c08a3",
+      "title": "PlayStation",
+      "originalTitle": "PlayStation",
+      "summary": "controlar o mercado digital do PlayStation e cobrar preços mais altos dos consumidores O post Stop Killing Games apoia processo contra Sony por preços de jogos digitais no PlayStation apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/games-e-consoles/sony-enfrenta-processo-por-controle-de-precos-na-playstation-store/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/PlayStation-PlayStation.jpg",
+      "publishedAt": "2026-08-12T16:37:42+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/pro/nova-ia-da-meta-roda-no-pc-entenda-o-que-eh-peso-aberto/",
+      "_key": "a90e24d7db62bfb9d58248520ac39e4c",
+      "title": "Nova IA da Meta roda no PC: entenda o que é ‘peso aberto’",
+      "originalTitle": "Nova IA da Meta roda no PC: entenda o que é ‘peso aberto’",
+      "summary": "Saiba como a estratégia de “pesos abertos” blinda (juridicamente) o desenvolvimento de IA e acirra a corrida entre EUA e China O post Nova IA da Meta roda no PC: entenda o que é ‘peso aberto’ apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/pro/nova-ia-da-meta-roda-no-pc-entenda-o-que-eh-peso-aberto/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Muse-Glimmer-1024x576.jpg",
+      "publishedAt": "2026-08-12T16:31:17+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/terremoto-afeta-exportacoes-de-cafe-da-colombia-e-ameaca-embarques-internacionais.ghtml",
+      "_key": "86bd5d499c55a2f1b9696d8434e46f93",
+      "title": "Terremoto afeta exportações de café da Colômbia e ameaça embarques internacionais",
+      "originalTitle": "Terremoto afeta exportações de café da Colômbia e ameaça embarques internacionais",
+      "summary": "Mortos em terremoto na Colômbia passam de 250; milhares continuam feridos e desabrigados O terremoto de magnitude 7,4 que atingiu a Colômbia na segunda-feira (10) interrompeu parte da logística de exportação de café do país e trouxe novas preocupações para o mercado internacional de uma das bebidas mais consumidas do mundo.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/12/terremoto-afeta-exportacoes-de-cafe-da-colombia-e-ameaca-embarques-internacionais.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/FeLfGox3u5_LSiXirec-mubDiBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/v/VnxhBPTTilhCQER9uEnQ/6a7b8023d4d9e.jpg",
+      "publishedAt": "2026-08-12T16:19:19+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "_key": "ba08e8b9a2f4d5bec609a3640806da62",
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "originalTitle": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-12T15:52:07+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/apos-falha-b3-diz-que-nao-aumentara-investimento-em-tecnologia-ao-menos-neste-ano/",
+      "_key": "3f6c368f355be2b68906283ba6c8c5ad",
+      "title": "tecnologia (ao menos neste ano)",
+      "originalTitle": "tecnologia (ao menos neste ano)",
+      "summary": "A falha técnica na B3 que impediu a abertura do mercado de ações em 31 de julho ainda levanta preocupações entre os analistas, que seguem sem uma explicação detalhada sobre o ocorrido.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/apos-falha-b3-diz-que-nao-aumentara-investimento-em-tecnologia-ao-menos-neste-ano/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/07/B3-Bolsa-Brasil-Balcao-efeito-NeoFeed-300x169.jpg",
+      "publishedAt": "2026-08-12T15:40:49+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/cava-rises-on-sales-coreweave-sores-on-ai-outlook-video",
       "_key": "34b1388aaae4fb2f9ca94b1b8791be28",
       "title": "Cava Rises on Sales; CoreWeave Sores on AI Outlook | Stock Movers",
@@ -4955,6 +5240,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "_key": "eda20700950cdebea271b94ff225a74f",
+      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+      "originalTitle": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/Sandbar_stream_ring-feat.jpg?resize=1200,675",
+      "publishedAt": "2026-08-12T14:22:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
       ],
       "coverageCount": 1
     },
@@ -5186,6 +5492,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-12/market-s-momentum-darlings-resurface-as-optical-stocks-take-off",
+      "_key": "143e85e38467be1c89ce0eb3c889d9d8",
+      "title": "Optical Stocks Soar as Market’s Favorite Momentum Bet Resurfaces",
+      "originalTitle": "Optical Stocks Soar as Market’s Favorite Momentum Bet Resurfaces",
+      "summary": "One of the stock market’s favorite momentum plays from earlier this year is re-emerging as rising confidence in artificial intelligence spending sends the shares of optical component makers soaring again.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/market-s-momentum-darlings-resurface-as-optical-stocks-take-off",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T10:45:01+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
       ],
       "coverageCount": 1
     },
@@ -8717,6 +9044,69 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/reviews/echo-dot-em-destaque-confira-uma-selecao-de-smart-speakers-alexa-em-promocao-3/",
+      "_key": "9a81fbe1fb24e9c69d94bd0024bd1fa9",
+      "title": "Echo Dot em destaque: confira uma seleção de Smart Speakers Alexa em promoção",
+      "originalTitle": "Echo Dot em destaque: confira uma seleção de Smart Speakers Alexa em promoção",
+      "summary": "Se você está pensando em dar um upgrade na sua casa inteligente, esta é uma boa hora para agir. Reunimos três opções do Echo Dot com Alexa disponíveis na Amazon, todas com conectividade Wi-Fi e Bluetooth, som potente e acesso antecipado à Alexa+. A diferença entre elas?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/reviews/echo-dot-em-destaque-confira-uma-selecao-de-smart-speakers-alexa-em-promocao-3/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+      "publishedAt": "2026-08-12T17:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://achados.tecnoblog.net/nintendo-switch-com-super-mario-bros-wonder-tem-preco-mais-baixo-na-amazon/",
+      "_key": "a76559a2900cfbcd0440d5347e894dcc",
+      "title": "Nintendo Switch com Super Mario Bros. Wonder tem preço mais baixo na Amazon",
+      "originalTitle": "Nintendo Switch com Super Mario Bros. Wonder tem preço mais baixo na Amazon",
+      "summary": "Bundle do Nintendo Switch inclui o game Super Mario Bros. Wonder e um voucher de 3 meses da Switch Online; pacote recebe desconto de 37% no Pix Nintendo Switch com Super Mario Bros. Wonder tem preço mais baixo na Amazon",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://achados.tecnoblog.net/nintendo-switch-com-super-mario-bros-wonder-tem-preco-mais-baixo-na-amazon/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
+      "publishedAt": "2026-08-12T16:46:01+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/cava-sales-jump-as-americans-flock-to-pita-chips-salmon-video",
+      "_key": "e05bcfcf06665a76b3b41ad48c4e024d",
+      "title": "Cava Sales Jump as Americans Flock to Pita Chips, Salmon",
+      "originalTitle": "Cava Sales Jump as Americans Flock to Pita Chips, Salmon",
+      "summary": "Cava is hot, kind of bucking a trend when it comes to eating out with prices generally rising. The fast-casual restaurant chain known for its Mediterranean-inspired dishes says sales rose faster than expected due to increased demand for its salmon and pita chips.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/cava-sales-jump-as-americans-flock-to-pita-chips-salmon-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T16:27:52+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/reviews/honor-robot-phone-transforma-o-celular-em-uma-camera-de-acao/",
