@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T20:27:28.077315+00:00",
+  "updatedAt": "2026-08-12T23:37:32.775427+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -189,11 +189,6 @@
   ],
   "failures": [
     {
-      "source": "IT Forum",
-      "url": "https://news.google.com/rss/search?q=when:2d+site:itforum.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -206,6 +201,11 @@
     {
       "source": "First Round Review",
       "url": "https://review.firstround.com/feed.xml",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "EU-Startups",
+      "url": "https://www.eu-startups.com/feed/",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -894,6 +894,48 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/12/stf-valida-moratoria-da-soja-e-mantem-leis-que-restringem-beneficios-fiscais-a-empresas.ghtml",
+      "_key": "9672ae84b381dc05d042357fb377ad15",
+      "title": "STF valida moratória da soja e mantém leis que restringem benefícios fiscais a empresas",
+      "originalTitle": "STF valida moratória da soja e mantém leis que restringem benefícios fiscais a empresas",
+      "summary": "Lei do Mato Groso pode enfranquecer moratória da soja na Amazônia O Supremo Tribunal Federal (STF) validou nesta quarta-feira (12) a moratória da soja, acordo entre as empresas do setor e que proíbe a aquisição do grão cultivado de áreas desmatadas na Amazônia após julho de 2008.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/12/stf-valida-moratoria-da-soja-e-mantem-leis-que-restringem-beneficios-fiscais-a-empresas.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/A5094fqilcGjfIskuM2uXEPDNTk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/t/jOxHRUTZSgBYA8sSEe2Q/img-2106.jpg.jpeg",
+      "publishedAt": "2026-08-12T22:00:59+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/poder/o-futuro-do-brb-nas-maos-de-fux-a-ultima-cartada-do-banco-para-destravar-credito-e-evitar-liquidacao/",
+      "_key": "129e7d86487e42344cd71bf48b3fc20c",
+      "title": "O futuro do BRB nas mãos de Fux: a última cartada do banco para destravar crédito e evitar liquidação",
+      "originalTitle": "O futuro do BRB nas mãos de Fux: a última cartada do banco para destravar crédito e evitar liquidação",
+      "summary": "Brasília &#8211; Passando por um calvário sem fim, o BRB agora deposita todas as suas fichas no ministro Luiz Fux, do Supremo Tribunal Federal (STF), na dura missão de que ele convença o Fundo Garantidor de Créditos (FGC) a aprovar um empréstimo de R$ 6,6 bilhões junto a um consórcio de bancos públicos e privados [&#8230;] O post O futuro do BRB nas mãos de Fux: a última cartada do banco para destravar crédito e evitar liquidação apareceu primeiro em NeoFeed .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/poder/o-futuro-do-brb-nas-maos-de-fux-a-ultima-cartada-do-banco-para-destravar-credito-e-evitar-liquidacao/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/BRB-Banco-de-Brasilia-300x169.jpg",
+      "publishedAt": "2026-08-12T20:35:58+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/negocios/no-goldman-sachs-um-cheque-de-us-225-bilhoes-para-avancar-nos-etfs/",
@@ -3660,6 +3702,27 @@
       "country": "BR"
     },
     {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/inteligencia-artificial/google-reorganiza-area-de-ia-e-reforca-controle-sobre-o-desenvolvimento-do-gemini/",
+      "_key": "c90d20408802358312525f2143e23442",
+      "title": "Google reorganiza área de IA e reforça controle sobre o desenvolvimento do Gemini",
+      "originalTitle": "Google reorganiza área de IA e reforça controle sobre o desenvolvimento do Gemini",
+      "summary": "A pressão de rivais e os atrasos no novo modelo aumentam a cobrança interna por avanços na corrida de inteligência artificial O post Google reorganiza área de IA e reforça controle sobre o desenvolvimento do Gemini apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/inteligencia-artificial/google-reorganiza-area-de-ia-e-reforca-controle-sobre-o-desenvolvimento-do-gemini/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/shutterstock_2315051741-1024x576.jpg",
+      "publishedAt": "2026-08-12T20:30:50+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/reviews/economize-com-estilo-impressoras-em-promocao-na-amazon-que-valem-a-pena/",
       "_key": "5368aeb86671fb655cb8306d5f1b56cf",
       "title": "Economize com estilo: impressoras em promoção na Amazon que valem a pena",
@@ -5081,6 +5144,195 @@
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/eclipse-solar-total-transforma-dia-em-noite-na-espanha-e-na-islandia/",
+      "_key": "9abcf158f7a79c4990baae2d5be2ce38",
+      "title": "Eclipse solar total transforma dia em noite na Espanha e na Islândia",
+      "originalTitle": "Eclipse solar total transforma dia em noite na Espanha e na Islândia",
+      "summary": "Espectáculo celestial levou multidões a áreas de observação e mobilizou operação especial de segurança The post Eclipse solar total transforma dia em noite na Espanha e na Islândia appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/eclipse-solar-total-transforma-dia-em-noite-na-espanha-e-na-islandia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-12T221940Z_1_LYNXMPEM7B1N7_RTROPTP_4_SOLAR-ECLIPSE-SPAIN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-12T22:35:49+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/esportes/sao-paulo-pode-sofrer-1o-transfer-ban-por-divida-sob-regra-de-fair-play-financeiro/",
+      "_key": "7cfa1c26315a017e8d9b98ef6d24a3c0",
+      "title": "São Paulo pode sofrer 1º transfer ban por dívida sob regra de fair play financeiro",
+      "originalTitle": "São Paulo pode sofrer 1º transfer ban por dívida sob regra de fair play financeiro",
+      "summary": "Agência determinou o pagamento de débito com o Novorizontino em até 45 dias; sem quitação ou acordo, clube ficará impedido de registrar novos atletas The post São Paulo pode sofrer 1º transfer ban por dívida sob regra de fair play financeiro appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/esportes/sao-paulo-pode-sofrer-1o-transfer-ban-por-divida-sob-regra-de-fair-play-financeiro/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-12-192934.png?fit=300%2C198&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-12T22:30:51+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-12/stock-market-today-dow-s-p-live-updates",
+      "_key": "3386b508eb2ec28226df7eec3d60f29c",
+      "title": "Asian Stocks Poised to Gain on Benign US Inflation: Markets Wrap",
+      "originalTitle": "Asian Stocks Poised to Gain on Benign US Inflation: Markets Wrap",
+      "summary": "Stocks in Asia were poised to gain Thursday after a subdued US inflation report eased concerns about imminent interest-rate hikes by the Federal Reserve. American crude snapped a five-day rally.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T22:08:18+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/12/lula-assina-decreto-que-abre-mercado-livre-de-energia-para-consumidores-residenciais-e-pequenos-estabelecimentos.ghtml",
+      "_key": "8440eea42e417255a0a777ed558329f3",
+      "title": "Lula assina decreto que abre mercado livre de energia para consumidores residenciais e pequenos estabelecimentos",
+      "originalTitle": "Lula assina decreto que abre mercado livre de energia para consumidores residenciais e pequenos estabelecimentos",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quarta-feira (12) decreto que regulamenta a abertura de mercado livre de energia elétrica para consumidores de baixa tensão (inferior a 2,3 kV) a partir de novembro de 2027.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/12/lula-assina-decreto-que-abre-mercado-livre-de-energia-para-consumidores-residenciais-e-pequenos-estabelecimentos.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/Kyq02FTY8sta438whk3YLOEdrGE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/q/r/3qyF35TKAsShpyvdX0Pg/fre-sonneveld-q6n8nirdqhe-unsplash.jpg",
+      "publishedAt": "2026-08-12T22:05:51+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/12/camara-aprova-projeto-que-cria-o-aluguel-consignado-sem-fiador-e-com-desconto-direto-de-ate-30percent-no-salario.ghtml",
+      "_key": "e58a5ce28919fd9aa6b969a53b74af5c",
+      "title": "com desconto de até 30% no salário",
+      "originalTitle": "com desconto de até 30% no salário",
+      "summary": "nova modalidade de garantia para a locação de imóveis através da consignação de parte do salário. 🏠 O limite estabelecido no projeto é de até 30% do salário. Com a consignação, o locatário fica dispensado de buscar fiadores para o contrato ou fazer um depósito caução, por exemplo.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/12/camara-aprova-projeto-que-cria-o-aluguel-consignado-sem-fiador-e-com-desconto-direto-de-ate-30percent-no-salario.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/kt1BH6ufNZAMlkDe8ZKuJLv1T6k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/W/U/jgBnu1TTCBF0LUdO09bw/house-4516175-960-720.jpg",
+      "publishedAt": "2026-08-12T22:02:40+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/a-saida-pela-america-do-sul-da-minerva-foods-para-nao-perder-sua-fatia-na-china/",
+      "_key": "924ae346d6bd148d1e6090ebc04c8468",
+      "title": "A saída pela América do Sul da Minerva Foods para não perder sua fatia na China",
+      "originalTitle": "A saída pela América do Sul da Minerva Foods para não perder sua fatia na China",
+      "summary": "Com as cotas de exportação impostas pela China ao Brasil, a Minerva Foods traçou uma estratégia para preservar sua seu market share no país asiático. O plano é usar as operações dos vizinhos da América do Sul para abastecer o mercado por lá.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/a-saida-pela-america-do-sul-da-minerva-foods-para-nao-perder-sua-fatia-na-china/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/china-carne-1-300x169.jpg",
+      "publishedAt": "2026-08-12T21:34:17+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/economia/mercado-de-biometano-ganha-um-gas-extra-antes-mesmo-de-marco-regulatorio/",
+      "_key": "79ace54874ae83dcb01b141af6bb2673",
+      "title": "Mercado de biometano ganha um “gás extra” antes mesmo de marco regulatório",
+      "originalTitle": "Mercado de biometano ganha um “gás extra” antes mesmo de marco regulatório",
+      "summary": "O mercado brasileiro de biocombustíveis está prestes a integrar seu último elo, juntando-se ao etanol, ao diesel verde (HVO), ao combustível sustentável de aviação (SAF) e ao biodiesel.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/economia/mercado-de-biometano-ganha-um-gas-extra-antes-mesmo-de-marco-regulatorio/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2025/09/Gas-Verde_posto-biometano-300x169.jpg",
+      "publishedAt": "2026-08-12T21:22:49+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-12/rio-tinto-aluminum-smelter-gets-1-8-billion-australian-bailout",
+      "_key": "c5a9bb655d66f562aa1b638f336fe900",
+      "title": "Rio Tinto Aluminum Smelter Receives $1.8 Billion Bailout",
+      "originalTitle": "Rio Tinto Aluminum Smelter Receives $1.8 Billion Bailout",
+      "summary": "The owners of Australia’s biggest aluminum smelter, including Rio Tinto Group, secured a government bailout of A$2.5 billion ($1.8 billion) to keep the plant operating as they grapple with high energy costs.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/rio-tinto-aluminum-smelter-gets-1-8-billion-australian-bailout",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T21:21:39+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/encha-seu-kindle-2026-amazon-oferece-livros-digitais-gratis-e-descontos/",
+      "_key": "a694b62d12d9dc89f9626f940b42c284",
+      "title": "Encha Seu Kindle 2026: Amazon oferece livros digitais grátis e descontos",
+      "originalTitle": "Encha Seu Kindle 2026: Amazon oferece livros digitais grátis e descontos",
+      "summary": "Iniciativa chega à quarta edição com obras independentes, clássicos e descontos. Não é necessário ter um Kindle para participar. Encha Seu Kindle 2026: Amazon oferece livros digitais grátis e descontos",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/noticias/encha-seu-kindle-2026-amazon-oferece-livros-digitais-gratis-e-descontos/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/01/20250108_113022.jpg",
+      "publishedAt": "2026-08-12T20:14:05+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Tecnoblog-https://achados.tecnoblog.net/motorola-signature-512-gb-volta-a-ficar-mais-barato-com-cupom/",
       "_key": "96c2fa0de49b0f6514590985e2b7ae71",
       "title": "Motorola Signature (512 GB) volta a ficar mais barato com cupom",
@@ -5161,6 +5413,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/reviews/smartwatch-bom-nao-precisa-custar-caro-veja-estas-opcoes-em-promocao/",
+      "_key": "a509225152ade816c8ec56ca03df528c",
+      "title": "Smartwatch bom não precisa custar caro — veja estas opções em promoção",
+      "originalTitle": "Smartwatch bom não precisa custar caro — veja estas opções em promoção",
+      "summary": "Se você está pensando em dar um upgrade no pulso, este é um bom momento para pesquisar. Reunimos três opções de smartwatch em oferta na Amazon que combinam design, tecnologia e praticidade para o dia a dia.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/reviews/smartwatch-bom-nao-precisa-custar-caro-veja-estas-opcoes-em-promocao/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "publishedAt": "2026-08-12T19:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
       ],
       "coverageCount": 1
     },
@@ -5308,6 +5581,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "TechCrunch Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-12/data-center-qts-holds-investor-calls-ahead-of-possible-debt-sale",
+      "_key": "049edb4be66e3a87098a03c5794e4cd5",
+      "title": "QTS Holds Calls Ahead of Possible $2.85 Billion Bond Sale",
+      "originalTitle": "QTS Holds Calls Ahead of Possible $2.85 Billion Bond Sale",
+      "summary": "Subsidiaries of QualityTech LP are holding fixed income investor calls ahead of a potential bond offering that may raise about $2.85 billion in the market’s latest data-center financing.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/data-center-qts-holds-investor-calls-ahead-of-possible-debt-sale",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T16:45:30+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
       ],
       "coverageCount": 1
     },
@@ -9343,6 +9637,69 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+      "_key": "2936985b67fbfe044b60752296af133f",
+      "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
+      "originalTitle": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
+      "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Hot-pink.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-12T21:30:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
+      "_key": "3867454326e70eeb1a01087375d21c62",
+      "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
+      "originalTitle": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
+      "summary": "If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowest prices we’ve seen for the bundle.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/8bitdo-mechanical-keyboard-buttons-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-12T21:21:09+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/bloomberg-deals-8-12-2026-video",
+      "_key": "2005ce56c680a0026dfc6a041027c31d",
+      "title": "Deals 8/12/2026",
+      "originalTitle": "Deals 8/12/2026",
+      "summary": "market. Today's guests: Evercore Global Head of Private Capital Nigel Dawn, Ancora Advisors President James Chadwick, Angel City Football Club Co-Founder & Monarch Collective Co-Founder Kara Nortman, and Bruin Capital CEO & Founder George Pyne. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/bloomberg-deals-8-12-2026-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T20:53:04+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/cava-ceo-on-cyclospora-dining-trends-and-growth-outlook-video",
