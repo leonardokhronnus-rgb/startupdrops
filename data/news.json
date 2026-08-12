@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T10:01:44.569424+00:00",
+  "updatedAt": "2026-08-12T15:45:54.201188+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -211,11 +211,6 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Inovação Tecnológica",
-      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
-      "reason": "falhou direto e via proxy"
-    },
-    {
       "source": "Baguete",
       "url": "https://www.baguete.com.br/rss.xml",
       "reason": "falhou direto e via proxy"
@@ -377,6 +372,27 @@
       "coverageCount": 1
     },
     {
+      "id": "Tech.eu-https://tech.eu/2026/08/12/lovables-valuation-doubles-to-13bn-as-raises-400m/",
+      "_key": "a8ce3bfcb4a2199e608d755fad922ea9",
+      "title": "Lovable’s valuation doubles to $13.3BN as raises new funds",
+      "originalTitle": "Lovable’s valuation doubles to $13.3BN as raises new funds",
+      "summary": "Swedish vibe-coding startup Lovable has raised $400m in new funding, at a $13.3bn valuation, more than double its valuation at its last funding round, in a round which was co-led by Europe’s new €5bn ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/12/lovables-valuation-doubles-to-13bn-as-raises-400m/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2025/07/lovable-749.jpg",
+      "publishedAt": "2026-08-12T11:16:00+00:00",
+      "score": 70,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Tech.eu-https://tech.eu/2026/08/12/cytix-raises-7m-series-a-to-tackle-cyber-risks-from-ai-driven-software-development/",
       "_key": "a06c3753526de9e54e30197931ecb6bd",
       "title": "Cytix raises $7M Series A to tackle cyber risks from AI-driven software development",
@@ -436,6 +452,27 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/",
+      "_key": "5f9fabef13df3a697250bdb331260470",
+      "title": "Lovable raise €343 million Series C to expand its platform, infrastructure and global team",
+      "originalTitle": "Lovable raise €343 million Series C to expand its platform, infrastructure and global team",
+      "summary": "Swedish AI software creation platform Lovable has raised €343 million ($400 million) in Series C funding at a €11.4 billion ($13.3 billion) valuation, as the Stockholm-based company looks to expand its platform, infrastructure and global team.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Lovable-raises-E343-million-Series-C-to-expand-its-platform-infrastructure-and-global-team.png",
+      "publishedAt": "2026-08-12T11:03:49+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Startupi-https://startupi.com.br/qual-o-tamanho-do-desafio-do-ecossistema-de-empreendedorismo-em-tecnologia-no-brasil-frente-aos-massivos-investimentos-globais-no-setor/",
@@ -882,6 +919,48 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/pipo-saude-anuncia-nova-lideranca-para-acelerar-proxima-fase-de-crescimento/",
+      "_key": "5a3761818820d69a89eb9624616b8689",
+      "title": "Pipo Saúde anuncia nova liderança para acelerar próxima fase de crescimento",
+      "originalTitle": "Pipo Saúde anuncia nova liderança para acelerar próxima fase de crescimento",
+      "summary": "Lorena Coimbra, nova VP de Clientes da Pipo Saúde (Imagem: Divulgação) Ex-COO, Lorena Coimbra assume como VP de Clientes da Pipo Saúde, enquanto Thiago Torres passa a liderar como VP de Growth O post Pipo Saúde anuncia nova liderança para acelerar próxima fase de crescimento apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/danca-das-cadeiras/pipo-saude-anuncia-nova-lideranca-para-acelerar-proxima-fase-de-crescimento/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Lorena-Coimbra.jpg",
+      "publishedAt": "2026-08-12T14:05:01+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/health-wellness-biotech/fitness-startup-funding-rebounding-ai-data-h1-2026/",
+      "_key": "c8035bf66847c3b015b3b01c525fc4b3",
+      "title": "Want AI And Data, Not Treadmills",
+      "originalTitle": "Want AI And Data, Not Treadmills",
+      "summary": "Venture investors seem to be more upbeat than they have been in years about the future of fitness and wellness. Startup investment in those categories totaled more than $3.6 billion in the first half of this year, putting 2026 on pace to come in about a third higher than 2025.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/health-wellness-biotech/fitness-startup-funding-rebounding-ai-data-h1-2026/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/AI-generated.jpg",
+      "publishedAt": "2026-08-12T11:00:21+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/startups/xai-cofounders-startup-river-ai-raises-1-1-billion-to-expand-custom-ai-tools/articleshow/133158065.cms",
@@ -1399,6 +1478,27 @@
       "country": "BR"
     },
     {
+      "id": "Startups.com.br-https://startups.com.br/la-fora/futuro-da-tv-roku-lanca-canal-com-programacao-100-ai-slop/",
+      "_key": "25a8943e50f98418c6d756131e785b3c",
+      "title": "Futuro da TV? Roku lança canal com programação 100% “AI slop”",
+      "originalTitle": "Futuro da TV? Roku lança canal com programação 100% “AI slop”",
+      "summary": "dia, com anúncios também produzidos por IA; proposta chamou atenção pela qualidade duvidosa O post Futuro da TV? Roku lança canal com programação 100% &#8220;AI slop&#8221; apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/la-fora/futuro-da-tv-roku-lanca-canal-com-programacao-100-ai-slop/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/06/shutterstock_2660424875.jpg",
+      "publishedAt": "2026-08-12T12:41:07+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/11/startup-de-ia-manus-meta.ghtml",
       "_key": "7cb43aa7533412d5a1dd55492b2b5e4a",
       "title": "Meta",
@@ -1760,6 +1860,111 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/opep-eleva-previsao-de-producao-de-combustiveis-do-brasil-para-2026-e-2027/",
+      "_key": "a886412b894bb0c62d153b6a4e4c885f",
+      "title": "Opep eleva previsão de produção de combustíveis do Brasil para 2026 e 2027",
+      "originalTitle": "Opep eleva previsão de produção de combustíveis do Brasil para 2026 e 2027",
+      "summary": "A entidade passou a prever expansão de 410 mil barris por dia (bpd) em 2026, ante 340 mil bpd no relatório anterior, subindo a média para 4,8 milhões de bpd The post Opep eleva previsão de produção de combustíveis do Brasil para 2026 e 2027 appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/opep-eleva-previsao-de-producao-de-combustiveis-do-brasil-para-2026-e-2027/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-14T111008Z_1_LYNXMPEK4D0EY_RTROPTP_3_PETROLEO-OPEP.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-12T14:55:34+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/reforma-tributaria-sera-teste-de-maturidade-tecnologica-para-as-empresas/",
+      "_key": "87afd71a2639fa19d126e8e68ed27ad1",
+      "title": "Reforma Tributária será teste de maturidade tecnológica para as empresas",
+      "originalTitle": "Reforma Tributária será teste de maturidade tecnológica para as empresas",
+      "summary": "Startupi Reforma Tributária será teste de maturidade tecnológica para as empresas * Por Rafael Caribé Quando a Nota Fiscal Eletrônica foi criada, muitas empresas acreditaram que estavam apenas substituindo papel por arquivos digitais, mas o tempo mostrou que a mudança era ainda maior, com revisão de processos, integração entre sistemas e uma nova forma de administrar informações.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/reforma-tributaria-sera-teste-de-maturidade-tecnologica-para-as-empresas/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/Reforma-Tributaria_Agilize.jpg",
+      "publishedAt": "2026-08-12T12:59:10+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/b2b-match-realiza-segunda-edicao-do-marketing-innovation-summit/",
+      "_key": "0ad7e143e3947aa76ba82e892c85f8b5",
+      "title": "B2B Match realiza segunda edição do Marketing Innovation Summit para reunir cerca de 150 lideranças do setor",
+      "originalTitle": "B2B Match realiza segunda edição do Marketing Innovation Summit para reunir cerca de 150 lideranças do setor",
+      "summary": "Startupi B2B Match realiza segunda edição do Marketing Innovation Summit para reunir cerca de 150 lideranças do setor No próximo dia 1 de setembro, a B2B Match, mais impactante e exclusiva comunidade para CEOs e C-levels do país, anuncia a segunda edição do Marketing Innovation Summit.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/b2b-match-realiza-segunda-edicao-do-marketing-innovation-summit/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/b2b-match.jpeg",
+      "publishedAt": "2026-08-12T12:37:30+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/nebius-beats-quarterly-revenue-estimates-as-ai-demand-fuels-growth/articleshow/133182843.cms",
+      "_key": "f5167d8e6ee8620854fa53e6714c842b",
+      "title": "Nebius beats quarterly revenue estimates as AI demand fuels growth",
+      "originalTitle": "Nebius beats quarterly revenue estimates as AI demand fuels growth",
+      "summary": "The Amsterdam-based AI infrastructure firm reported total revenue of $582.3 million ‌for the ⁠quarter ⁠ended June, compared with analysts' average estimate of $572.75 million, according to data compiled ​by LSEG.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nebius-beats-quarterly-revenue-estimates-as-ai-demand-fuels-growth/articleshow/133182843.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133182843,imgsize-255182.cms",
+      "publishedAt": "2026-08-12T12:27:22+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/gestora-planeja-fundos-para-a-nova-corrida-dos-metais-de-pipe-a-credito/",
+      "_key": "2d2de37403a816306b0556a42ef6b361",
+      "title": "Gestora planeja fundos para a ‘nova corrida dos metais’: de PIPE a crédito",
+      "originalTitle": "Gestora planeja fundos para a ‘nova corrida dos metais’: de PIPE a crédito",
+      "summary": "A política da China de restringir suas exportações de terras raras desencadeou uma mudança estrutural na indústria de mineração, colocando as potências do Ocidente numa corrida global por reservas de metais críticos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/gestora-planeja-fundos-para-a-nova-corrida-dos-metais-de-pipe-a-credito/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/08-11-Andrea-Weinberg-ok-278x300.jpg?x85156",
+      "publishedAt": "2026-08-12T09:50:19+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Tech.eu-https://tech.eu/2026/08/12/how-research-partnerships-under-the-msca-are-driving-innovation/",
@@ -2625,6 +2830,69 @@
       "country": "BR"
     },
     {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/unlearn-or-expire-why-unlearning-speed-matters-more-than-learning-speed/",
+      "_key": "c330d6f21b48d9bda48e55cb416ad6a7",
+      "title": "Unlearn or expire: Why unlearning speed matters more than learning speed",
+      "originalTitle": "Unlearn or expire: Why unlearning speed matters more than learning speed",
+      "summary": "What is the one habit that got you here that is quietly killing you right now? I put that question to a room full of founders at the EU-Startups Summit in Malta this May, and I could see it land.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/unlearn-or-expire-why-unlearning-speed-matters-more-than-learning-speed/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Unlearn-or-expire-Why-unlearning-speed-matters-more-than-learning-speed.png",
+      "publishedAt": "2026-08-12T14:00:19+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/cryptocurrency/article/3363800/hong-kong-stablecoin-selection-expands-standard-chartered-led-ventures-launch?utm_source=rss_feed",
+      "_key": "b33daf2a43cf2ebd1a73c82aae12166a",
+      "title": "Hong Kong stablecoin selection expands with Standard Chartered-led venture’s launch",
+      "originalTitle": "Hong Kong stablecoin selection expands with Standard Chartered-led venture’s launch",
+      "summary": "A Standard Chartered-led joint venture kicked off institutional use of Hong Kong dollar-backed stablecoins on Wednesday, a year after the city put its stablecoin law into effect as part of an effort to become a global hub for digital assets.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/cryptocurrency/article/3363800/hong-kong-stablecoin-selection-expands-standard-chartered-led-ventures-launch?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/12/db59e0fb-2a2f-4aa0-bebb-7eceb287a63e_322943d6.jpg?itok=1rucgSxa&v=1786532808",
+      "publishedAt": "2026-08-12T11:06:58+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/negocios/inteligencia-artificial/agent-shop-aposta-em-result-as-a-service-para-fugir-do-apocalipse/",
+      "_key": "4743df7fda6fceb70fca90171f24fef5",
+      "title": "Agent.Shop aposta em Result as a Service para fugir do “apocalipse”",
+      "originalTitle": "Agent.Shop aposta em Result as a Service para fugir do “apocalipse”",
+      "summary": "Eduardo Petrelli, cofundador da Agent.Shop (Imagem: Divulgação) Startup de Eduardo Petrelli troca a lógica de assinatura por modelo de cobrança baseado em vendas, transações e tickets resolvidos O post Agent.Shop aposta em Result as a Service para fugir do &#8220;apocalipse&#8221; apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/negocios/inteligencia-artificial/agent-shop-aposta-em-result-as-a-service-para-fugir-do-apocalipse/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/08/Eduardo-Petrelli-Agent-Shop.jpg",
+      "publishedAt": "2026-08-12T11:00:00+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "TechNode-https://technode.com/2026/08/12/manus-says-it-will-resume-operating-as-an-independent-company/",
       "_key": "bfef497da97b11ac6de7052f60460ec9",
       "title": "Manus Says It Will Resume Operating as an Independent Company",
@@ -3247,6 +3515,132 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/12/cnj-e-banco-central-firmam-convenio-para-criar-estrutura-nacional-de-rastreamento-da-compra-e-venda-de-precatorios.ghtml",
+      "_key": "cd84c2a8c6c0487746bc83f0d33240a9",
+      "title": "CNJ e BC firmam parceria para criar sistema de rastreamento para compra e venda de precatórios",
+      "originalTitle": "CNJ e BC firmam parceria para criar sistema de rastreamento para compra e venda de precatórios",
+      "summary": "O Conselho Nacional de Justiça (CNJ) e o Banco Central (BC) firmaram nesta quarta-feira (12) um convênio que cria um grupo de trabalho para desenvolver uma sistemática nacional de registro e rastreamento das transferências de créditos de precatórios (sentenças judiciais).",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/12/cnj-e-banco-central-firmam-convenio-para-criar-estrutura-nacional-de-rastreamento-da-compra-e-venda-de-precatorios.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/WdB8ZYwOoaQRS46VM5NWRZ0uhRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/E/fbMZ3bSHOzpjOGxKpJZQ/55439567457-8ea0594296-k.jpg",
+      "publishedAt": "2026-08-12T14:25:40+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "_key": "9bbb277d6df088848e24e180b7fc5b92",
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "originalTitle": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/banking-finance/article/3363806/hsbc-reshuffles-insurance-division-after-ceos-surprise-departure-internal-memo?utm_source=rss_feed",
+      "_key": "0f29c6b21ae30b2d3b64f6ca43454b7a",
+      "title": "memo",
+      "originalTitle": "memo",
+      "summary": "Moncreiffe, according to an internal company memo seen by the South China Morning Post. Daisy Tsang, CEO of HSBC Life Hong Kong, and Kai Zhang, Asia head of international wealth and premier banking, have been named co-CEOs of insurance, effective immediately, the document stated.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/banking-finance/article/3363806/hsbc-reshuffles-insurance-division-after-ceos-surprise-departure-internal-memo?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/12/c978fb7b-ccc1-4899-81c0-c9dc69d46ae4_658019f6.jpg?itok=Re_VLpUj&v=1786535602",
+      "publishedAt": "2026-08-12T11:53:30+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/inteligencia-artificial/parceira-da-anthropic-empresa-brasileira-corta-mais-de-50-do-esforco-com-agentes-de-ia/",
+      "_key": "580b79646d9ab333ddc8307372e45b4e",
+      "title": "Parceira da Anthropic, empresa brasileira corta mais de 50% do esforço com agentes de IA",
+      "originalTitle": "Parceira da Anthropic, empresa brasileira corta mais de 50% do esforço com agentes de IA",
+      "summary": "Parceira da Anthropic, a brasileira Triggo.ai utiliza agentes de IA para automatizar processos corporativos complexos, reduzindo em mais de 50% o esforço em operações reais. Entenda como a tecnologia está transformando o mercado Enterprise",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/inteligencia-artificial/parceira-da-anthropic-empresa-brasileira-corta-mais-de-50-do-esforco-com-agentes-de-ia/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/triggo.ai_.png",
+      "publishedAt": "2026-08-12T11:14:49+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/australia-cria-protecao-inedita-para-entregadores-de-aplicativo.ghtml",
+      "_key": "42e88cb27a09adc268e8858249ab0631",
+      "title": "Austrália cria proteção inédita para entregadores de aplicativo",
+      "originalTitle": "Austrália cria proteção inédita para entregadores de aplicativo",
+      "summary": "trabalho Rafael Ben Ari/Avalon/IMAGO Entregadores de alimentos e compras na Austrália receberão pelo menos 31,30 dólares australianos (cerca de 115 reais) por hora e terão seguro contra acidentes durante o trabalho, de acordo com novas regras aprovadas pelo tribunal de relações trabalhistas do país.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/australia-cria-protecao-inedita-para-entregadores-de-aplicativo.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/tjEtnK4yEuLAWiZqc4oL3_8RHOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/u/BG5FwuQGAfVH3cE5dDKg/78329972-1004.webp",
+      "publishedAt": "2026-08-12T10:34:05+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Wired-https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+      "_key": "6edeb3f753d8ccbeaae975eb7399403b",
+      "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
+      "originalTitle": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
+      "summary": "Experts allege that two recent incidents in California show the extreme lengths that criminal organizations are willing to go to to steal servers and other gear meant for data centers.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+      "source": "Wired",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://media.wired.com/photos/6a74f168f6175aa74afc9ba2/master/pass/Cargo-Thieves-Business.jpg",
+      "publishedAt": "2026-08-12T10:00:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Wired"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "SCMP Tech-https://www.scmp.com/plus/tech/tech-war/article/3363781/zuckerberg-cites-china-threat-us-lead-ai-manifesto?utm_source=rss_feed",
@@ -4458,6 +4852,342 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/cava-rises-on-sales-coreweave-sores-on-ai-outlook-video",
+      "_key": "34b1388aaae4fb2f9ca94b1b8791be28",
+      "title": "Cava Rises on Sales; CoreWeave Sores on AI Outlook | Stock Movers",
+      "originalTitle": "Cava Rises on Sales; CoreWeave Sores on AI Outlook | Stock Movers",
+      "summary": "On this episode of Stock Movers: - Cava (CAVA) is also rising this morning as sales jumped with Americans flocking to Pita Chips, Salmon, and other Mediterranean-diet oriented foods. - Super Micro (SMCI) is giving a sales outlook that topped even the rosiest projections.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/cava-rises-on-sales-coreweave-sores-on-ai-outlook-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T15:21:10+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/com-refinarias-sob-ataque-russia-importa-gasolina-da-india-pela-1a-vez-na-historia/",
+      "_key": "20e6cd4f480aff8875d418b3f22c8d4f",
+      "title": "Com refinarias sob ataque, Rússia importa gasolina da Índia pela 1ª vez na história",
+      "originalTitle": "Com refinarias sob ataque, Rússia importa gasolina da Índia pela 1ª vez na história",
+      "summary": "Navios da \"frota sombra\" fazem transferências no Egito para levar o combustível à Rússia The post Com refinarias sob ataque, Rússia importa gasolina da Índia pela 1ª vez na história appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/com-refinarias-sob-ataque-russia-importa-gasolina-da-india-pela-1a-vez-na-historia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/463768424.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-12T15:16:11+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/games-e-consoles/ps5-de-marvels-wolverine-sera-apenas-digital-e-sem-leitor-de-disco/",
+      "_key": "c1906d17136bc79157873ee3cb9549dd",
+      "title": "física",
+      "originalTitle": "física",
+      "summary": "Edição limitada inspirada no novo jogo da Insomniac Games não terá versão com leitor de discos; decisão chama atenção em meio às discussões sobre o futuro das mídias físicas no PlayStation O post Sony lança PS5 de Marvel’s Wolverine apenas em versão digital e reacende debate sobre mídia física apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/games-e-consoles/ps5-de-marvels-wolverine-sera-apenas-digital-e-sem-leitor-de-disco/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/Marvels-Wolverine-Playstation-1.webp",
+      "publishedAt": "2026-08-12T15:03:12+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/reviews/upgrade-no-setup-mouses-gamer-sem-fio-em-promocao-na-amazon-15/",
+      "_key": "1d0f058500f64d9e4940e834c1a71101",
+      "title": "Upgrade no setup: mouses gamer sem fio em promoção na Amazon",
+      "originalTitle": "Upgrade no setup: mouses gamer sem fio em promoção na Amazon",
+      "summary": "Se você está pensando em melhorar a experiência nos jogos, essa é uma boa oportunidade. Reunimos três mouses gamer sem fio que estão em destaque na Amazon — modelos com sensores de alta precisão, conectividade múltipla e designs pensados para quem leva o jogo a sério.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/reviews/upgrade-no-setup-mouses-gamer-sem-fio-em-promocao-na-amazon-15/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31JvKtOCv9L._SL500_.jpg",
+      "publishedAt": "2026-08-12T14:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/12/discord-o-que-e-a-rede-social-que-tera-lives-suspensas-no-brasil-apos-decisao-da-anpd.ghtml",
+      "_key": "fe781f0513375b0e457ed995737dc86a",
+      "title": "ANPD",
+      "originalTitle": "ANPD",
+      "summary": "Agência Nacional de Proteção de Dados determina que Discord suspenda transmissão de 'lives' no Brasil A Agência Nacional de Proteção de Dados (ANPD) determinou, nesta quarta-feira (12), que o Discord suspenda as transmissões ao vivo na plataforma no Brasil.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/12/discord-o-que-e-a-rede-social-que-tera-lives-suspensas-no-brasil-apos-decisao-da-anpd.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/jxhJeVNveYPzOOSGnjwPBXJDq48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/N/4/FuKFTVTPib1qU0pOd4hA/51203949789-df936dea2c-k.jpg",
+      "publishedAt": "2026-08-12T14:29:46+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/ciencia-e-espaco/ha-2-mil-anos-agricultores-controlavam-sistemas-de-agua-monumentais/",
+      "_key": "92b9cd60131d25644c6b555e8dc5506a",
+      "title": "Há 2 mil anos, agricultores controlavam sistemas de água monumentais",
+      "originalTitle": "Há 2 mil anos, agricultores controlavam sistemas de água monumentais",
+      "summary": "Comunidades pré-hispânicas da Colômbia criaram sistemas de água e campos para controlar secas e enchentes há séculos hoje O post Há 2 mil anos, agricultores controlavam sistemas de água monumentais apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/ciencia-e-espaco/ha-2-mil-anos-agricultores-controlavam-sistemas-de-agua-monumentais/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/rede-de-canais-la-mojana-1-906x1024.webp",
+      "publishedAt": "2026-08-12T13:51:25+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/milhares-de-concurseiros-tomam-as-ruas-em-nova-onda-de-protestos-na-india-entenda.ghtml",
+      "_key": "438c491d3c3c8ed56427128af2a93598",
+      "title": "Milhares de concurseiros tomam as ruas em nova onda de protestos na Índia; entenda",
+      "originalTitle": "Milhares de concurseiros tomam as ruas em nova onda de protestos na Índia; entenda",
+      "summary": "divergência sobre a formação Milhares de manifestantes no estado de Jharkhand, no leste da Índia, estão realizando marchas até a assembleia legislativa estaudal para exigir uma investigação federal sobre supostas irregularidades em concursos de recrutamento para funcionários públicos, o cancelamento das provas e um processo de contratação mais transparente.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/12/milhares-de-concurseiros-tomam-as-ruas-em-nova-onda-de-protestos-na-india-entenda.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/3zTfO1ccYgkfuxZPbts5Yx7Lnys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/E/8trarzSieZi9zvcNVn8A/78277604-1004.webp",
+      "publishedAt": "2026-08-12T13:02:23+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/article/3363797/fund-backed-china-memory-giant-ymtc-invests-push-alternative-chipmaking-route?utm_source=rss_feed",
+      "_key": "98057415a5ca4f6fd8daab8bc7c451cb",
+      "title": "Fund backed by China memory giant YMTC invests in push for alternative chipmaking route",
+      "originalTitle": "Fund backed by China memory giant YMTC invests in push for alternative chipmaking route",
+      "summary": "China’s top producer of NAND flash memory, has taken a stake in domestic semiconductor manufacturer SOI Micro, adding a high-profile investor to the country’s push for an alternative chipmaking ecosystem.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/article/3363797/fund-backed-china-memory-giant-ymtc-invests-push-alternative-chipmaking-route?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/12/7e6b47de-38ec-4e7d-b01e-5272db4f9112_d2b8c214.jpg?itok=_pG1dWkd&v=1786530285",
+      "publishedAt": "2026-08-12T13:00:07+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/lufthansa-technik-eyes-bengaluru-for-expansion-karnataka-minister-pitches-states-aerospace-ecosystem/articleshow/133182648.cms",
+      "_key": "63a19a9dab34e9a655bd5e00ac7789a9",
+      "title": "Lufthansa Technik eyes Bengaluru for expansion; Karnataka minister pitches state’s aerospace ecosystem",
+      "originalTitle": "Lufthansa Technik eyes Bengaluru for expansion; Karnataka minister pitches state’s aerospace ecosystem",
+      "summary": "Industries minister MB Patil said this after meeting a delegation led by Marcel Pastuska, CEO, Lufthansa Technik Services India (Bengaluru). Annett Baessler, deputy consul general of Germany in Bengaluru, also attended the meeting.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/lufthansa-technik-eyes-bengaluru-for-expansion-karnataka-minister-pitches-states-aerospace-ecosystem/articleshow/133182648.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133182648,imgsize-201694.cms",
+      "publishedAt": "2026-08-12T12:21:15+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/whats-the-latest-in-the-trials-over-claims-social-media-is-hurting-children/articleshow/133182410.cms",
+      "_key": "8f3cbcbc7ed1deedaac5a73a5213d39e",
+      "title": "What's the latest in the trials over claims social media is hurting children?",
+      "originalTitle": "What's the latest in the trials over claims social media is hurting children?",
+      "summary": "The social media companies have denied allegations that their ​products have contributed to depression, anxiety, body-image issues and a broader youth mental health crisis, saying they take action to ​protect the youngest users on their platforms.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/whats-the-latest-in-the-trials-over-claims-social-media-is-hurting-children/articleshow/133182410.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133182410,imgsize-235386.cms",
+      "publishedAt": "2026-08-12T12:08:49+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/coreweave-boosts-2026-spending-plan-beats-quarterly-estimates-on-ai-demand-surge/articleshow/133182364.cms",
+      "_key": "9ef9c1accfd70bb10c9c179232101d11",
+      "title": "CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge",
+      "originalTitle": "CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge",
+      "summary": "The AI cloud company also lifted its targets for 2026 revenue and adjusted profit, ‌banking on ⁠a ballooning ⁠order book, after its revenue backlog topped $100 billion in the June quarter.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/coreweave-boosts-2026-spending-plan-beats-quarterly-estimates-on-ai-demand-surge/articleshow/133182364.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133182364,imgsize-43188.cms",
+      "publishedAt": "2026-08-12T12:06:02+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses/articleshow/133182216.cms",
+      "_key": "1fc12f186148289ac8cc7e94c2647f57",
+      "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
+      "originalTitle": "German advocacy group lodges criminal complaint over Meta AI glasses",
+      "summary": "Digital rights group HateAid said in a statement on Wednesday that the launch of the devices, the Ray-Ban Meta Wayfarer in particular, broke German digital privacy laws, in the ‌latest sign ⁠of legal ⁠scrutiny in a nation where the right to privacy is highly valued.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses/articleshow/133182216.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133182216,imgsize-69110.cms",
+      "publishedAt": "2026-08-12T12:00:37+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/meta-29-states-head-to-court-in-biggest-test-yet-of-youth-social-media-litigation/articleshow/133182186.cms",
+      "_key": "9ca1e54f88764b76fa5a2c0dec47b2a1",
+      "title": "Meta, 29 states head to court in biggest test yet of youth social media litigation",
+      "originalTitle": "Meta, 29 states head to court in biggest test yet of youth social media litigation",
+      "summary": "The trial in Oakland, expected to last seven weeks, will test Colorado, Kentucky, California and New Jersey's allegations that Meta designed its ​platforms to keep young users hooked and misled consumers about their safety.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/meta-29-states-head-to-court-in-biggest-test-yet-of-youth-social-media-litigation/articleshow/133182186.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133182186,imgsize-111830.cms",
+      "publishedAt": "2026-08-12T11:59:18+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/deepak-dhar-dirac-medal-2026",
+      "_key": "b6e4bd607952c78729d80fb0102e70ef",
+      "title": "Medal",
+      "originalTitle": "Medal",
+      "summary": "Indian science has a new milestone to celebrate. Deepak Dhar Dirac Medal 2026 is the headline moment, as the renowned statistical physicist joins a select global cohort recognised for shaping how we understand complex systems.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/deepak-dhar-dirac-medal-2026",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/AINews2-1786435128190.jpg",
+      "publishedAt": "2026-08-12T11:51:34+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/o-plano-da-gerdau-para-criar-uma-nova-gerdau-no-brasil/",
+      "_key": "26951f3f7d0db72be0ef7af224ce13af",
+      "title": "O plano da Gerdau para criar uma “nova Gerdau” no Brasil",
+      "originalTitle": "O plano da Gerdau para criar uma “nova Gerdau” no Brasil",
+      "summary": "Quando a Gerdau, líder nacional na produção de aço, anunciou Gustavo Werneck como o novo CEO da companhia, em agosto de 2017 – o primeiro executivo que não pertencia à família fundadora –, a operação americana representava apenas 19,3% do Ebitda da empresa.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/o-plano-da-gerdau-para-criar-uma-nova-gerdau-no-brasil/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/Gustavo-Werneck-300x169.jpg",
+      "publishedAt": "2026-08-12T10:54:12+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/exclusivo-euro-securitizadora-atrasa-pagamentos-e-vira-alvo-na-justica/",
+      "_key": "defd964af6b77ebbe613d75e2694b1d1",
+      "title": "EXCLUSIVO: Euro Securitizadora atrasa pagamentos e vira alvo na Justiça",
+      "originalTitle": "EXCLUSIVO: Euro Securitizadora atrasa pagamentos e vira alvo na Justiça",
+      "summary": "A Euro Securitizadora reúne todos os símbolos de uma empresa instalada no coração do mercado financeiro brasileiro. A sede fica na avenida Faria Lima, em São Paulo, e a companhia integra um grupo que atua com crédito, seguros, consórcios e outros produtos financeiros.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/exclusivo-euro-securitizadora-atrasa-pagamentos-e-vira-alvo-na-justica/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/Euro-Securitizadora-300x169.jpeg",
+      "publishedAt": "2026-08-12T10:53:36+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "YourStory-https://yourstory.com/2026/08/duroflex-airboost-aims-solve-indias-biggest-wellness-challenge-deep-sleep",
@@ -7989,6 +8719,153 @@
       "country": "US"
     },
     {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/reviews/honor-robot-phone-transforma-o-celular-em-uma-camera-de-acao/",
+      "_key": "0bb1a94647ce3f5a3a6c2017ddc12884",
+      "title": "Honor Robot Phone transforma o celular em uma câmera de ação",
+      "originalTitle": "Honor Robot Phone transforma o celular em uma câmera de ação",
+      "summary": "Honor Robot Phone combina câmera de 200 MP, gimbal de quatro eixos e rastreamento para gravar vídeos estáveis sem ajuda O post Honor Robot Phone transforma o celular em uma câmera de ação apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/reviews/honor-robot-phone-transforma-o-celular-em-uma-camera-de-acao/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Honor-robot-phone-01-1024x576.jpg",
+      "publishedAt": "2026-08-12T15:14:51+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/reviews/hora-de-renovar-o-seu-setup-selecionamos-otimos-notebooks-em-promocao-na-amazon-2/",
+      "_key": "1521966c9594c0a2674d76398c3cd482",
+      "title": "Hora de renovar o seu setup: selecionamos ótimos notebooks em promoção na Amazon",
+      "originalTitle": "Hora de renovar o seu setup: selecionamos ótimos notebooks em promoção na Amazon",
+      "summary": "Se você está pensando em trocar de notebook ou comprar o seu primeiro, este é um bom momento para pesquisar. Reunimos três opções em oferta na Amazon que cobrem diferentes perfis de uso e orçamento — do modelo compacto e acessível ao ultrabook premium com tela OLED.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/reviews/hora-de-renovar-o-seu-setup-selecionamos-otimos-notebooks-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31cXWnEdHBL._SL500_.jpg",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
+      "_key": "4cf00f6c830b27de19507aa79fd478a0",
+      "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
+      "originalTitle": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
+      "summary": "When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones are as beautiful as ever, with Google's signature camera bar and bright, colorful backing glass.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Canyon-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
+      "_key": "3bea9b16a01666fa49d8e52a6b4c7317",
+      "title": "Google is making the Pixel cameras better by making them worse",
+      "originalTitle": "Google is making the Pixel cameras better by making them worse",
+      "summary": "If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible. The skies are pristine and blue. Even at night, scenes are well lit and noise-free.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Pixel-Glow-Macro-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung",
+      "_key": "e060796ff77f68f9bce2bde5f4af9b76",
+      "title": "feature",
+      "originalTitle": "feature",
+      "summary": "together. The update is coming to Pixel 6 series phones and newer starting today, according to Google's announcement, and will roll out to Samsung's Galaxy Z Fold 8 Ultra, Fold 8, and Flip 8 \"soon.\" The tap-to-share feature [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-12T14:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-rise-as-tech-rally-resumes-before-key-cpi-data",
+      "_key": "cd0a5ba88b54e0197a6fe27ae5e100d2",
+      "title": "US Stocks Rise as Inflation Keeps Fed ‘At Bay,’ Spurs Tech Rally",
+      "originalTitle": "US Stocks Rise as Inflation Keeps Fed ‘At Bay,’ Spurs Tech Rally",
+      "summary": "US stocks traded higher after a subdued inflation reading helped ease pressure on the Federal Reserve to raise interest rates, clearing the way for an earnings-led tech rally to continue.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-rise-as-tech-rally-resumes-before-key-cpi-data",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T12:15:30+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363738/honors-new-robot-phone-looks-boost-global-appeal-its-nodding-camera?utm_source=rss_feed",
+      "_key": "d66a07923af6a4abb67a371b53cff6cb",
+      "title": "camera",
+      "originalTitle": "camera",
+      "summary": "Chinese smartphone maker Honor has launched a handset with a motorised robotic camera that nods back at users, betting that its interactive hardware will spark growth in a cooling global market for the devices.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363738/honors-new-robot-phone-looks-boost-global-appeal-its-nodding-camera?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/12/3ccbb0e4-3cc7-4e47-b1cc-c6e9569c2b17_927aa51e.jpg?itok=Vdq8_EF1&v=1786513852",
+      "publishedAt": "2026-08-12T11:30:11+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/chinas-tencent-posts-11-second-quarter-revenue-rise-profit-misses-estimates/articleshow/133176646.cms",
       "_key": "ab32d2f725d4cd8be198e24dca4a0a78",
       "title": "China's Tencent posts 11% second-quarter revenue rise, profit misses estimates",
@@ -8153,6 +9030,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-12/jane-street-repaying-5-5-billion-loan-in-overhaul-of-debt-load",
+      "_key": "b1d7497e42b697a9f387ec5a8ea14836",
+      "title": "Jane Street Prices $14.6 Billion Debt Deal With 8% 10-Year Yield",
+      "originalTitle": "Jane Street Prices $14.6 Billion Debt Deal With 8% 10-Year Yield",
+      "summary": "Jane Street has issued $14.6 billion of bonds, part of a broader overhaul of its debt load that will also allow it to fund technology infrastructure and expand its trading strategies.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/jane-street-repaying-5-5-billion-loan-in-overhaul-of-debt-load",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T00:19:31+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
       ],
       "coverageCount": 1
     },
