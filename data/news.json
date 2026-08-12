@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T23:36:23.426998+00:00",
+  "updatedAt": "2026-08-12T06:01:19.664487+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -211,6 +211,11 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "Inovação Tecnológica",
+      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Baguete",
       "url": "https://www.baguete.com.br/rss.xml",
       "reason": "falhou direto e via proxy"
@@ -273,11 +278,6 @@
     {
       "source": "KrASIA",
       "url": "https://kr.asia/feed/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "MediaNama",
-      "url": "https://www.medianama.com/feed/",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -429,6 +429,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/funding/electric-mobility-startup-yulu-raises-93-million-in-equity-debt-to-expand-ev-fleet/articleshow/133170636.cms",
+      "_key": "a342e5d1657ae99a715dc55b1622fb22",
+      "title": "Electric mobility startup Yulu raises $93 million in equity, debt to expand EV fleet",
+      "originalTitle": "Electric mobility startup Yulu raises $93 million in equity, debt to expand EV fleet",
+      "summary": "The Bajaj Auto-backed company said it will increase its active fleet to 200,000 electric vehicles over the next two years, expand service hubs and deepen partnerships with enterprises. It did not disclose the lenders, its valuation or name any other equity investors in the round.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/funding/electric-mobility-startup-yulu-raises-93-million-in-equity-debt-to-expand-ev-fleet/articleshow/133170636.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133170636,imgsize-37168.cms",
+      "publishedAt": "2026-08-12T04:55:28+00:00",
+      "score": 62,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -1610,6 +1631,48 @@
       "country": "BR"
     },
     {
+      "id": "TechNode-https://technode.com/2026/08/12/bytedance-reportedly-forms-new-ai-data-and-safety-department/",
+      "_key": "a8bba07482335f59f43f5131b72905de",
+      "title": "ByteDance Reportedly Forms New AI Data and Safety Department",
+      "originalTitle": "ByteDance Reportedly Forms New AI Data and Safety Department",
+      "summary": "Seed, Flow and Douyin within the company’s organizational structure. The unit is led by Wang Yinglei, a former TikTok executive who oversaw platform responsibility and livestreaming. The department reportedly grew out of a global data team established in [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/12/bytedance-reportedly-forms-new-ai-data-and-safety-department/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/10/bytedance-0-cb0d883e8d2c1c45bafb93eb7cd64468.png?fit=1024%2C683&amp;ssl=1",
+      "publishedAt": "2026-08-12T05:24:18+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/colunistas/civilizacao-perdida-na-amazonia-pode-ter-somado-milhoes-de-pessoas/",
+      "_key": "7b336851a86efd7995db726f79e15996",
+      "title": "Civilização perdida na Amazônia pode ter somado milhões de pessoas",
+      "originalTitle": "Civilização perdida na Amazônia pode ter somado milhões de pessoas",
+      "summary": "Alceu Ranzi analisa a descoberta que traz novas evidências de uma antiga civilização que ocupou a Amazônia entre 600 a.C. e 850 d.C. O post Civilização perdida na Amazônia pode ter somado milhões de pessoas apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/colunistas/civilizacao-perdida-na-amazonia-pode-ter-somado-milhoes-de-pessoas/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/marcas-geoliticas-na-amazonia-que-denotam-civilizao-antiga3-scaled.jpg",
+      "publishedAt": "2026-08-12T01:55:57+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/11/desemprego-entre-jovens-sobe-no-mundo-e-ja-atinge-67-milhoes-ia-pode-agravar-cenario-diz-oit.ghtml",
       "_key": "a0d84b3b75d2397353e81f1a82e1d68b",
       "title": "Desemprego entre jovens sobe no mundo e já atinge 67 milhões; IA pode agravar cenário, diz OIT",
@@ -2389,6 +2452,27 @@
       "country": "BR"
     },
     {
+      "id": "TechNode-https://technode.com/2026/08/12/manus-says-it-will-resume-operating-as-an-independent-company/",
+      "_key": "bfef497da97b11ac6de7052f60460ec9",
+      "title": "Manus Says It Will Resume Operating as an Independent Company",
+      "originalTitle": "Manus Says It Will Resume Operating as an Independent Company",
+      "summary": "Meta. The company said it will continue serving millions of users worldwide, while warning that some accounts will be affected during the transition. For affected users, data generated on or after Dec. 29, 2025, will be deleted from 8 a.m. Aug. 23 through [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/12/manus-says-it-will-resume-operating-as-an-independent-company/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/04/manus.png?fit=926%2C525&amp;ssl=1",
+      "publishedAt": "2026-08-12T05:28:24+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "The Verge-https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
       "_key": "40a9a622d8d4a9e03a105572c4d4e5dd",
       "title": "now",
@@ -2990,6 +3074,111 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/stanchart-coo-sees-ai-boosting-productivity-video",
+      "_key": "b5fd90e747c35d66824654a2851fef27",
+      "title": "StanChart COO Sees AI Boosting Productivity",
+      "originalTitle": "StanChart COO Sees AI Boosting Productivity",
+      "summary": "banking operations while creating demand for new skills. She also believes India will continue to be a key growth hub for talent and technology. She spoke exclusively with Paul Allen on Insight with Haslinda Amin. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/stanchart-coo-sees-ai-boosting-productivity-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T05:04:20+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/tsmc-approves-29-44-billion-capital-budget-for-capacity-expansion-amid-ai-demand/articleshow/133170405.cms",
+      "_key": "ba0c142d3edfe934f098b38e2bc84f0f",
+      "title": "TSMC approves $29.44 billion capital budget for capacity expansion amid AI demand",
+      "originalTitle": "TSMC approves $29.44 billion capital budget for capacity expansion amid AI demand",
+      "summary": "Taiwan Semiconductor Manufacturing Co. (TSMC) approved a capital budget of about USD 29.44 billion for expansion amid the ongoing artificial intelligence boom, according to a news report by Focus Taiwan.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-approves-29-44-billion-capital-budget-for-capacity-expansion-amid-ai-demand/articleshow/133170405.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133170405,imgsize-47522.cms",
+      "publishedAt": "2026-08-12T04:39:59+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/the-asia-trade-8-12-2026-video",
+      "_key": "f440e6aa4285b6ed653e43905057e476",
+      "title": "Markets Brace for US CPI; AI Firms Crush Earnings | The Asia Trade 8/12/2026",
+      "originalTitle": "Markets Brace for US CPI; AI Firms Crush Earnings | The Asia Trade 8/12/2026",
+      "summary": "get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/the-asia-trade-8-12-2026-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T04:23:24+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/12/bonus-da-usina-de-itaipu-deve-dar-alivio-temporario-para-as-contas-de-luz-em-agosto-entenda.ghtml",
+      "_key": "e863bf619fb83c11a73861c6cb0872e7",
+      "title": "Bônus da usina de Itaipu deve dar alívio temporário para as contas de luz em agosto; entenda",
+      "originalTitle": "Bônus da usina de Itaipu deve dar alívio temporário para as contas de luz em agosto; entenda",
+      "summary": "O dinheiro do bônus da usina de Itaipu deve ajudar dar um alívio temporário nas contas de luz em agosto e reduzir o impacto da energia sobre a inflação do mês, avalia o Instituto Brasileiro de Geografia e Estatística (IBGE).",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/12/bonus-da-usina-de-itaipu-deve-dar-alivio-temporario-para-as-contas-de-luz-em-agosto-entenda.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/80nmqrJr1cDJ6ytihAMbtZw1Gd4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/E/AjF9gLRZej6Y5dXL6Rzw/conta-de-luz.jpg",
+      "publishedAt": "2026-08-12T03:00:47+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/googles-gemini-ai-assistant-reaches-one-billion-users/articleshow/133168233.cms",
+      "_key": "bfe607d250f427e9114e129dd02fd081",
+      "title": "Google's Gemini AI assistant reaches one billion users",
+      "originalTitle": "Google's Gemini AI assistant reaches one billion users",
+      "summary": "Google's artificial intelligence assistant Gemini has surpassed one billion monthly users, CEO Sundar Pichai announced Tuesday, a week after a major reorganization of the tech giant's AI division.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/googles-gemini-ai-assistant-reaches-one-billion-users/articleshow/133168233.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133168233,imgsize-38885.cms",
+      "publishedAt": "2026-08-12T02:34:44+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-11/the-chinese-ai-model-rattling-silicon-valley-and-washington",
@@ -4012,6 +4201,321 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/12/alibaba-cloud-makes-its-m890-ai-supernode-available-in-china/",
+      "_key": "356ddef94b4fa20da007735ed0995c43",
+      "title": "Alibaba Cloud Makes Its M890 AI Supernode Available in China",
+      "originalTitle": "Alibaba Cloud Makes Its M890 AI Supernode Available in China",
+      "summary": "Alibaba Cloud’s Lingjun Zhenwu M890 supernode instance has entered service in China, with Ulanqab as its first deployment region. Enterprise customers can provision 64-card, high-speed-interconnect computing units through the cloud without building their own data centers.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/12/alibaba-cloud-makes-its-m890-ai-supernode-available-in-china/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/03/%E9%98%BF%E9%87%8C%E4%BA%91.jpg?fit=600%2C600&amp;ssl=1",
+      "publishedAt": "2026-08-12T05:55:06+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/aditya-gupta-building-intelligence-into-contracts-at-scale",
+      "_key": "5a3e1cc530b75a1cf2f5bf02164b3cdb",
+      "title": "Aditya Gupta: Building intelligence into contracts at scale",
+      "originalTitle": "Aditya Gupta: Building intelligence into contracts at scale",
+      "summary": "From early experiments in autonomous systems to embedding AI at the core of enterprise workflows, the Sirion CTO is reimagining how contracts are understood, managed, and acted upon.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/aditya-gupta-building-intelligence-into-contracts-at-scale",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/AI100-AdityaGupta-1786455250605.jpeg",
+      "publishedAt": "2026-08-12T05:47:13+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-12/india-options-trading-drops-27-as-new-auction-upends-strategies",
+      "_key": "33475b09fd1c8e6dd415a26b2640ef21",
+      "title": "India Options Trading Drops 27% as New Auction Upends Strategies",
+      "originalTitle": "India Options Trading Drops 27% as New Auction Upends Strategies",
+      "summary": "Index-options trading volumes in India have slumped in the first week of the new closing auction mechanism as traders adjust to one of the country’s biggest market-structure overhauls in years.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/india-options-trading-drops-27-as-new-auction-upends-strategies",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T05:47:05+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/david-gildea-on-a-mission-to-democratize-data-security",
+      "_key": "aa22afdbf0814eabae5038f5f8e470da",
+      "title": "David Gildea: On a mission to democratize data security",
+      "originalTitle": "David Gildea: On a mission to democratize data security",
+      "summary": "Druva’s VP of Generative AI, David Gildea, is using cloud-native thinking and GenAI to strip complexity out of data protection – and put enterprise-grade security within everyone’s reach.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/david-gildea-on-a-mission-to-democratize-data-security",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/AI10031DavidGildea-1786453638296.png",
+      "publishedAt": "2026-08-12T05:46:28+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/12/zhipus-api-user-base-nears-7-million-as-it-adds-50000-plus-chinese-ai-chips/",
+      "_key": "1648cce6746bc5357415980b42fc9c6a",
+      "title": "AI Chips",
+      "originalTitle": "AI Chips",
+      "summary": "July. The figure refers to users of the platform’s model APIs. The company has also newly activated more than 50,000 domestically developed AI chips to meet rising inference demand. Zhipu’s previously restricted Coding Plan [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/12/zhipus-api-user-base-nears-7-million-as-it-adds-50000-plus-chinese-ai-chips/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/zhipu.png?fit=1024%2C484&amp;ssl=1",
+      "publishedAt": "2026-08-12T05:18:40+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/air-india-pilot-tests-positive-for-drugs-video",
+      "_key": "06b4df0ef7546c01f8c81a6d7b12e65d",
+      "title": "Air India Pilot Tests Positive for Drugs",
+      "originalTitle": "Air India Pilot Tests Positive for Drugs",
+      "summary": "Ltd. jet that suddenly dropped about 300 feet on a flight last week tested positive for illegal drugs in a second screening, according to people familiar with the matter. Bloomberg's Mihir Mishra shares what the reporting so far can reveal. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/air-india-pilot-tests-positive-for-drugs-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T04:36:59+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/norway-wealth-fund-holds-1-2-bln-stake-in-spacex/articleshow/133169605.cms",
+      "_key": "a3d4132dfdfb03ef99326ccdc477b634",
+      "title": "Norway wealth fund holds $1.2 bln stake in SpaceX",
+      "originalTitle": "Norway wealth fund holds $1.2 bln stake in SpaceX",
+      "summary": "It held a ​1.28% stake worth $62 billion in Nvidia, a 1.24% stake worth $52 billion in Apple, a 1.17% stake worth $50 billion in ​Alphabet, a 1.27% stake worth $35 billion in ⁠Microsoft and a ‌1.7% stake worth $34 billion in Taiwan Semiconductor ​Manufacturing, ​fund data showed.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/norway-wealth-fund-holds-1-2-bln-stake-in-spacex/articleshow/133169605.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133169605,imgsize-25170.cms",
+      "publishedAt": "2026-08-12T04:09:23+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-12/indonesian-e-commerce-giant-faces-msci-index-exclusion-in-review",
+      "_key": "81558017a37c5cdb3d12ab253c1fc776",
+      "title": "Indonesian Tech Firm GoTo Faces MSCI Index Exclusion in Review",
+      "originalTitle": "Indonesian Tech Firm GoTo Faces MSCI Index Exclusion in Review",
+      "summary": "GoTo Group, the Indonesian ride-hailing and food delivery platform once valued at more than $32 billion, faces the prospect of being dropped from MSCI Inc.’s indexes on Wednesday after a plunge in its share price left the stock difficult to trade.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/indonesian-e-commerce-giant-faces-msci-index-exclusion-in-review",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-12T03:43:34+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china?utm_source=rss_feed",
+      "_key": "81540381de107098ea914835a74b3d43",
+      "title": "Why does SK Hynix want to sell its chip facility in southwest China?",
+      "originalTitle": "Why does SK Hynix want to sell its chip facility in southwest China?",
+      "summary": "South Korean chipmaker SK Hynix’s potential deal to offload a packaging plant in southwest China is part of a strategic pivot towards higher-margin artificial intelligence (AI) memory products, according to analysts.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/12/83afb6f5-be66-44db-92f0-b4ead69d1f6e_d43d5896.jpg?itok=SpDoTfk6&v=1786496750",
+      "publishedAt": "2026-08-12T02:00:29+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/ciencia-e-espaco/energia-parece-viajar-mais-rapido-que-a-luz-sem-quebrar-leis-da-fisica/",
+      "_key": "3b3167b19f0582b5c816a3b254d00328",
+      "title": "Energia parece viajar mais rápido que a luz sem quebrar leis da física",
+      "originalTitle": "Energia parece viajar mais rápido que a luz sem quebrar leis da física",
+      "summary": "Descoberta surgiu a partir de pesquisas sobre a propagação do som no oceano e pode, em tese, também ocorrer com ondas eletromagnéticas no vácuo O post Energia parece viajar mais rápido que a luz sem quebrar leis da física apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/ciencia-e-espaco/energia-parece-viajar-mais-rapido-que-a-luz-sem-quebrar-leis-da-fisica/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/07/Velocidade-da-luz-1024x576.jpg",
+      "publishedAt": "2026-08-12T01:35:08+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/ciencia-e-espaco/james-webb-revela-rosto-de-leao-em-nebulosa-que-esta-desaparecendo/",
+      "_key": "7c274df81f607a9b400d323ccf4b6e0a",
+      "title": "James Webb revela “rosto de leão” em nebulosa que está desaparecendo",
+      "originalTitle": "James Webb revela “rosto de leão” em nebulosa que está desaparecendo",
+      "summary": "Nebulosa do Leão já havia sido registrada pelo Telescópio Espacial Hubble em 2000, em comprimentos de onda visíveis O post James Webb revela “rosto de leão” em nebulosa que está desaparecendo apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/ciencia-e-espaco/james-webb-revela-rosto-de-leao-em-nebulosa-que-esta-desaparecendo/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/Telescopio-Espacial-James-Webb-22-de-julho-de-2026-1024x576.jpg",
+      "publishedAt": "2026-08-12T01:10:07+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/colunistas/fala-ai-casos-de-ia-hackeando-sistemas-se-multiplicam-o-que-vem-a-seguir/",
+      "_key": "04a135d9661a2b0ba8d69e6b1a770c94",
+      "title": "Fala AI: Casos de IA hackeando sistemas se multiplicam — o que vem a seguir?",
+      "originalTitle": "Fala AI: Casos de IA hackeando sistemas se multiplicam — o que vem a seguir?",
+      "summary": "Um agente de IA recebeu a missão de reservar uma aula em uma academia, mas acabou hackeando o sistema O post Fala AI: Casos de IA hackeando sistemas se multiplicam — o que vem a seguir? apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/colunistas/fala-ai-casos-de-ia-hackeando-sistemas-se-multiplicam-o-que-vem-a-seguir/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic.jpg",
+      "publishedAt": "2026-08-12T01:01:46+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/banking-finance/article/3363712/what-are-chinas-quantitative-trading-funds-and-why-are-they-so-controversial?utm_source=rss_feed",
+      "_key": "98a19661035d470c772ff704cbb26836",
+      "title": "What are China’s quantitative trading funds, and why are they so controversial?",
+      "originalTitle": "What are China’s quantitative trading funds, and why are they so controversial?",
+      "summary": "For years, quantitative trading was the undisputed darling of China’s stock market, using sophisticated algorithms and artificial intelligence to deliver eye-popping returns and grow into one of the most powerful drivers of trading volume and liquidity, even as traditional, discretionary stock-pickers struggled to keep pace.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/banking-finance/article/3363712/what-are-chinas-quantitative-trading-funds-and-why-are-they-so-controversial?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/12/c3d54bcd-55cc-41e3-803f-0722a91a4588_569ab4d8.jpg?itok=CTsblV_x&v=1786496416",
+      "publishedAt": "2026-08-12T01:00:27+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/pro/google-novos-cabos-submarinos-reforcam-conexao-entre-continentes/",
+      "_key": "225706a6327c4f24ce165f5d28058a77",
+      "title": "Google: novos cabos submarinos reforçam conexão entre continentes",
+      "originalTitle": "Google: novos cabos submarinos reforçam conexão entre continentes",
+      "summary": "Iniciativa reúne três novos sistemas de cabos submarinos — Alisios, Canoa e OlaLuz — além de nova ramificação do cabo Firmina O post Google: novos cabos submarinos reforçam conexão entre continentes apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/pro/google-novos-cabos-submarinos-reforcam-conexao-entre-continentes/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/cabos_submarinos_google-1024x505.png",
+      "publishedAt": "2026-08-12T00:32:03+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/pro/acao-civil-publica-quer-suspensao-do-discord-no-brasil/",
+      "_key": "9ef06df891b97598436970a22d0f8851",
+      "title": "Ação Civil Pública quer suspensão do Discord no Brasil",
+      "originalTitle": "Ação Civil Pública quer suspensão do Discord no Brasil",
+      "summary": "Entre os problemas citados estão falhas na identificação de usuários, no monitoramento da plataforma e na resposta a denúncias O post Ação Civil Pública quer suspensão do Discord no Brasil apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/11/pro/acao-civil-publica-quer-suspensao-do-discord-no-brasil/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/04/Destaque-Discord-7-de-abril-1024x576.jpg",
+      "publishedAt": "2026-08-11T23:43:42+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/negocios/a-visao-de-arminio-fraga-e-alfredo-setubal-sobre-as-licoes-dos-casos-master-e-reag/",
@@ -7058,6 +7562,111 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/12/ios-27-beta-code-points-to-china-specific-apple-intelligence-setup/",
+      "_key": "77d53c3416c57f35fc1a8f8f8cf0d947",
+      "title": "Setup",
+      "originalTitle": "Setup",
+      "summary": "local partner. The strings say user requests would be processed on-device and would not be sent to Apple or the local company providing the required security mechanism. The [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/12/ios-27-beta-code-points-to-china-specific-apple-intelligence-setup/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/03/apple-store-banner.png?fit=1024%2C576&amp;ssl=1",
+      "publishedAt": "2026-08-12T05:50:22+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/ola-electric-gets-two-year-extension-on-cell-manufacturing-pli-milestones/articleshow/133171356.cms",
+      "_key": "0e3fd4e7bcf4a9441323d3e003e9dcb7",
+      "title": "Ola Electric gets two-year extension on cell-manufacturing PLI milestones",
+      "originalTitle": "Ola Electric gets two-year extension on cell-manufacturing PLI milestones",
+      "summary": "The revised timeline secures Ola Electric a five-year PLI window through 2031 and could unlock up to Rs 7,240 crore in cumulative incentives, the company said in an exchange filing on Wednesday. The incentives will be disbursed quarterly, beginning next quarter.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/ola-electric-gets-two-year-extension-on-cell-manufacturing-pli-milestones/articleshow/133171356.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133171356,imgsize-135882.cms",
+      "publishedAt": "2026-08-12T05:14:30+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/vietnams-vinspace-signs-deal-with-elon-musks-spacex-to-launch-its-first-satellites-in-2027/articleshow/133168602.cms",
+      "_key": "30fb7e2274a6cc7450160543c68440e4",
+      "title": "Vietnam's VinSpace signs deal with Elon Musk's SpaceX to launch its first satellites in 2027",
+      "originalTitle": "Vietnam's VinSpace signs deal with Elon Musk's SpaceX to launch its first satellites in 2027",
+      "summary": "VinSpace will launch its satellites on a SpaceX Transporter rideshare mission run by Elon Musk's company, which carries satellites from multiple customers on a single rocket to share launch costs, it said in a statement.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/vietnams-vinspace-signs-deal-with-elon-musks-spacex-to-launch-its-first-satellites-in-2027/articleshow/133168602.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133168602,imgsize-25170.cms",
+      "publishedAt": "2026-08-12T02:57:24+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/oracle-quantinuum-partner-to-bring-quantum-computing-to-cloud/articleshow/133168128.cms",
+      "_key": "cfbcd6840a40c2419ef28ffce76bd759",
+      "title": "Oracle, Quantinuum partner to bring quantum computing to cloud",
+      "originalTitle": "Oracle, Quantinuum partner to bring quantum computing to cloud",
+      "summary": "Under the deal, Oracle Cloud Infrastructure customers will gain ​access to Quantinuum's Helios quantum computer through OCI's quantum service, ​allowing them to combine quantum computing with Oracle's graphics-processing and high-performance computing services.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/oracle-quantinuum-partner-to-bring-quantum-computing-to-cloud/articleshow/133168128.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133168128,imgsize-64018.cms",
+      "publishedAt": "2026-08-12T02:25:15+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "_key": "8cb57593737d66e9df2bc1c01624a610",
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "originalTitle": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-12T00:39:26+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/reviews/impressao-sem-complicacao-veja-uma-selecao-de-impressoras-em-promocao-na-amazon/",
