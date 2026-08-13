@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T10:03:43.673733+00:00",
+  "updatedAt": "2026-08-13T15:50:03.313756+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -590,6 +590,27 @@
       "country": "BR"
     },
     {
+      "id": "Crunchbase News-https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
+      "_key": "c5387f78f6f467b8707310dc65b2a864",
+      "title": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools",
+      "originalTitle": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools",
+      "summary": "Our second in a series of articles about non-tech founders getting venture funding features Sarah Buchner, a \"blue-collar worker by background\" who set out to find a way to help construction companies manage their projects more efficiently using AI agents.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/non-tech-startups-1024x576.jpg",
+      "publishedAt": "2026-08-13T11:00:23+00:00",
+      "score": 57,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Exame-https://exame.com/negocios/startups-globais-de-fundadores-latino-americanos-ja-criaram-us-200-bilhoes-em-valor-de-mercado/",
       "_key": "17e9e05833e3a3715c91d7977d95f88a",
       "title": "Startups globais de fundadores latino-americanos já criaram US$ 200 bilhões em valor de mercado",
@@ -691,6 +712,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Crunchbase News"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/lyons-amdb-security-pro-locks-in-e2-68-million-to-take-its-excavator-anti-theft-systems-to-the-us/",
+      "_key": "92818f841807b84554bdb95f31e0b1cd",
+      "title": "Lyon’s AMDB Security Pro locks in €2.68 million to take its excavator anti-theft systems to the US",
+      "originalTitle": "Lyon’s AMDB Security Pro locks in €2.68 million to take its excavator anti-theft systems to the US",
+      "summary": "AMDB Security Pro, a Lyon-based engineering company providing mechanical anti-theft systems for excavators and mini-excavators, has announced the close of a €2.68 million ($3.1 million) Seed funding round from two American private investors.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/lyons-amdb-security-pro-locks-in-e2-68-million-to-take-its-excavator-anti-theft-systems-to-the-us/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-13T175510.720.jpg",
+      "publishedAt": "2026-08-13T12:15:00+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
       ],
       "coverageCount": 1
     },
@@ -994,6 +1036,48 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/sem-sucessores-empresas-familiares-entram-no-radar-do-mercado-de-ma/",
+      "_key": "9b1bf68cba233afeba4c37d48e43c309",
+      "title": "Sem sucessores, empresas familiares entram no radar do mercado de M&A",
+      "originalTitle": "Sem sucessores, empresas familiares entram no radar do mercado de M&A",
+      "summary": "Startupi Sem sucessores, empresas familiares entram no radar do mercado de M A Durante décadas, a sucessão de uma empresa familiar no Brasil esteve associada à transferência do negócio para os filhos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/sem-sucessores-empresas-familiares-entram-no-radar-do-mercado-de-ma/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2023/12/MA.jpg",
+      "publishedAt": "2026-08-13T13:13:04+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/china-chip-designer-kiwimoore-plans-hong-kong-ipo-at-2-billion-valuation/articleshow/133205401.cms",
+      "_key": "737b6c23c216b6e1178039bc142cac60",
+      "title": "China chip designer Kiwimoore plans Hong Kong IPO at $2 billion valuation",
+      "originalTitle": "China chip designer Kiwimoore plans Hong Kong IPO at $2 billion valuation",
+      "summary": "Kiwimoore plans to list in Hong Kong in the first half of ​2027. Founded in early ‌2021, Shanghai-based Kiwimoore makes networking technology used to link artificial-intelligence accelerators inside ​computing clusters, ​the company's ⁠website said.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/china-chip-designer-kiwimoore-plans-hong-kong-ipo-at-2-billion-valuation/articleshow/133205401.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133205401,imgsize-103784.cms",
+      "publishedAt": "2026-08-13T10:08:06+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "EU-Startups-https://www.eu-startups.com/2026/08/lancaster-university-spinout-mindgard-lands-e26-million-to-secure-enterprise-ai-systems/",
@@ -1406,6 +1490,27 @@
       "country": "BR"
     },
     {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/vantage-data-centers-explores-ipo-at-100-billion-valuation-or-sale-sources-say/articleshow/133211795.cms",
+      "_key": "eb0a863c6002892f3b2ea72c1fcdbb1e",
+      "title": "Vantage Data Centers explores IPO at $100 billion valuation or sale, sources say",
+      "originalTitle": "Vantage Data Centers explores IPO at $100 billion valuation or sale, sources say",
+      "summary": "Vantage, backed by private equity firm Silver Lake and infrastructure investor DigitalBridge Group, could raise around $10 billion and ‌pursue a stock ⁠market listing ⁠at a valuation of about $100 billion, which would make it the largest data center IPO to date, ​two of the people said.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/vantage-data-centers-explores-ipo-at-100-billion-valuation-or-sale-sources-say/articleshow/133211795.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133211795,imgsize-20148.cms",
+      "publishedAt": "2026-08-13T12:20:57+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/carlos-bolsonaro-declara-patrimonio-de-r-278-milhoes-ao-tse-para-disputa-ao-senado/",
       "_key": "27863fcdeb6bd0a5818122fc3666a1c9",
       "title": "Carlos Bolsonaro declara patrimônio de R$ 2,78 milhões ao TSE para disputa ao Senado",
@@ -1635,6 +1740,27 @@
       "_key": "f8e0775a3d215483d2c4272db6e00e3e",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Exame-https://exame.com/marketing/atencao-mudou-lugar-investimento/",
+      "_key": "1b489af564805cdf7256257ce0133039",
+      "title": "A atenção mudou de lugar. O investimento ainda não",
+      "originalTitle": "A atenção mudou de lugar. O investimento ainda não",
+      "summary": "Enquanto creators concentram uma parcela crescente do consumo de mídia e movimentam uma das economias que mais crescem no mundo, boa parte dos investimentos ainda segue a lógica de um mercado que ficou para trás.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/marketing/atencao-mudou-lugar-investimento/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/GettyImages-2206183775.jpg",
+      "publishedAt": "2026-08-13T10:04:40+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-startup-decart-ai-for-6-billion/articleshow/133196950.cms",
@@ -2040,6 +2166,69 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/eua-e-japao-planejam-a-mina-submarina-mais-profunda-do-mundo-para-desafiar-a-china/",
+      "_key": "aaaf32bc57261339735c7214177c4828",
+      "title": "desafiar a China",
+      "originalTitle": "desafiar a China",
+      "summary": "Projeto em torno da ilha de Minamitorishima busca explorar gigantescas reservas de terras raras no fundo do Pacífico e reduzir a dependência global da China em minerais estratégicos The post EUA e Japão planejam a mina submarina mais profunda do mundo para desafiar a China appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/eua-e-japao-planejam-a-mina-submarina-mais-profunda-do-mundo-para-desafiar-a-china/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/462180950.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T15:31:59+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
+      "_key": "aae0932ff097bb702740605c2e2c8d85",
+      "title": "open-weight models",
+      "originalTitle": "open-weight models",
+      "summary": "Contributor at VentureBeat, about how the bank built a scalable multi-agent AI architecture around deeply customized open-weight models rather than relying on an off-the-shelf foundation model. At Capital One, we&#x27;re not just using AI, we&#x27;re building AI, Vanee said.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7gbhCwja5N985q8VOA85UE/c8f8683d5ba63276b672c9312ece355e/2026-VB-Transform-Hotel-Nia-0089-X5.jpg?w=300&q=30",
+      "publishedAt": "2026-08-13T14:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/13/neura-robotics-acquires-bosch-rexroths-active-shuttle-to-expand-physical-ai-ecosystem/",
+      "_key": "95134979e5743d84670c806d0a39870d",
+      "title": "NEURA Robotics acquires Bosch Rexroth’s ACTIVE Shuttle to expand Physical AI ecosystem",
+      "originalTitle": "NEURA Robotics acquires Bosch Rexroth’s ACTIVE Shuttle to expand Physical AI ecosystem",
+      "summary": "German robotics company NEURA Robotics will acquire the ACTIVE Shuttle driverless transport system from Bosch Rexroth effective October 1, 2026. The ACTIVE Shuttle has established itself in numerous ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/13/neura-robotics-acquires-bosch-rexroths-active-shuttle-to-expand-physical-ai-ecosystem/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-30-928.png",
+      "publishedAt": "2026-08-13T10:47:59+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/13/saque-do-fgts-novo-caminho-na-justica-veja-o-que-muda.ghtml",
@@ -3241,6 +3430,48 @@
       "country": "BR"
     },
     {
+      "id": "Tech.eu-https://tech.eu/2026/08/13/duolingo-snaps-up-uk-animation-studio-animade/",
+      "_key": "b97693ceac19a4ff7fde8167b0dc5a07",
+      "title": "Animade",
+      "originalTitle": "Animade",
+      "summary": "Mobile learning platform Duolingo has acquired Animade, a London-based animation and motion design studio. Founded in London, Animade has built an international reputation for creating expressive mot...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/13/duolingo-snaps-up-uk-animation-studio-animade/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-29-38.png",
+      "publishedAt": "2026-08-13T10:31:16+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/13/germanys-top-funded-tech-companies-in-h1-2026/",
+      "_key": "6c0af7692eb601ba48a87ae348604d34",
+      "title": "Germany's top-funded tech companies in H1 2026",
+      "originalTitle": "Germany's top-funded tech companies in H1 2026",
+      "summary": "According to Tech.eu’s H1 2026 report, Germany ranked asEurope’s second-largest technology funding market, with companies raising €6.3billion across 267 deals. Investment was concentrated in several k...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/13/germanys-top-funded-tech-companies-in-h1-2026/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/germany-featured-770.png",
+      "publishedAt": "2026-08-13T10:00:00+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "EU-Startups-https://www.eu-startups.com/2026/08/the-eu-startups-podcast-interview-with-nikita-miller-chief-product-officer-at-perk/",
       "_key": "f5d22d5911647473f8b76ea5243de06a",
       "title": "The EU-Startups Podcast | Interview with Nikita Miller, Chief Product Officer at Perk",
@@ -4094,6 +4325,132 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/entry-level-jobs-to-see-ai-impact-says-maisonneuve-video",
+      "_key": "8d69846d3ab1403c36477f60ba428da4",
+      "title": "Entry-Level, White-Collar Jobs to See 'Massive' AI Impact, Says Virginie Maisonneuve",
+      "originalTitle": "Entry-Level, White-Collar Jobs to See 'Massive' AI Impact, Says Virginie Maisonneuve",
+      "summary": "The number of employers who expect entry-level workers to be AI-competent has nearly tripled since last fall, according to the National Association of Colleges and Employers. Workers’ anxiety about AI has surged, along with demand for quick training programs.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/entry-level-jobs-to-see-ai-impact-says-maisonneuve-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T15:10:49+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/economia/e-critico-agir-agora-para-levar-inflacao-de-volta-a-meta-nos-eua-diz-membro-do-fed/",
+      "_key": "17731832e4ce49e1443cf47c17334d5d",
+      "title": "É ‘crítico’ agir agora para levar inflação de volta à meta nos EUA, diz membro do Fed",
+      "originalTitle": "É ‘crítico’ agir agora para levar inflação de volta à meta nos EUA, diz membro do Fed",
+      "summary": "Dirigente avaliou que a política monetária, atualmente, não parece particularmente restritiva The post É &#8216;crítico&#8217; agir agora para levar inflação de volta à meta nos EUA, diz membro do Fed appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/economia/e-critico-agir-agora-para-levar-inflacao-de-volta-a-meta-nos-eua-diz-membro-do-fed/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-07-14T131441Z_1_LYNXMPEL6D0HI_RTROPTP_4_MACRO-FED-HAMMACK.jpg?fit=300%2C195&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T15:08:46+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363927/alibaba-adds-commercial-restrictions-open-weight-qwen38-max-ai-model?utm_source=rss_feed",
+      "_key": "6286d7ece327e7185238a636ae7d217f",
+      "title": "Alibaba adds commercial restrictions to open-weight Qwen3.8-Max AI model",
+      "originalTitle": "Alibaba adds commercial restrictions to open-weight Qwen3.8-Max AI model",
+      "summary": "Alibaba Group Holding has made the core files of its latest flagship AI model Qwen3.8-Max free for anyone to download, as the tech giant introduces new rules requiring large companies to pay for a separate commercial licence to use it.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363927/alibaba-adds-commercial-restrictions-open-weight-qwen38-max-ai-model?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/13/da4f6220-49bd-4edf-a3ce-c19a2444bc83_b1397f6a.jpg?itok=tVLR3n-X&v=1786618481",
+      "publishedAt": "2026-08-13T13:30:07+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/politica/noticia/2026/08/13/congresso-adia-novamente-instalacao-da-comissao-para-analisar-mp-da-taxa-das-blusinhas.ghtml",
+      "_key": "77671cc7fb87fa4a509b2c51f7e976f0",
+      "title": "Congresso adia para 1º de setembro instalação da comissão para analisar MP da 'taxa das blusinhas'",
+      "originalTitle": "Congresso adia para 1º de setembro instalação da comissão para analisar MP da 'taxa das blusinhas'",
+      "summary": "O Congresso Nacional adiou mais uma vez a instalação da comissão mista que vai analisar a medida provisória (MP) que acaba com o imposto de importação de 20% sobre compras internacionais de até US$ 50, a chamada taxa das blusinhas. Esse é o segundo adiamento.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/13/congresso-adia-novamente-instalacao-da-comissao-para-analisar-mp-da-taxa-das-blusinhas.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/3FZpm_qycHMLNYPFojZfn_uikns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/6/q/6UrmURSgKq6357ps8a1Q/pecas-de-roupa-loja-vestuario-uberaba-19-03-2021-2-.jpg",
+      "publishedAt": "2026-08-13T13:24:20+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363929/ai-demand-drives-triple-digit-quarterly-profit-growth-chinese-foundries-smic-hua-hong?utm_source=rss_feed",
+      "_key": "2a1f1f45e270a3f6c551555a60fd9259",
+      "title": "AI demand drives triple-digit profit growth for Chinese chip foundries SMIC, Hua Hong",
+      "originalTitle": "AI demand drives triple-digit profit growth for Chinese chip foundries SMIC, Hua Hong",
+      "summary": "China’s top two contract chipmakers, Semiconductor Manufacturing International Corporation (SMIC) and Hua Hong Grace Semiconductor, saw their profits surge by triple digits in the second quarter, amid a spike in demand for domestic artificial intelligence chips free of US export controls.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363929/ai-demand-drives-triple-digit-quarterly-profit-growth-chinese-foundries-smic-hua-hong?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/13/3fcf305f-73af-475a-9254-726f2b3a4819_c0c03e48.jpg?itok=HDi9Gn0x&v=1786618675",
+      "publishedAt": "2026-08-13T11:00:10+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/13/klarna-and-zilch-launch-new-paid-membership-packages/",
+      "_key": "45f4fef67990bf6edb69c2110eb068d1",
+      "title": "Klarna and Zilch launch new paid membership packages",
+      "originalTitle": "Klarna and Zilch launch new paid membership packages",
+      "summary": "Swedish fintech giant Klarna and UK payments fintech Zilch have today launched new membership packages, as they look to take on incumbent credit card firms and lock in customers with perks. Klarna has...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/13/klarna-and-zilch-launch-new-paid-membership-packages/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/smart-579.jpg",
+      "publishedAt": "2026-08-13T10:02:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3363895/deepseeks-updated-v4-pro-ai-model-struggles-benchmarks-shines-cybersecurity?utm_source=rss_feed",
@@ -5620,6 +5977,258 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/reviews/mais-velocidade-para-o-seu-pc-selecionamos-otimas-memorias-ram-ddr5-em-promocao/",
+      "_key": "059013403e22b11a8bd542dd1fd97c97",
+      "title": "Mais velocidade para o seu PC: selecionamos ótimas memórias RAM DDR5 em promoção",
+      "originalTitle": "Mais velocidade para o seu PC: selecionamos ótimas memórias RAM DDR5 em promoção",
+      "summary": "Se o seu computador está pedindo um upgrade ou você está montando uma nova máquina, este é o momento certo para investir em memória RAM. Reunimos três opções de módulos DDR5 disponíveis na Amazon — confira a seleção abaixo e escolha a que melhor se encaixa no seu setup.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/reviews/mais-velocidade-para-o-seu-pc-selecionamos-otimas-memorias-ram-ddr5-em-promocao/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31uSt5IwA7L._SL500_.jpg",
+      "publishedAt": "2026-08-13T15:20:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/resposta-ao-terremoto-na-colombia-entra-em-fase-sombria-na-busca-por-sobreviventes/",
+      "_key": "8e77749d7536c756b3384b37bc5fcebb",
+      "title": "Resposta ao terremoto na Colômbia entra em fase sombria na busca por sobreviventes",
+      "originalTitle": "Resposta ao terremoto na Colômbia entra em fase sombria na busca por sobreviventes",
+      "summary": "Resposta ao terremoto na Colômbia entra em fase sombria com pouca esperança por sobreviventes The post Resposta ao terremoto na Colômbia entra em fase sombria na busca por sobreviventes appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/resposta-ao-terremoto-na-colombia-entra-em-fase-sombria-na-busca-por-sobreviventes/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Terremoto-na-Colombia.jpg?fit=300%2C205&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T15:09:40+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/hapvida-hapv3-acoes-desabam-balanco-2t26-marcado-por-margens-pressionadas-e-judicializacao/",
+      "_key": "a457484e050221020d944d16f1470254",
+      "title": "judicialização",
+      "originalTitle": "judicialização",
+      "summary": "Tendência de judicialização veio significativamente pior do que o esperado e dificultou ainda mais a avaliação de qual seria o nível normalizado de rentabilidade da companhia The post Hapvida: HAPV3 desaba 20% com 2T marcado por margens pressionadas e judicialização appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/hapvida-hapv3-acoes-desabam-balanco-2t26-marcado-por-margens-pressionadas-e-judicializacao/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/hospital-vasco-lucena.jpg?fit=300%2C241&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T15:05:38+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-13/amd-plans-to-raise-as-much-as-5-billion-from-debt-offering",
+      "_key": "5c241de0e1781cc29c47a9bca0b4bb59",
+      "title": "AMD to Raise as Much as $5 Billion From Debt Offering",
+      "originalTitle": "AMD to Raise as Much as $5 Billion From Debt Offering",
+      "summary": "Advanced Micro Devices Inc. is planning to raise as much $5 billion in what could be the chipmaker’s biggest-ever investment-grade bond sale, adding to a wave of debt tied to the artificial intelligence boom.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/amd-plans-to-raise-as-much-as-5-billion-from-debt-offering",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T15:05:28+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/reviews/quer-jogar-com-mais-fluidez-confira-uma-selecao-de-monitores-gamer-em-promocao-na-amazon-8/",
+      "_key": "49cf2cebb06943e9a10e539c3901baa5",
+      "title": "Quer jogar com mais fluidez? Confira uma seleção de monitores gamer em promoção na Amazon",
+      "originalTitle": "Quer jogar com mais fluidez? Confira uma seleção de monitores gamer em promoção na Amazon",
+      "summary": "Se você busca mais desempenho nas suas sessões de jogo, um bom monitor faz toda a diferença. Reunimos três opções de monitores gamer que combinam alta taxa de atualização, baixíssimo tempo de resposta e tecnologias de sincronização — tudo disponível agora na Amazon.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/reviews/quer-jogar-com-mais-fluidez-confira-uma-selecao-de-monitores-gamer-em-promocao-na-amazon-8/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41hCiUoSTML._SL500_.jpg",
+      "publishedAt": "2026-08-13T14:20:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "_key": "00884c1bab7c6a23ec61593e571da189",
+      "title": "Does Google even want to win at AI?",
+      "originalTitle": "Does Google even want to win at AI?",
+      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-13T14:10:31+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/column/978295/optimizer-screenless-wearables-fitness-trackers-smart-rings",
+      "_key": "0eb291aaeeb5bf1a42e13f2ef67e39f3",
+      "title": "Wearables are getting a taste of much-needed minimalism",
+      "originalTitle": "Wearables are getting a taste of much-needed minimalism",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/column/978295/optimizer-screenless-wearables-fitness-trackers-smart-rings",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257818_Whoop_5_AKrales_0049.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-13T14:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/colombia-alista-emergencia-economica-tras-terremoto-video",
+      "_key": "0379ba364c52dc8f3a1ffa907c1971ac",
+      "title": "Colombia alista emergencia económica tras terremoto",
+      "originalTitle": "Colombia alista emergencia económica tras terremoto",
+      "summary": "Colombia enfrenta las consecuencias de un devastador terremoto que dejó graves daños en varias regiones del país. Mientras continúan las labores de rescate, el gobierno prepara medidas de emergencia para atender a los afectados y hacer frente al impacto económico.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/colombia-alista-emergencia-economica-tras-terremoto-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T13:50:38+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
+      "_key": "68a4cbd6b75c6e2d33a7aa124f181e43",
+      "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
+      "originalTitle": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
+      "summary": "Writer , the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model Palmyra X6 today, alongside a rebuilt agent orchestration harness and new governance tools designed to give IT leaders control over runaway token spending.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6Zxh3IXctblxveNWHWZSCq/a0b7dbc4fc6a943d1191a203a4451255/Nuneybits_Vector_art_of_a_typewriter_printing_cheaper_faster_go_9a122ae4-9f67-48ad-adfe-0bf7d102809e.webp?w=300&q=30",
+      "publishedAt": "2026-08-13T13:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/microsoft-retreats-in-china-but-ai-boom-helps-it-keep-a-window-open/articleshow/133210732.cms",
+      "_key": "d2ad32ea2ba715c8ba9f819afe1a3548",
+      "title": "Microsoft retreats in China, but AI boom helps it keep a window open",
+      "originalTitle": "Microsoft retreats in China, but AI boom helps it keep a window open",
+      "summary": "The year was 2010 and Google was about to exit due to concerns over censorship and cyberattacks. That decision was lauded by democracy activists, but not Bill Gates and Microsoft's then-CEO Steve Ballmer, who ​suggested Google was overreacting.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-retreats-in-china-but-ai-boom-helps-it-keep-a-window-open/articleshow/133210732.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133210732,imgsize-100940.cms",
+      "publishedAt": "2026-08-13T11:46:13+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/iphone-20-pro-smartphone-todo-em-vidro-estaria-em-producao/",
+      "_key": "feb48e52a97aeda91931c799ac32ffca",
+      "title": "iPhone 20 Pro: smartphone todo em vidro estaria em produção",
+      "originalTitle": "iPhone 20 Pro: smartphone todo em vidro estaria em produção",
+      "summary": "Celular da Maçã seria lançado no próximo ano, em comemoração aos 20 anos da empresa. Leaker chinês indica que fabricação de displays já começou. iPhone 20 Pro: smartphone todo em vidro estaria em produção",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/noticias/iphone-20-pro-smartphone-todo-em-vidro-estaria-em-producao/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/10/iphone-2027.jpg",
+      "publishedAt": "2026-08-13T11:31:35+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-13/big-tech-drives-up-credit-risk-for-safe-firms-with-no-ai-links",
+      "_key": "1db2744c88802e8dc2b5efe74bba27bf",
+      "title": "Tech Drives Up Credit Risk for Safe Firms With No AI Links",
+      "originalTitle": "Tech Drives Up Credit Risk for Safe Firms With No AI Links",
+      "summary": "As a flood of debt sales by US tech companies ripples through the credit market, it seems to be triggering an inadvertent rise in risk metrics for some of the world’s safest firms.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/big-tech-drives-up-credit-risk-for-safe-firms-with-no-ai-links",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T10:30:14+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Wired-https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
@@ -10514,6 +11123,90 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/opinion-airlines-reflect-our-economic-future-video",
+      "_key": "6500b6a98a9ca749a66e472afd473e51",
+      "title": "Airlines Reflect Our Economic Future",
+      "originalTitle": "Airlines Reflect Our Economic Future",
+      "summary": "increasingly stratified airline fares offer a glimpse into the future of the US economy, where technology could mean more personalized prices and an even wider range of goods and services. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/opinion-airlines-reflect-our-economic-future-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T14:43:08+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/google-chrome-ganha-blindagem-contra-roubo-de-contas/",
+      "_key": "6849732d88657a5f45b12fa674ba9a5b",
+      "title": "Google Chrome ganha “blindagem” contra roubo de contas",
+      "originalTitle": "Google Chrome ganha “blindagem” contra roubo de contas",
+      "summary": "Novo recurso de segurança do Chrome vincula cookies de sessão ao computador do usuário para gerar uma proteção única. Entenda como funciona. Google Chrome ganha &#8220;blindagem&#8221; contra roubo de contas",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/noticias/google-chrome-ganha-blindagem-contra-roubo-de-contas/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-4.jpg",
+      "publishedAt": "2026-08-13T14:27:15+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "_key": "80bcba04884a56d28356e2c9c88e30ef",
+      "title": "app’",
+      "originalTitle": "app’",
+      "summary": "Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the \"Microsoft Copilot\" name but features an updated app icon. The single [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_4636.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-13T13:30:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/bloomberg-brief-08-13-2026-video",
+      "_key": "436356d67b37c36a6aaa6562c6b76bb1",
+      "title": "Brief 08/13/2026",
+      "originalTitle": "Brief 08/13/2026",
+      "summary": "US equity futures waver after a tech-led rally as an in-line CPI print eases wagers on a rate hike from the Fed. The US Treasury is set to auction $25 billion of 30-year notes after the 10-year debt sold at the highest yield since 2007.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/bloomberg-brief-08-13-2026-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T13:23:43+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "TechNode-https://technode.com/2026/08/13/insta360-confirms-development-of-two-mirrorless-cameras/",
