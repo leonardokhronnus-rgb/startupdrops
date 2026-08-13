@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T15:50:03.313756+00:00",
+  "updatedAt": "2026-08-13T20:20:27.824922+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -1038,6 +1038,27 @@
       "country": "BR"
     },
     {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/com-fedex-fora-da-rota-e-correios-em-crise-dhl-entrega-r-270-milhoes-em-investimentos-no-brasil/",
+      "_key": "e2caa5f63db2241de500d94a68f3cbd4",
+      "title": "Com FedEx fora da rota e Correios em crise, DHL “entrega” R$ 270 milhões em investimentos no Brasil",
+      "originalTitle": "Com FedEx fora da rota e Correios em crise, DHL “entrega” R$ 270 milhões em investimentos no Brasil",
+      "summary": "Em meio à crise financeira dos Correios e ao anúncio recente da saída definitiva da FedEx do mercado doméstico de entregas no País, a companhia alemã DHL decidiu transitar de forma mais rápida nesta avenida &#8211; hoje menos congestionada &#8211; com um plano de crescimento que envolve transportes de R$ 270 milhões no Brasil até [&#8230;] O post Com FedEx fora da rota e Correios em crise, DHL &#8220;entrega&#8221; R$ 270 milhões em investimentos no Brasil apareceu primeiro em NeoFeed .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/com-fedex-fora-da-rota-e-correios-em-crise-dhl-entrega-r-270-milhoes-em-investimentos-no-brasil/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/Mirele-Mautschke-300x169.jpg",
+      "publishedAt": "2026-08-13T17:05:15+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startupi-https://startupi.com.br/sem-sucessores-empresas-familiares-entram-no-radar-do-mercado-de-ma/",
       "_key": "9b1bf68cba233afeba4c37d48e43c309",
       "title": "Sem sucessores, empresas familiares entram no radar do mercado de M&A",
@@ -1431,6 +1452,27 @@
       "_key": "e0f624b4cb386a92647b6c35c6ef9ec2",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/13/openai-do-chatgpt-diz-que-ia-pode-adicionar-r-1-trilhao-ao-pib-do-brasil-em-tres-anos.ghtml",
+      "_key": "2790818b8129c8b0c255d9f1b0cfffa8",
+      "title": "OpenAI, do ChatGPT, diz que IA pode adicionar R$ 1 trilhão ao PIB do Brasil em três anos",
+      "originalTitle": "OpenAI, do ChatGPT, diz que IA pode adicionar R$ 1 trilhão ao PIB do Brasil em três anos",
+      "summary": "Inteligência artificial impulsiona produtividade nas empresas A adoção de inteligência artificial (IA) pode adicionar até R$ 986,7 bilhões ao Produto Interno Bruto (PIB) brasileiro entre 2027 e 2030, segundo estudo do Reglab comissionado pela OpenAI, a dona do ChatGPT.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/13/openai-do-chatgpt-diz-que-ia-pode-adicionar-r-1-trilhao-ao-pib-do-brasil-em-tres-anos.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/XRz-OKT1xXtBVrYIjNom6Poxbbo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/u/wA2Pd2Q0KadRn0ycgCbg/73107636-1004.jpg",
+      "publishedAt": "2026-08-13T16:12:24+00:00",
+      "score": 47,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/10/nvidia-negocia-pacote-de-r-255-trilhoes-para-financiar-infraestrutura-de-ia.ghtml",
@@ -2166,6 +2208,27 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-13/diversified-said-to-near-deal-for-elliott-backed-birch",
+      "_key": "26dc014d395cde40bbace8e8ce330b7d",
+      "title": "Diversified Said to Near Deal for Elliott-Backed Birch",
+      "originalTitle": "Diversified Said to Near Deal for Elliott-Backed Birch",
+      "summary": "Diversified Energy Co. is in advanced talks to acquire Elliott Investment Management-backed oil and gas company Birch Resources for more than $1.7 billion in cash, according to people familiar with the matter.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/diversified-said-to-near-deal-for-elliott-backed-birch",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T19:55:12+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/eua-e-japao-planejam-a-mina-submarina-mais-profunda-do-mundo-para-desafiar-a-china/",
@@ -3331,6 +3394,48 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/-saaspocalypse-risk-from-ai-reaches-past-private-equity-video",
+      "_key": "2c7035d4011055a50b49e3ce67febfdc",
+      "title": "‘SaaSpocalypse’ Risk From AI Reaches Beyond Private Equity",
+      "originalTitle": "‘SaaSpocalypse’ Risk From AI Reaches Beyond Private Equity",
+      "summary": "industry are especially at risk from the 'SaaSpocalypse' — the selloff of companies based around 'software-as-a-service — as artificial intelligence replaces software functionality for things like data visualization.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/-saaspocalypse-risk-from-ai-reaches-past-private-equity-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T20:10:23+00:00",
+      "score": 39,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/13/dolar-ibovespa.ghtml",
+      "_key": "4db66e1a371a5b1692cf4cf18bd6370d",
+      "title": "Ibovespa cai",
+      "originalTitle": "Ibovespa cai",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar ganhou força no final da manhã desta quinta-feira (13) e subia 0,18% perto das 14h, cotado a R$ 5,1884. Na máxima do dia, chegou a R$ 5,1986.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/13/dolar-ibovespa.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/KbOg1q3fzRMd5YV3G82VDQOh1V0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/u/bIbO92QKm2Mwko6Uw45w/2025-08-13t150516z-1527003558-rc2e6gazlupi-rtrmadp-3-zelle-new-york.jpg",
+      "publishedAt": "2026-08-13T12:00:09+00:00",
+      "score": 39,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/11/claude-rival-do-chatgpt-vai-revelar-quem-criou-texto-com-ia-veja-como-vai-funcionar.ghtml",
       "_key": "a6d8464bffda3ec05a55832c45b06dc8",
       "title": "Claude, rival do ChatGPT, vai revelar quem criou texto com IA; veja como vai funcionar",
@@ -4325,6 +4430,48 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/eua-citam-brasil-em-relatorio-sobre-rede-de-paises-para-contornar-tarifas/",
+      "_key": "13dec311c4f4862a74ef241a4b2b61aa",
+      "title": "EUA citam Brasil em relatório sobre países que ajudam China a burlar tarifas",
+      "originalTitle": "EUA citam Brasil em relatório sobre países que ajudam China a burlar tarifas",
+      "summary": "Casa Branca lista mais de 40 países com risco elevado de transbordo ilegal de mercadorias chinesas e anuncia sistema de inteligência artificial para reforçar a fiscalização The post EUA citam Brasil em relatório sobre países que ajudam China a burlar tarifas appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/eua-citam-brasil-em-relatorio-sobre-rede-de-paises-para-contornar-tarifas/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464117352.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T19:49:34+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/gol-troca-ceo-ferrer-vai-para-a-boeing-e-fehlauer-assume/",
+      "_key": "5b9f174658d1625663fca92c69abb2f5",
+      "title": "GOL troca CEO: Ferrer vai para a Boeing e Fehlauer assume",
+      "originalTitle": "GOL troca CEO: Ferrer vai para a Boeing e Fehlauer assume",
+      "summary": "André Fehlauer vai substituir Celso Ferrer como CEO da Gol a partir de setembro, uma troca de comando num momento em que a companhia aérea busca voltar a crescer depois de emergir de sua recuperação judicial e incorporação pelo Abra Group – a holding dos Constantino com os donos da Avianca.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/gol-troca-ceo-ferrer-vai-para-a-boeing-e-fehlauer-assume/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/08-13-Andre-Fehlauer-ok-239x300.jpg?x85156",
+      "publishedAt": "2026-08-13T18:16:01+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/entry-level-jobs-to-see-ai-impact-says-maisonneuve-video",
@@ -5977,6 +6124,279 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "_key": "ec59f37619a9b9d962e49672cedca681",
+      "title": "OpenAI is losing its second executive this week",
+      "originalTitle": "OpenAI is losing its second executive this week",
+      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-13T19:28:39+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/nunes-marques-restabelece-filiacao-de-flavio-ao-pl-e-libera-registro-de-candidatura/",
+      "_key": "395ad309f44ebc19b2516d35544736a4",
+      "title": "Nunes Marques restabelece filiação de Flávio ao PL e libera registro de candidatura",
+      "originalTitle": "Nunes Marques restabelece filiação de Flávio ao PL e libera registro de candidatura",
+      "summary": "Presidente do TSE também determinou exclusão do vínculo com o Missão e envio do caso à Polícia Federal para investigação The post Nunes Marques restabelece filiação de Flávio ao PL e libera registro de candidatura appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/nunes-marques-restabelece-filiacao-de-flavio-ao-pl-e-libera-registro-de-candidatura/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/0d7a3465.jpg.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T19:17:30+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/reviews/hora-de-turbinar-sua-biblioteca-selecao-de-jogos-ps5-em-promocao-na-amazon/",
+      "_key": "3ec9dede4c0a688cd2449e6e4c61d59d",
+      "title": "Hora de turbinar sua biblioteca: seleção de jogos PS5 em promoção na Amazon",
+      "originalTitle": "Hora de turbinar sua biblioteca: seleção de jogos PS5 em promoção na Amazon",
+      "summary": "seleção de títulos em promoção que vale muito a pena conferir. São jogos de gêneros variados — de ação a sobrevivência — para diferentes perfis de jogador. Confira as três opções em destaque.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/reviews/hora-de-turbinar-sua-biblioteca-selecao-de-jogos-ps5-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/51iDJpreM3L._SL500_.jpg",
+      "publishedAt": "2026-08-13T19:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/inteligencia-artificial/gemini-3-7-flash-chega-como-um-canivete-suico-para-programar/",
+      "_key": "2e805f302fe1322eeb9208c655e8a33a",
+      "title": "Gemini 3.7 Flash chega como um canivete suíço para programar",
+      "originalTitle": "Gemini 3.7 Flash chega como um canivete suíço para programar",
+      "summary": "Google lança Gemini 3.7 Flash com melhorias em programação, automação de tarefas e preço promocional para empresas até o fim do ano O post Gemini 3.7 Flash chega como um canivete suíço para programar apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/inteligencia-artificial/gemini-3-7-flash-chega-como-um-canivete-suico-para-programar/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Google-Gemini-1024x576.jpg",
+      "publishedAt": "2026-08-13T18:43:10+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "_key": "9a236ef557ea4b08bbe16a2210865e96",
+      "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
+      "originalTitle": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
+      "summary": "Google is rolling out Gemini 3.7 Flash , a new version of its workhorse AI model that puts coding, agentic workflows and knowledge work at the center of the upgrade — while temporarily cutting API prices in half.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2hiXA5MTlT6U93qXfs9J8Q/e9a84e4962a92f6170fb5761a78b3d5f/Gemini_Generated_Image_9mr5qd9mr5qd9mr5.png?w=300&q=30",
+      "publishedAt": "2026-08-13T18:02:54+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/reviews/ipad-canetas-stylus-e-mais-uma-selecao-de-ofertas-para-quem-usa-tablet-no-dia-a-dia/",
+      "_key": "3829c8dec24255fde315ada5639f06b0",
+      "title": "iPad, canetas stylus e mais: uma seleção de ofertas para quem usa tablet no dia a dia",
+      "originalTitle": "iPad, canetas stylus e mais: uma seleção de ofertas para quem usa tablet no dia a dia",
+      "summary": "Se você usa tablet para trabalhar, estudar ou se entreter, vale a pena dar uma olhada nas ofertas que separamos. Reunimos três produtos que vão do hardware ao acessório — incluindo o iPad lançado em 2025 e opções de canetas stylus para diferentes bolsos e necessidades. Confira.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/reviews/ipad-canetas-stylus-e-mais-uma-selecao-de-ofertas-para-quem-usa-tablet-no-dia-a-dia/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31HhoNJrO7L._SL500_.jpg",
+      "publishedAt": "2026-08-13T18:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/carros-e-tecnologia/e-bike-com-visual-de-moto-combina-diversao-praticidade-e-conducao-acessivel/",
+      "_key": "c5e5aef5d96d71a6937182c17334e422",
+      "title": "E-bike com visual de moto combina diversão, praticidade e condução acessível",
+      "originalTitle": "E-bike com visual de moto combina diversão, praticidade e condução acessível",
+      "summary": "Modelo elétrico de 500 W tem autonomia de até 32 km, assento baixo e opção de segunda bateria para ampliar o alcance O post E-bike com visual de moto combina diversão, praticidade e condução acessível apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/carros-e-tecnologia/e-bike-com-visual-de-moto-combina-diversao-praticidade-e-conducao-acessivel/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/bicicleta-eletrica-SUPER73-MZFT-2-1024x1024.jpg",
+      "publishedAt": "2026-08-13T17:54:18+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/reviews/som-que-envolve-de-todos-os-lados-headsets-7-1-surround-em-promocao-na-amazon-3/",
+      "_key": "cf75aff1a52263b02b4d21f1c114c9b0",
+      "title": "Som que envolve de todos os lados: headsets 7.1 Surround em promoção na Amazon",
+      "originalTitle": "Som que envolve de todos os lados: headsets 7.1 Surround em promoção na Amazon",
+      "summary": "Se você busca uma experiência sonora mais imersiva nos games, o áudio surround 7.1 faz toda a diferença — e reunimos três ótimas opções em oferta agora na Amazon. Seja para PC, console ou uso multiplataforma, há um modelo aqui para cada perfil de jogador.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/reviews/som-que-envolve-de-todos-os-lados-headsets-7-1-surround-em-promocao-na-amazon-3/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41aU1vsLZWL._SL500_.jpg",
+      "publishedAt": "2026-08-13T17:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/google-unveils-gemini-3-7-flash-ai-model-for-coding-agent-workflows/articleshow/133220152.cms",
+      "_key": "90b6b28bd090e1847961d6ae8e7a62bc",
+      "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows",
+      "originalTitle": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows",
+      "summary": "Investors have been closely watching for Gemini 3.5 Pro, Google's premium model, as a test of whether its DeepMind AI unit can keep pace with rivals Anthropic ‌and OpenAI. Google had ⁠said ⁠in July Gemini 3.5 Pro was being tested with partners and would be coming \"soon\".",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/google-unveils-gemini-3-7-flash-ai-model-for-coding-agent-workflows/articleshow/133220152.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133220152,imgsize-67530.cms",
+      "publishedAt": "2026-08-13T17:22:57+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/carreira/fim-da-escala-6x1-72-das-empresas-ainda-nao-tem-orcamento-para-migrar-para-o-modelo-5x2/",
+      "_key": "89a40fc53b297115894451ca1dda82db",
+      "title": "Fim da escala 6x1: 72% das empresas ainda não têm orçamento para migrar para o modelo 5x2",
+      "originalTitle": "Fim da escala 6x1: 72% das empresas ainda não têm orçamento para migrar para o modelo 5x2",
+      "summary": "Pesquisa mostra que maioria das companhias já calcula os impactos da mudança, como contratar mais funcionários ou investir em IA. Parte dessa conta também pode chegar ao consumidor",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/carreira/fim-da-escala-6x1-72-das-empresas-ainda-nao-tem-orcamento-para-migrar-para-o-modelo-5x2/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2024/07/MG_7351.jpg",
+      "publishedAt": "2026-08-13T16:41:30+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
+      "_key": "1e353d6b1ed2e965033fe4bf5bc971fe",
+      "title": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
+      "originalTitle": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
+      "summary": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/GSX_DSC_0455.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-13T16:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "_key": "b9b2ed237026556a42d7efc8bd7c68b6",
+      "title": "Suno is trying to look more like a real music production tool",
+      "originalTitle": "Suno is trying to look more like a real music production tool",
+      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-13T16:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks/articleshow/133218028.cms",
+      "_key": "3728f14a085f9f3a3afc614b22acdb2d",
+      "title": "SK Hynix's Korean workers launch unified union amid stalled wage talks",
+      "originalTitle": "SK Hynix's Korean workers launch unified union amid stalled wage talks",
+      "summary": "The launch comes as SK Hynix and its existing unions are locking horns over annual wage talks, after the chipmaker posted record quarterly profits on strong demand for AI infrastructure.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-korean-workers-launch-unified-union-amid-stalled-wage-talks/articleshow/133218028.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133218028,imgsize-81236.cms",
+      "publishedAt": "2026-08-13T15:56:15+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/reviews/mais-velocidade-para-o-seu-pc-selecionamos-otimas-memorias-ram-ddr5-em-promocao/",
@@ -11123,6 +11543,132 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/still-seeing-credit-stress-under-surface-cudzil-video",
+      "_key": "720cfc76a3afefc652fb544945b040a0",
+      "title": "Still Seeing Credit Stress Under Surface: Cudzil",
+      "originalTitle": "Still Seeing Credit Stress Under Surface: Cudzil",
+      "summary": "Jerry Cudzil generalist portfolio manager, fixed income at TCW, joins Emily Graffeo on \"Real Yield.\" As a flood of debt sales by US tech companies ripples through the credit market, it seems to be triggering an inadvertent rise in risk metrics for some of the world’s safest firms.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/still-seeing-credit-stress-under-surface-cudzil-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T19:40:13+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/chicago-mayor-demands-data-center-moratorium-video",
+      "_key": "ea6bd4f2ab2c9fd04510c7a73b563db4",
+      "title": "Chicago Mayor Demands Data Center Moratorium",
+      "originalTitle": "Chicago Mayor Demands Data Center Moratorium",
+      "summary": "Yield.\" Chicago Mayor Brandon Johnson is pushing for a temporary moratorium on data centers, and signed an executive order on Tuesday to create new rules for any future developments. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/chicago-mayor-demands-data-center-moratorium-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T19:27:08+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/reviews/sua-internet-travando-confira-uma-selecao-de-roteadores-wi-fi-mesh-em-promocao-na-amazon/",
+      "_key": "bcd52aa5499e1a9dcebb91f50a97d04c",
+      "title": "Sua internet travando? Confira uma seleção de roteadores Wi-Fi Mesh em promoção na Amazon",
+      "originalTitle": "Sua internet travando? Confira uma seleção de roteadores Wi-Fi Mesh em promoção na Amazon",
+      "summary": "Se a conexão em casa deixa a desejar — seja pelo sinal fraco nos quartos, instabilidade durante chamadas ou lentidão na hora do streaming — pode ser hora de investir em um bom roteador.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/reviews/sua-internet-travando-confira-uma-selecao-de-roteadores-wi-fi-mesh-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/21+YOml5bQL._SL500_.jpg",
+      "publishedAt": "2026-08-13T18:20:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+      "_key": "9375f57b21be61a258f8fd406a69d0ca",
+      "title": "You can now just point at a mess and this robot vacuum will suck it up",
+      "originalTitle": "You can now just point at a mess and this robot vacuum will suck it up",
+      "summary": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_8725.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-13T18:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/ciencia-e-espaco/quebra-de-plataforma-deixa-geleira-da-antartida-mais-vulneravel/",
+      "_key": "6743cbe776e3696ddfc45f91970e142f",
+      "title": "Quebra de plataforma deixa geleira da Antártida mais vulnerável",
+      "originalTitle": "Quebra de plataforma deixa geleira da Antártida mais vulnerável",
+      "summary": "A quebra da plataforma de gelo de Pine Island acelerou a geleira em 20% e enfraqueceu as estruturas que freavam seu avanço O post Quebra de plataforma deixa geleira da Antártida mais vulnerável apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/ciencia-e-espaco/quebra-de-plataforma-deixa-geleira-da-antartida-mais-vulneravel/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/09/derretimento-1-1024x683.jpg",
+      "publishedAt": "2026-08-13T17:40:42+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+      "_key": "de0a7920eae24253cc59e660555e7dc8",
+      "title": "scams",
+      "originalTitle": "scams",
+      "summary": "messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users a warning if a chat seems like [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24062761/STK110_whats_app_Kradtke_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-13T16:10:06+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/opinion-airlines-reflect-our-economic-future-video",
