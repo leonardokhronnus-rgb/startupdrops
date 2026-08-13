@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T20:20:27.824922+00:00",
+  "updatedAt": "2026-08-13T23:40:11.351508+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -188,6 +188,11 @@
     }
   ],
   "failures": [
+    {
+      "source": "Tecnoblog",
+      "url": "https://tecnoblog.net/feed/",
+      "reason": "falhou direto e via proxy"
+    },
     {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -2210,6 +2215,69 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/fmr-nba-executive-lakers-a-special-asset-in-sports-video",
+      "_key": "39d192cebfe5e98028e7c3d92dcb3367",
+      "title": "Fmr. NBA Executive: Lakers a ‘Special Asset’ in Sports",
+      "originalTitle": "Fmr. NBA Executive: Lakers a ‘Special Asset’ in Sports",
+      "summary": "Bobby Sharma, Founder and Managing Partner at Bluestone Equity Partners, discussed the recent $12.5 billion valuation of the Los Angeles Lakers, highlighting the extraordinary price and the broader trend of sports becoming institutionalized investment assets.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/fmr-nba-executive-lakers-a-special-asset-in-sports-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T20:46:20+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/internet-e-redes-sociais/instagram-reformula-identidade-visual-pela-primeira-vez-em-dez-anos-confira-o-resultado/",
+      "_key": "8ddc1c7df9d2c2b71514647966b6be7f",
+      "title": "Instagram reformula identidade visual pela primeira vez em dez anos; confira o resultado",
+      "originalTitle": "Instagram reformula identidade visual pela primeira vez em dez anos; confira o resultado",
+      "summary": "Nova fase da amplia mudanças para tipografia, cores, animações e elementos gráficos, enquanto a câmera segue como símbolo central da marca O post Instagram reformula identidade visual pela primeira vez em dez anos; confira o resultado apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/internet-e-redes-sociais/instagram-reformula-identidade-visual-pela-primeira-vez-em-dez-anos-confira-o-resultado/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/nova-identidade-visual-do-instagram-2-1024x577.jpg",
+      "publishedAt": "2026-08-13T20:27:37+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/df/distrito-federal/noticia/2026/08/13/reuniao-conciliacao-emprestimo-brb-celina-durigan.ghtml",
+      "_key": "2cbd438f31453c918dc1f42fdd78f984",
+      "title": "decidem manter negociação de R$ 6,6 bilhões",
+      "originalTitle": "decidem manter negociação de R$ 6,6 bilhões",
+      "summary": "Governadora do Distrito Federal, Celina Leão, em audiência de conciliação no STF sobre o empréstimo do BRB Gustavo Moreno/STF Terminou sem avanços concretos a nova reunião de conciliação no Supremo Tribunal Federal (STF), mediada pelo ministro Luiz Fux nesta quinta-feira (13), para tentar destravar um empréstimo bilionário e salvar o balanço patrimonial do Banco de Brasília (BRB).",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/13/reuniao-conciliacao-emprestimo-brb-celina-durigan.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/zMYW1WZkTr5cYuyXHl5vB0W4tbw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/4JNi1oStOcIIasAPfwqQ/55462111484-9ff114c972-k.jpg",
+      "publishedAt": "2026-08-13T20:08:46+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-13/diversified-said-to-near-deal-for-elliott-backed-birch",
       "_key": "26dc014d395cde40bbace8e8ce330b7d",
       "title": "Diversified Said to Near Deal for Elliott-Backed Birch",
@@ -2227,6 +2295,48 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/13/instagram-muda-logo-pela-1a-vez-em-10-anos-veja-como-ficou.ghtml",
+      "_key": "e65e07c2209d847a5373fa33ed7609bc",
+      "title": "mudou",
+      "originalTitle": "mudou",
+      "summary": "Instagram muda sua identidade visual pela primeira vez em 10 anos Divulgação/Instagram O Instagram anunciou nesta quinta-feira (13) uma renovação de sua identidade visual, que inclui uma nova tipografia, ajustes nas cores, movimentos e outros elementos gráficos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/13/instagram-muda-logo-pela-1a-vez-em-10-anos-veja-como-ficou.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/aTGv4SxJn0nO-fhMMXHaH2-Vdw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/i/BHuROsTcAjaTH6Za2BPw/772394158-1055095300248883-5303604152289819976-n.webp",
+      "publishedAt": "2026-08-13T19:25:18+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/negocios/govtech-fecha-contrato-de-r-130-milhoes-para-digitalizar-justica-do-peru/",
+      "_key": "11a7a58db2bd2933614950e0ef13e6d3",
+      "title": "Govtech fecha contrato de R$ 130 milhões para digitalizar Justiça do Peru",
+      "originalTitle": "Govtech fecha contrato de R$ 130 milhões para digitalizar Justiça do Peru",
+      "summary": "Catarinense Softplan venceu licitação internacional financiada parcialmente pelo Banco Mundial para implantar sistema que atenderá cerca de 18 mil servidores e modernizará 1.698 órgãos jurisdicionais",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/negocios/govtech-fecha-contrato-de-r-130-milhoes-para-digitalizar-justica-do-peru/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/0R1A2152.JPG-1.jpeg",
+      "publishedAt": "2026-08-13T17:19:01+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
       ],
       "coverageCount": 1
     },
@@ -3535,6 +3645,48 @@
       "country": "BR"
     },
     {
+      "id": "SCMP Business-https://www.scmp.com/business/banking-finance/article/3363793/chinese-banks-test-repo-linked-corporate-loans-make-pricing-more-market-based?utm_source=rss_feed",
+      "_key": "3a15add1b628a82e1987d662d9a17e37",
+      "title": "Chinese banks test repo-linked corporate loans to make pricing more market-based",
+      "originalTitle": "Chinese banks test repo-linked corporate loans to make pricing more market-based",
+      "summary": "Chinese banks are rushing to test a new way of pricing corporate loans against short-term market funding costs, a move that analysts say could make borrowing rates more responsive to monetary conditions but also test lenders’ risk management capabilities.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/banking-finance/article/3363793/chinese-banks-test-repo-linked-corporate-loans-make-pricing-more-market-based?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/12/03491225-dc86-4b88-bbb7-e931aaa3e642_2f7e5047.jpg?itok=k4msMsgV&v=1786529157",
+      "publishedAt": "2026-08-13T23:00:08+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-13/winklevosses-gemini-posts-another-loss-revenue-increases",
+      "_key": "d1b50b3524a84ce516134cf8056e7512",
+      "title": "Winklevosses’ Gemini Posts Another Loss, Revenue Increases",
+      "originalTitle": "Winklevosses’ Gemini Posts Another Loss, Revenue Increases",
+      "summary": "Gemini Space Station Inc., the digital-asset platform led by the billionaires Tyler and Cameron Winklevoss that went public last year just before the crypto market tumbled from record highs, posted a fourth consecutive quarterly loss since the IPO.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/winklevosses-gemini-posts-another-loss-revenue-increases",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T21:01:19+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Tech.eu-https://tech.eu/2026/08/13/duolingo-snaps-up-uk-animation-studio-animade/",
       "_key": "b97693ceac19a4ff7fde8167b0dc5a07",
       "title": "Animade",
@@ -4432,6 +4584,27 @@
       "country": "BR"
     },
     {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/nubank-lucra-mais-de-us-1-bilhao-pela-primeira-vez-em-um-trimestre-e-roe-atinge-33/",
+      "_key": "34100a19121d6aa361945d01fb5d5e51",
+      "title": "Nubank lucra mais de US$ 1 bilhão (pela primeira vez em um trimestre) e ROE atinge 33%",
+      "originalTitle": "Nubank lucra mais de US$ 1 bilhão (pela primeira vez em um trimestre) e ROE atinge 33%",
+      "summary": "Em meio às preocupações em relação à qualidade dos ativos, diante do cenário de juros em alta, o Nubank fechou o segundo trimestre de 2026 com resultado recorde na linha de lucro e no retorno sobre o patrimônio líquido (ROE), ao mesmo tempo em que registrou forte expansão em sua margem financeira líquida ajustada ao [&#8230;] O post Nubank lucra mais de US$ 1 bilhão (pela primeira vez em um trimestre) e ROE atinge 33% apareceu primeiro em NeoFeed .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/nubank-lucra-mais-de-us-1-bilhao-pela-primeira-vez-em-um-trimestre-e-roe-atinge-33/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2025/01/nubank-logo-300x169.webp",
+      "publishedAt": "2026-08-13T21:30:18+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/eua-citam-brasil-em-relatorio-sobre-rede-de-paises-para-contornar-tarifas/",
       "_key": "13dec311c4f4862a74ef241a4b2b61aa",
       "title": "EUA citam Brasil em relatório sobre países que ajudam China a burlar tarifas",
@@ -4596,6 +4769,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-13/korea-stock-bulls-drive-second-day-of-emerging-market-gains",
+      "_key": "aca93b464479eda9f5ac33413221fc8e",
+      "title": "Emerging Market Stocks Hit One-Month High as AI Trade Roars Back",
+      "originalTitle": "Emerging Market Stocks Hit One-Month High as AI Trade Roars Back",
+      "summary": "Emerging-market stocks rose for a second straight session on Thursday, with the index hitting the highest level in more than a month amid a resurgence in the artificial-intelligence trade.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/korea-stock-bulls-drive-second-day-of-emerging-market-gains",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T09:22:05+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
       ],
       "coverageCount": 1
     },
@@ -6126,6 +6320,174 @@
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/governo-lula-anuncia-abertura-de-reciprocidade-por-tarifaco-dos-eua/",
+      "_key": "aff0eca7e98ce4433e222ca063d4319d",
+      "title": "Governo Lula anuncia abertura de reciprocidade por tarifaço dos EUA",
+      "originalTitle": "Governo Lula anuncia abertura de reciprocidade por tarifaço dos EUA",
+      "summary": "Em nota, o Palácio do Planalto disse que o Ministério das Relações Exteriores está notificando o governo dos Estados Unidos sobre o início do processo The post Governo Lula anuncia abertura de reciprocidade por tarifaço dos EUA appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/governo-lula-anuncia-abertura-de-reciprocidade-por-tarifaco-dos-eua/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-26T080451Z_805751382_RC2KJHA2GNTY_RTRMADP_3_ASEAN-SUMMIT.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T23:13:33+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/cpfl-cpfe3-resultados-segundo-trimestre-2026/",
+      "_key": "ed3d6b3e71f2833fe298b0f1a1ec9c3f",
+      "title": "CPFL lucra R$ 1,44 bilhão, vê novo impulso de data centers no mercado da distribuição",
+      "originalTitle": "CPFL lucra R$ 1,44 bilhão, vê novo impulso de data centers no mercado da distribuição",
+      "summary": "A demanda de energia para data centers nas áreas atendidas pela CPFL aumentou 35% ante o segundo trimestre de 2025 The post CPFL lucra R$ 1,44 bilhão, vê novo impulso de data centers no mercado da distribuição appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/cpfl-cpfe3-resultados-segundo-trimestre-2026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/predio-sede-da-cpfl-energia-1737548255924_v2_900x506.jpg.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T22:54:50+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/jhsf-vira-uma-companhia-de-renda-recorrente-tres-anos-antes-do-previsto/",
+      "_key": "1226efe956a1bc6902c323871d31c986",
+      "title": "JHSF vira uma companhia de renda recorrente três anos antes do previsto",
+      "originalTitle": "JHSF vira uma companhia de renda recorrente três anos antes do previsto",
+      "summary": "Em 2024, a JHSF havia estabelecido a meta de fazer com que dois terços da geração de resultado viessem dos negócios de renda recorrente. O prazo para essa transformação era de cinco anos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/jhsf-vira-uma-companhia-de-renda-recorrente-tres-anos-antes-do-previsto/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/Cidade-Jardim-JHSF-300x169.jpg",
+      "publishedAt": "2026-08-13T22:31:30+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/13/nubank-tem-lucro-liquido-acima-de-us-1-bilhao-pela-primeira-vez.ghtml",
+      "_key": "f644ab906184eedbfae51ca41a0f3d3d",
+      "title": "Nubank tem lucro líquido acima de US$ 1 bilhão pela primeira vez",
+      "originalTitle": "Nubank tem lucro líquido acima de US$ 1 bilhão pela primeira vez",
+      "summary": "Logo do Nubank na Bolsa de Valores de Nova York. Brendan McDermid/ Reuters O Nubank informou nesta quinta-feira (13) que, pela primeira vez em sua história, registrou lucro líquido bilionário em um trimestre.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/13/nubank-tem-lucro-liquido-acima-de-us-1-bilhao-pela-primeira-vez.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/9mAg8EviWZ_bPjWF0iy_jIjEhwY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/W/qfdTV3QeKNUvtCiJ5nBw/2025-08-20t141547z-1-lynxmpel7j0mz-rtroptp-4-bancos-nubank-analistas.jpg",
+      "publishedAt": "2026-08-13T22:29:22+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/13/grupo-de-hackers-diz-ter-roubado-dados-de-quase-50-empresas-incluindo-philips-e-shell.ghtml",
+      "_key": "3a64ea119a32c8799e7d105326a4aa2a",
+      "title": "Grupo de hackers diz ter roubado dados de quase 50 empresas, incluindo Philips e Shell",
+      "originalTitle": "Grupo de hackers diz ter roubado dados de quase 50 empresas, incluindo Philips e Shell",
+      "summary": "Cybercrime; hacker; crimes digitais; crimes virtuais Kevin Horvart/Unplash Um grupo de hackers conhecido por explorar falhas de segurança em softwares para atacar várias empresas ao mesmo tempo afirmou ter roubado grandes volumes de dados de quase 50 companhias em todo o mundo, incluindo Philips, Shell, Fiserv e General Eletric.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/13/grupo-de-hackers-diz-ter-roubado-dados-de-quase-50-empresas-incluindo-philips-e-shell.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/Veh5p5L9Uwmr1gkIwzhyYB3EzrU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/D/9Q8nk1RuGrll5s7uldEg/kevin-horvat-pyjp2zmxulk-unsplash.jpg",
+      "publishedAt": "2026-08-13T22:09:46+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Wired-https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+      "_key": "aaf26e8c42b81dfe5022aa3d64282013",
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+      "originalTitle": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+      "source": "Wired",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://media.wired.com/photos/6a7cd92daf899556c1dfa8f2/master/pass/Uncanny-Valley-Zuckerberg-AI-manifesto-Business.jpg",
+      "publishedAt": "2026-08-13T21:14:43+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Wired"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/pro/eua-autorizam-empresas-privadas-a-realizar-ataques-ciberneticos-no-exterior/",
+      "_key": "8b47a5c560adb74114fe132f9085aeb0",
+      "title": "EUA autorizam empresas privadas a realizar ataques cibernéticos no exterior",
+      "originalTitle": "EUA autorizam empresas privadas a realizar ataques cibernéticos no exterior",
+      "summary": "Memorando cria regras para selecionar empresas, exige caução de US$ 1 milhão e prevê controles para evitar alvos americanos e danos graves O post EUA autorizam empresas privadas a realizar ataques cibernéticos no exterior apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/pro/eua-autorizam-empresas-privadas-a-realizar-ataques-ciberneticos-no-exterior/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Casa-Branca-Estados-Unidos-1024x576.jpg",
+      "publishedAt": "2026-08-13T20:48:55+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/reviews/samsung-xiaomi-e-mais-smartwatches-em-promocao-que-vale-a-pena-conferir-agora/",
+      "_key": "961587285b9edb42cda3734b8f9bc278",
+      "title": "Samsung, Xiaomi e mais: smartwatches em promoção que vale a pena conferir agora",
+      "originalTitle": "Samsung, Xiaomi e mais: smartwatches em promoção que vale a pena conferir agora",
+      "summary": "Se você está pensando em investir em um smartwatch ou presentear alguém especial, este é o momento certo. Reunimos três boas opções disponíveis na Amazon com preços competitivos — entre elas, modelos da Samsung e da Xiaomi que agradaram bastante os usuários.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/reviews/samsung-xiaomi-e-mais-smartwatches-em-promocao-que-vale-a-pena-conferir-agora/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "publishedAt": "2026-08-13T19:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
       "_key": "ec59f37619a9b9d962e49672cedca681",
       "title": "OpenAI is losing its second executive this week",
@@ -6143,6 +6505,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/pro/cade-rejeita-pedido-do-google-em-caso-que-envolve-conteudo-de-jornais-e-ia/",
+      "_key": "509bbc41f0d48d7411e0f82a3744a423",
+      "title": "Cade rejeita pedido do Google em caso que envolve conteúdo de jornais e IA",
+      "originalTitle": "Cade rejeita pedido do Google em caso que envolve conteúdo de jornais e IA",
+      "summary": "Decisão foi tomada no âmbito de processo que investiga relação do Google com empresas jornalísticas O post Cade rejeita pedido do Google em caso que envolve conteúdo de jornais e IA apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/pro/cade-rejeita-pedido-do-google-em-caso-que-envolve-conteudo-de-jornais-e-ia/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/google_logo-1024x682.jpg",
+      "publishedAt": "2026-08-13T19:28:24+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
       ],
       "coverageCount": 1
     },
@@ -11545,6 +11928,69 @@
       "country": "US"
     },
     {
+      "id": "The Verge-https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "_key": "cda9f65b4915d2828a993fe9d23d4cf9",
+      "title": "easier",
+      "originalTitle": "easier",
+      "summary": "today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously decided [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047560/236883_Epic_Vs_Google_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-13T21:53:04+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/nubank-tem-lucro-recorde-no-2o-tri-credito-cresce-menos/",
+      "_key": "977590ee8acf93cf625eb6b3acba95f5",
+      "title": "Nubank tem lucro recorde no 2º tri; crédito cresce menos",
+      "originalTitle": "Nubank tem lucro recorde no 2º tri; crédito cresce menos",
+      "summary": "O Nubank lucrou US$ 1,1 bilhão entre abril e junho, seu melhor resultado trimestral até agora. O número ficou 10% acima do consenso e representa um crescimento de 17% frente aos três meses anteriores e de 49% na comparação anual.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/nubank-tem-lucro-recorde-no-2o-tri-credito-cresce-menos/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/08-13-Rob-Livingston-ok-256x300.jpg?x85156",
+      "publishedAt": "2026-08-13T21:49:52+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "_key": "206250a7a0171454bcb137314cb047c7",
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "originalTitle": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-13T21:42:38+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/still-seeing-credit-stress-under-surface-cudzil-video",
       "_key": "720cfc76a3afefc652fb544945b040a0",
       "title": "Still Seeing Credit Stress Under Surface: Cudzil",
@@ -11583,6 +12029,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/reviews/hora-de-economizar-em-jogos-xbox-selecao-com-titulos-imperdiveis-na-amazon/",
+      "_key": "d7fa48294dbc6f3a69df415f5b827e36",
+      "title": "Hora de economizar em Jogos XBOX: seleção com títulos imperdíveis na Amazon",
+      "originalTitle": "Hora de economizar em Jogos XBOX: seleção com títulos imperdíveis na Amazon",
+      "summary": "Se você é fã de Xbox e está em busca de bons jogos para expandir sua biblioteca, a Amazon reúne agora uma seleção interessante de títulos para Xbox One com ótimas condições. Reunimos três opções que valem a atenção — de aventuras com LEGO a jogos de ação táticos. Confira!",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/reviews/hora-de-economizar-em-jogos-xbox-selecao-com-titulos-imperdiveis-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/51ZmChhidbL._SL500_.jpg",
+      "publishedAt": "2026-08-13T19:20:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
       ],
       "coverageCount": 1
     },
