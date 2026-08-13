@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T23:37:32.775427+00:00",
+  "updatedAt": "2026-08-13T06:07:39.870945+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -204,11 +204,6 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "EU-Startups",
-      "url": "https://www.eu-startups.com/feed/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
       "source": "Contxto",
       "url": "https://news.google.com/rss/search?q=when:3d+site:contxto.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -322,6 +317,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/13/tencent-backs-lovable-in-400-million-series-c-at-13-3-billion-valuation/",
+      "_key": "8c0db784d4814da9c86211ed14c517a1",
+      "title": "Tencent Backs Lovable in $400 Million Series C at $13.3 Billion Valuation",
+      "originalTitle": "Tencent Backs Lovable in $400 Million Series C at $13.3 Billion Valuation",
+      "summary": "Lovable, a Stockholm-based software creation platform, has raised $400 million in Series C funding at a $13.3 billion valuation. The round was led by Menlo Ventures and co-led by EQT’s Scaleup Europe Fund.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/13/tencent-backs-lovable-in-400-million-series-c-at-13-3-billion-valuation/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/loveable.png?fit=897%2C438&amp;ssl=1",
+      "publishedAt": "2026-08-13T05:45:58+00:00",
+      "score": 70,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
       ],
       "coverageCount": 1
     },
@@ -633,6 +649,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Crunchbase News"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/funding/home-cleaning-products-startup-scrubsy-raises-rs-27-crore-from-v3-ventures/articleshow/133199108.cms",
+      "_key": "8460c4e7e04fe2cee866833d61dc66d9",
+      "title": "Home-cleaning products startup Scrubsy raises Rs 27 crore from V3 Ventures",
+      "originalTitle": "Home-cleaning products startup Scrubsy raises Rs 27 crore from V3 Ventures",
+      "summary": "Scrubsy claims it develops its products through in-house research, formulation and manufacturing. Its portfolio includes foam-based kitchen cleaners, bathroom cleaners and shoe-cleaning products.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/funding/home-cleaning-products-startup-scrubsy-raises-rs-27-crore-from-v3-ventures/articleshow/133199108.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133199108,imgsize-1118794.cms",
+      "publishedAt": "2026-08-13T05:35:44+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -1516,6 +1553,27 @@
       "country": "BR"
     },
     {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-startup-decart-ai-for-6-billion/articleshow/133196950.cms",
+      "_key": "4b0aed9ef34dbd2f6266c10b771fda8b",
+      "title": "Anthropic in talks to buy startup Decart AI for $6 billion",
+      "originalTitle": "Anthropic in talks to buy startup Decart AI for $6 billion",
+      "summary": "Decart’s software can reduce the cost of training artificial intelligence models by helping chips work more efficiently. That technology could help Anthropic’s existing infrastructure absorb more demand, according to a person familiar with the matter.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-startup-decart-ai-for-6-billion/articleshow/133196950.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133196950,imgsize-25480.cms",
+      "publishedAt": "2026-08-13T03:39:11+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startups.com.br-https://startups.com.br/la-fora/futuro-da-tv-roku-lanca-canal-com-programacao-100-ai-slop/",
       "_key": "25a8943e50f98418c6d756131e785b3c",
       "title": "Futuro da TV? Roku lança canal com programação 100% “AI slop”",
@@ -1898,6 +1956,111 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/13/alibaba-cloud-launches-qwen-ai-arena-for-real-world-agent-testing/",
+      "_key": "c55759efe538b0461e18612367d9a3b9",
+      "title": "Alibaba Cloud Launches Qwen AI Arena for Real-World Agent Testing",
+      "originalTitle": "Alibaba Cloud Launches Qwen AI Arena for Real-World Agent Testing",
+      "summary": "Alibaba Cloud has launched Qwen AI Arena, a challenge and evaluation platform for AI agents. The platform creates tasks based on real business scenarios and provides developers with models, runtime environments and evaluation tools to submit and test agent solutions.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/13/alibaba-cloud-launches-qwen-ai-arena-for-real-world-agent-testing/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/03/%E9%98%BF%E9%87%8C%E4%BA%91.jpg?fit=600%2C600&amp;ssl=1",
+      "publishedAt": "2026-08-13T05:36:47+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/13/chinas-tablet-shipments-fall-4-4-in-q2-as-commercial-demand-surges/",
+      "_key": "37c794872b0c223c021d931e7e8c87c7",
+      "title": "China’s Tablet Shipments Fall 4.4% in Q2 as Commercial Demand Surges",
+      "originalTitle": "China’s Tablet Shipments Fall 4.4% in Q2 as Commercial Demand Surges",
+      "summary": "China’s tablet market shipped 7.96 million units in the second quarter of 2026, down 4.4% from a year earlier. Commercial tablet shipments rose 67.1%, while consumer shipments fell 9.8%. Huawei ranked first in shipments, followed by Apple and Lenovo.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/13/chinas-tablet-shipments-fall-4-4-in-q2-as-commercial-demand-surges/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2023/09/%E6%88%AA%E5%B1%8F2023-09-26-%E4%B8%8B%E5%8D%885.24.44.png?fit=854%2C430&amp;ssl=1",
+      "publishedAt": "2026-08-13T05:31:36+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/companies/article/3363858/hong-kong-developer-hysans-first-half-earnings-rise-74-project-milestones-near?utm_source=rss_feed",
+      "_key": "44553fffacde40fa408970e00bf6c452",
+      "title": "Hong Kong developer Hysan’s first-half earnings rise 7.4% as project milestones near",
+      "originalTitle": "Hong Kong developer Hysan’s first-half earnings rise 7.4% as project milestones near",
+      "summary": "Hysan Development, the largest commercial landlord in Hong Kong’s Causeway Bay shopping district, posted an underlying profit of HK$1.11 billion (US$140.19 million) for the first half of 2026, an increase of 7.4 per cent from a year earlier, driven by a realised gain from the sale of residential units at its Bamboo Grove project.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/companies/article/3363858/hong-kong-developer-hysans-first-half-earnings-rise-74-project-milestones-near?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/13/22708cff-b17f-4fd9-971f-5ed73717ea79_33a94780.jpg?itok=vf25KPWN&v=1786596193",
+      "publishedAt": "2026-08-13T04:43:24+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/df/distrito-federal/noticia/2026/08/13/brb-uniao-df-e-bancos-retomam-conciliacao-no-stf-nesta-quinta-para-tentar-destravar-emprestimo-entenda-o-que-esta-em-jogo.ghtml",
+      "_key": "7f603ac2c05cdce9d9eaf31f6d947eb1",
+      "title": "BRB, União, DF e bancos retomam conciliação no STF nesta quinta para tentar destravar empréstimo; entenda o que está em jogo",
+      "originalTitle": "BRB, União, DF e bancos retomam conciliação no STF nesta quinta para tentar destravar empréstimo; entenda o que está em jogo",
+      "summary": "Federal e dos maiores bancos do país se reúnem, na tarde desta quinta-feira (13), em mais uma rodada de conciliação para tentar destravar um empréstimo bilionário para salvar o patrimônio do Banco de Brasília (BRB).",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/13/brb-uniao-df-e-bancos-retomam-conciliacao-no-stf-nesta-quinta-para-tentar-destravar-emprestimo-entenda-o-que-esta-em-jogo.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/Q2i2bbkaaOgg1CfyINYq0bg0-R4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/d/eqkGoOQNmVDwjdVxilfw/globo-canal-4-20260528-2000-frame-84836.jpeg",
+      "publishedAt": "2026-08-13T03:00:14+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/journey-of-tata-sons-chairman-chandra-what-milky-mists-ipo-reveals",
+      "_key": "52c3de1bab40fe02e9963397a7b8aac6",
+      "title": "Namakkal to Bombay House: Journey of Tata Sons Chairman Chandra; What Milky Mist’s IPO reveals",
+      "originalTitle": "Namakkal to Bombay House: Journey of Tata Sons Chairman Chandra; What Milky Mist’s IPO reveals",
+      "summary": "Under N. Chandrasekaran, Tata doubled down on electronics, semiconductors, batteries and digital businesses. Meanwhile, Milky Mist's IPO tells us about the kind of dairy businesses that India’s markets are willing to back.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/journey-of-tata-sons-chairman-chandra-what-milky-mists-ipo-reveals",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/LatestPPTTemplates29-1786547703599.jpg",
+      "publishedAt": "2026-08-13T02:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-12/two-sigma-s-overdeck-offered-wife-633-million-her-lawyer-says",
@@ -2931,6 +3094,27 @@
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/simpar-simh3-resultados-segundo-trimestre-2026/",
+      "_key": "6bcf7679490820b02c74ba8d404c166d",
+      "title": "Simpar (SIMH3) reverte prejuízo e reporta lucro líquido ajustado de R$ 52 mi no 2T26",
+      "originalTitle": "Simpar (SIMH3) reverte prejuízo e reporta lucro líquido ajustado de R$ 52 mi no 2T26",
+      "summary": "O trimestre marca os 70 anos de fundação do grupo, que também reportou o menor nível de alavancagem financeira desde seu IPO em 2010 The post Simpar (SIMH3) reverte prejuízo e reporta lucro líquido ajustado de R$ 52 mi no 2T26 appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/simpar-simh3-resultados-segundo-trimestre-2026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/11/Denys-Ferrez_CFO-Simpar.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T01:44:25+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/lakers-deal-bezos-eyes-liverpool-business-of-sports-video",
       "_key": "842e904677939f94b121559dc853f9ea",
       "title": "Record Lakers Deal, Bezos Eyes Liverpool: Business of Sports",
@@ -3700,6 +3884,27 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/cinema-e-streaming/festival-de-cinema-com-ia-chega-ao-brasil-em-meio-a-resistencia-do-setor/",
+      "_key": "d600750cb202ae90553e77c69d49889a",
+      "title": "Festival de cinema com IA chega ao Brasil em meio à resistência do setor",
+      "originalTitle": "Festival de cinema com IA chega ao Brasil em meio à resistência do setor",
+      "summary": "Primeira edição brasileira do AI Film Awards terá filmes, debates e atividades sobre o uso da tecnologia no audiovisual; organizadoras querem ampliar a discussão sobre IA no país O post Festival de cinema com IA chega ao Brasil em meio à resistência do setor apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/cinema-e-streaming/festival-de-cinema-com-ia-chega-ao-brasil-em-meio-a-resistencia-do-setor/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/protesto-ia-1024x682.jpg",
+      "publishedAt": "2026-08-12T23:32:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/inteligencia-artificial/google-reorganiza-area-de-ia-e-reforca-controle-sobre-o-desenvolvimento-do-gemini/",
@@ -5144,6 +5349,216 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-13/lenovo-shares-surge-19-after-revenue-beat-renews-ai-optimism",
+      "_key": "4aa2d42d43819484b1aa6474b263e6aa",
+      "title": "Lenovo Shares Surge 19% After Revenue Beat Renews AI Optimism",
+      "originalTitle": "Lenovo Shares Surge 19% After Revenue Beat Renews AI Optimism",
+      "summary": "Shares of Lenovo Group Ltd surged after the Chinese computer maker reported a 43% increase in quarterly revenue, beating analyst estimates by a wide margin and reinforcing optimism around AI-driven demand.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/lenovo-shares-surge-19-after-revenue-beat-renews-ai-optimism",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T05:47:26+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/13/honor-launches-robot-phone-with-gimbal-camera-and-ai-agent-features/",
+      "_key": "840bd094a6b8da1a9308b977719c2e7c",
+      "title": "Honor Launches Robot Phone with Gimbal Camera and AI Agent Features",
+      "originalTitle": "Honor Launches Robot Phone with Gimbal Camera and AI Agent Features",
+      "summary": "Honor has launched its Robot Phone, a smartphone equipped with a four-degree-of-freedom titanium gimbal and a system-level AI agent architecture. The phone measures about 9.59 millimeters thick, weighs 248 grams and includes a 7,060mAh battery and a 6.31-inch display.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/13/honor-launches-robot-phone-with-gimbal-camera-and-ai-agent-features/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/honor-robot-phone.png?fit=1024%2C449&amp;ssl=1",
+      "publishedAt": "2026-08-13T05:40:14+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/13/wechat-ai-team-details-welm-models-scaling-to-617b-parameters/",
+      "_key": "e9cd71143d7b8d6c1812c39b13ad2c32",
+      "title": "WeChat AI Team Details WeLM Models Scaling to 617B Parameters",
+      "originalTitle": "WeChat AI Team Details WeLM Models Scaling to 617B Parameters",
+      "summary": "family. The team trained WeLM-HD4-80B and WeLM-HD4-617B models using a method called Hidden Decoding, which expands each token into multiple internal computation streams without increasing the main Transformer backbone.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/13/wechat-ai-team-details-welm-models-scaling-to-617b-parameters/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2014/06/download-1.png?fit=192%2C192&amp;ssl=1",
+      "publishedAt": "2026-08-13T05:17:35+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/why-meta-is-paying-for-controversial-content-and-what-that-means-for-the-posts-you-see/articleshow/133198524.cms",
+      "_key": "4c4b1be07c2344b173f9e169137db5ca",
+      "title": "Why Meta is paying for controversial content - and what that means for the posts you see",
+      "originalTitle": "Why Meta is paying for controversial content - and what that means for the posts you see",
+      "summary": "ABC News Verify found Facebook had monetised Australian accounts described as having white nationalist, neo-Nazi or anti-vaccine links. According to the report, some of the content they posted even appeared to conflict with Meta's own monetisation policies.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/why-meta-is-paying-for-controversial-content-and-what-that-means-for-the-posts-you-see/articleshow/133198524.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133198524,imgsize-40460.cms",
+      "publishedAt": "2026-08-13T05:00:32+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/korean-stocks-rise-as-chip-rally-regains-steam-video",
+      "_key": "2d7f03256e630ef88058ac1feb1b28a9",
+      "title": "Korean Stocks Rise as Chip Rally Regains Steam",
+      "originalTitle": "Korean Stocks Rise as Chip Rally Regains Steam",
+      "summary": "A revival in the global AI trade pushed South Korean stocks toward a technical bull market, marking a dramatic turnaround from last month’s historic rout. Bloomberg TV's Avril Hong breaks down the latest moves. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/korean-stocks-rise-as-chip-rally-regains-steam-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T03:38:27+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/strong-majority-of-japanese-firms-have-yet-to-fully-embrace-ai-reuters-poll/articleshow/133196390.cms",
+      "_key": "cea589c32b65504f0677398ad9b6c4c9",
+      "title": "poll",
+      "originalTitle": "poll",
+      "summary": "About 60% of respondents said AI is being used only in some parts of their companies or in other limited ways. Another 18% said they have not decided whether to introduce AI into the workplace while 6% are not ‌even considering AI ⁠adoption.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/strong-majority-of-japanese-firms-have-yet-to-fully-embrace-ai-reuters-poll/articleshow/133196390.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133196390,imgsize-350722.cms",
+      "publishedAt": "2026-08-13T02:53:54+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/jury-selection-begins-in-meta-youth-harms-trial-in-california-federal-court/articleshow/133196054.cms",
+      "_key": "75fd4ecc17e6114465dc804e58678ae3",
+      "title": "Jury selection begins in Meta youth harms trial in California federal court",
+      "originalTitle": "Jury selection begins in Meta youth harms trial in California federal court",
+      "summary": "The 2023 lawsuit, filed in federal court in Oakland, California, claims that Meta routinely collects data on children under 13 without their parents' consent, in violation of federal law.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/jury-selection-begins-in-meta-youth-harms-trial-in-california-federal-court/articleshow/133196054.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133196054,imgsize-213878.cms",
+      "publishedAt": "2026-08-13T02:26:13+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/colunistas/olhar-do-amanha-agora-e-possivel-ler-a-mente-sem-abrir-seu-cranio-e-isso-e-so-o-comeco/",
+      "_key": "bce7a199a3a73111934f546f19818b37",
+      "title": "Olhar do Amanhã: agora é possível ler a mente sem abrir seu crânio — e isso é só o começo",
+      "originalTitle": "Olhar do Amanhã: agora é possível ler a mente sem abrir seu crânio — e isso é só o começo",
+      "summary": "A fronteira entre o que pensamos e o que pode ser lido está ficando mais fina do que a maioria das pessoas percebe O post Olhar do Amanhã: agora é possível ler a mente sem abrir seu crânio — e isso é só o começo apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/colunistas/olhar-do-amanha-agora-e-possivel-ler-a-mente-sem-abrir-seu-cranio-e-isso-e-so-o-comeco/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/Brain_glowing_orange_202604012324.jpg",
+      "publishedAt": "2026-08-13T01:37:09+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-13/australia-home-price-drop-adds-to-restrictive-stance-rba-s-kent",
+      "_key": "2df8e75c18aeaad47446da81da868772",
+      "title": "Australia Housing Price Drop Helps Slow Economy, RBA’s Kent Says",
+      "originalTitle": "Australia Housing Price Drop Helps Slow Economy, RBA’s Kent Says",
+      "summary": "A fall in home prices is making financial conditions in Australia more restrictive, according to a senior central bank official, helping efforts to reduce aggregate demand and cool the economy.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/australia-home-price-drop-adds-to-restrictive-stance-rba-s-kent",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T01:09:51+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/pro/trump-e-processado-por-vender-acesso-antecipado-a-posts-do-truth-social/",
+      "_key": "803030197c56675530fb0a1dc3cf9d87",
+      "title": "Trump é processado por vender acesso antecipado a posts do Truth Social",
+      "originalTitle": "Trump é processado por vender acesso antecipado a posts do Truth Social",
+      "summary": "Ação argumenta que publicações de Trump em sua própria rede social frequentemente movimentam mercados financeiros por trazerem anúncios sobre políticas governamentais, ações militares e outras decisões do governo O post Trump é processado por vender acesso antecipado a posts do Truth Social apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/12/pro/trump-e-processado-por-vender-acesso-antecipado-a-posts-do-truth-social/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/08/truth-social-1024x643.jpg",
+      "publishedAt": "2026-08-12T23:33:29+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/eclipse-solar-total-transforma-dia-em-noite-na-espanha-e-na-islandia/",
       "_key": "9abcf158f7a79c4990baae2d5be2ce38",
       "title": "Eclipse solar total transforma dia em noite na Espanha e na Islândia",
@@ -5341,6 +5756,27 @@
       "whyMatters": "",
       "summaryMethod": "regra",
       "url": "https://achados.tecnoblog.net/motorola-signature-512-gb-volta-a-ficar-mais-barato-com-cupom/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/03/motorola-signature-esta-em-promocao-foto-giovanni-santa-rosatecnoblog.png",
+      "publishedAt": "2026-08-12T19:55:54+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/achados/motorola-signature-512-gb-volta-a-ficar-mais-barato-com-cupom/",
+      "_key": "8455194aff2fbe2eaf6b7c0ac410f787",
+      "title": "Motorola Signature (512 GB) volta a ficar mais barato com cupom",
+      "originalTitle": "Motorola Signature (512 GB) volta a ficar mais barato com cupom",
+      "summary": "Motorola Signature de 512 GB sai com 40% de desconto no Mercado Livre. O topo de linha traz Snapdragon 8 Gen 5, câmeras traseiras de 50 MP e tela AMOLED de 165 Hz Motorola Signature (512 GB) volta a ficar mais barato com cupom",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/achados/motorola-signature-512-gb-volta-a-ficar-mais-barato-com-cupom/",
       "source": "Tecnoblog",
       "region": "Brasil",
       "country": "BR",
@@ -9639,6 +10075,90 @@
       "country": "US"
     },
     {
+      "id": "TechNode-https://technode.com/2026/08/13/insta360-confirms-development-of-two-mirrorless-cameras/",
+      "_key": "64914ec58b89d1e145262e1f47d60928",
+      "title": "Insta360 Confirms Development of Two Mirrorless Cameras",
+      "originalTitle": "Insta360 Confirms Development of Two Mirrorless Cameras",
+      "summary": "Insta360 founder and CEO JK Liu said the company is developing two mirrorless cameras with different designs. One of the models will use a form that consumers may not have seen before, following an interview held after the opening of Insta360’s first direct-run store in Japan.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/13/insta360-confirms-development-of-two-mirrorless-cameras/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2024/06/Insta360-Logo.jpg?fit=635%2C399&amp;ssl=1",
+      "publishedAt": "2026-08-13T05:13:52+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363854/chinas-ymtc-breaks-global-top-three-flash-memory-suppliers-first-time?utm_source=rss_feed",
+      "_key": "287a52130e2d719d9e0aecdff7ef4098",
+      "title": "China’s YMTC breaks into global top 3 flash-memory suppliers for first time",
+      "originalTitle": "China’s YMTC breaks into global top 3 flash-memory suppliers for first time",
+      "summary": "Yangtze Memory Technologies Corp (YMTC) has broken into the world’s top three NAND flash memory suppliers by volume for the first time, marking a milestone for China’s semiconductor ambitions as it strives to narrow the revenue gap with global rivals in high-value data-centre storage.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363854/chinas-ymtc-breaks-global-top-three-flash-memory-suppliers-first-time?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/13/ef1d2952-c6a5-48f6-8571-ffbd4695d835_1c88a515.jpg?itok=JVW4S5bJ&v=1786595068",
+      "publishedAt": "2026-08-13T05:00:08+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/the-china-show-8-13-2026-video",
+      "_key": "4836e88533a1e1d5b552a22448573c01",
+      "title": "Show | 8/13/2026",
+      "originalTitle": "Show | 8/13/2026",
+      "summary": "analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/the-china-show-8-13-2026-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T04:59:39+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-13/aluminum-extends-fall-from-seven-week-high-as-supply-fears-ease",
+      "_key": "da027ffee86e5a4e9d16fea6f4afff10",
+      "title": "Aluminum Extends Fall From Seven-Week High as Supply Fears Ease",
+      "originalTitle": "Aluminum Extends Fall From Seven-Week High as Supply Fears Ease",
+      "summary": "Aluminum fell for a second day after one of the Middle East’s biggest smelters announced plans to restore production earlier than expected, blunting fears over a growing shortage of the metal.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/aluminum-extends-fall-from-seven-week-high-as-supply-fears-ease",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T04:19:36+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "The Verge-https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
       "_key": "2936985b67fbfe044b60752296af133f",
       "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
@@ -9752,6 +10272,27 @@
       "whyMatters": "",
       "summaryMethod": "regra",
       "url": "https://achados.tecnoblog.net/nintendo-switch-com-super-mario-bros-wonder-tem-preco-mais-baixo-na-amazon/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
+      "publishedAt": "2026-08-12T16:46:01+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/achados/nintendo-switch-com-super-mario-bros-wonder-tem-preco-mais-baixo-na-amazon/",
+      "_key": "39a86e50d2bd020eaa367ac4bd1b3b44",
+      "title": "Nintendo Switch, com Super Mario Bros. Wonder, tem preço mais baixo na Amazon",
+      "originalTitle": "Nintendo Switch, com Super Mario Bros. Wonder, tem preço mais baixo na Amazon",
+      "summary": "Bundle do Nintendo Switch inclui o game Super Mario Bros. Wonder e um voucher de 3 meses da Switch Online; pacote recebe desconto de 37% no Pix Nintendo Switch, com Super Mario Bros. Wonder, tem preço mais baixo na Amazon",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/achados/nintendo-switch-com-super-mario-bros-wonder-tem-preco-mais-baixo-na-amazon/",
       "source": "Tecnoblog",
       "region": "Brasil",
       "country": "BR",
