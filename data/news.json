@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T06:07:39.870945+00:00",
+  "updatedAt": "2026-08-13T10:03:43.673733+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -251,6 +251,27 @@
       "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-17-956.png",
       "publishedAt": "2026-08-06T16:00:00+00:00",
       "score": 84,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/13/metal-morph-raises-ps700k-to-recover-industrial-resources-from-wastewater/",
+      "_key": "9f8f9079cc14755e516902609d8d976d",
+      "title": "Metal Morph raises £700K to recover industrial resources from wastewater",
+      "originalTitle": "Metal Morph raises £700K to recover industrial resources from wastewater",
+      "summary": "UK-based water technology startupMetal Morph has raised £700,000 in pre-seed funding to advance its technologyfor recovering industrial resources from water and wastewater treatmentprocesses. The roun...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/13/metal-morph-raises-ps700k-to-recover-industrial-resources-from-wastewater/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/metalmorph-featured-664.png",
+      "publishedAt": "2026-08-13T08:00:00+00:00",
+      "score": 73,
       "alsoIn": [],
       "sourcesCovered": [
         "Tech.eu"
@@ -569,6 +590,27 @@
       "country": "BR"
     },
     {
+      "id": "Exame-https://exame.com/negocios/startups-globais-de-fundadores-latino-americanos-ja-criaram-us-200-bilhoes-em-valor-de-mercado/",
+      "_key": "17e9e05833e3a3715c91d7977d95f88a",
+      "title": "Startups globais de fundadores latino-americanos já criaram US$ 200 bilhões em valor de mercado",
+      "originalTitle": "Startups globais de fundadores latino-americanos já criaram US$ 200 bilhões em valor de mercado",
+      "summary": "Segundo pesquisa da Latitud, 46% das empresas de tecnologia da região já nasceram globais em 2025. Estudo ainda analisa concentração de investimentos nos Estados Unidos e traz depoimentos de fundadores",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/negocios/startups-globais-de-fundadores-latino-americanos-ja-criaram-us-200-bilhoes-em-valor-de-mercado/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/unnamed-1.jpg",
+      "publishedAt": "2026-08-13T06:00:19+00:00",
+      "score": 57,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-12/-call-her-daddy-host-raises-money-at-500m-valuation-video",
       "_key": "bfcff16bf66d273601b55f8a292a052a",
       "title": "‘Call Her Daddy’ Host Raises Money at $500M Valuation",
@@ -649,6 +691,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Crunchbase News"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/funding/startup-cognition-in-new-funding-talks-at-40-billion-value/articleshow/133202849.cms",
+      "_key": "37a4b08bd6851ce8ee5f86a9edbe36e9",
+      "title": "Startup Cognition in new funding talks at $40 billion value",
+      "originalTitle": "Startup Cognition in new funding talks at $40 billion value",
+      "summary": "reported. The company may still decide not to raise capital, or seek financing with different terms. Founded in 2023, Cognition is backed by top venture firms including General Catalyst and Peter Thiel’s Founders Fund.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/funding/startup-cognition-in-new-funding-talks-at-40-billion-value/articleshow/133202849.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133202849,imgsize-58824.cms",
+      "publishedAt": "2026-08-13T07:06:26+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -931,6 +994,27 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/lancaster-university-spinout-mindgard-lands-e26-million-to-secure-enterprise-ai-systems/",
+      "_key": "7c36ff1c7a01e00062a8261ba13af84d",
+      "title": "Lancaster University spinout Mindgard lands €26 million to secure enterprise AI systems",
+      "originalTitle": "Lancaster University spinout Mindgard lands €26 million to secure enterprise AI systems",
+      "summary": "Mindgard, a Boston and London-based AI security startup, has closed a €26 million ($30 million) Series A financing to scale the company across product, engineering, sales, and marketing in response to significant customer demand.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/lancaster-university-spinout-mindgard-lands-e26-million-to-secure-enterprise-ai-systems/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-13T130209.809.jpg",
+      "publishedAt": "2026-08-13T07:34:30+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/12/stf-valida-moratoria-da-soja-e-mantem-leis-que-restringem-beneficios-fiscais-a-empresas.ghtml",
@@ -1956,6 +2040,69 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/13/saque-do-fgts-novo-caminho-na-justica-veja-o-que-muda.ghtml",
+      "_key": "f1c60ac5e08bdf62fe1865827a01f61a",
+      "title": "Saque do FGTS: trabalhador que não consegue sacar terá novo caminho na Justiça; veja o que muda",
+      "originalTitle": "Saque do FGTS: trabalhador que não consegue sacar terá novo caminho na Justiça; veja o que muda",
+      "summary": "Número de empresas que não depositam o FGTS dos empregados no prazo tem aumentado no Brasil O Tribunal Superior do Trabalho (TST) mudou a regra sobre qual Justiça deve julgar ações relacionadas ao saque do Fundo de Garantia do Tempo de Serviço (FGTS).",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/13/saque-do-fgts-novo-caminho-na-justica-veja-o-que-muda.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/V5-LQAXgk8-Nopee8MHIAfQX2ds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/9/kfyrwXTjGb4jZVbeBmjw/videoframe-187523.png",
+      "publishedAt": "2026-08-13T08:02:16+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/mrvco-mrve3-resultados-segundo-trimestre-2026/",
+      "_key": "bad7269db7f342c7c64507675fbda21d",
+      "title": "MRV&CO: Prejuízo líquido consolidado é de R$ 626,3 mi no 2T, perda 22,7% menor",
+      "originalTitle": "MRV&CO: Prejuízo líquido consolidado é de R$ 626,3 mi no 2T, perda 22,7% menor",
+      "summary": "O que mais pesou no balanço foi a já esperada baixa contábil (impairment) de US$ 110 milhões da Resia The post MRV CO: Prejuízo líquido consolidado é de R$ 626,3 mi no 2T, perda 22,7% menor appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/mrvco-mrve3-resultados-segundo-trimestre-2026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Captura-de-tela-2024-08-13-191553.png?fit=300%2C198&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T08:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/negocios/genetica-de-peso-leilao-de-gado-cresce-125-no-brasil-e-mira-novo-recorde-em-2026/",
+      "_key": "9a7f948ebcd530b86c7f2f7eeb37b84e",
+      "title": "Genética de ‘peso’: leilão de gado cresce 125% no Brasil e mira novo recorde em 2026",
+      "originalTitle": "Genética de ‘peso’: leilão de gado cresce 125% no Brasil e mira novo recorde em 2026",
+      "summary": "A JBJ Agropecuária faturou R$ 6 bilhões em 2025 tendo como o principal negócio a agropecuária. Nesta semana, o grupo promove a 3ª edição do Leilão JBJ Genetics e Família Nelorista. Saiba mais sobre o evento",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/negocios/genetica-de-peso-leilao-de-gado-cresce-125-no-brasil-e-mira-novo-recorde-em-2026/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/JBJ_GENETICS_2025_DIA1-554.jpg-1.jpeg",
+      "publishedAt": "2026-08-13T06:13:06+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "TechNode-https://technode.com/2026/08/13/alibaba-cloud-launches-qwen-ai-arena-for-real-world-agent-testing/",
@@ -3094,6 +3241,69 @@
       "country": "BR"
     },
     {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/the-eu-startups-podcast-interview-with-nikita-miller-chief-product-officer-at-perk/",
+      "_key": "f5d22d5911647473f8b76ea5243de06a",
+      "title": "The EU-Startups Podcast | Interview with Nikita Miller, Chief Product Officer at Perk",
+      "originalTitle": "The EU-Startups Podcast | Interview with Nikita Miller, Chief Product Officer at Perk",
+      "summary": "In this exclusive interview, we sit down with Nikita Miller, Chief Product Officer at Perk, formerly known as TravelPerk, to explore the company’s transformation from a business travel platform into an AI-native travel and spend management ecosystem, as well as its ambitions for international expansion.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/the-eu-startups-podcast-interview-with-nikita-miller-chief-product-officer-at-perk/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Nikita-Miller-Perk-1-1024x682.png",
+      "publishedAt": "2026-08-13T09:40:18+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/duolingo-acquires-london-animation-studio-animade-to-strengthen-its-creative-capabilities/",
+      "_key": "6accc8d8c8cc3a74c8ec59c4f7926c91",
+      "title": "Duolingo acquires London-based animation studio Animade to strengthen its creative capabilities",
+      "originalTitle": "Duolingo acquires London-based animation studio Animade to strengthen its creative capabilities",
+      "summary": "Duolingo, the Pittsburgh-based mobile learning platform, has acquired Animade, a London-based animation and motion design studio known for its work in product storytelling, brand, interactive experiences, and character animation.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/duolingo-acquires-london-animation-studio-animade-to-strengthen-its-creative-capabilities/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-13T144350.304.jpg",
+      "publishedAt": "2026-08-13T09:17:20+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-13/spacex-passes-first-lockup-expiry-test-with-500-billion-rally",
+      "_key": "0297d3382ab756ceeea8f2ac3e71d44a",
+      "title": "SpaceX Passes First Lockup Expiry Test With $500 Billion Rally",
+      "originalTitle": "SpaceX Passes First Lockup Expiry Test With $500 Billion Rally",
+      "summary": "Since SpaceX went public in June, Wall Street had been dreading Aug. 6, when the first lockup preventing early investors from selling the stock expired and millions of shares were set to flood the market.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/spacex-passes-first-lockup-expiry-test-with-500-billion-rally",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T08:45:30+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/simpar-simh3-resultados-segundo-trimestre-2026/",
       "_key": "6bcf7679490820b02c74ba8d404c166d",
       "title": "Simpar (SIMH3) reverte prejuízo e reporta lucro líquido ajustado de R$ 52 mi no 2T26",
@@ -3884,6 +4094,69 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3363895/deepseeks-updated-v4-pro-ai-model-struggles-benchmarks-shines-cybersecurity?utm_source=rss_feed",
+      "_key": "b7d04b422409306df39fecfa9007657d",
+      "title": "DeepSeek’s updated V4 Pro AI model struggles on benchmarks, shines in cybersecurity",
+      "originalTitle": "DeepSeek’s updated V4 Pro AI model struggles on benchmarks, shines in cybersecurity",
+      "summary": "Chinese artificial intelligence start-up DeepSeek has quietly released DeepSeek-V4-Pro-0813, an updated version of its latest flagship model, leaving some developers underwhelmed by its overall capabilities and disappointed in its pricing – but impressing researchers in niche areas like cybersecurity.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3363895/deepseeks-updated-v4-pro-ai-model-struggles-benchmarks-shines-cybersecurity?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/13/d5ad2270-cc1c-45e2-80ac-fdf9666027f3_1c221b64.jpg?itok=xHbOcYjY&v=1786608023",
+      "publishedAt": "2026-08-13T08:00:32+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/global/ceo-discorda-de-musk-ia-nao-vai-eliminar-o-dinheiro-somos-animais-de-status/",
+      "_key": "dcae038fb545ce7d1e0e6b5f1e356230",
+      "title": "CEO discorda de Musk: “IA não vai eliminar o dinheiro — somos animais de status”",
+      "originalTitle": "CEO discorda de Musk: “IA não vai eliminar o dinheiro — somos animais de status”",
+      "summary": "Para Michael Saylor, da Strategy, abundância de bens básicos só eleva o padrão do que é considerado luxo: \"todo mundo tem carro, mas quantos têm Porsche?\" The post CEO discorda de Musk: &#8220;IA não vai eliminar o dinheiro — somos animais de status&#8221; appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/global/ceo-discorda-de-musk-ia-nao-vai-eliminar-o-dinheiro-somos-animais-de-status/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/BILLIONAIRE-MICHAEL-SAYLOR-SAYS-ELON-MUSK-IS-WRONG-ABOUT-AI-MAKING-MONEY-IRRELEVANT-EVERYBODY-DOESNT-GET-THEIR-OWN-PRIVATE-JET.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T08:00:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3363877/ai-surge-helps-dual-listed-mainland-china-stocks-hit-1-year-high-premium-over-hong-kong?utm_source=rss_feed",
+      "_key": "5c0a8a0cff13b4ccdfe9bcbe759a8306",
+      "title": "AI surge helps dual-listed mainland China stocks hit 1-year high premium over Hong Kong",
+      "originalTitle": "AI surge helps dual-listed mainland China stocks hit 1-year high premium over Hong Kong",
+      "summary": "on the mainland and in Hong Kong has widened to a near one-year high, as state-backed support and renewed enthusiasm for artificial intelligence bolsters sentiment on yuan-traded stocks.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3363877/ai-surge-helps-dual-listed-mainland-china-stocks-hit-1-year-high-premium-over-hong-kong?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/13/b1cc2a30-b3ac-4ca2-894d-dea554112f31_cb664e64.jpg?itok=3KyUcYjS&v=1786602486",
+      "publishedAt": "2026-08-13T06:28:06+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/cinema-e-streaming/festival-de-cinema-com-ia-chega-ao-brasil-em-meio-a-resistencia-do-setor/",
@@ -5349,6 +5622,153 @@
       "country": "BR"
     },
     {
+      "id": "Wired-https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+      "_key": "d4a28f29b17c8c78ed9c546e7edc30de",
+      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+      "originalTitle": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+      "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+      "source": "Wired",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://media.wired.com/photos/6a7a380554cb34d4d120f360/master/pass/Theres-a-Fatty-Liver-Epidemic-Science.jpg",
+      "publishedAt": "2026-08-13T09:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Wired"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/13/europe-is-entering-a-new-hardware-age-made-in-eu-starts-long-before-the-factory-floor/",
+      "_key": "457002921a0fe1bee1b77c9081efa158",
+      "title": "Europe is entering a new hardware age: ‘Made in EU’ starts long before the factory floor",
+      "originalTitle": "Europe is entering a new hardware age: ‘Made in EU’ starts long before the factory floor",
+      "summary": "The EU Industrial Accelerator Act (IAA), proposed by the European Commission in March, aims to ensure Europe manufactures more of the technologies and industrial products it consumes. Europe has histo...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/13/europe-is-entering-a-new-hardware-age-made-in-eu-starts-long-before-the-factory-floor/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-28-701.png",
+      "publishedAt": "2026-08-13T08:30:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/global/de-guarda-costas-a-homem-forte-como-o-neto-de-raul-castro-ganhou-poder-em-cuba/",
+      "_key": "46531e4b202da97687c34448c4beada5",
+      "title": "De guarda-costas a homem forte: como o neto de Raúl Castro ganhou poder em Cuba",
+      "originalTitle": "De guarda-costas a homem forte: como o neto de Raúl Castro ganhou poder em Cuba",
+      "summary": "Interlocutor da família Castro nas negociações com o governo Trump, Raúl G. Rodríguez Castro já foi citado em um processo contra uma rede de contrabando cubana The post De guarda-costas a homem forte: como o neto de Raúl Castro ganhou poder em Cuba appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/global/de-guarda-costas-a-homem-forte-como-o-neto-de-raul-castro-ganhou-poder-em-cuba/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-26T215430Z_1498064350_RC2ULMAWJD7S_RTRMADP_3_MEXICO-CUBA-PROTEST-USA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T08:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/global/aos-14-ela-colhia-milho-por-us-1-a-hora-hoje-comanda-a-ia-do-google-deepmind/",
+      "_key": "8822afd0537604ced067383a65765eb5",
+      "title": "Aos 14, ela colhia milho por US$ 1 a hora; hoje, comanda a IA do Google DeepMind",
+      "originalTitle": "Aos 14, ela colhia milho por US$ 1 a hora; hoje, comanda a IA do Google DeepMind",
+      "summary": "Lila Ibrahim, primeira COO do Google DeepMind, trocou os campos de Indiana por uma carreira que a levou da Intel ao comando da IA, sem formação formal na área e como filha de imigrante The post Aos 14, ela colhia milho por US$ 1 a hora; hoje, comanda a IA do Google DeepMind appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/global/aos-14-ela-colhia-milho-por-us-1-a-hora-hoje-comanda-a-ia-do-google-deepmind/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/SHE-DETASSELED-CORN-FOR-1-AN-HOUR-AT-14-NOW-SHES-GOOGLE-DEEPMINDS-CHIEF-AI-EXECAND-SAYS-BEING-AN-IMMIGRANTS-DAUGHTER-MADE-HER-A-NATURAL-FIRST.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T08:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/global/conheca-o-chattjb-o-chatbot-de-ia-sem-ia-so-um-humano-e-10-mil-voluntarios/",
+      "_key": "d84afcaa4026b5770595ed786d6ba496",
+      "title": "Conheça o ChatTJB, o “chatbot de IA” sem IA — só um humano e 10 mil voluntários",
+      "originalTitle": "Conheça o ChatTJB, o “chatbot de IA” sem IA — só um humano e 10 mil voluntários",
+      "summary": "Tucker Bryant lançou ChatTJB como sátira à dependência de IA. Não há modelo de linguagem: ele e voluntários respondem perguntas The post Conheça o ChatTJB, o &#8220;chatbot de IA&#8221; sem IA — só um humano e 10 mil voluntários appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/global/conheca-o-chattjb-o-chatbot-de-ia-sem-ia-so-um-humano-e-10-mil-voluntarios/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/MEET-CHATTJB-THE-AI-CHATBOT-WITH-NO-AI-NO-ALGORITHM-AND-NO-LLM-ITS-JUST-ONE-GUY-AND-THE-10000-PEOPLE-WHO-VOLUNTEERED-TO-TYPE-BACK.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-13T08:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-13/nigerian-central-bank-widens-access-to-open-market-operations",
+      "_key": "82f7d54845bf53f2afe00e4f104dd310",
+      "title": "Nigeria Central Bank Widens Access to Open Market Operations",
+      "originalTitle": "Nigeria Central Bank Widens Access to Open Market Operations",
+      "summary": "Nigeria’s central bank expanded eligibility for participation in Open Market Operations, allowing individuals, corporates and non-bank financial institutions, in addition to banks, to trade in the securities.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/nigerian-central-bank-widens-access-to-open-market-operations",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-13T07:12:05+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/g1-explica/noticia/2026/08/13/casa-propria-ou-aluguel-como-saber-o-que-vale-mais-a-pena-para-voce.ghtml",
+      "_key": "c6b47841a38442a3759a76bac2efb507",
+      "title": "Casa própria ou aluguel: como saber o que vale mais a pena para você",
+      "originalTitle": "Casa própria ou aluguel: como saber o que vale mais a pena para você",
+      "summary": "Vale a pena ter casa própria? Comprar ou alugar um imóvel depende da situação financeira e dos planos de cada pessoa. A casa própria traz segurança e, ao fim do financiamento, deixa um patrimônio para o proprietário.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/08/13/casa-propria-ou-aluguel-como-saber-o-que-vale-mais-a-pena-para-voce.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/TN3LPQl39086Zkp6xkRZIEDSvko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/v/UK7bQZSLyJNeGdUMIheQ/thumb-horizontal-g1-explica-ep-20-vale-a-pena-ter-casa-propria.jpg",
+      "publishedAt": "2026-08-13T06:00:20+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-13/lenovo-shares-surge-19-after-revenue-beat-renews-ai-optimism",
       "_key": "4aa2d42d43819484b1aa6474b263e6aa",
       "title": "Lenovo Shares Surge 19% After Revenue Beat Renews AI Optimism",
@@ -5366,6 +5786,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/esg/heineken-cria-rede-para-reciclar-vidro-nos-lencois-maranhenses-e-coleta-30-toneladas/",
+      "_key": "f1846dd5c836e80ba2257520abe02860",
+      "title": "Heineken cria rede para reciclar vidro nos Lençóis Maranhenses e coleta 30 toneladas",
+      "originalTitle": "Heineken cria rede para reciclar vidro nos Lençóis Maranhenses e coleta 30 toneladas",
+      "summary": "Iniciativa superou em 47% a meta dos primeiros seis meses em uma região que recebeu recorde de turistas. Local reconhecido como Patrimônio Natural da Unesco não conta com coleta seletiva",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/esg/heineken-cria-rede-para-reciclar-vidro-nos-lencois-maranhenses-e-coleta-30-toneladas/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/10A0036.jpg",
+      "publishedAt": "2026-08-13T05:43:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
       ],
       "coverageCount": 1
     },
