@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:33:55.813692+00:00",
+  "updatedAt": "2026-08-14T22:32:58.914974+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -188,6 +188,11 @@
     }
   ],
   "failures": [
+    {
+      "source": "Startupi",
+      "url": "https://startupi.com.br/feed/",
+      "reason": "falhou direto e via proxy"
+    },
     {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -2628,6 +2633,27 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/pro/spacex-conclui-compra-da-cursor-por-us-60-bilhoes-e-amplia-parceria-forte-em-ia/",
+      "_key": "23789965c6e192259bf63f0952111117",
+      "title": "SpaceX conclui compra da Cursor por US$ 60 bilhões e amplia parceria forte em IA",
+      "originalTitle": "SpaceX conclui compra da Cursor por US$ 60 bilhões e amplia parceria forte em IA",
+      "summary": "A operação reúne tecnologia, infraestrutura computacional e serviços de IA em uma integração que já avançava antes do fechamento O post SpaceX conclui compra da Cursor por US$ 60 bilhões e amplia parceria forte em IA apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/pro/spacex-conclui-compra-da-cursor-por-us-60-bilhoes-e-amplia-parceria-forte-em-ia/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/gestao-escritorio-humano-e-agentes-IA-1024x480.jpg",
+      "publishedAt": "2026-08-14T19:48:14+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/bitget-nomeia-noah-cheung-como-novo-country-manager-para-o-brasil/",
@@ -5356,6 +5382,69 @@
       "country": "BR"
     },
     {
+      "id": "Tecnoblog-https://tecnoblog.net/achados/huawei-band-11-esta-em-promocao-com-mais-de-50-de-desconto-na-amazon/",
+      "_key": "eae89f60c02e5ecd6d2b9d65042f5427",
+      "title": "Huawei Band 11 está em promoção com mais de 50% de desconto na Amazon",
+      "originalTitle": "Huawei Band 11 está em promoção com mais de 50% de desconto na Amazon",
+      "summary": "Huawei Band 11 traz tela AMOLED de 1,62\", monitoramento contínuo da frequência cardíaca e SpO2 e bateria para 14 dias. Nova smartband de apenas 17 gramas sai com 53% OFF no Pix Huawei Band 11 está em promoção com mais de 50% de desconto na Amazon",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/achados/huawei-band-11-esta-em-promocao-com-mais-de-50-de-desconto-na-amazon/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/08/huawei-band-11-super-desconto-1060x596.png",
+      "publishedAt": "2026-08-14T21:31:05+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/esportes/cbv-adota-criterio-do-coi-e-vai-fazer-teste-genetico-em-atletas-femininas/",
+      "_key": "b387b9601611497638212755ba420ad0",
+      "title": "CBV adota critério do COI e vai fazer teste genético em atletas femininas",
+      "originalTitle": "CBV adota critério do COI e vai fazer teste genético em atletas femininas",
+      "summary": "Elegibilidade de atletas nas competições da categoria feminina no voleibol passará a exigir o teste genético SRY; medida vale para todas as competições nacionais The post CBV adota critério do COI e vai fazer teste genético em atletas femininas appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/esportes/cbv-adota-criterio-do-coi-e-vai-fazer-teste-genetico-em-atletas-femininas/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Captura-de-tela-2024-08-10-133456.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-14T21:21:38+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/inteligencia-artificial/ia-chinesa-pode-ter-superado-a-anthropic-em-teste-de-seguranca-cibernetica/",
+      "_key": "478da1d0547d05c0e63cf938f9fecc5d",
+      "title": "IA chinesa pode ter superado a Anthropic em teste de segurança cibernética",
+      "originalTitle": "IA chinesa pode ter superado a Anthropic em teste de segurança cibernética",
+      "summary": "Z.ai planeja lançar o modelo em cerca de duas semanas, mas manterá recursos mais sensíveis restritos a usuários verificados O post IA chinesa pode ter superado a Anthropic em teste de segurança cibernética apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/inteligencia-artificial/ia-chinesa-pode-ter-superado-a-anthropic-em-teste-de-seguranca-cibernetica/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/shutterstock_2761441095-scaled-1-1024x653.jpg",
+      "publishedAt": "2026-08-14T21:18:32+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-com-aversao-a-risco-no-brasil/",
       "_key": "60192112daaa1192dd5ef4bdb2298346",
       "title": "Taxas dos DIs sobem com aversão a risco no Brasil",
@@ -7449,6 +7538,153 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-14/former-boston-fed-pres-investment-spend-a-catalyst-video",
+      "_key": "b803861188a0a2a1b3b83d8193c04627",
+      "title": "Former Boston Fed Pres.: Investment spend a catalyst",
+      "originalTitle": "Former Boston Fed Pres.: Investment spend a catalyst",
+      "summary": "Former Boston Federal Reserve President Eric Rosengren isn't surprised by a weaker retail sales number with the American consumer dealing with higher oil prices while AI and tech investment drive a large portion of investment spending.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-14/former-boston-fed-pres-investment-spend-a-catalyst-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T22:11:25+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/pro/discord-criptografia-dificulta-combate-a-abusos-contra-menores-alerta-anpd/",
+      "_key": "0a5bbc5bc4fea4b5356b89686e3ee19b",
+      "title": "Discord: criptografia dificulta combate a abusos contra menores, alerta ANPD",
+      "originalTitle": "Discord: criptografia dificulta combate a abusos contra menores, alerta ANPD",
+      "summary": "Criptografia torna o conteúdo das comunicações ilegível para qualquer pessoa que não participe diretamente da conversa e tente interceptá-la O post Discord: criptografia dificulta combate a abusos contra menores, alerta ANPD apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/pro/discord-criptografia-dificulta-combate-a-abusos-contra-menores-alerta-anpd/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/04/Destaque-Discord-7-de-abril-1024x576.jpg",
+      "publishedAt": "2026-08-14T21:05:52+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-14/masters-in-business-with-ankur-crawford-video",
+      "_key": "62ffbd8fdfb13606cd911d19df948157",
+      "title": "Understanding Hyperscalers | Masters in Business with Ankur Crawford",
+      "originalTitle": "Understanding Hyperscalers | Masters in Business with Ankur Crawford",
+      "summary": "joins Barry for a conversation about how she builds an investment strategy. They also discuss her journey from engineering to investment, along with understanding AI and compute investment cycles. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-14/masters-in-business-with-ankur-crawford-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T21:00:20+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/games-e-consoles/npcs-com-ia-o-fim-do-multiplayer-como-conhecemos-ou-o-comeco-de-mundos-vivos-de-verdade/",
+      "_key": "e4dd0895fe0cd3798763cc308ff08e71",
+      "title": "NPCs com IA: o fim do multiplayer como conhecemos, ou o começo de mundos vivos de verdade?",
+      "originalTitle": "NPCs com IA: o fim do multiplayer como conhecemos, ou o começo de mundos vivos de verdade?",
+      "summary": "Do PUBG ao Marvel Rivals, do sucesso ao fracasso. O uso de bots com IA foi um sucesso, mas tem sido um grande problema também, e a linha entre esses extremos se revela cada vez mais clara.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/games-e-consoles/npcs-com-ia-o-fim-do-multiplayer-como-conhecemos-ou-o-comeco-de-mundos-vivos-de-verdade/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/pubg-battlegrounds-16v1j-1024x576.jpg",
+      "publishedAt": "2026-08-14T20:41:57+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/jovens-dos-eua-nao-confiam-nos-lideres-da-ia-mostra-pesquisa/",
+      "_key": "a1da9d9c3d5c1137d393e1ec38c00dc5",
+      "title": "Jovens dos EUA não confiam nos líderes da IA, mostra pesquisa",
+      "originalTitle": "Jovens dos EUA não confiam nos líderes da IA, mostra pesquisa",
+      "summary": "Levantamento mostra pessimismo sobre o impacto da IA na carreira e rejeição elevada a líderes de big techs ligadas à IA. Jovens dos EUA não confiam nos líderes da IA, mostra pesquisa",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/noticias/jovens-dos-eua-nao-confiam-nos-lideres-da-ia-mostra-pesquisa/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/ceos-tecnologia-ia.png",
+      "publishedAt": "2026-08-14T20:26:35+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/apos-50-anos-fisicos-encontram-pistas-sobre-o-que-mantem-a-materia-unida/",
+      "_key": "afda67ecdf93ef34bb40afdbf08ffa70",
+      "title": "matéria unida",
+      "originalTitle": "matéria unida",
+      "summary": "Físicos encontraram algumas das evidências experimentais mais fortes até agora de que uma propriedade fundamental dos prótons e nêutrons pode não estar associada aos três quarks que os compõem, como se acreditava antes O post Após 50 anos, físicos encontram pistas sobre o que mantém a matéria unida apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/apos-50-anos-fisicos-encontram-pistas-sobre-o-que-mantem-a-materia-unida/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/materia_unida-1024x576.png",
+      "publishedAt": "2026-08-14T20:14:19+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/reviews/smartwatches-em-promocao-veja-uma-selecao-com-otimas-opcoes-na-amazon/",
+      "_key": "c49864c252a0421c37ed57a475c8a968",
+      "title": "Smartwatches em promoção: veja uma seleção com ótimas opções na Amazon",
+      "originalTitle": "Smartwatches em promoção: veja uma seleção com ótimas opções na Amazon",
+      "summary": "Seja para monitorar a saúde, praticar esportes ou simplesmente deixar o visual mais moderno, um smartwatch faz toda a diferença no dia a dia. Reunimos três opções em oferta na Amazon para você escolher o modelo que melhor combina com o seu estilo e necessidades. Confira!",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/reviews/smartwatches-em-promocao-veja-uma-selecao-com-otimas-opcoes-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "publishedAt": "2026-08-14T19:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/inteligencia-artificial/google-agora-voce-pode-remover-marca-d-agua-visivel-de-conteudos-de-ia/",
       "_key": "51114c514b41dc43cd9d0422f485b804",
       "title": "Google: agora você pode remover marca d’água visível de conteúdos de IA",
@@ -8432,6 +8668,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/achados/huawei-watch-gt-6-pro-com-gps-despenca-41-no-mercado-livre/",
+      "_key": "894ef68e85fa566f8d355be615ff7158",
+      "title": "Huawei Watch GT 6 Pro cai 37% no Mercado Livre com GPS dupla frequência",
+      "originalTitle": "Huawei Watch GT 6 Pro com GPS despenca 37% no Mercado Livre",
+      "summary": "O smartwatch Huawei Watch GT 6 Pro registrou queda de 37% em seu preço na plataforma Mercado Livre. O dispositivo se destaca pela tecnologia de GPS de dupla frequência e sistema de monitoramento proprietário Sunflower.",
+      "whyMatters": "A redução significativa de preço em marketplace brasileiro sinaliza possível ajuste de estoque ou mudança de estratégia de precificação da Huawei no mercado de wearables, impactando a competitividade do segmento.",
+      "summaryMethod": "ia",
+      "url": "https://tecnoblog.net/achados/huawei-watch-gt-6-pro-com-gps-despenca-41-no-mercado-livre/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
+      "publishedAt": "2026-08-13T21:28:38+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
       ],
       "coverageCount": 1
     },
