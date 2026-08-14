@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T06:03:41.454892+00:00",
+  "updatedAt": "2026-08-14T09:59:11.859364+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -571,6 +571,27 @@
       "coverageCount": 1
     },
     {
+      "id": "Startupi-https://startupi.com.br/o-inverno-dos-cvcs-o-que-os-empreendedores-precisam-saber/",
+      "_key": "8906a61a4dbf68ce1f057d5c238b9df7",
+      "title": "O Inverno dos CVCs: O Que os Empreendedores Precisam Saber",
+      "originalTitle": "O Inverno dos CVCs: O Que os Empreendedores Precisam Saber",
+      "summary": "Startupi O Inverno dos CVCs: O Que os Empreendedores Precisam Saber Com Braskem, Gerdau e Casas Bahia encerrando fundos, número de CVCs no Brasil cai 22% em três anos; entenda o impacto para captação e como adaptar sua estratégia.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/o-inverno-dos-cvcs-o-que-os-empreendedores-precisam-saber/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/SAP.iO-incubator-for-startups.jpg",
+      "publishedAt": "2026-08-14T08:00:00+00:00",
+      "score": 60,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/musk-discloses-48-4-stake-in-spacex-in-regulatory-filing/articleshow/133227406.cms",
       "_key": "a87fabffff38da842227231a67a1fc59",
       "title": "Elon Musk discloses 48.4% stake in SpaceX in regulatory filing",
@@ -609,6 +630,27 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/eth-zurich-spin-off-aisot-technologies-bags-e2-13-million-to-bring-agentic-ai-to-portfolio-management/",
+      "_key": "bd2797dcf1ba3705862e600c42cb1150",
+      "title": "ETH Zurich spin-off Aisot Technologies bags €2.13 million to bring agentic AI to portfolio management",
+      "originalTitle": "ETH Zurich spin-off Aisot Technologies bags €2.13 million to bring agentic AI to portfolio management",
+      "summary": "Aisot Technologies (Aisot), a Zurich-based startup offering AI-driven portfolio intelligence for institutional investors, has closed a €2.13 million (CHF 2 million) Seed extension round.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/eth-zurich-spin-off-aisot-technologies-bags-e2-13-million-to-bring-agentic-ai-to-portfolio-management/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-14T114017.162.jpg",
+      "publishedAt": "2026-08-14T06:12:57+00:00",
+      "score": 57,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Crunchbase News-https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
@@ -941,6 +983,27 @@
       "_key": "b8abccefdb66331c5a7d45526a74bbff",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/berlin-ai-insurtech-startup-omnius-acquired-by-dortmunds-adesso-embed-ai-into-core-insurance-systems/",
+      "_key": "35a97f65ce350944bf56c36fb861667c",
+      "title": "Berlin’s AI InsurTech startup omni:us acquired by Dortmund’s adesso to embed AI into core insurance systems",
+      "originalTitle": "Berlin’s AI InsurTech startup omni:us acquired by Dortmund’s adesso to embed AI into core insurance systems",
+      "summary": "adesso, a Dortmund-based provider of insurance-specific software and technology solutions, has acquired omni:us, a Berlin-based startup specialising in AI-powered claims processing. The transaction combines adesso’s insurance and software expertise with omni:us’ AI technology.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/berlin-ai-insurtech-startup-omnius-acquired-by-dortmunds-adesso-embed-ai-into-core-insurance-systems/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-14T141026.429.jpg",
+      "publishedAt": "2026-08-14T08:47:25+00:00",
+      "score": 52,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/negocios/intel-segue-a-fila-dos-grandes-investimentos-em-ia-e-levanta-us-20-bi-em-acoes-para-brigar-com-tsmc/",
@@ -1805,6 +1868,48 @@
       "country": "BR"
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/plus/tech/tech-war/article/3364024/smic-eyes-expansion-amid-ai-boom-zhu-rongji-dies-shein-nears-ipo?utm_source=rss_feed",
+      "_key": "fa8c3d6cedc5487338f5153c29a9ce34",
+      "title": "SMIC eyes expansion amid AI boom, Zhu Rongji dies, Shein nears IPO",
+      "originalTitle": "SMIC eyes expansion amid AI boom, Zhu Rongji dies, Shein nears IPO",
+      "summary": "artificial intelligence (AI) boom. Demand is “far exceeding our previous expectations”, so the company is adjusting expansion plans and may add more equipment at existing sites, chief executive officer Zhao Haijun said on an earnings call on Friday. He didn’t provide details.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/plus/tech/tech-war/article/3364024/smic-eyes-expansion-amid-ai-boom-zhu-rongji-dies-shein-nears-ipo?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/acd8a92f-2e27-43de-a94b-5c8a81400c61_c1aec31a.jpg?itok=11VrV3MG&v=1786693101",
+      "publishedAt": "2026-08-14T09:00:30+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-14/quest-global-said-to-pick-banks-for-1-billion-india-ipo",
+      "_key": "bbb21b9df20fa833390bd45d246aec45",
+      "title": "Quest Global Said to Pick Banks for $1 Billion India IPO",
+      "originalTitle": "Quest Global Said to Pick Banks for $1 Billion India IPO",
+      "summary": "Carlyle Group Inc.-backed Quest Global Services Pte has hired banks for an initial public offering in Mumbai that could raise as much as $1 billion, according to people familiar with the matter.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/quest-global-said-to-pick-banks-for-1-billion-india-ipo",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T06:45:32+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-14/can-dogs-transform-cancer-screening-video",
       "_key": "333aad89eb08f83b236872c71d40b9af",
       "title": "Can Dogs Transform Cancer Screening?",
@@ -2271,6 +2376,69 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/antes-de-uma-ponte-terrestre-mamiferos-ja-venciam-a-distancia-entre-as-americas/",
+      "_key": "b851b978a414605de123e621c5d90852",
+      "title": "Antes de uma ponte terrestre, mamíferos já venciam a distância entre as Américas",
+      "originalTitle": "Antes de uma ponte terrestre, mamíferos já venciam a distância entre as Américas",
+      "summary": "ganhou força milhões de anos antes da formação do istmo do Panamá O post Antes de uma ponte terrestre, mamíferos já venciam a distância entre as Américas apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/antes-de-uma-ponte-terrestre-mamiferos-ja-venciam-a-distancia-entre-as-americas/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2021/03/lhama-1024x683.jpg",
+      "publishedAt": "2026-08-14T08:30:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/sobre-tatuagens-cultura-corporativa-e-a-vergonha-alheia/",
+      "_key": "82438d7961c82d2733000805925ee073",
+      "title": "Sobre tatuagens, cultura corporativa e a vergonha alheia",
+      "originalTitle": "Sobre tatuagens, cultura corporativa e a vergonha alheia",
+      "summary": "Startupi Sobre tatuagens, cultura corporativa e a vergonha alheia Quando “hype” vira norma, práticas simbólicas deixam de ser brincadeira e começam a dizer muito mais sobre a empresa.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/sobre-tatuagens-cultura-corporativa-e-a-vergonha-alheia/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/lemonlime.jpg",
+      "publishedAt": "2026-08-14T08:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/minhas-financas/brasileiro-quer-ia-no-banco-mas-exige-controle-sobre-decisoes-mostra-estudo/",
+      "_key": "b2faa7928dc062313367ae2dfed1ff02",
+      "title": "Brasileiro quer IA nas finanças, mas não abre mão da decisão final, mostra estudo",
+      "originalTitle": "Brasileiro quer IA nas finanças, mas não abre mão da decisão final, mostra estudo",
+      "summary": "delegar integralmente decisões sobre gastos, crédito e investimentos The post Brasileiro quer IA nas finanças, mas não abre mão da decisão final, mostra estudo appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/minhas-financas/brasileiro-quer-ia-no-banco-mas-exige-controle-sobre-decisoes-mostra-estudo/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/pexels-keira-burton-6146956.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-14T08:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/startups/bengaluru-based-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection/articleshow/133228334.cms",
@@ -3766,6 +3934,48 @@
       "country": "BR"
     },
     {
+      "id": "Startupi-https://startupi.com.br/nao-sabemos-se-sera-uma-rede-unica-anbima-revela-que-piloto-de-tokenizacao-superou-expectativas-em-4x-e-redesenha-a-infraestrutura-financeira-brasileira/",
+      "_key": "d5aff44f3bd468981cb5d70f85a89af7",
+      "title": "“Não sabemos se será uma rede única”: Anbima revela que piloto de tokenização superou expectativas em 4x e redesenha a infraestrutura financeira brasileira",
+      "originalTitle": "“Não sabemos se será uma rede única”: Anbima revela que piloto de tokenização superou expectativas em 4x e redesenha a infraestrutura financeira brasileira",
+      "summary": "Startupi “Não sabemos se será uma rede única”: Anbima revela que piloto de tokenização superou expectativas em 4x e redesenha a infraestrutura financeira brasileira Com 39 propostas recebidas, mais de 50 instituições envolvidas e 20 casos de uso em teste, Head de Inovação da Anbima afirma, em evento no RJ, que o mercado financeiro já superou a fase do \"se funciona\" e agora discute como gerar valor real para investidores.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/nao-sabemos-se-sera-uma-rede-unica-anbima-revela-que-piloto-de-tokenizacao-superou-expectativas-em-4x-e-redesenha-a-infraestrutura-financeira-brasileira/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/Blockchain-Rio.jpg",
+      "publishedAt": "2026-08-14T08:00:00+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3364009/shein-eyes-valuation-rivalling-hm-will-market-buy-it?utm_source=rss_feed",
+      "_key": "1c555e653f2c356e6a5f2cf1953d7439",
+      "title": "Shein is eyeing a valuation rivalling H&M. Will the market buy it?",
+      "originalTitle": "Shein is eyeing a valuation rivalling H&M. Will the market buy it?",
+      "summary": "Online fast-fashion platform Shein believes it deserves a premium valuation comparable to that of industry peers like H M, citing its business model and global customer base as major competitive advantages, according to internal documents seen by the South China Morning Post.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3364009/shein-eyes-valuation-rivalling-hm-will-market-buy-it?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/b7db23d5-ad20-4edd-a04d-afc686370f1c_68fc1c29.jpg?itok=_7BL7asG&v=1786687997",
+      "publishedAt": "2026-08-14T06:13:19+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "SCMP Business-https://www.scmp.com/business/banking-finance/article/3363793/chinese-banks-test-repo-linked-corporate-loans-make-pricing-more-market-based?utm_source=rss_feed",
       "_key": "3a15add1b628a82e1987d662d9a17e37",
       "title": "Chinese banks test repo-linked corporate loans to make pricing more market-based",
@@ -4703,6 +4913,48 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/opinion/world-opinion/article/3363818/just-yen-america-cannot-save-ai-bubble?utm_source=rss_feed",
+      "_key": "47969d46ac645752dc53cec2e5cb543f",
+      "title": "Just like with the yen, America cannot save the AI bubble",
+      "originalTitle": "Just like with the yen, America cannot save the AI bubble",
+      "summary": "yen. The move is seen as a bid to hold off a further rise in yields for US government bonds – amid Japan’s sell-off of US Treasuries to fund its shoring up of the yen – a rise that threatens the US artificial intelligence bubble.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3363818/just-yen-america-cannot-save-ai-bubble?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/018f470b-6834-4dfc-9346-1856d3a3e9c4_39205ff0.jpg?itok=1bVrLKYi&v=1786671562",
+      "publishedAt": "2026-08-14T08:30:07+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/internet-e-redes-sociais/lgpd-completa-oito-anos-e-empresas-precisam-provar-que-protecao-de-dados-funciona/",
+      "_key": "affcd4b0bee20124df902bd73c8d420a",
+      "title": "LGPD completa oito anos e empresas precisam provar que proteção de dados funciona",
+      "originalTitle": "LGPD completa oito anos e empresas precisam provar que proteção de dados funciona",
+      "summary": "desafios relacionados a incidentes de segurança e inteligência artificial O post LGPD completa oito anos e empresas precisam provar que proteção de dados funciona apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/internet-e-redes-sociais/lgpd-completa-oito-anos-e-empresas-precisam-provar-que-protecao-de-dados-funciona/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/12/lgpd-e1761740682914-1024x577.jpg",
+      "publishedAt": "2026-08-14T07:45:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/information-tech/hcltech-netapp-expand-partnership-to-deliver-hybrid-cloud-storage-as-a-service-for-enterprise-ai/articleshow/133230235.cms",
@@ -6567,6 +6819,111 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-14/putin-is-ready-to-meet-witkoff-kushner-again-lavrov-says",
+      "_key": "328ff4e923c99e0c3606edb75deeaf5a",
+      "title": "Putin Is Ready to Meet Witkoff, Kushner Again, Lavrov Says",
+      "originalTitle": "Putin Is Ready to Meet Witkoff, Kushner Again, Lavrov Says",
+      "summary": "President Vladimir Putin is ready to meet US envoys Steve Witkoff and Jared Kushner in Russia to discuss Ukraine, though it matters what proposals they bring, Foreign Minister Sergei Lavrov said.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/putin-is-ready-to-meet-witkoff-kushner-again-lavrov-says",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T09:17:37+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/policy/article/3364053/chinas-richest-province-taps-alibaba-power-its-ai-and-chip-push?utm_source=rss_feed",
+      "_key": "915e27d8804ca284a3e5d6a1e9368aa4",
+      "title": "push",
+      "originalTitle": "push",
+      "summary": "China’s richest province has deepened its partnership with technology giant Alibaba Group Holding, eyeing a broad digital upgrade spanning artificial intelligence, semiconductors, and smart public services.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/policy/article/3364053/chinas-richest-province-taps-alibaba-power-its-ai-and-chip-push?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/2c7296ef-1293-4725-9834-495ed9ebf36b_a10cf0cf.jpg?itok=IANO-whk&v=1786698941",
+      "publishedAt": "2026-08-14T09:15:43+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/hong-kong-electronics-fairs-autumn-edition-and-electronicasia-cutting-edge-technologies-on-display-this-october-shaping-the-future-of-industries/",
+      "_key": "9a3b6c3c0ee1e8d90a81781584f069d2",
+      "title": "industries (Sponsored)",
+      "originalTitle": "industries (Sponsored)",
+      "summary": "The Hong Kong Trade Development Council (HKTDC) will host two prominent exhibitions from 13-16 October in Hong Kong &#8211; the Hong Kong Electronics Fair (Autumn Edition) and electronicAsia, jointly organised by HKTDC and MMI Asia Pte Ltd.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/hong-kong-electronics-fairs-autumn-edition-and-electronicasia-cutting-edge-technologies-on-display-this-october-shaping-the-future-of-industries/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eetimes.com/wp-content/uploads/OSS01408.jpg?resize=640%2C427",
+      "publishedAt": "2026-08-14T08:14:49+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/social-media-firms-urge-caution-on-early-australia-under-16-ban-data/articleshow/133231422.cms",
+      "_key": "d440138ba77ad358494d0e2818268d2a",
+      "title": "Social media firms urge caution on early Australia under-16 ban data",
+      "originalTitle": "Social media firms urge caution on early Australia under-16 ban data",
+      "summary": "pressed them on multiple studies, including from ‌Australia's internet regulator, ⁠showing some ⁠80% of minors were still on social media months after the ban took effect in December.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/social-media-firms-urge-caution-on-early-australia-under-16-ban-data/articleshow/133231422.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133231422,imgsize-22336.cms",
+      "publishedAt": "2026-08-14T06:57:44+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/14/peixes-tem-impressao-digital-que-revela-de-onde-vieram-mostra-estudo-entenda.ghtml",
+      "_key": "b31ed46a35cc2ca1bd8d1878f65209ed",
+      "title": "Peixes têm 'impressão digital' que revela de onde vieram, mostra estudo; entenda",
+      "originalTitle": "Peixes têm 'impressão digital' que revela de onde vieram, mostra estudo; entenda",
+      "summary": "Tainha Conservação Internacional/Átila Ximenes Peixes também têm impressão digital. É o que mostrou uma pesquisa da Empresa Brasileira de Pesquisa Agropecuária (Embrapa), feita com a tainha brasileira.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/14/peixes-tem-impressao-digital-que-revela-de-onde-vieram-mostra-estudo-entenda.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/3uU5e0hX1ztctECNK7mbolYgg-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/W/v/qpdasBSxuvToaYSRGAQw/img-1052.jpg",
+      "publishedAt": "2026-08-14T06:00:47+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "TechNode-https://technode.com/2026/08/14/against-claude-cowork-deepseek-opens-its-open-source-harness-to-developers/",
       "_key": "9ac996d0164ec9984e816405e0edc342",
       "title": "Against Claude Cowork, DeepSeek opens its open-source Harness to developers",
@@ -6605,6 +6962,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/inteligencia-artificial/alucinacao-em-cascata-o-que-acontece-quando-um-erro-da-ia-vira-base-para-o-proximo-e-como-resolver/",
+      "_key": "93c4c853bc87b6599af99d5bbcf8338d",
+      "title": "Alucinação em cascata: o que acontece quando um erro da IA vira base para o próximo e como resolver",
+      "originalTitle": "Alucinação em cascata: o que acontece quando um erro da IA vira base para o próximo e como resolver",
+      "summary": "Uma informação incorreta pode passar despercebida na primeira resposta e influenciar todas as seguintes. Entenda por que isso acontece e quais comandos ajudam a interromper o ciclo",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/inteligencia-artificial/alucinacao-em-cascata-o-que-acontece-quando-um-erro-da-ia-vira-base-para-o-proximo-e-como-resolver/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2025/10/Aplicacoes-de-inteligencia-artificial-personalizada-foram-chave-no-processo-desenhado-pela-CIT.jpg",
+      "publishedAt": "2026-08-14T05:02:51+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
       ],
       "coverageCount": 1
     },
@@ -12446,6 +12824,90 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-14/europe-s-robot-reality-bloomberg-tech-europe-video",
+      "_key": "80736d23a393d89a055fef45b2ec98f3",
+      "title": "Europe 08/14/2026",
+      "originalTitle": "Europe 08/14/2026",
+      "summary": "Are AI-powered robots finally leaving the lab to enter our homes and workplaces? In this episode of Bloomberg Tech: Europe, Tom Mackenzie explores the next generation of humanoid and autonomous robotics transforming industries across Europe.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-14/europe-s-robot-reality-bloomberg-tech-europe-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T09:08:04+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Wired-https://www.wired.com/story/real-reason-data-center-gas-power-plants-are-so-dirty/",
+      "_key": "081ba7bb0e932b20d0add08923e423c7",
+      "title": "The Real Reason Data Center Gas Power Plants Are So Dirty",
+      "originalTitle": "The Real Reason Data Center Gas Power Plants Are So Dirty",
+      "summary": "A massive new gas plant in Texas will be built with much less efficient technology than regular gas plants. It’s far from the only data center power project to rely on dirty turbines.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.wired.com/story/real-reason-data-center-gas-power-plants-are-so-dirty/",
+      "source": "Wired",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://media.wired.com/photos/6a7e65723fe13c1d3993e0db/master/pass/Real-Reason-Data-Center-Gas-Power-Plants-Are-So-Dirty-Science-2280775684.jpg",
+      "publishedAt": "2026-08-14T09:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Wired"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/markets/article/3363998/chasing-robots-chasing-profits-numbers-moving-markets?utm_source=rss_feed",
+      "_key": "ba56577a8f6f4e00e69f8311d5a0330c",
+      "title": "From chasing robots to chasing profits: the numbers moving markets",
+      "originalTitle": "From chasing robots to chasing profits: the numbers moving markets",
+      "summary": "While Chinese investors faced down long odds for a stake in Unitree Robotics amid a broader frenzy for high-performing tech stocks, the market this week also focused on the implications of July’s US inflation rate, gold price trends and the interim results of CK Hutchison Holdings, one of the flagship companies owned by the family of Hong Kong billionaire Li Ka-shing.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/markets/article/3363998/chasing-robots-chasing-profits-numbers-moving-markets?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/274320be-3876-4773-a84d-27ac9aaa1fb8_87cec739.jpg?itok=Wr3racqZ&v=1786684158",
+      "publishedAt": "2026-08-14T08:00:07+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/economy/article/3363993/rich-chinese-embrace-domestic-high-end-evs-tech-and-driving-experience-eclipse-prestige?utm_source=rss_feed",
+      "_key": "9887e298846f0fde81c971dd0fdd5ac6",
+      "title": "Rich Chinese embrace domestic high-end EVs as tech and driving experience eclipse prestige",
+      "originalTitle": "Rich Chinese embrace domestic high-end EVs as tech and driving experience eclipse prestige",
+      "summary": "their technology has caught up with his expectations. “I hold electric cars to strict safety standards, so I used to stick to Tesla,” Huang said. But he added that domestic brands had now met his standards.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/economy/article/3363993/rich-chinese-embrace-domestic-high-end-evs-tech-and-driving-experience-eclipse-prestige?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/a76fccbc-f843-4f70-be83-58428d8015ca_73cb400f.jpg?itok=uiXnTHfy&v=1786682792",
+      "publishedAt": "2026-08-14T07:00:08+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "TechNode-https://technode.com/2026/08/14/cxmt-overtakes-tencent-as-chinas-most-valuable-listed-company/",
