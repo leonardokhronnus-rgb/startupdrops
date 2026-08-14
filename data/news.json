@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T15:41:12.075941+00:00",
+  "updatedAt": "2026-08-14T20:33:55.813692+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -842,6 +842,27 @@
       "coverageCount": 1
     },
     {
+      "id": "Startups.com.br-https://startups.com.br/eventos/pitch-reverso/prepare-se-para-ir-ate-o-fim-com-o-dinheiro-que-captou-diz-investidor/",
+      "_key": "7e934eca08b74609cb2966bcd337adba",
+      "title": "investidor",
+      "originalTitle": "investidor",
+      "summary": "Evento aconteceu na sede da Databricks, em São Paulo (Imagem: Luana Martins/Divulgação) Em nova edição do Pitch Revesi, fundos alertam que o segredo para os fundadores agora é sobreviver sem depender da próxima rodada O post &#8220;Prepare-se para ir até o fim com o dinheiro que captou&#8221;, diz investidor apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/eventos/pitch-reverso/prepare-se-para-ir-ate-o-fim-com-o-dinheiro-que-captou-diz-investidor/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/08/Pitch-Reverso.jpg",
+      "publishedAt": "2026-08-14T19:55:33+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "EU-Startups-https://www.eu-startups.com/2026/08/lyons-amdb-security-pro-locks-in-e2-68-million-to-take-its-excavator-anti-theft-systems-to-the-us/",
       "_key": "92818f841807b84554bdb95f31e0b1cd",
       "title": "Lyon’s AMDB Security Pro locks in €2.68 million to take its excavator anti-theft systems to the US",
@@ -1048,6 +1069,48 @@
       "country": "US"
     },
     {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/pro/saida-de-executivos-coloca-openai-sob-pressao-antes-do-ipo/",
+      "_key": "a0b859bfa79c6d8a4ff5925eab961bae",
+      "title": "Saída de executivos coloca OpenAI sob pressão antes do IPO",
+      "originalTitle": "Saída de executivos coloca OpenAI sob pressão antes do IPO",
+      "summary": "OpenAI perde executivos antes de possível IPO, enquanto área corporativa cresce e chega a 2 milhões de clientes empresariais O post Saída de executivos coloca OpenAI sob pressão antes do IPO apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/pro/saida-de-executivos-coloca-openai-sob-pressao-antes-do-ipo/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/openai-2-1024x682.jpg",
+      "publishedAt": "2026-08-14T19:08:07+00:00",
+      "score": 52,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/14/fgc-orienta-21-mil-credores-da-simpala-apos-liquidacao-pelo-banco-central-veja-o-que-fazer.ghtml",
+      "_key": "b77a7cb3131191c9f0600d10226c6842",
+      "title": "fazer",
+      "originalTitle": "fazer",
+      "summary": "Simpala S.A. Crédito, Financiamento e Investimento pelo Banco Central nesta sexta-feira (14), o Fundo Garantidor de Créditos (FGC) divulgou as orientações para os clientes que têm dinheiro na instituição. Segundo o FGC, o pagamento da garantia ainda não começou.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/fgc-orienta-21-mil-credores-da-simpala-apos-liquidacao-pelo-banco-central-veja-o-que-fazer.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/2DKoUYs7DvWAW56d1e9XhJ0pVgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/I/xfGzDATwmONu1wCb5rFw/fgc-reproducao-linkedin.jpg",
+      "publishedAt": "2026-08-14T16:14:35+00:00",
+      "score": 52,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "EU-Startups-https://www.eu-startups.com/2026/08/berlin-ai-insurtech-startup-omnius-acquired-by-dortmunds-adesso-embed-ai-into-core-insurance-systems/",
       "_key": "35a97f65ce350944bf56c36fb861667c",
       "title": "Berlin’s AI InsurTech startup omni:us acquired by Dortmund’s adesso to embed AI into core insurance systems",
@@ -1183,6 +1246,27 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
+      "_key": "833066e8df9196b534415084b3b614a4",
+      "title": "Lead",
+      "originalTitle": "Lead",
+      "summary": "Databricks is back raising another $5 billion, after it raised that amount just eight months ago. The largest fundings this week also went to an AI neolab, data center and electricity storage, defense, coding and biotech. Let’s take a look.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+      "publishedAt": "2026-08-14T19:32:36+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/negocios/com-fedex-fora-da-rota-e-correios-em-crise-dhl-entrega-r-270-milhoes-em-investimentos-no-brasil/",
@@ -2544,6 +2628,27 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/bitget-nomeia-noah-cheung-como-novo-country-manager-para-o-brasil/",
+      "_key": "8b1bde88eabf9e2dd2058bd0656deab6",
+      "title": "Bitget nomeia Noah Cheung como novo Country Manager para o Brasil",
+      "originalTitle": "Bitget nomeia Noah Cheung como novo Country Manager para o Brasil",
+      "summary": "Noah Cheung, novo Country Manager Brasil da Bitget (Imagem: Divulgação) Executivo assume a cadeira na Bitget para liderar a estratégia da exchange para o mercado brasileiro O post Bitget nomeia Noah Cheung como novo Country Manager para o Brasil apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/danca-das-cadeiras/bitget-nomeia-noah-cheung-como-novo-country-manager-para-o-brasil/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Noah-Cheung.jpg",
+      "publishedAt": "2026-08-14T15:30:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/14/guerra-comercial-com-os-eua-pode-encarecer-produtos-e-afetar-empregos-diz-entidade-industrial.ghtml",
@@ -5251,6 +5356,48 @@
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-com-aversao-a-risco-no-brasil/",
+      "_key": "60192112daaa1192dd5ef4bdb2298346",
+      "title": "Taxas dos DIs sobem com aversão a risco no Brasil",
+      "originalTitle": "Taxas dos DIs sobem com aversão a risco no Brasil",
+      "summary": "O movimento também refletiu a escalada das tensões no Oriente Médio, que trouxeram mais cautela aos mercados globais, e dados ⁠da ‌economia norte-americana The post Taxas dos DIs sobem com aversão a risco no Brasil appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-com-aversao-a-risco-no-brasil/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-29T175807Z_1_LYNXMPEL3S100_RTROPTP_4_BRAZIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-14T20:01:27+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "_key": "1bd6480b25c52983768b07bd2aeb89cb",
+      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "originalTitle": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-14T16:39:32+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/yduqs-yduq3-por-que-acao-cai-quase-7-se-queda-do-lucro-ja-era-esperada/",
       "_key": "93def0c04645cb70a9d2893a51f45f8b",
       "title": "Yduqs (YDUQ3): por que ação cai quase 7% se queda do lucro já era esperada?",
@@ -7300,6 +7447,216 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/inteligencia-artificial/google-agora-voce-pode-remover-marca-d-agua-visivel-de-conteudos-de-ia/",
+      "_key": "51114c514b41dc43cd9d0422f485b804",
+      "title": "Google: agora você pode remover marca d’água visível de conteúdos de IA",
+      "originalTitle": "Google: agora você pode remover marca d’água visível de conteúdos de IA",
+      "summary": "Mudança representa nova abordagem do Google para a identificação de conteúdos produzidos por IA O post Google: agora você pode remover marca d&#8217;água visível de conteúdos de IA apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/inteligencia-artificial/google-agora-voce-pode-remover-marca-d-agua-visivel-de-conteudos-de-ia/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/09/nano-banana-1-1-1-1024x576.jpg",
+      "publishedAt": "2026-08-14T19:10:41+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/concorrencia-ou-oportunidade-o-que-pensa-a-panvel-sobre-a-entrada-das-farmacias-nos-supermercados/",
+      "_key": "4d7636425746ff722a81e905da595f46",
+      "title": "Concorrência ou oportunidade? O que pensa a Panvel sobre a entrada das farmácias nos supermercados",
+      "originalTitle": "Concorrência ou oportunidade? O que pensa a Panvel sobre a entrada das farmácias nos supermercados",
+      "summary": "lojas de supermercados e atacarejos – a primeira foi a do Assaí, que hoje já tem três unidades da própria marca em São Paulo –, a rede gaúcha Panvel já tem uma análise sobre o impacto deste novo modelo no varejo [&#8230;] O post Concorrência ou oportunidade?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/concorrencia-ou-oportunidade-o-que-pensa-a-panvel-sobre-a-entrada-das-farmacias-nos-supermercados/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2024/08/panvel-farmacia-300x169.jpg",
+      "publishedAt": "2026-08-14T19:00:15+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/inteligencia-artificial/livros-feitos-em-minutos-com-ia-inundam-amazon-e-outras-lojas/",
+      "_key": "3ccd1f60f57107e1e194893d3b4e7699",
+      "title": "Livros feitos em minutos com IA inundam Amazon e outras lojas",
+      "originalTitle": "Livros feitos em minutos com IA inundam Amazon e outras lojas",
+      "summary": "Avalanche de e-books gerados por (ou com) IA reduz faturamento de autores humanos e expõe limbo jurídico no Brasil; entenda O post Livros feitos em minutos com IA inundam Amazon e outras lojas apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/inteligencia-artificial/livros-feitos-em-minutos-com-ia-inundam-amazon-e-outras-lojas/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Livro-com-IA-1024x576.jpg",
+      "publishedAt": "2026-08-14T18:38:26+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/14/quem-e-eduardo-saverin-brasileiro-que-comprou-participacao-no-liverpool.ghtml",
+      "_key": "2b973e6cce953f11dc76a03a70c4ab6f",
+      "title": "Quem é Eduardo Saverin, bilionário brasileiro que comprou participação no Liverpool",
+      "originalTitle": "Quem é Eduardo Saverin, bilionário brasileiro que comprou participação no Liverpool",
+      "summary": "Eduardo Saverin, co-fundador do Facebook, comparece ao 7º Prêmio Anual de Mídia de Senso Comum em homenagem a Bill Clinton no Gotham Hall em 28 de abril de 2011 na cidade de Nova York.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/quem-e-eduardo-saverin-brasileiro-que-comprou-participacao-no-liverpool.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/BIeQbAG3YtpjkVjtHAyHDpSlbOA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/T/w/FdVn1JTciz7BLgtMZpFA/063-gyi0064496351.jpg",
+      "publishedAt": "2026-08-14T17:47:25+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/inovacao/apple-e-alibaba-se-unem-em-ia-e-desafiam-tensao-entre-eua-e-china/",
+      "_key": "f32f5b893a5b1bdc7d3fe111cb9bee47",
+      "title": "China",
+      "originalTitle": "China",
+      "summary": "vez mais raro em meio à escalada das tensões entre Washington e Pequim, com ramificações em diversas frentes, entre elas, a tecnologia. Mas há quem esteja indo na contramão dessa relação cada vez mais conflituosa. Esse é o caso da Apple.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/inovacao/apple-e-alibaba-se-unem-em-ia-e-desafiam-tensao-entre-eua-e-china/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/apple-china-300x169.jpg",
+      "publishedAt": "2026-08-14T17:40:24+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/14/instagram-impulsiona-rede-de-golpes-que-promete-ajudar-migrantes-a-chegar-a-ceuta-por-ate-r-28-mil.ghtml",
+      "_key": "75c0c829adf20ac6c9f41f067d67638a",
+      "title": "Instagram impulsiona rede de golpes que promete ajudar migrantes a chegar à Ceuta por até R$ 2,8 mil",
+      "originalTitle": "Instagram impulsiona rede de golpes que promete ajudar migrantes a chegar à Ceuta por até R$ 2,8 mil",
+      "summary": "do Marrocos para o enclave espanhol vizinho de Ceuta, no extremo norte da África. Ele é um marroquino na casa dos vinte anos de idade que quer emigrar para a Europa, principalmente porque tem visto muitos vídeos no Instagram que fazem a travessia parecer fácil.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/14/instagram-impulsiona-rede-de-golpes-que-promete-ajudar-migrantes-a-chegar-a-ceuta-por-ate-r-28-mil.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/QZeZfUVV7HEoh_65eeVYZOlQZr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/9/y83nAkSRKIpzuo68BCDg/2026-08-06t153702z-547731161-rc2ysma3i1b2-rtrmadp-3-migration-europe-spain-ceuta.jpg",
+      "publishedAt": "2026-08-14T17:35:22+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/14/china-quer-levar-caes-robos-a-lua-para-construir-base-com-astronautas-ate-2035.ghtml",
+      "_key": "6d8b670b8125530602ac5443631e127d",
+      "title": "China quer levar cães-robôs à Lua para construir base com astronautas até 2035",
+      "originalTitle": "China quer levar cães-robôs à Lua para construir base com astronautas até 2035",
+      "summary": "Av. Paulista Reprodução/TV Globo A China planeja enviar cães-robôs à Lua para auxiliar astronautas na construção e operação da futura Estação Internacional de Pesquisa Lunar (ILRS), segundo reportagem divulgada na semana passada pelo jornal South China Morning Post.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/14/china-quer-levar-caes-robos-a-lua-para-construir-base-com-astronautas-ate-2035.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/GwsiubM9p8D6aMputs9jYCfOWrE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/9/D/rGTwU0QUuUi5v11vMASg/spot-bostondynamics-edgar-su-reuters.jpg",
+      "publishedAt": "2026-08-14T16:48:58+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/altmin-lithium-battery-cathode-factory",
+      "_key": "23d193b7c2b8941ddfc775b7f3cf169d",
+      "title": "Altmin is building India's first factory to manufacture the cathodes inside lithium batteries",
+      "originalTitle": "Altmin is building India's first factory to manufacture the cathodes inside lithium batteries",
+      "summary": "The Hyderabad-based company makes lithium iron phosphate cathode active material, the single most expensive component in a battery cell, which India currently imports almost entirely.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/altmin-lithium-battery-cathode-factory",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/3-1786723807732.jpg",
+      "publishedAt": "2026-08-14T16:32:31+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/frances-top-court-blocks-social-media-ban-for-under-15s/articleshow/133247122.cms",
+      "_key": "0f43c1584b7d2d66ef09ca09dcaafd4e",
+      "title": "France's top court blocks social media ban for under-15s",
+      "originalTitle": "France's top court blocks social media ban for under-15s",
+      "summary": "The bill would have barred children younger than 15 from opening a social media account from September 1. Accounts already open would be closed ‌within four months ⁠by social ⁠media platforms, which would also need to use age verification approved by the French privacy regulator.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/frances-top-court-blocks-social-media-ban-for-under-15s/articleshow/133247122.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133247122,imgsize-1006551.cms",
+      "publishedAt": "2026-08-14T16:15:48+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/experts/a-bomba-relogio-do-credito-que-pode-desacelerar-o-brasil/",
+      "_key": "1be4b888d9fc42665df8202774140408",
+      "title": "A bomba-relógio do crédito que pode desacelerar o Brasil",
+      "originalTitle": "A bomba-relógio do crédito que pode desacelerar o Brasil",
+      "summary": "O endividamento das famílias brasileiras em níveis históricos; a disposição e até a necessidade de reduzir as faturas em operações de crédito que desestabilizam orçamentos pelo alto custo; e a tendência à acomodação no ritmo de expansão da renda do trabalhador poderão frear a propensão ao consumo de bens e serviços e, por tabela, o [&#8230;] O post A bomba-relógio do crédito que pode desacelerar o Brasil apareceu primeiro em NeoFeed .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/experts/a-bomba-relogio-do-credito-que-pode-desacelerar-o-brasil/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/bomba-relogio-300x169.jpg",
+      "publishedAt": "2026-08-14T15:38:26+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/reviews/hora-de-turbinar-seu-setup-selecionamos-os-melhores-mouses-gamer-sem-fio-em-promocao/",
@@ -13601,6 +13958,111 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/reviews/gta-vi-spider-man-2-e-mais-selecione-o-seu-proximo-jogo-de-ps5-com-otimas-ofertas/",
+      "_key": "02564d7b37b34aae35a71c134a41e419",
+      "title": "GTA VI, Spider-Man 2 e mais: selecione o seu próximo jogo de PS5 com ótimas ofertas",
+      "originalTitle": "GTA VI, Spider-Man 2 e mais: selecione o seu próximo jogo de PS5 com ótimas ofertas",
+      "summary": "Se você está de olho em novos títulos para o seu PlayStation 5, essa é uma boa hora para agir. Reunimos três jogos em promoção na Amazon que cobrem diferentes estilos — de mundo aberto a ação com super-heróis e esportes — para você montar ou completar sua coleção sem sair de casa.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/reviews/gta-vi-spider-man-2-e-mais-selecione-o-seu-proximo-jogo-de-ps5-com-otimas-ofertas/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/51FNN5tVh5L._SL500_.jpg",
+      "publishedAt": "2026-08-14T19:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/reviews/hora-de-renovar-sua-impressora-selecionamos-as-melhores-opcoes-em-promocao-na-amazon/",
+      "_key": "432c73583d5583b0390b027c69f997f0",
+      "title": "Hora de renovar sua impressora: selecionamos as melhores opções em promoção na Amazon",
+      "originalTitle": "Hora de renovar sua impressora: selecionamos as melhores opções em promoção na Amazon",
+      "summary": "Se você está precisando de uma impressora nova — seja para o home office, para os estudos ou para uso doméstico — este é um bom momento para conferir o que está disponível na Amazon.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/reviews/hora-de-renovar-sua-impressora-selecionamos-as-melhores-opcoes-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "publishedAt": "2026-08-14T18:40:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/caes-robos-podem-virar-os-novos-ajudantes-dos-astronautas-na-lua/",
+      "_key": "907ff761a16aba07e6a151129509d695",
+      "title": "Cães-robôs podem virar os novos ajudantes dos astronautas na Lua",
+      "originalTitle": "Cães-robôs podem virar os novos ajudantes dos astronautas na Lua",
+      "summary": "China planeja usar cães-robôs na futura base lunar para ajudar astronautas em tarefas, exploração de recursos e manutenção O post Cães-robôs podem virar os novos ajudantes dos astronautas na Lua apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/caes-robos-podem-virar-os-novos-ajudantes-dos-astronautas-na-lua/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/cao-robo-1024x819.jpg",
+      "publishedAt": "2026-08-14T18:27:33+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+      "_key": "750d229e6c72ac40c9ee92cc5028dc57",
+      "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+      "originalTitle": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+      "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-back-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-14T17:34:14+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "_key": "dcd4371e3077a5a2aacbdf3e63f89636",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "originalTitle": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
+      "publishedAt": "2026-08-14T14:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "SCMP Business-https://www.scmp.com/business/markets/article/3364067/reduce-your-exposure-us-assets-they-lose-value-pictet-warns-investors?utm_source=rss_feed",
