@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T23:40:11.351508+00:00",
+  "updatedAt": "2026-08-14T06:03:41.454892+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -188,11 +188,6 @@
     }
   ],
   "failures": [
-    {
-      "source": "Tecnoblog",
-      "url": "https://tecnoblog.net/feed/",
-      "reason": "falhou direto e via proxy"
-    },
     {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -569,6 +564,27 @@
       "image": "https://img.etimg.com/photo/msid-133170636,imgsize-37168.cms",
       "publishedAt": "2026-08-12T04:55:28+00:00",
       "score": 62,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/musk-discloses-48-4-stake-in-spacex-in-regulatory-filing/articleshow/133227406.cms",
+      "_key": "a87fabffff38da842227231a67a1fc59",
+      "title": "Elon Musk discloses 48.4% stake in SpaceX in regulatory filing",
+      "originalTitle": "Elon Musk discloses 48.4% stake in SpaceX in regulatory filing",
+      "summary": "The rockets-to-AI company went public on June 12 ‌after a record-setting ⁠IPO ⁠thatraised $85.7 billion and vaulted the company's market cap past $2 trillion. ​However, its valuation has since retreated as enthusiasm faded.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/musk-discloses-48-4-stake-in-spacex-in-regulatory-filing/articleshow/133227406.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133227406,imgsize-76520.cms",
+      "publishedAt": "2026-08-14T02:28:12+00:00",
+      "score": 60,
       "alsoIn": [],
       "sourcesCovered": [
         "ETtech"
@@ -1789,6 +1805,48 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-14/can-dogs-transform-cancer-screening-video",
+      "_key": "333aad89eb08f83b236872c71d40b9af",
+      "title": "Can Dogs Transform Cancer Screening?",
+      "originalTitle": "Can Dogs Transform Cancer Screening?",
+      "summary": "Dogs have been used to sniff out drugs, explosives and even Covid. Could cancer be next? An Indian startup is combining canine noses with AI in an effort to make cancer screening cheaper and more accessible. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-14/can-dogs-transform-cancer-screening-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T03:33:25+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-chipmaker-smic-increases-prices-on-strong-ai-demand/articleshow/133228093.cms",
+      "_key": "8d2d9e090ccd15ea1168f20a41a307e6",
+      "title": "Chinese chipmaker SMIC increases prices on strong AI demand",
+      "originalTitle": "Chinese chipmaker SMIC increases prices on strong AI demand",
+      "summary": "Co-CEO Zhao Haijun said on an earnings call that SMIC raised prices following negotiations with customers in the first quarter, and that it would charge more for wafers processed in the third quarter.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-chipmaker-smic-increases-prices-on-strong-ai-demand/articleshow/133228093.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133228093,imgsize-29122.cms",
+      "publishedAt": "2026-08-14T03:17:33+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Exame-https://exame.com/marketing/atencao-mudou-lugar-investimento/",
       "_key": "1b489af564805cdf7256257ce0133039",
       "title": "A atenção mudou de lugar. O investimento ainda não",
@@ -2213,6 +2271,48 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/startups/bengaluru-based-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection/articleshow/133228334.cms",
+      "_key": "3c26864f6941f6f2d1e98df1e25c093b",
+      "title": "Bengaluru-based startup leans on cancer-sniffing dogs and AI for early detection",
+      "originalTitle": "Bengaluru-based startup leans on cancer-sniffing dogs and AI for early detection",
+      "summary": "Billy, Jessie and Banu are part of a team of beagles, labradors, Dutch shepherds and other dog breeds being trained by startup Dognosis to sniff out traces of cancer in human breath.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/startups/bengaluru-based-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection/articleshow/133228334.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133228334,imgsize-63920.cms",
+      "publishedAt": "2026-08-14T03:41:25+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/tebet-declara-r-106-mi-em-patrimonio-ao-registrar-candidatura-ao-senado-por-sp/",
+      "_key": "d89d4c50cfa59b4b4d37d6fa67f652c7",
+      "title": "Tebet declara R$ 10,6 mi em patrimônio ao registrar candidatura ao Senado por SP",
+      "originalTitle": "Tebet declara R$ 10,6 mi em patrimônio ao registrar candidatura ao Senado por SP",
+      "summary": "No ano de 2022, quando Tebet concorreu à Presidência da República, a ex-ministra declarou ter R$ 2,3 milhões The post Tebet declara R$ 10,6 mi em patrimônio ao registrar candidatura ao Senado por SP appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/tebet-declara-r-106-mi-em-patrimonio-ao-registrar-candidatura-ao-senado-por-sp/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/RAS20260327005.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-14T00:57:22+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/fmr-nba-executive-lakers-a-special-asset-in-sports-video",
@@ -3319,6 +3419,27 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-10/nyse-president-on-asia-business-ipo-pipeline-video",
+      "_key": "227ea11eafbfc1a6a25d315f002b2b28",
+      "title": "NYSE President on Asia Business, IPO Pipeline",
+      "originalTitle": "NYSE President on Asia Business, IPO Pipeline",
+      "summary": "Lynn Martin, President at the NYSE Group, discusses the exchange's business strategy and priorities in Asia, as well as the IPO pipeline in the US. She speaks with Paul Allen on Insight with Haslinda Amin. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-10/nyse-president-on-asia-business-ipo-pipeline-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-10T04:30:48+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/finde/bolsa-ibovespa-grupo-de-empresarios-busca-apoio-politico-para-dar-acoes-a-todo-recem-nascido/",
@@ -4582,6 +4703,132 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/information-tech/hcltech-netapp-expand-partnership-to-deliver-hybrid-cloud-storage-as-a-service-for-enterprise-ai/articleshow/133230235.cms",
+      "_key": "c144b22d10a2ebb7da4c23ba816cd6f6",
+      "title": "storage-as-a-service for enterprise AI",
+      "originalTitle": "storage-as-a-service for enterprise AI",
+      "summary": "storage-as-a-service (STaaS) to accelerate enterprise AI adoption. The initiative is designed to assist organisations in scaling artificial intelligence alongside traditional enterprise data workloads.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-netapp-expand-partnership-to-deliver-hybrid-cloud-storage-as-a-service-for-enterprise-ai/articleshow/133230235.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133230235,imgsize-16268.cms",
+      "publishedAt": "2026-08-14T05:47:30+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-trains-its-own-ai-model-for-china-market-with-alibabas-support/articleshow/133229112.cms",
+      "_key": "b6e7905c3dc5d6243d79522324ab0254",
+      "title": "support",
+      "originalTitle": "support",
+      "summary": "The AI model was developed in partnership with Alibaba Group and ​trained with the Chinese tech giant's support, the people said, declining to be named as the information is sensitive and not public.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-trains-its-own-ai-model-for-china-market-with-alibabas-support/articleshow/133229112.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133229112,imgsize-2298515.cms",
+      "publishedAt": "2026-08-14T04:34:35+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-says-ai-agents-used-in-cyberattacks-targeting-island/articleshow/133227692.cms",
+      "_key": "f525ced08cdcd6342cd13a6741a564f2",
+      "title": "Taiwan says AI agents used in cyberattacks targeting island",
+      "originalTitle": "Taiwan says AI agents used in cyberattacks targeting island",
+      "summary": "Overseas hackers used artificial intelligence agents to help carry out a wave of cyberattacks targeting Taiwanese government agencies in July, the island's digital affairs ministry said Thursday.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-says-ai-agents-used-in-cyberattacks-targeting-island/articleshow/133227692.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133227692,imgsize-107509.cms",
+      "publishedAt": "2026-08-14T02:50:09+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/inteligencia-artificial/chatgpt-vai-lembrar-o-que-voce-faz-em-apps-e-sites/",
+      "_key": "7ecf82bca7883ecda139971fe1f582e7",
+      "title": "sites",
+      "originalTitle": "sites",
+      "summary": "Ideia é permitir que chatbot tenha acesso ao contexto do que o usuário fez anteriormente no computador, reduzindo necessidade de explicar novamente tarefas ou informações já trabalhadas O post ChatGPT vai lembrar o que você faz em apps e sites apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/inteligencia-artificial/chatgpt-vai-lembrar-o-que-voce-faz-em-apps-e-sites/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/chatgpt-macbook-1024x682.jpg",
+      "publishedAt": "2026-08-14T01:06:04+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3363937/transit-giant-crrc-sets-down-marker-hong-kong-sales-pitch-overseas-cities?utm_source=rss_feed",
+      "_key": "9de9185ec8418eedcf151f2d78d29b25",
+      "title": "Transit giant CRRC sets down marker in Hong Kong as sales pitch to overseas cities",
+      "originalTitle": "Transit giant CRRC sets down marker in Hong Kong as sales pitch to overseas cities",
+      "summary": "Nearly 30 years after the closure of Hong Kong’s iconic Kai Tak Airport, state-owned giant China Railway Rolling Stock Corporation (CRRC) hopes to provide the nearby waterfront area – a narrow stretch of land that juts into Victoria Harbour – with a route to better transit connectivity.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3363937/transit-giant-crrc-sets-down-marker-hong-kong-sales-pitch-overseas-cities?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/6c24c5b1-faf3-464c-ba5f-125ad9e1f5e4_9ecd47d1.jpg?itok=Q59RDyr4&v=1786681193",
+      "publishedAt": "2026-08-14T00:00:15+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/inovacao/o-lado-b-da-ia-custo-dos-golpes-despenca-e-ataques-sofisticados-se-multiplicam/",
+      "_key": "d0a2024d31f7e4ee52566a4430491f75",
+      "title": "O lado B da IA: custo dos golpes despenca e ataques sofisticados se multiplicam",
+      "originalTitle": "O lado B da IA: custo dos golpes despenca e ataques sofisticados se multiplicam",
+      "summary": "O alvoroço em torno da inteligência artificial (IA) tem sido alimentado pelo enorme potencial que essa tecnologia tem de escancarar novas portas e transformar empresas e negócios, de todos os setores.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/inovacao/o-lado-b-da-ia-custo-dos-golpes-despenca-e-ataques-sofisticados-se-multiplicam/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2025/07/Hacker-casa-300x169.webp",
+      "publishedAt": "2026-08-13T23:41:36+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/negocios/nubank-lucra-mais-de-us-1-bilhao-pela-primeira-vez-em-um-trimestre-e-roe-atinge-33/",
@@ -6320,6 +6567,216 @@
       "country": "BR"
     },
     {
+      "id": "TechNode-https://technode.com/2026/08/14/against-claude-cowork-deepseek-opens-its-open-source-harness-to-developers/",
+      "_key": "9ac996d0164ec9984e816405e0edc342",
+      "title": "Against Claude Cowork, DeepSeek opens its open-source Harness to developers",
+      "originalTitle": "Against Claude Cowork, DeepSeek opens its open-source Harness to developers",
+      "summary": "DeepSeek has opened a developer preview of DeepSeek Harness, an open-source agent harness positioned against Anthropic’s Claude Cowork. The project provides a web interface for running AI agents and uses a plugin-based structure for adding capabilities.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/14/against-claude-cowork-deepseek-opens-its-open-source-harness-to-developers/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/07/deepseek-logo.png?fit=1024%2C405&amp;ssl=1",
+      "publishedAt": "2026-08-14T05:41:03+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/14/xiaomi-patents-a-vehicle-system-that-switches-between-two-lifting-logos/",
+      "_key": "479a51126efc3f85ad9498420c342cab",
+      "title": "Xiaomi patents a vehicle system that switches between two lifting logos",
+      "originalTitle": "Xiaomi patents a vehicle system that switches between two lifting logos",
+      "summary": "Xiaomi Automobile Technology has received a Chinese utility model patent for a “logo lifting device and vehicle.” The patent, CN224617606U, was granted on Aug. 11 and describes a vehicle system that can raise and switch between two logos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/14/xiaomi-patents-a-vehicle-system-that-switches-between-two-lifting-logos/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/10/xiaomi-factory.png?fit=1024%2C506&amp;ssl=1",
+      "publishedAt": "2026-08-14T05:11:35+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3363996/smic-weighs-more-capacity-ai-related-chip-demand-exceeds-forecasts?utm_source=rss_feed",
+      "_key": "4e162a517f53658fe09a7606be9c3a47",
+      "title": "forecasts",
+      "originalTitle": "forecasts",
+      "summary": "Semiconductor Manufacturing International Corporation (SMIC) is actively looking at adding equipment in its factories after demand for mature-node chips used alongside AI processors surged beyond expectations, according to company management.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3363996/smic-weighs-more-capacity-ai-related-chip-demand-exceeds-forecasts?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/41579b2a-2b6b-4304-b9bb-39f998beb4b4_acaf5d59.jpg?itok=zOSfnFbn&v=1786683370",
+      "publishedAt": "2026-08-14T05:00:14+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-14/the-asia-trade-8-14-2026-video",
+      "_key": "8e75a4dfdbb56e705865855b8905a52e",
+      "title": "OpenAI’s Revenue Run Rate Tops $40B | The Asia Trade 8/14/2026",
+      "originalTitle": "OpenAI’s Revenue Run Rate Tops $40B | The Asia Trade 8/14/2026",
+      "summary": "get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-14/the-asia-trade-8-14-2026-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T04:43:26+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/politica/noticia/2026/08/14/o-que-e-a-lei-da-reciprocidade-economica-brasil-eua.ghtml",
+      "_key": "8c054df271c9f91073222a109cf5d58b",
+      "title": "O que é a Lei da Reciprocidade Econômica, que Brasil aciona contra os EUA",
+      "originalTitle": "O que é a Lei da Reciprocidade Econômica, que Brasil aciona contra os EUA",
+      "summary": "Brasil inicia processo para adotar medidas de reciprocidade em resposta ao tarifaço americano O governo brasileiro informou nesta quinta-feira (13) que iniciou o processo para adotar medidas de reciprocidade contra os Estados Unidos em resposta às tarifas aplicadas pelo governo norte-americano sobre produtos do Brasil.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/14/o-que-e-a-lei-da-reciprocidade-economica-brasil-eua.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/o3KRcSfehtDySkkxDoBZ92Za8tg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/ftelaLTS60IJBPRtbiWg/bbc-lula-trump-1.webp",
+      "publishedAt": "2026-08-14T03:00:16+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/how-fabindia-sees-itself-at-66-life-at-tata-after-chandra",
+      "_key": "db0ebfad86d30f20a261ed2c5ffb643b",
+      "title": "How Fabindia sees itself at 66; Life at Tata after Chandra",
+      "originalTitle": "How Fabindia sees itself at 66; Life at Tata after Chandra",
+      "summary": "“Our aspiration is to strengthen our foothold in the mind of the customer,” says Fabindia’s Managing Director William Nanda Bissell. Meanwhile, what's brewing at Tata? Who could lead Tata Sons after N Chandrasekaran?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/how-fabindia-sees-itself-at-66-life-at-tata-after-chandra",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/LatestPPTTemplates32-1786636510559.jpg",
+      "publishedAt": "2026-08-14T02:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/presented/business/topics/ai-ambition-insurance-impact/article/3363778/insurance-will-propel-hong-kongs-ai-ambition?utm_source=rss_feed",
+      "_key": "ea79b3993af57e06c032bcaede6c9745",
+      "title": "Insurance Will Propel Hong Kong’s AI Ambition",
+      "originalTitle": "Insurance Will Propel Hong Kong’s AI Ambition",
+      "summary": "[The content of this article has been produced by our advertising partner.] At the SCMP China Conference on July 7, Chief Executive John Lee identified AI as central to Hong Kong’s push to become a global international innovation and technology centre.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/presented/business/topics/ai-ambition-insurance-impact/article/3363778/insurance-will-propel-hong-kongs-ai-ambition?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2026/08/12/01.jpg?itok=MaUPcHU1",
+      "publishedAt": "2026-08-14T01:00:16+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/colunistas/seu-direito-digital-lgpd-completa-8-anos-o-que-mudou-na-sua-privacidade/",
+      "_key": "8dc941e4a4c20e7d10d243967c4b9833",
+      "title": "Seu Direito Digital: LGPD completa 8 anos – o que mudou na sua privacidade?",
+      "originalTitle": "Seu Direito Digital: LGPD completa 8 anos – o que mudou na sua privacidade?",
+      "summary": "Qual a importância dessa legislação e como ela avançou durante esse período? O post Seu Direito Digital: LGPD completa 8 anos &#8211; o que mudou na sua privacidade? apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/13/colunistas/seu-direito-digital-lgpd-completa-8-anos-o-que-mudou-na-sua-privacidade/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/lgpd.jpg",
+      "publishedAt": "2026-08-14T00:39:58+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/eua-receberam-alertas-de-israel-sobre-planos-do-ira-para-matar-trump/",
+      "_key": "2d42baf03b3cc360b2077abb03648b1c",
+      "title": "EUA receberam alertas de Israel sobre planos do Irã para matar Trump",
+      "originalTitle": "EUA receberam alertas de Israel sobre planos do Irã para matar Trump",
+      "summary": "Alertas incluíam possíveis ataques a tiros ou com faca e, antes de cúpula da Otan, até o uso de míssil contra o Air Force One; inteligência americana não conseguiu confirmar as ameaças de forma independente The post EUA receberam alertas de Israel sobre planos do Irã para matar Trump appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/eua-receberam-alertas-de-israel-sobre-planos-do-ira-para-matar-trump/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-12T185328Z_1_LYNXMPEM7B1GM_RTROPTP_4_USA-TRUMP-AIR-FORCE-ONE.jpg?fit=300%2C212&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-14T00:33:54+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-14/india-bar-council-retreats-after-cockroach-protest-threat",
+      "_key": "ad3feac4abcda34e53362f6cc852d81f",
+      "title": "India Bar Council Retreats Amid ‘Cockroach’ Protest Threat",
+      "originalTitle": "India Bar Council Retreats Amid ‘Cockroach’ Protest Threat",
+      "summary": "India’s national regulator for lawyers reversed an order barring an entire graduating class at one of the country’s leading law schools from enrolling as advocates, hours after the move triggered backlash and threats of protests.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/india-bar-council-retreats-after-cockroach-protest-threat",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T00:11:59+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/governo-lula-anuncia-abertura-de-reciprocidade-por-tarifaco-dos-eua/",
       "_key": "aff0eca7e98ce4433e222ca063d4319d",
       "title": "Governo Lula anuncia abertura de reciprocidade por tarifaço dos EUA",
@@ -6341,6 +6798,27 @@
       "coverageCount": 1
     },
     {
+      "id": "The Verge-https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+      "_key": "b9f114af84590dabf63251e161b25149",
+      "title": "Store",
+      "originalTitle": "Store",
+      "summary": "fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is \"far outside of the bounds\" of the [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK468_APPLE_ANTITRUST_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-13T23:13:24+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/cpfl-cpfe3-resultados-segundo-trimestre-2026/",
       "_key": "ed3d6b3e71f2833fe298b0f1a1ec9c3f",
       "title": "CPFL lucra R$ 1,44 bilhão, vê novo impulso de data centers no mercado da distribuição",
@@ -6358,6 +6836,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/13/tarifaco-governo-da-inicio-a-processo-de-reciprocidade-contra-os-estados-unidos.ghtml",
+      "_key": "147d488b3c6cb3de355f6864fd205d90",
+      "title": "Tarifaço: Governo dá início a processo de reciprocidade contra os Estados Unidos",
+      "originalTitle": "Tarifaço: Governo dá início a processo de reciprocidade contra os Estados Unidos",
+      "summary": "Brasil inicia processo para adotar medidas de reciprocidade em resposta ao tarifaço americano O governo brasileiro informou nesta quinta-feira (13) que deu início ao processo para aplicar medidas de reciprocidade contra os Estados Unidos por conta das tarifas impostas pelo governo norte-americano a produtos brasileiros.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/13/tarifaco-governo-da-inicio-a-processo-de-reciprocidade-contra-os-estados-unidos.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/HwAH8lrwXnGEgMC8AqjpamFWLks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/w/qr8EnFQoyi0qj7bSbOFg/2026-05-07t200956z-762434998-rc2k4la11tpf-rtrmadp-3-usa-trump-brazil.jpg",
+      "publishedAt": "2026-08-13T22:36:50+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
       ],
       "coverageCount": 1
     },
@@ -6463,6 +6962,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/google-lanca-gemini-3-7-flash-apenas-tres-semanas-apos-versao-anterior/",
+      "_key": "06d280fef692a5b7c0e8a19b9e6c7c7c",
+      "title": "Google lança Gemini 3.7 Flash apenas três semanas após versão anterior",
+      "originalTitle": "Google lança Gemini 3.7 Flash apenas três semanas após versão anterior",
+      "summary": "Modelo leve da IA do Google ganha atualização que custa metade do preço para concorrer com serviços chineses. Google lança Gemini 3.7 Flash apenas três semanas após versão anterior",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/noticias/google-lanca-gemini-3-7-flash-apenas-tres-semanas-apos-versao-anterior/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-3.png",
+      "publishedAt": "2026-08-13T20:44:57+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
       ],
       "coverageCount": 1
     },
@@ -11926,6 +12446,69 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/14/cxmt-overtakes-tencent-as-chinas-most-valuable-listed-company/",
+      "_key": "fca18335f2711eaee7356b24f9ee0f89",
+      "title": "CXMT overtakes Tencent as China’s most valuable listed company",
+      "originalTitle": "CXMT overtakes Tencent as China’s most valuable listed company",
+      "summary": "CXMT Corporation, a Chinese DRAM maker, overtook Tencent on Aug. 13 to become China’s most valuable listed company by market capitalization. CXMT’s market value reached about RMB3.54 trillion, compared with Tencent’s roughly HK$4.01 trillion, or about RMB3.45 trillion.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/14/cxmt-overtakes-tencent-as-chinas-most-valuable-listed-company/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/10/cxmt.jpg?fit=1024%2C576&amp;ssl=1",
+      "publishedAt": "2026-08-14T05:19:48+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3363966/chinese-doctor-stuns-maths-world-cracking-decades-old-problem-using-chatgpt?utm_source=rss_feed",
+      "_key": "4c05198c723ea691531b723f69ae633f",
+      "title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
+      "originalTitle": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
+      "summary": "When Beijing-based neurosurgeon Jin Shanmu pulled up a chair at his computer, he was not looking to make mathematical history. He was simply trying to crack a problem related to brain ultrasounds.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363966/chinese-doctor-stuns-maths-world-cracking-decades-old-problem-using-chatgpt?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/e1f28d62-c81a-4a28-800e-ac9092d1830d_473dc0aa.jpg?itok=HiXcpaI2&v=1786669838",
+      "publishedAt": "2026-08-14T02:00:12+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+      "_key": "9ecf4ec4b1738d03a93097fae984460c",
+      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "originalTitle": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and parts, too.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/dji-speaker-accessory.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-14T01:06:15+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "The Verge-https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
