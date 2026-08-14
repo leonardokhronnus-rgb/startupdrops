@@ -310,7 +310,7 @@ def get_anthropic():
     global _anthropic_client
     if _anthropic_client is not None:
         return _anthropic_client
- key = (os.environ.get("ANTHROPIC_API_KEY") or "").strip()
+key = (os.environ.get("ANTHROPIC_API_KEY") or "").strip()
     if not key:
         return None
     try:
