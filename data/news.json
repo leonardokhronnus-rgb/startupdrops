@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T09:59:11.859364+00:00",
+  "updatedAt": "2026-08-14T15:41:12.075941+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -445,6 +445,48 @@
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/bill-ackman-cria-fundo-para-dar-acesso-a-pre-ipo-ao-investidor-comum/",
+      "_key": "2bd8f45da9b2ac463b6a130b51656fe9",
+      "title": "Bill Ackman cria fundo para dar acesso a pré-IPO ao investidor comum",
+      "originalTitle": "Bill Ackman cria fundo para dar acesso a pré-IPO ao investidor comum",
+      "summary": "Pershing Square Ventures será veículo permanente que investirá em startups como SpaceX; bilionário critica falta de oportunidades para o varejo The post Bill Ackman cria fundo para dar acesso a pré-IPO ao investidor comum appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/bill-ackman-cria-fundo-para-dar-acesso-a-pre-ipo-ao-investidor-comum/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464348054.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-14T14:53:14+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/14/lovable-raises-400m-duolingo-acquires-animade-and-isembard-is-a-politician-s-wet-dream/",
+      "_key": "61ca4c639888bc5d817978abc59a1b58",
+      "title": "Lovable raises $400M, Duolingo acquires Animade, and Isembard is a politician's wet dream",
+      "originalTitle": "Lovable raises $400M, Duolingo acquires Animade, and Isembard is a politician's wet dream",
+      "summary": "This week, we tracked more than 35 tech funding deals worth over €763 million and over 10 exits, M A transactions, rumours, and related news stories across Europe.If email is more your thing, you ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/14/lovable-raises-400m-duolingo-acquires-animade-and-isembard-is-a-politician-s-wet-dream/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2025/08/this-week-in-596.png",
+      "publishedAt": "2026-08-14T14:10:33+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "EU-Startups-https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/",
       "_key": "5f9fabef13df3a697250bdb331260470",
       "title": "Lovable raise €343 million Series C to expand its platform, infrastructure and global team",
@@ -630,6 +672,27 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/fidc-da-nx-boats-dobra-captacao-para-r-100-milhoes-para-financiar-embarcacoes/",
+      "_key": "6062816986c9fe5ed3e8e0364f855c23",
+      "title": "embarcações",
+      "originalTitle": "embarcações",
+      "summary": "Gerido por Sete Partners e Ouro Preto Investimentos, veículo já viabilizou o financiamento de mais de 100 embarcações e passa a atender também revendedores e o mercado de seminovas The post FIDC da NX Boats dobra captação para R$ 100 milhões para financiar embarcações appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/fidc-da-nx-boats-dobra-captacao-para-r-100-milhoes-para-financiar-embarcacoes/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/nx-boats.webp?fit=300%2C168&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-14T15:00:00+00:00",
+      "score": 57,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "EU-Startups-https://www.eu-startups.com/2026/08/eth-zurich-spin-off-aisot-technologies-bags-e2-13-million-to-bring-agentic-ai-to-portfolio-management/",
@@ -1616,6 +1679,48 @@
       "country": "BR"
     },
     {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/em-mais-um-passo-de-seu-plano-de-desalavancagem-cosan-encaminha-venda-de-porto-de-sao-luis-por-r-300-milhoes/",
+      "_key": "ded3dea5868a504fc248800614ae950d",
+      "title": "Em mais um passo de seu plano de desalavancagem, Cosan encaminha venda de Porto de São Luís por R$ 300 milhões",
+      "originalTitle": "Em mais um passo de seu plano de desalavancagem, Cosan encaminha venda de Porto de São Luís por R$ 300 milhões",
+      "summary": "A Cosan anunciou na quinta-feira à noite, 13 de agosto, um acordo para encaminhar a venda de sua participação no Terminal de Uso Privado Porto São Luís (TUP São Luís), alinhado ao plano de desinvestimento de ativos para lidar com alto endividamento.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/em-mais-um-passo-de-seu-plano-de-desalavancagem-cosan-encaminha-venda-de-porto-de-sao-luis-por-r-300-milhoes/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2024/10/cosan-300x169.webp",
+      "publishedAt": "2026-08-14T12:17:21+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/the-10-biggest-startup-investments-in-sweden-this-year/",
+      "_key": "e327ff51d0bd1248875ea8a34454fba4",
+      "title": "The 10 biggest startup investments in Sweden this year",
+      "originalTitle": "The 10 biggest startup investments in Sweden this year",
+      "summary": "far. Sweden has produced some of Europe’s largest startup funding announcements this year, with Stockholm-based companies accounting for much of the capital covered by EU-Startups.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/the-10-biggest-startup-investments-in-sweden-this-year/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/The-10-biggest-startup-investments-in-Sweden-this-year.png",
+      "publishedAt": "2026-08-14T11:31:29+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/vantage-data-centers-explores-ipo-at-100-billion-valuation-or-sale-sources-say/articleshow/133211795.cms",
       "_key": "eb0a863c6002892f3b2ea72c1fcdbb1e",
       "title": "Vantage Data Centers explores IPO at $100 billion valuation or sale, sources say",
@@ -1866,6 +1971,69 @@
       "_key": "f8e0775a3d215483d2c4272db6e00e3e",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/sangria-vai-longe-bolsa-brasileira-e-emergente-com-maior-peso-em-fundos-globais/",
+      "_key": "288f650cbde1c5f0fd2b2f65f1f3ada7",
+      "title": "Sangria vai longe? Bolsa brasileira é emergente com maior peso em fundos globais",
+      "originalTitle": "Sangria vai longe? Bolsa brasileira é emergente com maior peso em fundos globais",
+      "summary": "Levantamento do UBS com cerca de 220 fundos mostra que o Brasil tem a maior fatia no universo emergente, com participação estrangeira perto de máximas históricas The post Sangria vai longe? Bolsa brasileira é emergente com maior peso em fundos globais appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/sangria-vai-longe-bolsa-brasileira-e-emergente-com-maior-peso-em-fundos-globais/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Captura-de-tela-2024-08-15-092426.png?fit=300%2C202&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-14T14:33:04+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/poder/o-caminho-sinuoso-para-o-pais-ter-uma-inteligencia-artificial-made-in-brasil/",
+      "_key": "2dd16a2a2130ff4a8e4cf88748080eb5",
+      "title": "O caminho (sinuoso) para o País ter uma inteligência artificial made in Brasil",
+      "originalTitle": "O caminho (sinuoso) para o País ter uma inteligência artificial made in Brasil",
+      "summary": "Brasília &#8211; O governo brasileiro vem gerando no mercado uma expectativa de que deve, em breve, comprar “supercomputadores”, em um dos pilares de uma estratégia ampla para fomentar investimentos e ações em inteligência artificial (IA) no País &#8211; e um aceno à disputa geopolítica em torno da tecnologia.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/poder/o-caminho-sinuoso-para-o-pais-ter-uma-inteligencia-artificial-made-in-brasil/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/inteligencia-artificial-brasil-300x169.jpg",
+      "publishedAt": "2026-08-14T14:08:02+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026/",
+      "_key": "c5b4f799e075c8f9b7ed3e62f52e6804",
+      "title": "40 Companies Joined The Unicorn Board In July, The Highest Count In 4 Years",
+      "originalTitle": "40 Companies Joined The Unicorn Board In July, The Highest Count In 4 Years",
+      "summary": "The sectors leading the herd to the Unicorn Board in July, by count, were financial services, robotics, AI orchestration, multimodal AI, energy and semiconductors, with the U.S. adding nearly half of the month's newly minted unicorns.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg",
+      "publishedAt": "2026-08-14T11:00:53+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "SCMP Tech-https://www.scmp.com/plus/tech/tech-war/article/3364024/smic-eyes-expansion-amid-ai-boom-zhu-rongji-dies-shein-nears-ipo?utm_source=rss_feed",
@@ -2376,6 +2544,132 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/14/guerra-comercial-com-os-eua-pode-encarecer-produtos-e-afetar-empregos-diz-entidade-industrial.ghtml",
+      "_key": "fa9903137770d7e13378ffa6353f33b2",
+      "title": "“Guerra comercial com os EUA pode encarecer produtos e afetar empregos”, diz entidade industrial",
+      "originalTitle": "“Guerra comercial com os EUA pode encarecer produtos e afetar empregos”, diz entidade industrial",
+      "summary": "A Federação das Indústrias do Estado de Minas Gerais (FIEMG) alertou nesta sexta-feira (14) que uma escalada de retaliações comerciais entre Brasil e Estados Unidos pode aumentar os custos de produção, afetar investimentos e pressionar empregos no país.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/guerra-comercial-com-os-eua-pode-encarecer-produtos-e-afetar-empregos-diz-entidade-industrial.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/pE8JjuvZQmJw7gup7o2LAf3i2IM=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/e/rQy9b2Tzme9i0HniBA9g/globo-canal-4-20260810-2000-frame-97648.jpeg",
+      "publishedAt": "2026-08-14T15:10:08+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/startups/pernias-pop-up-shop-likely-to-launch-rs-660-crore-ipo-by-august-end/articleshow/133243536.cms",
+      "_key": "5029444f8ca0376f78dd1d12c6f25461",
+      "title": "Pernia's Pop-Up Shop likely to launch Rs 660 crore IPO by August-end",
+      "originalTitle": "Pernia's Pop-Up Shop likely to launch Rs 660 crore IPO by August-end",
+      "summary": "The company, which operates a multi-brand luxury fashion omni-channel platform, has filed its updated draft red herring prospectus (UDRHP) with markets regulator Sebi. It received Sebi's approval for the IPO in January this year.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/startups/pernias-pop-up-shop-likely-to-launch-rs-660-crore-ipo-by-august-end/articleshow/133243536.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133243536,imgsize-456039.cms",
+      "publishedAt": "2026-08-14T13:51:24+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/o-que-e-preciso-para-atingir-a-mentalidade-de-alta-performance/",
+      "_key": "ca2e27cbdfc74cd3041f59bc3ddc9097",
+      "title": "O que é preciso para atingir a mentalidade de alta performance e por que ela pode ser a alavanca da sua empresa",
+      "originalTitle": "O que é preciso para atingir a mentalidade de alta performance e por que ela pode ser a alavanca da sua empresa",
+      "summary": "Startupi O que é preciso para atingir a mentalidade de alta performance e por que ela pode ser a alavanca da sua empresa * Por Kayky Janiszewski Comecei a empreender com 15 anos, atuando com marketing, produtos digitais e ensinando as pessoas a criar um negócio online.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/o-que-e-preciso-para-atingir-a-mentalidade-de-alta-performance/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/Artigo_Lideranca_Kayky_Startupi.jpg",
+      "publishedAt": "2026-08-14T13:09:35+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/o-desenvolvimento-comeca-pela-escuta/",
+      "_key": "bec8c5d054cfa96c7266b4ba1baba837",
+      "title": "indígenas",
+      "originalTitle": "indígenas",
+      "summary": "um governo, uma empresa ou uma instituição chega a um território para desenvolver um projeto de inovação, quase sempre começa pela mesma pergunta: qual solução podemos levar para cá?&#160; O problema é que essa pergunta parte de uma premissa perigosa: a de que o conhecimento está em quem chega, enquanto o problema está em [...] O post O desenvolvimento começa pela escuta: o que a inovação pode aprender com as periferias, quilombos e povos indígenas aparece primeiro em Startupi e foi escrito por Ed Lobo",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/o-desenvolvimento-comeca-pela-escuta/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2024/11/bandeira-do-brasil.jpg",
+      "publishedAt": "2026-08-14T12:40:59+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/14/a-eur4000-scam-sparked-a-startup-that-stops-phone-fraud-before-your-mobile-even-rings/",
+      "_key": "8a4ce4751401a5e7e50a5bffed4dd1cf",
+      "title": "A €4,000 scam sparked a startup that stops phone fraud before your mobile even rings",
+      "originalTitle": "A €4,000 scam sparked a startup that stops phone fraud before your mobile even rings",
+      "summary": "For Rita Barbosa, the idea for her startup, Guardian Labs, began when a phone scam targeted her grandmother. She recounts: “The scammers told her that the water she was drinking wasn't safe. They led ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/14/a-eur4000-scam-sparked-a-startup-that-stops-phone-fraud-before-your-mobile-even-rings/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-31-436.png",
+      "publishedAt": "2026-08-14T12:00:48+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/subsea-craft-makes-multi-million-euro-investment-in-uk-battery-specialist-lorillion-acquiring-40-stake/",
+      "_key": "fea018886891e99abfca31874d302db6",
+      "title": "SubSea Craft makes multi-million-euro investment in UK battery specialist LORILLION, acquiring 40% stake",
+      "originalTitle": "SubSea Craft makes multi-million-euro investment in UK battery specialist LORILLION, acquiring 40% stake",
+      "summary": "LORILLION, a Coventry-based engineering and R&#38;D company specialising in bespoke electrification solutions and clean-energy technologies, has secured a multi-million-euro (multi-million-pound) investment from Portsmouth-based maritime technology company SubSea Craft.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/subsea-craft-makes-multi-million-euro-investment-in-uk-battery-specialist-lorillion-acquiring-40-stake/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-14T163455.129.jpg",
+      "publishedAt": "2026-08-14T11:07:58+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/antes-de-uma-ponte-terrestre-mamiferos-ja-venciam-a-distancia-entre-as-americas/",
@@ -3934,6 +4228,27 @@
       "country": "BR"
     },
     {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/startups/voltas-atomberg-innovation-plan-5050-venture-to-manufacture-ac-compressors/articleshow/133244561.cms",
+      "_key": "def2d72cd78e424db4d7c60e503c2b49",
+      "title": "Voltas, Atomberg Innovation plan 50:50 venture to manufacture AC compressors",
+      "originalTitle": "Voltas, Atomberg Innovation plan 50:50 venture to manufacture AC compressors",
+      "summary": "Limited on Friday, an exchange filing showed. The venture will be owned equally, although Voltas will nominate three directors to its five-member board and Atomberg Innovation two. Voltas owns no stake in Atomberg Innovation.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/startups/voltas-atomberg-innovation-plan-5050-venture-to-manufacture-ac-compressors/articleshow/133244561.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133244561,imgsize-36442.cms",
+      "publishedAt": "2026-08-14T14:25:15+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startupi-https://startupi.com.br/nao-sabemos-se-sera-uma-rede-unica-anbima-revela-que-piloto-de-tokenizacao-superou-expectativas-em-4x-e-redesenha-a-infraestrutura-financeira-brasileira/",
       "_key": "d5aff44f3bd468981cb5d70f85a89af7",
       "title": "“Não sabemos se será uma rede única”: Anbima revela que piloto de tokenização superou expectativas em 4x e redesenha a infraestrutura financeira brasileira",
@@ -3972,6 +4287,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/shiprocket-ipo-day-3-gmp-signals-38-listing-premium-subscribed-3-16-times-should-you-subscribe/articleshow/133241705.cms",
+      "_key": "2d9d0298ba88e67f8775313a4fb3734d",
+      "title": "Shiprocket IPO ends day 3 with 99.3x subscription on strong QIB push. Check GMP other details",
+      "originalTitle": "Shiprocket IPO ends day 3 with 99.3x subscription on strong QIB push. Check GMP other details",
+      "summary": "Shiprocket’s IPO was subscribed 99.31 times, led by strong institutional demand, with QIBs subscribing 122.8 times. The Rs 1,617.59 crore issue also commands a 38% grey market premium over the upper price band of Rs 97.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/shiprocket-ipo-day-3-gmp-signals-38-listing-premium-subscribed-3-16-times-should-you-subscribe/articleshow/133241705.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133241705,imgsize-2110754.cms",
+      "publishedAt": "2026-08-14T03:09:47+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -4913,6 +5249,153 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/yduqs-yduq3-por-que-acao-cai-quase-7-se-queda-do-lucro-ja-era-esperada/",
+      "_key": "93def0c04645cb70a9d2893a51f45f8b",
+      "title": "Yduqs (YDUQ3): por que ação cai quase 7% se queda do lucro já era esperada?",
+      "originalTitle": "Yduqs (YDUQ3): por que ação cai quase 7% se queda do lucro já era esperada?",
+      "summary": "Companhia viu lucro líquido cair pela metade no segundo trimestre The post Yduqs (YDUQ3): por que ação cai quase 7% se queda do lucro já era esperada? appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/yduqs-yduq3-por-que-acao-cai-quase-7-se-queda-do-lucro-ja-era-esperada/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/estacio-01-fachada-.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-14T15:07:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/reviews/quer-um-smartwatch-cheio-de-recursos-veja-estas-opcoes-em-promocao-na-amazon/",
+      "_key": "fc8171a6d5623b3de806f35e67a80481",
+      "title": "Quer um smartwatch cheio de recursos? Veja estas opções em promoção na Amazon",
+      "originalTitle": "Quer um smartwatch cheio de recursos? Veja estas opções em promoção na Amazon",
+      "summary": "integram inteligência artificial e acompanham dezenas de modalidades esportivas. Separamos três modelos em oferta na Amazon para quem quer entrar de vez nesse universo ou trocar de relógio sem complicação.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/reviews/quer-um-smartwatch-cheio-de-recursos-veja-estas-opcoes-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/51Fd-ffbZrL._SL500_.jpg",
+      "publishedAt": "2026-08-14T13:20:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/goldman-in-talks-with-investors-on-nvidia-financing-deal-after-landing-prized-role/articleshow/133241463.cms",
+      "_key": "1d4b1033b18a30efc454e4e15f10b13b",
+      "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role",
+      "originalTitle": "Goldman in talks with investors on Nvidia financing deal after landing prized role",
+      "summary": "Nvidia announced on August 10 it has partnered with six major financial institutions including Goldman to launch compute platforms aimed at raising over $500 billion in third-party capital for ‌AI infrastructure.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/goldman-in-talks-with-investors-on-nvidia-financing-deal-after-landing-prized-role/articleshow/133241463.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133241463,imgsize-116932.cms",
+      "publishedAt": "2026-08-14T12:31:09+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-hires-two-ai-experts-to-boost-ai-adoption-in-chip-business/articleshow/133241261.cms",
+      "_key": "6b9d463d25f82bee7dffb4c72d8ae742",
+      "title": "Samsung hires two AI experts to boost AI adoption in chip business",
+      "originalTitle": "Samsung hires two AI experts to boost AI adoption in chip business",
+      "summary": "The South Korean electronics giant is increasingly utilising AI across its semiconductor business to shorten development cycles, improve manufacturing efficiency and raise productivity amid intensifying competition in advanced chips.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-hires-two-ai-experts-to-boost-ai-adoption-in-chip-business/articleshow/133241261.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133241261,imgsize-.cms",
+      "publishedAt": "2026-08-14T12:23:56+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/14/desemprego-estados-pnad.ghtml",
+      "_key": "50509b03e477e225e4d0e07fbdb573dd",
+      "title": "Desemprego cai em 13 estados brasileiros no 2º trimestre de 2026, diz IBGE",
+      "originalTitle": "Desemprego cai em 13 estados brasileiros no 2º trimestre de 2026, diz IBGE",
+      "summary": "Carteira de Trabalho Digital Gil Leonardi/ImprensaMG A taxa de desemprego caiu em 13 estados brasileiros no segundo trimestre de 2026, de acordo com a Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua Trimestral, divulgada nesta sexta-feira (14) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/desemprego-estados-pnad.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/sHdJIKSjEH41JmWvRXcR_K8rhuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/G/AuICD5Smiju7zH4vkGQA/gil-leonardi-imprensamg-img-3025.jpg",
+      "publishedAt": "2026-08-14T12:00:34+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3364082/launch-deepseeks-harness-marks-its-strategic-pivot-towards-autonomous-agentic-ai?utm_source=rss_feed",
+      "_key": "452309cf7af965327d325ba38eae66db",
+      "title": "Launch of DeepSeek’s Harness marks its strategic pivot towards autonomous agentic AI",
+      "originalTitle": "Launch of DeepSeek’s Harness marks its strategic pivot towards autonomous agentic AI",
+      "summary": "Chinese artificial intelligence company DeepSeek is venturing into a new battleground beyond large language models, launching a developer preview of its long-anticipated Harness – a software framework that helps developers turn AI models into autonomous agents.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3364082/launch-deepseeks-harness-marks-its-strategic-pivot-towards-autonomous-agentic-ai?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/ad0d10a1-8573-4de6-a8f3-71152bf5c806_a8a74c45.jpg?itok=3JIZaSKB&v=1786705427",
+      "publishedAt": "2026-08-14T11:03:52+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3364077/zhipu-launches-flagship-model-glm-53-china-seeks-mythos-level-edge-cyber-defence?utm_source=rss_feed",
+      "_key": "de882be02f667d98c73d6bbd4256dd8f",
+      "title": "Zhipu launches flagship model GLM-5.3 as China seeks Mythos-level edge in cyber defence",
+      "originalTitle": "Zhipu launches flagship model GLM-5.3 as China seeks Mythos-level edge in cyber defence",
+      "summary": "Chinese artificial intelligence firm Zhipu, also known as Z.ai, has unveiled its flagship GLM-5.3 model, saying it beat Anthropic’s frontier Mythos 5 model in a key cybersecurity test, as China races to counter Western advances in AI defence.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3364077/zhipu-launches-flagship-model-glm-53-china-seeks-mythos-level-edge-cyber-defence?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/4c611de1-02fd-4ec9-b3b1-404fb7560e39_03246d27.jpg?itok=se7Kso8b&v=1786703652",
+      "publishedAt": "2026-08-14T11:03:30+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "SCMP Business-https://www.scmp.com/opinion/world-opinion/article/3363818/just-yen-america-cannot-save-ai-bubble?utm_source=rss_feed",
@@ -6819,6 +7302,279 @@
       "country": "BR"
     },
     {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/reviews/hora-de-turbinar-seu-setup-selecionamos-os-melhores-mouses-gamer-sem-fio-em-promocao/",
+      "_key": "34cb8353845a9a3916ae1fe1277b7c2e",
+      "title": "Hora de turbinar seu setup: selecionamos os melhores mouses gamer sem fio em promoção",
+      "originalTitle": "Hora de turbinar seu setup: selecionamos os melhores mouses gamer sem fio em promoção",
+      "summary": "Se você ainda usa um mouse com fio, talvez seja hora de repensar. O mercado de mouses gamer sem fio evoluiu muito nos últimos anos — latência baixíssima, autonomia de bateria impressionante e sensores de alta precisão deixaram de ser exclusividade dos modelos mais caros.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/reviews/hora-de-turbinar-seu-setup-selecionamos-os-melhores-mouses-gamer-sem-fio-em-promocao/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31JvKtOCv9L._SL500_.jpg",
+      "publishedAt": "2026-08-14T14:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/global/telescopio-flagra-dois-buracos-negros-prestes-a-se-fundir/",
+      "_key": "6d29d38a96d618e1b638c29d3bcca49a",
+      "title": "Telescópio flagra dois buracos negros prestes a se fundir",
+      "originalTitle": "Telescópio flagra dois buracos negros prestes a se fundir",
+      "summary": "Novas imagens do telescópio James Webb mostram uma galáxia com um trio de buracos negros supermassivos. Dois deles parecem estar enroscados em um tango apertado The post Telescópio flagra dois buracos negros prestes a se fundir appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/global/telescopio-flagra-dois-buracos-negros-prestes-a-se-fundir/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/SCI-MERGING-BLACK-HOLES-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-14T14:35:17+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/novo-modelo-de-ia-detecta-mudancas-no-sol-antes-de-serem-visiveis/",
+      "_key": "d5ac130255f57eb17046328ef1fd3480",
+      "title": "Novo modelo de IA detecta mudanças no Sol antes de serem visíveis",
+      "originalTitle": "Novo modelo de IA detecta mudanças no Sol antes de serem visíveis",
+      "summary": "Modelo EarlyDetect usa dados da NASA para antecipar regiões ativas no Sol, embora ainda não esteja pronto para alertas em tempo real O post Novo modelo de IA detecta mudanças no Sol antes de serem visíveis apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/novo-modelo-de-ia-detecta-mudancas-no-sol-antes-de-serem-visiveis/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/sol-ia-1024x405.jpg",
+      "publishedAt": "2026-08-14T14:05:10+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/inteligencia-artificial/ia-amplia-conversas-entre-maquinas-mas-pode-tornar-o-contato-humano-mais-raro/",
+      "_key": "4b55d55da985813be2da1c98f860dac9",
+      "title": "IA amplia conversas entre máquinas, mas pode tornar o contato humano mais raro",
+      "originalTitle": "IA amplia conversas entre máquinas, mas pode tornar o contato humano mais raro",
+      "summary": "Agentes digitais já assumem tarefas em empregos, estudos e atendimentos, enquanto erros compartilhados entre sistemas levantam novos riscos O post IA amplia conversas entre máquinas, mas pode tornar o contato humano mais raro apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/inteligencia-artificial/ia-amplia-conversas-entre-maquinas-mas-pode-tornar-o-contato-humano-mais-raro/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/agente-ia-1024x575.jpg",
+      "publishedAt": "2026-08-14T14:00:32+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/reviews/trabalhe-estude-ou-crie-com-mais-liberdade-veja-notebooks-em-promocao-na-amazon/",
+      "_key": "d553d9b6bbaaffce849e23a86da91fb6",
+      "title": "Trabalhe, estude ou crie com mais liberdade: veja notebooks em promoção na Amazon",
+      "originalTitle": "Trabalhe, estude ou crie com mais liberdade: veja notebooks em promoção na Amazon",
+      "summary": "Se você está pensando em renovar o computador ou dar um salto de produtividade, este é um bom momento para pesquisar. Reunimos três opções de notebooks disponíveis na Amazon com configurações variadas — do modelo compacto e acessível ao ultraportátil com conectividade moderna.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/reviews/trabalhe-estude-ou-crie-com-mais-liberdade-veja-notebooks-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31cXWnEdHBL._SL500_.jpg",
+      "publishedAt": "2026-08-14T14:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-14/right-wing-shift-jolts-colombia-s-bond-market-back-to-life",
+      "_key": "6584993566f10edc11a11e8b859cd2b7",
+      "title": "Colombia Bond Market Perks Up After De la Espriella’s Election",
+      "originalTitle": "Colombia Bond Market Perks Up After De la Espriella’s Election",
+      "summary": "Colombia’s local corporate bond sales are rebounding after four years in the doldrums as the election of a market-friendly government stokes investor demand for local assets and triggers a drop in sovereign yields.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/right-wing-shift-jolts-colombia-s-bond-market-back-to-life",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T13:17:16+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/noticias/anatel-libera-o-polemico-sistema-anti-spam-da-vivo/",
+      "_key": "3fd551f6c8f0077c27766dda6d640dc3",
+      "title": "Anatel libera o polêmico sistema anti-spam da Vivo",
+      "originalTitle": "Anatel libera o polêmico sistema anti-spam da Vivo",
+      "summary": "Ferramenta gratuita está ativa para todos os clientes do móvel no pós-pago e controle. TIM e outras empresas questionavam a tecnologia. Anatel libera o polêmico sistema anti-spam da Vivo",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/noticias/anatel-libera-o-polemico-sistema-anti-spam-da-vivo/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capa_vivo-anti-spam.jpg",
+      "publishedAt": "2026-08-14T12:53:10+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/14/vendas-de-carros-chineses.ghtml",
+      "_key": "b716159fc4cbf623eaca586d925eb2ad",
+      "title": "Vendas de carros chineses estão em alta, exceto na própria China",
+      "originalTitle": "Vendas de carros chineses estão em alta, exceto na própria China",
+      "summary": "JN na China: série especial mostra Cantão, cidade que virou polo da produção de carros elétricos A indústria automotiva chinesa está em franca expansão no exterior, conquistando mercados da Europa ao Sudeste Asiático e pressionando montadoras tradicionais como Toyota e Volkswagen.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/vendas-de-carros-chineses.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/ynxywA0-K7eDV8IWPS-XEIsalYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/L/nXoXA6SU6PLrFeVFnwtA/2026-08-11t101228z-1591047339-rc2awmaa1us4-rtrmadp-3-autos-china-sales.jpg",
+      "publishedAt": "2026-08-14T12:44:17+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-14/us-stock-futures-up-as-strong-earnings-benign-data-drive-gains",
+      "_key": "f6d38879c207861e9d30309f0ffeb41f",
+      "title": "US Stocks Rise as Strong Earnings, Benign Data Drive Gains",
+      "originalTitle": "US Stocks Rise as Strong Earnings, Benign Data Drive Gains",
+      "summary": "US equities are holding on to gains that propelled them to all-time highs this week, after a set of data eased rate-hike expectations and robust earnings renewed faith in the artificial intelligence trade.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-stock-futures-up-as-strong-earnings-benign-data-drive-gains",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T12:18:04+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/blog/ana-flor/post/2026/08/14/processo-de-reciprocidade-e-politico-e-decisao-ficara-para-o-proximo-governo.ghtml",
+      "_key": "4dd7f1c424d64dea3f37e7ef2041d0f8",
+      "title": "Processo de reciprocidade é político e decisão ficará para o próximo governo",
+      "originalTitle": "Processo de reciprocidade é político e decisão ficará para o próximo governo",
+      "summary": "O ministro do Desenvolvimento, Indústria e Comércio, Marcio Elias Rosa, vê um longo processo, que pode chegar a 9 meses, antes de o governo brasileiro definir tarifas de reciprocidade aos EUA pelo tarifaço imposto nas últimas semanas.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/14/processo-de-reciprocidade-e-politico-e-decisao-ficara-para-o-proximo-governo.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/V1MVoQWnW6IFNLd0S-AyqlA4vSQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/B/5QwZB6TDAAWFBedjWS0Q/55227342991-42c62b48c5-o.jpg",
+      "publishedAt": "2026-08-14T11:59:07+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/economia/a-acciona-ganhou-tracao-no-brasil-com-metro-e-saneamento-agora-estuda-entrar-em-data-centers/",
+      "_key": "794c7c5d9709f79df33dec055394b1c6",
+      "title": "A Acciona ganhou tração no Brasil com metrô e saneamento. Agora, estuda entrar em data centers",
+      "originalTitle": "A Acciona ganhou tração no Brasil com metrô e saneamento. Agora, estuda entrar em data centers",
+      "summary": "infraestrutura no País que combina engenharia e energia renovável &#8211; dois negócios que a companhia tem experiência global. A Acciona [&#8230;] O post A Acciona ganhou tração no Brasil com metrô e saneamento. Agora, estuda entrar em data centers apareceu primeiro em NeoFeed .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/economia/a-acciona-ganhou-tracao-no-brasil-com-metro-e-saneamento-agora-estuda-entrar-em-data-centers/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/acciona-ceo-300x169.jpg",
+      "publishedAt": "2026-08-14T10:56:12+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/14/uber-ups-robotaxi-offensive-in-europe-with-partnership-expansion/",
+      "_key": "84d4b7e298811c0146ac1f0fc3c4fc6e",
+      "title": "Uber ups robotaxi offensive in Europe, with partnership expansion",
+      "originalTitle": "Uber ups robotaxi offensive in Europe, with partnership expansion",
+      "summary": "Uber is upping its robotaxi offensive across Europe, after signing an expanded partnership with a Chinese autonomous driving company. The US ride-hailing company and Pony.ai are deploying more than 2,...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/14/uber-ups-robotaxi-offensive-in-europe-with-partnership-expansion/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/pony-214.png",
+      "publishedAt": "2026-08-14T10:30:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/a-the-led-quer-virar-referencia-em-retail-media-sem-brigar-com-o-ooh/",
+      "_key": "3c188e2c161d9b6d3c040b06a497bd33",
+      "title": "OOH)",
+      "originalTitle": "OOH)",
+      "summary": "A The Led passou 16 anos construindo a infraestrutura de telas para shoppings, varejistas e empresas de mídia out-of-home, como a Eletromidia e a NEOOH. Agora, ela mesma quer transformar esses ativos em mídia.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/a-the-led-quer-virar-referencia-em-retail-media-sem-brigar-com-o-ooh/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/o-que-e-retail-media-vantagens-1-635x357.jpg",
+      "publishedAt": "2026-08-14T09:50:08+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-14/putin-is-ready-to-meet-witkoff-kushner-again-lavrov-says",
       "_key": "328ff4e923c99e0c3606edb75deeaf5a",
       "title": "Putin Is Ready to Meet Witkoff, Kushner Again, Lavrov Says",
@@ -6857,6 +7613,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-14/crop-buyers-cut-off-from-black-sea-are-turning-to-other-origins",
+      "_key": "a7d2d90658e9d84631c9f4c1a7b8b050",
+      "title": "Crop Buyers Cut Off From Black Sea Are Turning to Other Origins",
+      "originalTitle": "Crop Buyers Cut Off From Black Sea Are Turning to Other Origins",
+      "summary": "Major crop buyers across Asia are turning to alternative suppliers as attacks escalate in the Black Sea, crimping exports from the breadbasket region at a vital point in the season.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/crop-buyers-cut-off-from-black-sea-are-turning-to-other-origins",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T09:07:27+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
       ],
       "coverageCount": 1
     },
@@ -12824,6 +13601,48 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/markets/article/3364067/reduce-your-exposure-us-assets-they-lose-value-pictet-warns-investors?utm_source=rss_feed",
+      "_key": "ccdce1c6446fc056df56a9d47bbd33df",
+      "title": "Reduce your exposure to US assets before they lose value, Pictet warns investors",
+      "originalTitle": "Reduce your exposure to US assets before they lose value, Pictet warns investors",
+      "summary": "Investors should further reduce their exposure to US Treasuries and the US dollar over the next decade, as tech-driven inflation and high government deficits are likely to erode their value, a leading private bank has warned.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/markets/article/3364067/reduce-your-exposure-us-assets-they-lose-value-pictet-warns-investors?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/aab322b1-a17f-4945-855c-e3c96034e971_eea67362.jpg?itok=CJTQhu6C&v=1786701813",
+      "publishedAt": "2026-08-14T12:00:13+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/bofa-recruta-greg-reider-ex-warburg-pincus-para-liderar-tech-no-brasil/",
+      "_key": "5e97ca192d07b1a08a3a72ac23dd4405",
+      "title": "BofA recruta ex-Warburg Pincus para liderar tech na América Latina",
+      "originalTitle": "BofA recruta ex-Warburg Pincus para liderar tech na América Latina",
+      "summary": "negócios do banco nos próximos anos. Gregory trabalhou quase 10 anos no Warburg Pincus no Brasil, e depois [&#8230;] The post BofA recruta ex-Warburg Pincus para liderar tech na América Latina appeared first on Brazil Journal .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/bofa-recruta-greg-reider-ex-warburg-pincus-para-liderar-tech-no-brasil/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/08-11-Gregory-Reider-ok-236x300.jpg?x85156",
+      "publishedAt": "2026-08-14T09:50:49+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-14/europe-s-robot-reality-bloomberg-tech-europe-video",
