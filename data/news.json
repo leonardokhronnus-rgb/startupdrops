@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T10:03:40.347164+00:00",
+  "updatedAt": "2026-08-15T13:43:54.301118+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -201,6 +201,11 @@
     {
       "source": "First Round Review",
       "url": "https://review.firstround.com/feed.xml",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Sifted",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:sifted.eu&hl=en-US&gl=US&ceid=US:en",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -5629,6 +5634,48 @@
       "country": "BR"
     },
     {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/hora-de-trocar-de-celular-confira-uma-selecao-de-smartphones-motorola-em-promocao-na-amazon/",
+      "_key": "5fa88601aabc852b575537aed14b9691",
+      "title": "Hora de trocar de celular? Confira uma seleção de Smartphones Motorola em promoção na Amazon",
+      "originalTitle": "Hora de trocar de celular? Confira uma seleção de Smartphones Motorola em promoção na Amazon",
+      "summary": "Se você está pensando em renovar o smartphone, a Motorola tem opções interessantes disponíveis agora na Amazon. Reunimos três modelos da linha Moto g com boas configurações de memória, câmeras com inteligência artificial e telas generosas — tudo para facilitar a sua escolha.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/hora-de-trocar-de-celular-confira-uma-selecao-de-smartphones-motorola-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41o7vjpasKL._SL500_.jpg",
+      "publishedAt": "2026-08-15T12:40:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-15/modi-puts-chips-nuclear-power-at-heart-of-india-push",
+      "_key": "2a35cfb4bac8d963c31a3e90ad50e1ac",
+      "title": "Modi Puts Chips, Nuclear Power at Heart of India Push",
+      "originalTitle": "Modi Puts Chips, Nuclear Power at Heart of India Push",
+      "summary": "Prime Minister Narendra Modi used his Independence Day address to lay out an ambitious path toward making India a developed economy by 2047, emphasizing self-reliance, semiconductor manufacturing, AI and nuclear power.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-15/modi-puts-chips-nuclear-power-at-heart-of-india-push",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-15T12:21:43+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "YourStory-https://yourstory.com/2026/08/global-innovation-hub-to-ai-skill-training-for-1-cr-youth-pm-modi-outlines-nations-tech-ambitions",
       "_key": "4bcfe2f5237cf843b91d781bf0f113ab",
       "title": "Global innovation hub to AI skill training for 1 Cr youth: PM Modi outlines nation’s tech ambitions",
@@ -7804,6 +7851,132 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/caio-scotte-ficou-77-pregoes-em-drawdown-voce-comeca-duvidar-de-tudo/",
+      "_key": "3227499924cab8e6db822e49a9f4363d",
+      "title": "77 pregões para recuperar as perdas: Caio Scotte relata fase mais difícil no trading",
+      "originalTitle": "77 pregões para recuperar as perdas: Caio Scotte relata fase mais difícil no trading",
+      "summary": "Sequência colocou o operacional à prova e mostra por que conhecer os próprios números pode ser decisivo nos períodos de maior pressão The post 77 pregões para recuperar as perdas: Caio Scotte relata fase mais difícil no trading appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/caio-scotte-ficou-77-pregoes-em-drawdown-voce-comeca-duvidar-de-tudo/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Caio-Scotte-GainDelas-episodio-84-1.jpeg?fit=300%2C175&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-15T11:43:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/petrobras-encontra-indicios-de-petroleo-na-foz-do-amazonas-entenda-o-que-vem-agora/",
+      "_key": "2bd1c77cd256c5e05e02c862baa4efc9",
+      "title": "Petrobras encontra indícios de petróleo na Foz do Amazonas; entenda o que vem agora",
+      "originalTitle": "Petrobras encontra indícios de petróleo na Foz do Amazonas; entenda o que vem agora",
+      "summary": "exploratória. Porém, a região, que se estende do Amapá ao Rio Grande do Norte, está envolta em polêmicas ambientais The post Petrobras encontra indícios de petróleo na Foz do Amazonas; entenda o que vem agora appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/petrobras-encontra-indicios-de-petroleo-na-foz-do-amazonas-entenda-o-que-vem-agora/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Captura-de-tela-2025-10-20-165412.png?fit=300%2C188&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-15T11:42:11+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/fire-tv-stick-em-promocao-confira-uma-selecao-para-transformar-sua-tv-em-smart/",
+      "_key": "24b788885a2163b271e4162d793fdd15",
+      "title": "Fire TV Stick em promoção: confira uma seleção para transformar sua TV em smart",
+      "originalTitle": "Fire TV Stick em promoção: confira uma seleção para transformar sua TV em smart",
+      "summary": "Se você ainda não atualizou sua experiência de streaming ou quer presentear alguém com uma boa opção de entretenimento, a Amazon reúne agora algumas das melhores alternativas em Fire TV Stick.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/fire-tv-stick-em-promocao-confira-uma-selecao-para-transformar-sua-tv-em-smart/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31lBb1O2D7L._SL500_.jpg",
+      "publishedAt": "2026-08-15T11:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/samsung-na-veia-oled-e-qled-em-promocao-para-renovar-a-sua-sala/",
+      "_key": "5d1d1bfbc9ee7846ac64e010bdb80056",
+      "title": "Samsung na veia: OLED e QLED em promoção para renovar a sua sala",
+      "originalTitle": "Samsung na veia: OLED e QLED em promoção para renovar a sua sala",
+      "summary": "Se você está pensando em trocar a TV ou montar aquele setup ideal para filmes, séries e jogos, o momento é agora. Separamos três modelos da Samsung — entre QLED e OLED — que estão com boas condições na Amazon.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/samsung-na-veia-oled-e-qled-em-promocao-para-renovar-a-sua-sala/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/418Y-M7w6FL._SL500_.jpg",
+      "publishedAt": "2026-08-15T11:20:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/finde/ferragosto-o-feriado-italiano-que-transformou-o-dolce-far-niente-em-um-negocio-bilionario/",
+      "_key": "f9908812e318ef5e1bd68816cd6a5b74",
+      "title": "Ferragosto, o feriado italiano que transformou o “dolce far niente” em um negócio bilionário",
+      "originalTitle": "Ferragosto, o feriado italiano que transformou o “dolce far niente” em um negócio bilionário",
+      "summary": "Roma &#8211; Criado em 18 a.C. por Augusto, o primeiro imperador romano, como um período de descanso depois das colheitas, o Ferragosto é muito mais do que um feriado: é o estado de espírito da Itália no auge do verão europeu.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/finde/ferragosto-o-feriado-italiano-que-transformou-o-dolce-far-niente-em-um-negocio-bilionario/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/ferragosto-cartaz-fechado-italia-roma-300x169.jpg",
+      "publishedAt": "2026-08-15T11:03:13+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-15/china-film-s-sales-soar-as-online-scorn-attracts-curious-viewers",
+      "_key": "26e54a16e449cbe8fadcb482e56572d3",
+      "title": "China Film’s Sales Soar as Online Scorn Attracts Curious Viewers",
+      "originalTitle": "China Film’s Sales Soar as Online Scorn Attracts Curious Viewers",
+      "summary": "A Chinese animated film that generated only about $1,000 in ticket sales in its first 10 days at theaters became a social-media sensation after online ridicule helped propel its box-office revenue into six figures, according to local media reports.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-15/china-film-s-sales-soar-as-online-scorn-attracts-curious-viewers",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-15T08:47:07+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/15/china-tenta-reduzir-dependencia-de-alimentos-importados.ghtml",
@@ -14756,6 +14929,48 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/quer-trocar-de-iphone-veja-uma-selecao-com-boas-opcoes-em-oferta-na-amazon/",
+      "_key": "1fa1b77d0ce19e8d475abcf5a20a41d5",
+      "title": "Quer trocar de iPhone? Veja uma seleção com boas opções em oferta na Amazon",
+      "originalTitle": "Quer trocar de iPhone? Veja uma seleção com boas opções em oferta na Amazon",
+      "summary": "Se você está pensando em renovar o smartphone, a Amazon reúne algumas das melhores opções de iPhones disponíveis no mercado agora. Reunimos três modelos em promoção — do iPhone 15 ao iPhone 16 e ao compacto iPhone 16e — para facilitar sua escolha.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/quer-trocar-de-iphone-veja-uma-selecao-com-boas-opcoes-em-oferta-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31TfLUEdUPL._SL500_.jpg",
+      "publishedAt": "2026-08-15T12:20:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal",
+      "_key": "c513f2876e8f53e067bddc79818b36c6",
+      "title": "When housing is unaffordable, this artist’s device makes pedaling harder",
+      "originalTitle": "When housing is unaffordable, this artist’s device makes pedaling harder",
+      "summary": "Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technologist had no idea what the future would hold.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ground-truth-device-field-02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-15T11:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "SCMP Business-https://www.scmp.com/business/china-evs/article/3364104/karaoke-car-chinas-new-wave-gadget-laden-electric-vehicles?utm_source=rss_feed",
