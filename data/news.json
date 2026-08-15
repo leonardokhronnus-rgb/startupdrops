@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:32:58.914974+00:00",
+  "updatedAt": "2026-08-15T03:34:11.131487+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -188,11 +188,6 @@
     }
   ],
   "failures": [
-    {
-      "source": "Startupi",
-      "url": "https://startupi.com.br/feed/",
-      "reason": "falhou direto e via proxy"
-    },
     {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -2062,6 +2057,48 @@
       "country": "BR"
     },
     {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-centre-wsj/articleshow/133253982.cms",
+      "_key": "8d790c7f0f986fce9c2bb0ba56677c3a",
+      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data centre: WSJ",
+      "originalTitle": "Nvidia scales back funding guarantee for Ohio OpenAI data centre: WSJ",
+      "summary": "According to the report Nvidia and OpenAI are nearing an ​agreement, with the chipmaker expected to provide a financial backstop only ​for the first phase of the project. A deal could be signed as early as this weekend, the report said.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-centre-wsj/articleshow/133253982.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133253982,imgsize-125632.cms",
+      "publishedAt": "2026-08-15T02:00:33+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+      "_key": "f6d2be0039a0c728de058d526e6f8ee5",
+      "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
+      "originalTitle": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
+      "summary": "Chinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, today released GLM-5.3 with substantial gains in long-horizon coding and a more consequential — and potentially sensitive — jump in cybersecurity capabilities.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4SSp8seVDFTXUdtXn6Rgyr/dfd61c47834cf5cb947b8f5ecbe249f0/ChatGPT_Image_Aug_14__2026__05_51_59_PM.png?w=300&q=30",
+      "publishedAt": "2026-08-14T22:56:16+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/sangria-vai-longe-bolsa-brasileira-e-emergente-com-maior-peso-em-fundos-globais/",
       "_key": "288f650cbde1c5f0fd2b2f65f1f3ada7",
       "title": "Sangria vai longe? Bolsa brasileira é emergente com maior peso em fundos globais",
@@ -2633,6 +2670,48 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/a-vitoria-da-oceanpact-sobre-a-petrobras-que-pode-colocar-mais-de-r-800-milhoes-no-caixa/",
+      "_key": "842b3535f6b1e62428630e58c9edeb0d",
+      "title": "A vitória da OceanPact sobre a Petrobras que pode colocar mais de R$ 800 milhões no caixa",
+      "originalTitle": "A vitória da OceanPact sobre a Petrobras que pode colocar mais de R$ 800 milhões no caixa",
+      "summary": "com a Petrobras. A companhia obteve decisão favorável e unânime, por dez votos a zero, no Superior Tribunal de Justiça (STJ) em processo no [&#8230;] O post A vitória da OceanPact sobre a Petrobras que pode colocar mais de R$ 800 milhões no caixa apareceu primeiro em NeoFeed .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/a-vitoria-da-oceanpact-sobre-a-petrobras-que-pode-colocar-mais-de-r-800-milhoes-no-caixa/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2023/11/oceanpact-300x169.jpg",
+      "publishedAt": "2026-08-14T23:02:16+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/pro/discord-foi-usado-em-ao-menos-7-operacoes-policiais-no-brasil-desde-2023-diz-mj/",
+      "_key": "49b02fa4ef468ebeba2fb3d7c8cceddb",
+      "title": "Discord foi usado em ao menos 7 operações policiais no Brasil desde 2023, diz MJ",
+      "originalTitle": "Discord foi usado em ao menos 7 operações policiais no Brasil desde 2023, diz MJ",
+      "summary": "Órgão afirma ter identificado de forma recorrente a utilização de servidores e comunidades da plataforma para a prática e divulgação de diferentes tipos de crimes e conteúdos ilícitos O post Discord foi usado em ao menos 7 operações policiais no Brasil desde 2023, diz MJ apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/pro/discord-foi-usado-em-ao-menos-7-operacoes-policiais-no-brasil-desde-2023-diz-mj/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/08/shutterstock_2295455523-1024x683.jpg",
+      "publishedAt": "2026-08-14T22:45:34+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/pro/spacex-conclui-compra-da-cursor-por-us-60-bilhoes-e-amplia-parceria-forte-em-ia/",
@@ -4216,6 +4295,27 @@
       "_key": "646e9f0dd48dbcf5ce48a73a13942a78",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/bc-anuncia-leiloes-de-linha-para-segunda-feira-no-valor-total-de-ate-us-1-bi/",
+      "_key": "2a3a6f810b2d79d7d4ba7861ec5f6621",
+      "title": "BC anuncia leilões de linha para segunda-feira no valor total de até US$ 1 bi",
+      "originalTitle": "BC anuncia leilões de linha para segunda-feira no valor total de até US$ 1 bi",
+      "summary": "Banco Central venderá dólares com compromisso de recompra em duas operações na segunda-feira para renovar contratos que vencem em 2 de setembro The post BC anuncia leilões de linha para segunda-feira no valor total de até US$ 1 bi appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/bc-anuncia-leiloes-de-linha-para-segunda-feira-no-valor-total-de-ate-us-1-bi/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Cedulas-de-dolares-norte-americanos.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-14T22:51:01+00:00",
+      "score": 39,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-13/-saaspocalypse-risk-from-ai-reaches-past-private-equity-video",
@@ -7538,6 +7638,153 @@
       "country": "BR"
     },
     {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/15/bloqueio-de-ligacoes-indesejadas-anatel-autoriza-anti-spam-e-estuda-levar-sistema-a-todos-os-clientes.ghtml",
+      "_key": "83eb18e57d3cb54c336f04c7c6321e85",
+      "title": "Bloqueio de ligações indesejadas: Anatel autoriza anti-spam e estuda levar sistema a todos os clientes",
+      "originalTitle": "Bloqueio de ligações indesejadas: Anatel autoriza anti-spam e estuda levar sistema a todos os clientes",
+      "summary": "Bloqueio de ligações indesejadas gera disputa entre operadoras na Anatel O sistema da Vivo contra ligações indesejadas que foi alvo de reclamações da TIM foi autorizado pela Agência Nacional de Telecomunicações (Anatel), que avalia adotar bloqueios parecidos nas demais redes de telefonia.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/15/bloqueio-de-ligacoes-indesejadas-anatel-autoriza-anti-spam-e-estuda-levar-sistema-a-todos-os-clientes.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/KBwKWS2zjdyxkvaToj_87LKM6fE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/f/Oz3powQ6KFwHPnPxJGEQ/robocalls.png",
+      "publishedAt": "2026-08-15T03:00:11+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-15/modi-vows-chip-plants-nuclear-reactors-in-india-growth-push",
+      "_key": "c93696f2de7b0d1e60d48c53e1cd0524",
+      "title": "Modi Vows Chip Plants, Nuclear Reactors in India Growth Push",
+      "originalTitle": "Modi Vows Chip Plants, Nuclear Reactors in India Growth Push",
+      "summary": "India’s Prime Minister Narendra Modi said the country would build more semiconductor plants and expand its fleet of nuclear reactors, as he reiterated his government’s resolve to make India a developed nation in the next two decades.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-15/modi-vows-chip-plants-nuclear-reactors-in-india-growth-push",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-15T02:48:40+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/amazon-reinstates-binding-arbitration-bars-class-action-lawsuits/articleshow/133253950.cms",
+      "_key": "1f2ff3d8e72df98a26590e986bfe0de5",
+      "title": "Amazon reinstates binding arbitration, bars class-action lawsuits",
+      "originalTitle": "Amazon reinstates binding arbitration, bars class-action lawsuits",
+      "summary": "In emails on Friday, Amazon said the changes are effective immediately and customers ‌agree to the ⁠terms ⁠by continuing to use the company's services. Often, companies alert customers to upcoming changes to ​their terms of service weeks in advance.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/amazon-reinstates-binding-arbitration-bars-class-action-lawsuits/articleshow/133253950.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133253950,imgsize-131788.cms",
+      "publishedAt": "2026-08-15T01:55:38+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/paypal-in-talks-with-stripe-and-private-equity-firm-over-sale-report/articleshow/133253761.cms",
+      "_key": "9424cc529236b3972b4775010cefedb4",
+      "title": "PayPal in talks with Stripe and private equity firm over sale: report",
+      "originalTitle": "PayPal in talks with Stripe and private equity firm over sale: report",
+      "summary": "In July, Stripe and private equity firm Advent International made a joint offer to buy the digital payments pioneer for $60.50 a share, which would have valued PayPal at around $53 billion, according to media reports.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/paypal-in-talks-with-stripe-and-private-equity-firm-over-sale-report/articleshow/133253761.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133253761,imgsize-48864.cms",
+      "publishedAt": "2026-08-15T01:23:53+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/terremotos-atingem-indonesia-e-espanha-nesta-sexta-feira-14/",
+      "_key": "90d62e8503df32ea33fa48e6645d4601",
+      "title": "Terremotos atingem Indonésia e Espanha nesta sexta-feira (14)",
+      "originalTitle": "Terremotos atingem Indonésia e Espanha nesta sexta-feira (14)",
+      "summary": "Epicentro foi localizado próximo à ilha de Flores, na província de Nusa Tenggara Oriental, região conhecida pela intensa atividade sísmica O post Terremotos atingem Indonésia e Espanha nesta sexta-feira (14) apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/terremotos-atingem-indonesia-e-espanha-nesta-sexta-feira-14/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/tsunami-scaled-e1778424105545-1024x577.jpg",
+      "publishedAt": "2026-08-14T23:54:14+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/14/video-mostra-sonda-da-petrobras-em-area-com-sinais-de-petroleo-e-gas-na-foz-do-amazonas.ghtml",
+      "_key": "5b11a01dd82607de505f3ee71611dba6",
+      "title": "VÍDEO mostra sonda da Petrobras em área com sinais de petróleo e gás na Foz do Amazonas",
+      "originalTitle": "VÍDEO mostra sonda da Petrobras em área com sinais de petróleo e gás na Foz do Amazonas",
+      "summary": "Petrobras descobre pela 1ª vez sinais de petróleo ou gás natural na Foz do Amazonas Um vídeo divulgado nesta sexta-feira (14) mostra uma sonda da Petrobras na bacia do Foz Amazonas, no litoral do Amapá, após a empresa informar ter encontrado hidrocarbonetos no local.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/video-mostra-sonda-da-petrobras-em-area-com-sinais-de-petroleo-e-gas-na-foz-do-amazonas.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/7SQwKUlxVHN7_BJkoSWp-hh9Dr0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/i/QvjvAVR1uqF4Nu5T15Jw/sonda-petrobras.jpg",
+      "publishedAt": "2026-08-14T23:48:40+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/na-cosan-saem-dois-veteranos-marcando-uma-nova-fase/",
+      "_key": "d66c0892dcfc5eb670aa587eaeb46d65",
+      "title": "Na Cosan, saem dois veteranos, marcando uma nova fase",
+      "originalTitle": "Na Cosan, saem dois veteranos, marcando uma nova fase",
+      "summary": "A Cosan acaba de anunciar que o CFO Rafael Bergman e a vice-presidente jurídica, Rita Drummond, estão deixando a companhia – um movimento que reflete o enxugamento da holding de Rubens Ometto.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/na-cosan-saem-dois-veteranos-marcando-uma-nova-fase/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2022/06/10560-71c7f80c-8eb0-9f1b-3739-9289fe6880a5-290x300.jpg?x85156",
+      "publishedAt": "2026-08-14T22:27:58+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-14/former-boston-fed-pres-investment-spend-a-catalyst-video",
       "_key": "b803861188a0a2a1b3b83d8193c04627",
       "title": "Former Boston Fed Pres.: Investment spend a catalyst",
@@ -7555,6 +7802,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/14/petrobras-anuncia-descoberta-de-hidrocarbonetos-em-poco-exploratorio-na-foz-do-amazonas.ghtml",
+      "_key": "87738ceb082609f2ad412563ce5cf65b",
+      "title": "Petrobras descobre pela 1ª vez sinais de petróleo ou gás natural na Foz do Amazonas",
+      "originalTitle": "Petrobras descobre pela 1ª vez sinais de petróleo ou gás natural na Foz do Amazonas",
+      "summary": "Petrobras descobre pela 1ª vez sinais de petróleo ou gás natural na Foz do Amazonas A Petrobras anunciou nesta sexta-feira (14) que encontrou hidrocarbonetos em um poço exploratório na bacia da Foz do Amazonas, no litoral do Amapá.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/14/petrobras-anuncia-descoberta-de-hidrocarbonetos-em-poco-exploratorio-na-foz-do-amazonas.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/ogSOyoY-o8dT7hqMUjUPh1KQvHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/j/lLL4UuSxWfUKMz8edUrA/captura-de-tela-2026-08-14-205116.png",
+      "publishedAt": "2026-08-14T21:56:18+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
       ],
       "coverageCount": 1
     },
@@ -14215,6 +14483,48 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-14/better-home-finance-founder-on-fight-for-company-video",
+      "_key": "47e539ad7c0d3c9b29c830986377cd1f",
+      "title": "Better Home & Finance Founder on Fight for Company",
+      "originalTitle": "Better Home & Finance Founder on Fight for Company",
+      "summary": "Embattled former Better.com CEO Vishal Garg says he believes that 'the job of making home ownership better for all Americans is not done' after he departed the company on August 3rd.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-14/better-home-finance-founder-on-fight-for-company-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T22:27:09+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-14/aston-martin-ceo-on-new-luxury-model-the-valen-video",
+      "_key": "f254d7467a605885ef90a28f681835fb",
+      "title": "Aston Martin CEO on new luxury model, the Valen",
+      "originalTitle": "Aston Martin CEO on new luxury model, the Valen",
+      "summary": "Valen. More powerful than any other front-engine vehicle in its 113-year history and capped at 150 cars worldwide, Hallmark details what makes this model different from any other. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-14/aston-martin-ceo-on-new-luxury-model-the-valen-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-14T22:16:49+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/reviews/gta-vi-spider-man-2-e-mais-selecione-o-seu-proximo-jogo-de-ps5-com-otimas-ofertas/",
