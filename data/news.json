@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T13:43:54.301118+00:00",
+  "updatedAt": "2026-08-15T15:47:00.803206+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -5634,6 +5634,48 @@
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/alberto-fernandez-chama-milei-de-delirante-e-questiona-sua-condicao-psiquiatrica/",
+      "_key": "217afa85c71973daeaee94d08ea89497",
+      "title": "Alberto Fernández chama Milei de “delirante” e questiona sua “condição psiquiátrica”",
+      "originalTitle": "Alberto Fernández chama Milei de “delirante” e questiona sua “condição psiquiátrica”",
+      "summary": "Ex-presidente afirmou que Milei está “afastado da realidade” e contestou o desempenho da economia argentina sob o atual governo The post Alberto Fernández chama Milei de “delirante” e questiona sua “condição psiquiátrica” appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/alberto-fernandez-chama-milei-de-delirante-e-questiona-sua-condicao-psiquiatrica/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Javier_Milei_y_Alberto_Fernandez1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-15T15:06:26+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/colunistas/delegar-compras-a-inteligencia-artificial-exige-mais-regras-do-que-confianca/",
+      "_key": "4e434a83b047fa4aedd482671a0d7e01",
+      "title": "Delegar compras à inteligência artificial exige mais regras do que confiança",
+      "originalTitle": "Delegar compras à inteligência artificial exige mais regras do que confiança",
+      "summary": "Comprar com IA representa uma evolução coerente do comércio eletrônico. Sua aceitação dependerá menos do brilho e mais da segurança O post Delegar compras à inteligência artificial exige mais regras do que confiança apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/colunistas/delegar-compras-a-inteligencia-artificial-exige-mais-regras-do-que-confianca/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/06/ia-compras.jpg",
+      "publishedAt": "2026-08-15T15:04:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/hora-de-trocar-de-celular-confira-uma-selecao-de-smartphones-motorola-em-promocao-na-amazon/",
       "_key": "5fa88601aabc852b575537aed14b9691",
       "title": "Hora de trocar de celular? Confira uma seleção de Smartphones Motorola em promoção na Amazon",
@@ -7851,6 +7893,90 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/europa-tem-uma-das-mais-fortes-temporadas-de-resultados-em-anos-ajudada-por-energia/",
+      "_key": "a0c4df6829fdd1dc8cd1e74657b34d25",
+      "title": "Europa tem uma das mais fortes temporadas de resultados em anos, ajudada por energia",
+      "originalTitle": "Europa tem uma das mais fortes temporadas de resultados em anos, ajudada por energia",
+      "summary": "Lubrificado pelos preços do petróleo, o setor de Energia se destacou, registrando um crescimento de 124% no lucro por ação (EPS) e um aumento de 36% nas vendas, diz a FactSet The post Europa tem uma das mais fortes temporadas de resultados em anos, ajudada por energia appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/europa-tem-uma-das-mais-fortes-temporadas-de-resultados-em-anos-ajudada-por-energia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-03T174603Z_1_LYNXNPEL920SM_RTROPTP_4_BOLSAEUROPA-FECHA.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-15T14:48:13+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/greve-atinge-companhia-aerea-e-cancela-quase-100-voos-em-pleno-verao-europeu/",
+      "_key": "af78a617a417f39b31841e49b60fbe22",
+      "title": "Greve atinge companhia aérea e cancela quase 100 voos em pleno verão europeu",
+      "originalTitle": "Greve atinge companhia aérea e cancela quase 100 voos em pleno verão europeu",
+      "summary": "Paralisação por estabilidade de escalas atinge aeroportos de Paris, Nice, Bordeaux e Lyon; empresa diz que ação é “oportunista” e retoma negociação em setembro The post Greve atinge companhia aérea e cancela quase 100 voos em pleno verão europeu appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/greve-atinge-companhia-aerea-e-cancela-quase-100-voos-em-pleno-verao-europeu/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-22T112408Z_1_LYNXMPEM5L0QZ_RTROPTP_4_EASYJET-M-A-CASTLELAKE.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-15T14:32:41+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/com-possibilidade-de-vitoria-de-lula-mercado-incorpora-premio-eleitoral-no-real/",
+      "_key": "9cbfccefbe601617c3d80f181b33df14",
+      "title": "Com possibilidade de vitória de Lula, mercado incorpora prêmio eleitoral no real",
+      "originalTitle": "Com possibilidade de vitória de Lula, mercado incorpora prêmio eleitoral no real",
+      "summary": "Analistas indicam que quanto mais as pesquisas consolidarem uma vantagem de Lula, maior tende a ser a volatilidade The post Com possibilidade de vitória de Lula, mercado incorpora prêmio eleitoral no real appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/com-possibilidade-de-vitoria-de-lula-mercado-incorpora-premio-eleitoral-no-real/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-06T165330Z_1130482176_RC23TMAJYCSL_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-15T13:50:22+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/xiaomi-em-promocao-veja-uma-selecao-de-smartphones-para-renovar-o-seu-celular-agora/",
+      "_key": "88a3b043e8a616feab56ea6ae4bcf16b",
+      "title": "Xiaomi em promoção: veja uma seleção de smartphones para renovar o seu celular agora",
+      "originalTitle": "Xiaomi em promoção: veja uma seleção de smartphones para renovar o seu celular agora",
+      "summary": "A Xiaomi consolidou sua reputação no Brasil oferecendo smartphones com boa performance e recursos atrativos em diferentes faixas de público. Se você está pensando em trocar de celular, separamos três opções da marca disponíveis na Amazon que valem a sua atenção.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/xiaomi-em-promocao-veja-uma-selecao-de-smartphones-para-renovar-o-seu-celular-agora/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31iqMCoOx2L._SL500_.jpg",
+      "publishedAt": "2026-08-15T13:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/caio-scotte-ficou-77-pregoes-em-drawdown-voce-comeca-duvidar-de-tudo/",
@@ -14929,6 +15055,69 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/hora-de-turbinar-o-armazenamento-do-seu-pc-veja-ssds-em-promocao-na-amazon/",
+      "_key": "709e33fc8549412000d5bd3653ecc8bc",
+      "title": "Hora de turbinar o armazenamento do seu PC: veja SSDs em promoção na Amazon",
+      "originalTitle": "Hora de turbinar o armazenamento do seu PC: veja SSDs em promoção na Amazon",
+      "summary": "Se o seu computador ou notebook está pedindo mais velocidade e espaço, este é o momento certo para agir. Reunimos três opções de SSDs NVMe em promoção na Amazon para diferentes perfis de uso e orçamento. Confira!",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/hora-de-turbinar-o-armazenamento-do-seu-pc-veja-ssds-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/311o0dNoxML._SL500_.jpg",
+      "publishedAt": "2026-08-15T15:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/hora-de-equipar-o-setup-selecionamos-mouses-gamer-sem-fio-em-promocao-na-amazon/",
+      "_key": "428267de3f82ffa0e10a70ba29aec082",
+      "title": "Hora de equipar o setup: selecionamos mouses gamer sem fio em promoção na Amazon",
+      "originalTitle": "Hora de equipar o setup: selecionamos mouses gamer sem fio em promoção na Amazon",
+      "summary": "Quem joga sabe que um bom mouse faz toda a diferença na partida. Seja pela precisão, pela resposta rápida ou pela liberdade de movimento, o periférico certo pode elevar o desempenho de qualquer jogador.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/hora-de-equipar-o-setup-selecionamos-mouses-gamer-sem-fio-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31JvKtOCv9L._SL500_.jpg",
+      "publishedAt": "2026-08-15T14:40:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/hora-de-renovar-seu-setup-selecionamos-os-melhores-notebooks-em-promocao-na-amazon-3/",
+      "_key": "cfc54290cdfe35e931609fc8d3cdd1c4",
+      "title": "Hora de renovar seu setup: selecionamos os melhores notebooks em promoção na Amazon",
+      "originalTitle": "Hora de renovar seu setup: selecionamos os melhores notebooks em promoção na Amazon",
+      "summary": "Se você está pensando em trocar de notebook ou adquirir um novo computador portátil, o momento é agora. Reunimos três opções em oferta na Amazon que atendem a diferentes perfis de usuário — do básico ao intermediário — com boas configurações e custo-benefício interessante.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/hora-de-renovar-seu-setup-selecionamos-os-melhores-notebooks-em-promocao-na-amazon-3/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31cXWnEdHBL._SL500_.jpg",
+      "publishedAt": "2026-08-15T14:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/quer-trocar-de-iphone-veja-uma-selecao-com-boas-opcoes-em-oferta-na-amazon/",
