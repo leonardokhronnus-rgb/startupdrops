@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T03:34:11.131487+00:00",
+  "updatedAt": "2026-08-15T07:43:00.042763+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -189,8 +189,43 @@
   ],
   "failures": [
     {
+      "source": "Pipeline Valor",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:pipelinevalor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Valor Economico",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Exame Economia",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:exame.com+economia&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Epoca Negocios",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:epocanegocios.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "CNN Brasil Business",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:cnnbrasil.com.br+economia&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Estadao Economia",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:estadao.com.br+economia&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "MIT Tech Review BR",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:mittechreview.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -204,6 +239,31 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "Reuters Business",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Reuters Tech",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:reuters.com+technology&hl=en-US&gl=US&ceid=US:en",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Bloomberg Tech",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:bloomberg.com+technology+OR+startup&hl=en-US&gl=US&ceid=US:en",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "The Information",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:theinformation.com&hl=en-US&gl=US&ceid=US:en",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Sifted",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:sifted.eu&hl=en-US&gl=US&ceid=US:en",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Contxto",
       "url": "https://news.google.com/rss/search?q=when:3d+site:contxto.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -211,6 +271,11 @@
     {
       "source": "LABS Latam",
       "url": "https://news.google.com/rss/search?q=when:3d+site:labsnews.com&hl=en-US&gl=US&ceid=US:en",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "KrASIA",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:kr-asia.com&hl=en-US&gl=US&ceid=US:en",
       "reason": "falhou direto e via proxy"
     }
   ],
@@ -1067,6 +1132,27 @@
       "_key": "b8abccefdb66331c5a7d45526a74bbff",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/article/3364076/reclusive-chinese-billionaire-strikes-us33m-deal-take-over-shanghai-hotel?utm_source=rss_feed",
+      "_key": "ee93a92e0c86cd578a01d89dd88ad228",
+      "title": "Reclusive Chinese billionaire strikes US$33m deal to take over Shanghai hotel",
+      "originalTitle": "Reclusive Chinese billionaire strikes US$33m deal to take over Shanghai hotel",
+      "summary": "China’s first online gaming billionaire has acquired the Mia Hotel in downtown Shanghai in a deal worth about 220 million yuan (US$32.6 million), becoming one of the latest investors to bet on a turnaround in the country’s long-suffering property market.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/article/3364076/reclusive-chinese-billionaire-strikes-us33m-deal-take-over-shanghai-hotel?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/d45383cb-a490-4d8a-bc47-a5591e92f3bf_89cedbd1.jpg?itok=4rdPojjj&v=1786703428",
+      "publishedAt": "2026-08-15T06:00:10+00:00",
+      "score": 52,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/pro/saida-de-executivos-coloca-openai-sob-pressao-antes-do-ipo/",
@@ -2055,6 +2141,27 @@
       "_key": "f8e0775a3d215483d2c4272db6e00e3e",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/we-will-work-to-provide-ai-skill-training-to-1-crore-youth-in-coming-one-year-pm-modi/articleshow/133256036.cms",
+      "_key": "96183ab0a4dabfeb4318360953a0629f",
+      "title": "We will train 1 crore youth in AI skills over next year: PM Modi",
+      "originalTitle": "We will train 1 crore youth in AI skills over next year: PM Modi",
+      "summary": "initiative aimed at expanding AI skills among the country's youth. He also said that India has witnessed a significant rise in entrepreneurship, with more than 2.5 lakh startups operating across the country and young entrepreneurs contributing to employment generation.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/we-will-work-to-provide-ai-skill-training-to-1-crore-youth-in-coming-one-year-pm-modi/articleshow/133256036.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133256036,imgsize-67672.cms",
+      "publishedAt": "2026-08-15T05:08:02+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-centre-wsj/articleshow/133253982.cms",
@@ -5482,6 +5589,27 @@
       "country": "BR"
     },
     {
+      "id": "YourStory-https://yourstory.com/2026/08/global-innovation-hub-to-ai-skill-training-for-1-cr-youth-pm-modi-outlines-nations-tech-ambitions",
+      "_key": "4bcfe2f5237cf843b91d781bf0f113ab",
+      "title": "Global innovation hub to AI skill training for 1 Cr youth: PM Modi outlines nation’s tech ambitions",
+      "originalTitle": "Global innovation hub to AI skill training for 1 Cr youth: PM Modi outlines nation’s tech ambitions",
+      "summary": "Addressing the nation on the 80th Independence Day, PM Modi said new frontiers in artificial intelligence, quantum computing, space, robotics and data centres are opening up rapidly.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/global-innovation-hub-to-ai-skill-training-for-1-cr-youth-pm-modi-outlines-nations-tech-ambitions",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/PMModi1-1786771153360.png",
+      "publishedAt": "2026-08-15T06:00:51+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Tecnoblog-https://tecnoblog.net/achados/huawei-band-11-esta-em-promocao-com-mais-de-50-de-desconto-na-amazon/",
       "_key": "eae89f60c02e5ecd6d2b9d65042f5427",
       "title": "Huawei Band 11 está em promoção com mais de 50% de desconto na Amazon",
@@ -7636,6 +7764,69 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/15/precos-com-ou-sem-imposto-reforma-tributaria-deixou-duvida-sobre-como-anunciar-valor-de-produtos.ghtml",
+      "_key": "034f4b74e4920e2db6515be19ceed92c",
+      "title": "Preços com ou sem imposto: reforma tributária deixou dúvida sobre como anunciar valor de produtos",
+      "originalTitle": "Preços com ou sem imposto: reforma tributária deixou dúvida sobre como anunciar valor de produtos",
+      "summary": "Luiz Inácio Lula da Silva (PT), deixou uma incerteza sobre como o preço dos produtos e serviços será informado ao consumidor: com ou sem imposto. 💰 A reforma brasileira não trata do formato de divulgação de preços.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/15/precos-com-ou-sem-imposto-reforma-tributaria-deixou-duvida-sobre-como-anunciar-valor-de-produtos.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/8hlWIkl99rWrtrUfKAeoSIHpVrY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/f/f/gqREVhSL6kMXCIKTDMVg/eletros.jpeg",
+      "publishedAt": "2026-08-15T07:01:16+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/cm-shivakumar-announces-ai-education-programme-for-schools-in-ktaka/articleshow/133256595.cms",
+      "_key": "dcf8609c9cd65973e09887b99a0049e2",
+      "title": "CM Shivakumar announces AI education programme for schools in Karnataka",
+      "originalTitle": "CM Shivakumar announces AI education programme for schools in Karnataka",
+      "summary": "He said his government has already formulated programmes to transform the skills of today's youth and enable them to compete globally, adding that AI education would be introduced in schools across Karnataka from Class 6.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cm-shivakumar-announces-ai-education-programme-for-schools-in-ktaka/articleshow/133256595.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133256595,imgsize-110720.cms",
+      "publishedAt": "2026-08-15T06:10:57+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/five-to-eight-more-semiconductor-plants-to-come-up-in-eight-years-pm-modi/articleshow/133255200.cms",
+      "_key": "6d5d2bef75664695357c86ddecedea71",
+      "title": "Five to eight more semiconductor plants to come up in eight years: PM Modi",
+      "originalTitle": "Five to eight more semiconductor plants to come up in eight years: PM Modi",
+      "summary": "Addressing the nation from the ramparts of the historic Red Fort on the 80th Independence Day, the prime minister said India's semiconductor journey reflects its growing technological self-reliance.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/five-to-eight-more-semiconductor-plants-to-come-up-in-eight-years-pm-modi/articleshow/133255200.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133255200,imgsize-6278.cms",
+      "publishedAt": "2026-08-15T03:43:49+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/15/bloqueio-de-ligacoes-indesejadas-anatel-autoriza-anti-spam-e-estuda-levar-sistema-a-todos-os-clientes.ghtml",
