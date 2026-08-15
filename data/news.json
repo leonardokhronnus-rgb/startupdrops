@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T15:47:00.803206+00:00",
+  "updatedAt": "2026-08-15T19:04:53.705011+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -2738,6 +2738,27 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/heranca-de-silvio-santos-o-que-patrimonio-de-patricia-abravanel-diz-sobre-disputa/",
+      "_key": "6ea0f944303a9949961823b2899f5a70",
+      "title": "Herança de Silvio Santos: o que patrimônio de Patrícia Abravanel diz sobre disputa?",
+      "originalTitle": "Herança de Silvio Santos: o que patrimônio de Patrícia Abravanel diz sobre disputa?",
+      "summary": "Um dos pontos que mais chamou atenção em declaração de patrimônio foi a indicação de dois valores a receber, de cerca de R$ 6,8 milhões e R$ 2,5 milhões, que seriam ligados à disputa sobre imposto de herança The post Herança de Silvio Santos: o que patrimônio de Patrícia Abravanel diz sobre disputa?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/heranca-de-silvio-santos-o-que-patrimonio-de-patricia-abravanel-diz-sobre-disputa/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/silvia-abravanel-divulgacao.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-15T17:35:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/business/global/o-bilionario-que-ignorou-os-ceticos-da-openai-agora-fecha-negocio-recorde-pelo-lakers/",
@@ -7893,6 +7914,132 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+      "_key": "038753d3eb32b61a0d28f286f3294ea8",
+      "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
+      "originalTitle": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
+      "summary": "There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it&#x27;s tedious, time-consuming, and doesn&#x27;t produce results visible to end users: Verifying that what the model is saying is actually correct.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5i7p6do1zSmoo71Z58g81z/271b2f52cede8bfb4b801d4dafdc70d9/u7277289442_A_teacher_is_sitting_at_a_desk._View_from_behind._0f474f7c-90c2-4350-85cd-0f23e41636c4_0.png?w=300&q=30",
+      "publishedAt": "2026-08-15T19:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/pco-registra-rui-costa-pimenta-ao-planalto-com-plano-de-cancelar-privatizacoes/",
+      "_key": "e888ccd650108505092bcda01778b2a1",
+      "title": "PCO registra Rui Costa Pimenta ao Planalto com plano de reestatizar Vale e Eletrobras",
+      "originalTitle": "PCO registra Rui Costa Pimenta ao Planalto com plano de reestatizar Vale e Eletrobras",
+      "summary": "trabalho para 35 horas semanais e revogação das reformas trabalhista e previdenciária The post PCO registra Rui Costa Pimenta ao Planalto com plano de reestatizar Vale e Eletrobras appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/pco-registra-rui-costa-pimenta-ao-planalto-com-plano-de-cancelar-privatizacoes/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/169411917864fa350a394d6_1694119178_3x2_rt.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-15T16:49:20+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/som-de-cinema-em-casa-selecionamos-os-melhores-soundbars-em-promocao-na-amazon-4/",
+      "_key": "f4c027cd388129262f3687984abeff5d",
+      "title": "Som de cinema em casa: selecionamos os melhores soundbars em promoção na Amazon",
+      "originalTitle": "Som de cinema em casa: selecionamos os melhores soundbars em promoção na Amazon",
+      "summary": "Transformar a sala de estar em uma experiência cinematográfica ficou muito mais acessível. Reunimos três soundbars em oferta na Amazon que entregam qualidade de áudio, conectividade e potência para diferentes perfis de usuário.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/som-de-cinema-em-casa-selecionamos-os-melhores-soundbars-em-promocao-na-amazon-4/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/21yPj5NGVgL._SL500_.jpg",
+      "publishedAt": "2026-08-15T16:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/politica/noticia/2026/08/15/presidente-da-petrobras-diz-que-amapa-esta-produzindo-petroleo-em-aguas-ultraprofundas-em-ate-sete-anos.ghtml",
+      "_key": "6a397dc1aec2b0fa5fd2fbec08bbced0",
+      "title": "anos",
+      "originalTitle": "anos",
+      "summary": "anos. A Petrobras anunciou nesta sexta-feira (14) que encontrou hidrocarbonetos em um poço exploratório na bacia da Foz do Amazonas, no litoral do Amapá. A descoberta indica a presença de petróleo ou gás natural na região.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/politica/noticia/2026/08/15/presidente-da-petrobras-diz-que-amapa-esta-produzindo-petroleo-em-aguas-ultraprofundas-em-ate-sete-anos.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/NC68-ifQqvRG94Ga_NrNMIFSdCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/v/YkHWJsRSKNUg7qNuW8EQ/2026-05-12t154913z-1-lynxmpem4b16m-rtroptp-4-petrobras-refinery-pemex.jpg",
+      "publishedAt": "2026-08-15T16:34:47+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/colunistas/agent-washing-quando-nem-toda-automacao-e-agentica-e-investir-errado-custa-caro/",
+      "_key": "e08b000de071450359af2b21c92ff7e0",
+      "title": "Agent washing: quando nem toda automação é agêntica (e investir errado custa caro)",
+      "originalTitle": "Agent washing: quando nem toda automação é agêntica (e investir errado custa caro)",
+      "summary": "Fazer uma demonstração é relativamente simples. Colocar um agente dentro de uma operação real, é outra história O post Agent washing: quando nem toda automação é agêntica (e investir errado custa caro) apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/colunistas/agent-washing-quando-nem-toda-automacao-e-agentica-e-investir-errado-custa-caro/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/robo-usa-computador.jpg",
+      "publishedAt": "2026-08-15T16:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/musica-sem-fio-do-jeito-certo-selecionamos-fones-bluetooth-em-promocao-na-amazon-3/",
+      "_key": "c10dcd23bea0da6d8a54b565068e63aa",
+      "title": "Música sem fio do jeito certo: selecionamos fones Bluetooth em promoção na Amazon",
+      "originalTitle": "Música sem fio do jeito certo: selecionamos fones Bluetooth em promoção na Amazon",
+      "summary": "Se você ainda usa fones com cabo, talvez seja hora de repensar essa escolha. Os fones Bluetooth evoluíram bastante e hoje oferecem boa qualidade de som, microfone integrado, resistência à água e autonomia de bateria que dão conta do dia a dia — tudo sem o incômodo dos fios.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/musica-sem-fio-do-jeito-certo-selecionamos-fones-bluetooth-em-promocao-na-amazon-3/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31eeSqQHCvL._SL500_.jpg",
+      "publishedAt": "2026-08-15T15:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/europa-tem-uma-das-mais-fortes-temporadas-de-resultados-em-anos-ajudada-por-energia/",
@@ -15055,6 +15202,48 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/ipad-em-promocao-confira-uma-selecao-de-tablets-apple-que-estao-com-otimas-ofertas-na-amazon/",
+      "_key": "0ad8a55536b1b9650d7f27f7dd94abde",
+      "title": "Amazon",
+      "originalTitle": "Amazon",
+      "summary": "Se você está de olho em um tablet de qualidade, este é um bom momento para agir. Reunimos três opções que estão em destaque na Amazon — entre elas o iPad lançado em 2025 com chip A16 e uma caneta stylus compatível para quem quer aproveitar ao máximo o dispositivo. Confira!",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/ipad-em-promocao-confira-uma-selecao-de-tablets-apple-que-estao-com-otimas-ofertas-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31HhoNJrO7L._SL500_.jpg",
+      "publishedAt": "2026-08-15T18:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/monitoramento-em-casa-ficou-mais-facil-veja-cameras-de-seguranca-em-promocao-na-amazon-2/",
+      "_key": "e27fcd414b2193e4d61ade09c3adebcb",
+      "title": "Monitoramento em casa ficou mais fácil: veja câmeras de segurança em promoção na Amazon",
+      "originalTitle": "Monitoramento em casa ficou mais fácil: veja câmeras de segurança em promoção na Amazon",
+      "summary": "Manter a casa ou o negócio seguro nunca foi tão acessível. A Amazon reúne uma seleção de câmeras de segurança com ótimo custo-benefício, recursos modernos e instalação simples — e separamos três opções que estão com boas ofertas agora.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/monitoramento-em-casa-ficou-mais-facil-veja-cameras-de-seguranca-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31Y-70cp-jL._SL500_.jpg",
+      "publishedAt": "2026-08-15T17:20:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/hora-de-turbinar-o-armazenamento-do-seu-pc-veja-ssds-em-promocao-na-amazon/",
