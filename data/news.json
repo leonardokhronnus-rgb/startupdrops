@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T19:04:53.705011+00:00",
+  "updatedAt": "2026-08-15T21:46:04.110880+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -2748,6 +2748,27 @@
       "whyMatters": "",
       "summaryMethod": "regra",
       "url": "https://www.infomoney.com.br/brasil/heranca-de-silvio-santos-o-que-patrimonio-de-patricia-abravanel-diz-sobre-disputa/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/silvia-abravanel-divulgacao.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-15T17:35:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/heranca-de-silvio-santos-o-que-patrimonio-de-silvia-abravanel-diz-sobre-disputa/",
+      "_key": "9188cb02b305b334bbe40fd640108b97",
+      "title": "Herança de Silvio Santos: o que patrimônio de Silvia Abravanel diz sobre disputa?",
+      "originalTitle": "Herança de Silvio Santos: o que patrimônio de Silvia Abravanel diz sobre disputa?",
+      "summary": "Um dos pontos que mais chamou atenção em declaração de patrimônio foi a indicação de dois valores a receber, de cerca de R$ 6,8 milhões e R$ 2,5 milhões, que seriam ligados à disputa sobre imposto de herança The post Herança de Silvio Santos: o que patrimônio de Silvia Abravanel diz sobre disputa?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/heranca-de-silvio-santos-o-que-patrimonio-de-silvia-abravanel-diz-sobre-disputa/",
       "source": "InfoMoney",
       "region": "Brasil",
       "country": "BR",
@@ -5655,6 +5676,27 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops",
+      "_key": "1bfafeae41bc5af28bd7626b984fb0c9",
+      "title": "Bond Traders Agonize Over AI Companies’ $70 Billion of Shadow Credit Backstops",
+      "originalTitle": "Bond Traders Agonize Over AI Companies’ $70 Billion of Shadow Credit Backstops",
+      "summary": "Even before Nvidia Corp.’s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don’t appear on major AI companies’ balance sheets, but could materialize at the worst possible time.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-15T19:00:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/alberto-fernandez-chama-milei-de-delirante-e-questiona-sua-condicao-psiquiatrica/",
       "_key": "217afa85c71973daeaee94d08ea89497",
       "title": "Alberto Fernández chama Milei de “delirante” e questiona sua “condição psiquiátrica”",
@@ -7916,6 +7958,27 @@
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/furacao-avanca-sobre-havai-e-pode-atingir-ilha-diretamente-pela-1a-vez-na-historia/",
+      "_key": "a303deb8e4137312512a77f2e4699f6e",
+      "title": "Furacão avança sobre Havaí e pode atingir ilha diretamente pela 1ª vez na história",
+      "originalTitle": "Furacão avança sobre Havaí e pode atingir ilha diretamente pela 1ª vez na história",
+      "summary": "Lala alcançou a categoria 1, e autoridades alertam para ventos destrutivos, enchentes e deslizamentos The post Furacão avança sobre Havaí e pode atingir ilha diretamente pela 1ª vez na história appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/furacao-avanca-sobre-havai-e-pode-atingir-ilha-diretamente-pela-1a-vez-na-historia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/furacao-lala-havai-eua-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-15T20:05:08+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "VentureBeat-https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
       "_key": "038753d3eb32b61a0d28f286f3294ea8",
       "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
@@ -7933,6 +7996,48 @@
       "alsoIn": [],
       "sourcesCovered": [
         "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/hora-de-renovar-o-home-office-selecionamos-impressoras-em-promocao-na-amazon-2/",
+      "_key": "0f9df6501ddda992a9cfbaa44fde98aa",
+      "title": "Hora de renovar o home office: selecionamos impressoras em promoção na Amazon",
+      "originalTitle": "Hora de renovar o home office: selecionamos impressoras em promoção na Amazon",
+      "summary": "Se você está pensando em trocar a impressora antiga ou finalmente adquirir uma para casa ou o escritório, este é um bom momento para pesquisar. Reunimos três opções multifuncionais em oferta na Amazon — modelos que combinam impressão, cópia e digitalização em um único aparelho.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/hora-de-renovar-o-home-office-selecionamos-impressoras-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "publishedAt": "2026-08-15T18:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/sinal-fraco-em-casa-esses-roteadores-wi-fi-mesh-podem-resolver-o-problema/",
+      "_key": "9d48daf2de6b6203b59330ce467b6aad",
+      "title": "Sinal fraco em casa? Esses roteadores Wi-Fi Mesh podem resolver o problema",
+      "originalTitle": "Sinal fraco em casa? Esses roteadores Wi-Fi Mesh podem resolver o problema",
+      "summary": "Conexão caindo, sinal fraco no quarto ou na varanda — esses problemas são mais comuns do que parecem. A boa notícia é que o mercado de roteadores Wi-Fi Mesh evoluiu bastante e hoje há opções para diferentes tamanhos de imóveis e necessidades.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/sinal-fraco-em-casa-esses-roteadores-wi-fi-mesh-podem-resolver-o-problema/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/21+YOml5bQL._SL500_.jpg",
+      "publishedAt": "2026-08-15T18:20:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
       ],
       "coverageCount": 1
     },
@@ -15202,6 +15307,69 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/smartwatch-em-promocao-veja-uma-selecao-de-relogios-inteligentes-para-nao-perder/",
+      "_key": "42e248a022eac03a6dab128e3a84d9fd",
+      "title": "Smartwatch em promoção: veja uma seleção de relógios inteligentes para não perder",
+      "originalTitle": "Smartwatch em promoção: veja uma seleção de relógios inteligentes para não perder",
+      "summary": "Está pensando em renovar o pulso com um smartwatch? Reunimos três ótimas opções em oferta na Amazon para quem quer monitorar saúde, notificações e muito mais sem complicação. Confira as escolhas e aproveite antes que acabem.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/smartwatch-em-promocao-veja-uma-selecao-de-relogios-inteligentes-para-nao-perder/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "publishedAt": "2026-08-15T19:40:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/halo-lego-e-mais-uma-selecao-de-jogos-xbox-que-estao-em-promocao-na-amazon-2/",
+      "_key": "850415c3c526c7c0fc9bd235c26006c9",
+      "title": "Halo, LEGO e mais: uma seleção de jogos Xbox que estão em promoção na Amazon",
+      "originalTitle": "Halo, LEGO e mais: uma seleção de jogos Xbox que estão em promoção na Amazon",
+      "summary": "Se você é fã de Xbox e está de olho em boas opções para expandir sua biblioteca, a Amazon reuniu algumas ofertas interessantes em jogos para Xbox One e Xbox Series X. Confira a seleção que preparamos e aproveite para garantir títulos clássicos e modernos com boas condições.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/halo-lego-e-mais-uma-selecao-de-jogos-xbox-que-estao-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/51+Abc6+8mL._SL500_.jpg",
+      "publishedAt": "2026-08-15T19:20:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/gta-vi-chegou-e-a-lista-de-jogos-ps5-em-promocao-esta-imperdivel/",
+      "_key": "6cc0dd90a9bf6e2c1c7841a2d16c8224",
+      "title": "GTA VI chegou e a lista de jogos PS5 em promoção está imperdível",
+      "originalTitle": "GTA VI chegou e a lista de jogos PS5 em promoção está imperdível",
+      "summary": "Se você tem um PlayStation 5 e está de olho em títulos para expandir sua biblioteca, este é o momento certo. Reunimos três jogos em oferta na Amazon que vão do esporte à ação em mundo aberto — tem opção para todos os gostos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/15/reviews/gta-vi-chegou-e-a-lista-de-jogos-ps5-em-promocao-esta-imperdivel/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/51FNN5tVh5L._SL500_.jpg",
+      "publishedAt": "2026-08-15T19:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/ipad-em-promocao-confira-uma-selecao-de-tablets-apple-que-estao-com-otimas-ofertas-na-amazon/",
