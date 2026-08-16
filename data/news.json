@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T13:47:52.133329+00:00",
+  "updatedAt": "2026-08-16T15:51:44.589132+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -2740,6 +2740,48 @@
       "country": "BR"
     },
     {
+      "id": "G1 Economia-https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/16/agencia-de-classificacao-de-risco-fitch-eleva-nota-de-credito-do-municipio-do-rio-de-janeiro-para-o-grau-mais-alto.ghtml",
+      "_key": "6b100d3575be8a790ba9f7cf93696f42",
+      "title": "Agência de classificação de risco Fitch eleva nota de crédito do município do Rio de Janeiro para o grau mais alto",
+      "originalTitle": "Agência de classificação de risco Fitch eleva nota de crédito do município do Rio de Janeiro para o grau mais alto",
+      "summary": "A Fitch Ratings, uma das principais agências de classificação de risco do mundo, elevou a nota de crédito nacional de longo prazo do município do Rio de Janeiro para “AAA”, que é o grau de investimento de mais alta qualidade.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/16/agencia-de-classificacao-de-risco-fitch-eleva-nota-de-credito-do-municipio-do-rio-de-janeiro-para-o-grau-mais-alto.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "",
+      "publishedAt": "2026-08-16T15:44:40+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-16/inside-the-business-of-ultra-luxury-travel-video",
+      "_key": "d116f2229c9b7bf0da6b03e41dbaa5e7",
+      "title": "Inside the Business of Ultra Luxury Travel",
+      "originalTitle": "Inside the Business of Ultra Luxury Travel",
+      "summary": "catering to ultrawealthy clients whose requests can range from six-figure vacations to elaborate celebrations, while creating a social media following of more than 1 million. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-16/inside-the-business-of-ultra-luxury-travel-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-16T15:26:07+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "NeoFeed-https://neofeed.com.br/finde/como-o-ideal-iluminista-da-f-p-journe-reescreve-as-regras-do-mercado-de-luxo-e-do-tempo/",
       "_key": "ff4e434f8aa33ea4a2b3d610fc31a7a2",
       "title": "Como o ideal iluminista da F.P. Journe reescreve as regras do mercado de luxo (e do tempo)",
@@ -4491,6 +4533,27 @@
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/ia-entra-na-conta-da-inflacao-chips-mais-caros-pressionam-precos-no-reino-unido/",
+      "_key": "e7f78b83ebbd105659d4fd3111a464fb",
+      "title": "IA entra na conta da inflação: chips mais caros pressionam preços no Reino Unido",
+      "originalTitle": "IA entra na conta da inflação: chips mais caros pressionam preços no Reino Unido",
+      "summary": "Demanda por chips para inteligência artificial eleva custos de eletrônicos e preocupa o Banco da Inglaterra The post IA entra na conta da inflação: chips mais caros pressionam preços no Reino Unido appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/ia-entra-na-conta-da-inflacao-chips-mais-caros-pressionam-precos-no-reino-unido/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/421263007.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-16T13:59:59+00:00",
+      "score": 39,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/economia/inadimplencia-inflacao-juros-altos-renda-recorde/",
       "_key": "4d2aad0602115a39309b4edf8e7dd020",
       "title": "Renda recorde é engolida por inflação e juros altos, que espremem bolso das famílias",
@@ -5821,6 +5884,27 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/hora-de-colocar-um-smartwatch-no-pulso-veja-uma-selecao-com-otimas-opcoes-em-promocao-2/",
+      "_key": "4b8ccd4039448e27ed214e82f5f5103f",
+      "title": "Hora de colocar um smartwatch no pulso: veja uma seleção com ótimas opções em promoção",
+      "originalTitle": "Hora de colocar um smartwatch no pulso: veja uma seleção com ótimas opções em promoção",
+      "summary": "Se você está pensando em dar um upgrade no seu relógio ou presentear alguém com um wearable bacana, chegou a hora certa. Reunimos três smartwatches em oferta na Amazon com recursos que vão desde monitoramento de saúde até integração com inteligência artificial.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/hora-de-colocar-um-smartwatch-no-pulso-veja-uma-selecao-com-otimas-opcoes-em-promocao-2/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/51Fd-ffbZrL._SL500_.jpg",
+      "publishedAt": "2026-08-16T13:20:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/inteligencia-artificial/como-a-anthropic-vai-marcar-textos-do-claude-para-cumprir-lei-da-uniao-europeia/",
@@ -8208,6 +8292,111 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/mais-velocidade-mais-espaco-ssds-em-promocao-para-turbinar-seu-pc-ou-notebook/",
+      "_key": "790db45a89d033edcd0382dc9ada3bd2",
+      "title": "Mais velocidade, mais espaço: SSDs em promoção para turbinar seu PC ou notebook",
+      "originalTitle": "Mais velocidade, mais espaço: SSDs em promoção para turbinar seu PC ou notebook",
+      "summary": "Se o seu computador anda mais lento do que deveria ou o armazenamento já está no limite, esta é uma boa hora para agir. Reunimos três opções de SSDs em oferta na Amazon, com modelos para diferentes perfis de uso — do upgrade básico ao desempenho de ponta com PCIe Gen5. Confira.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/mais-velocidade-mais-espaco-ssds-em-promocao-para-turbinar-seu-pc-ou-notebook/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/311o0dNoxML._SL500_.jpg",
+      "publishedAt": "2026-08-16T15:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/inteligencia-artificial/grok-transformou-imagens-antigas-em-pornografia-diz-acao-judicial/",
+      "_key": "990ddec17ced324fbaab1f7e2f81521a",
+      "title": "Grok transformou imagens antigas em pornografia, diz ação judicial",
+      "originalTitle": "Grok transformou imagens antigas em pornografia, diz ação judicial",
+      "summary": "IA de empresa fundada por Elon Musk teria sido usada para criar imagens de conteúdo sexual explícito com base em fotos antigas O post Grok transformou imagens antigas em pornografia, diz ação judicial apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/inteligencia-artificial/grok-transformou-imagens-antigas-em-pornografia-diz-acao-judicial/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/grok-1024x681.jpg",
+      "publishedAt": "2026-08-16T14:44:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/casas-bahia-fala-em-recuperacao-extrajudicial-ou-judicial-apos-prejuizo-de-r-10-bi/",
+      "_key": "a0f8dd4c4f55dda45ba470f91f88d2f9",
+      "title": "bi",
+      "originalTitle": "bi",
+      "summary": "A companhia começou em 2023 o que chamou de \"plano de transformação\" e vem implementando medidas operacionais e financeiras destinadas à melhoria de sua eficiência, rentabilidade e geração de caixa The post Casas Bahia fala em recuperação extrajudicial ou judicial após prejuízo de R$ 10 bi appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/casas-bahia-fala-em-recuperacao-extrajudicial-ou-judicial-apos-prejuizo-de-r-10-bi/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-08-at-17.52.34-e1786825063739.jpeg?fit=300%2C172&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-16T14:26:13+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/hora-de-turbinar-seu-setup-selecionamos-os-melhores-monitores-gamer-em-promocao-na-amazon/",
+      "_key": "3f12d18dd2385084b869ed96eb3d592a",
+      "title": "Hora de turbinar seu setup: selecionamos os melhores monitores gamer em promoção na Amazon",
+      "originalTitle": "Hora de turbinar seu setup: selecionamos os melhores monitores gamer em promoção na Amazon",
+      "summary": "Se você está pensando em renovar o monitor do seu setup gamer, este é um bom momento para agir. Reunimos três opções de monitores com alta taxa de atualização, baixíssimo tempo de resposta e tecnologias de sincronização que fazem diferença real na hora do jogo.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/hora-de-turbinar-seu-setup-selecionamos-os-melhores-monitores-gamer-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41hCiUoSTML._SL500_.jpg",
+      "publishedAt": "2026-08-16T14:20:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/quer-jogar-sem-travar-confira-uma-selecao-de-notebooks-gamer-em-promocao-na-amazon-7/",
+      "_key": "495622514e698b72850724749d4bdb64",
+      "title": "Quer jogar sem travar? Confira uma seleção de notebooks gamer em promoção na Amazon",
+      "originalTitle": "Quer jogar sem travar? Confira uma seleção de notebooks gamer em promoção na Amazon",
+      "summary": "Se você está em busca de um notebook gamer para elevar sua experiência nos jogos — seja para títulos pesados ou para quem quer desempenho no dia a dia —, a Amazon reúne agora algumas boas opções em oferta.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/quer-jogar-sem-travar-confira-uma-selecao-de-notebooks-gamer-em-promocao-na-amazon-7/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41vA9EpxNLL._SL500_.jpg",
+      "publishedAt": "2026-08-16T13:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/esportes/brasil-conquista-ouro-inedito-no-mundial-de-ginastica-ritmica-com-maior-nota-do-ano/",
@@ -15853,6 +16042,69 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "_key": "10a798e276edcd5263a307c030e02987",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "originalTitle": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "summary": "turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-16T14:56:40+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/upgrade-no-setup-os-melhores-mouses-gamer-sem-fio-em-promocao-na-amazon-2/",
+      "_key": "a7dbd35bab283c1aaa14bcabd9ad877b",
+      "title": "Upgrade no setup: os melhores mouses gamer sem fio em promoção na Amazon",
+      "originalTitle": "Upgrade no setup: os melhores mouses gamer sem fio em promoção na Amazon",
+      "summary": "Se você está pensando em melhorar a precisão e o conforto nas partidas, este é o momento certo. Reunimos uma seleção de mouses gamer sem fio que estão em destaque na Amazon, com opções para diferentes perfis de jogadores — do casual ao mais exigente.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/upgrade-no-setup-os-melhores-mouses-gamer-sem-fio-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31JvKtOCv9L._SL500_.jpg",
+      "publishedAt": "2026-08-16T14:40:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/hora-de-renovar-o-setup-selecionamos-notebooks-e-ultrabooks-em-promocao-na-amazon/",
+      "_key": "6b40319600c955927f8aad100ef873b1",
+      "title": "Hora de renovar o setup: selecionamos notebooks e ultrabooks em promoção na Amazon",
+      "originalTitle": "Hora de renovar o setup: selecionamos notebooks e ultrabooks em promoção na Amazon",
+      "summary": "Se você está pensando em trocar de notebook ou adquirir um novo computador portátil, este é um bom momento para pesquisar. Reunimos três opções interessantes disponíveis agora na Amazon, que vão desde modelos mais acessíveis até ultrabooks com tela OLED.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/hora-de-renovar-o-setup-selecionamos-notebooks-e-ultrabooks-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31cXWnEdHBL._SL500_.jpg",
+      "publishedAt": "2026-08-16T14:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/anthropic-ceo-dario-amodei-defends-ai-regulation-argues-it-can-boost-competition/articleshow/133276232.cms",
