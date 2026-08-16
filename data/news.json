@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T19:03:35.171407+00:00",
+  "updatedAt": "2026-08-16T21:43:43.910573+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -2759,6 +2759,27 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/esportes/joao-fonseca-vence-holandes-e-avanca-no-masters-1000-de-cincinnati/",
+      "_key": "042a4d89ef200000273acfd7c99b81c8",
+      "title": "João Fonseca vence holandês e avança no Masters 1000 de Cincinnati",
+      "originalTitle": "João Fonseca vence holandês e avança no Masters 1000 de Cincinnati",
+      "summary": "Brasileiro de 19 anos bateu Botic van de Zandschulp por 2 sets a 0 e enfrentará o australiano Christopher O'Connell na próxima rodada The post João Fonseca vence holandês e avança no Masters 1000 de Cincinnati appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/esportes/joao-fonseca-vence-holandes-e-avanca-no-masters-1000-de-cincinnati/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-29T190051Z_198412681_UP1EM5T1GTEAQ_RTRMADP_3_TENNIS-FRENCHOPEN.jpg?fit=300%2C213&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-16T19:21:37+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/inteligencia-artificial/qual-e-o-modelo-aberto-de-ia-mais-popular-do-mundo-nao-e-nenhum-feito-nos-eua/",
@@ -8334,6 +8355,48 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/opinion/world-opinion/article/3363772/chokepoints-and-cost-cutting-access?utm_source=rss_feed",
+      "_key": "858fc6c726ace5a8fceef8ac15c7334b",
+      "title": "Chokepoints and the cost of cutting off access",
+      "originalTitle": "Chokepoints and the cost of cutting off access",
+      "summary": "In 2022, Ukraine asked SpaceX CEO Elon Musk to activate Starlink coverage around Sevastopol to support an attack on Russia’s Black Sea Fleet. He refused, saying SpaceX would become “explicitly complicit in a major act of war”; he later also cited US sanctions covering Crimea.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3363772/chokepoints-and-cost-cutting-access?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/b26bd19e-fa22-41b8-b500-d6cae8754230_3bb39b3e.jpg?itok=9GDl5-Wc&v=1786699705",
+      "publishedAt": "2026-08-16T21:30:09+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/inteligencia-artificial/ceo-da-anthropic-rejeicao-a-ia-e-crise-de-confianca-no-setor/",
+      "_key": "c35d1408718f27b8aff1771775363c70",
+      "title": "CEO da Anthropic: rejeição à IA é crise de confiança no setor",
+      "originalTitle": "CEO da Anthropic: rejeição à IA é crise de confiança no setor",
+      "summary": "Dario Amodei nega pessimismo em relação às inteligências artificiais e reconhece que público geral questiona ganhos com avanço da tecnologia O post CEO da Anthropic: rejeição à IA é crise de confiança no setor apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/inteligencia-artificial/ceo-da-anthropic-rejeicao-a-ia-e-crise-de-confianca-no-setor/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/01/shutterstock_2645157717-e1773252604745.jpg",
+      "publishedAt": "2026-08-16T20:36:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/lula-diz-querer-quarto-mandato-para-impedir-volta-de-direita-que-ria-de-asfixiados/",
@@ -16231,6 +16294,90 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+      "_key": "04f5fecc882ab20753221c42d981191c",
+      "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
+      "originalTitle": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
+      "summary": "Most teams building retrieval augmented generation (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context to sort it out. This works fine in a demo.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7uLwfjMYQqxK7sEOJclb9X/c49147c0a943de6964f0ba5e817b75bf/u7277289442_A_modern_IT_stack._Data_flowing._Colorful._Neon.__6bde8cd6-a885-48ae-82cf-7dbe164e3f5d_3.png?w=300&q=30",
+      "publishedAt": "2026-08-16T20:45:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/smartwatch-em-promocao-veja-uma-selecao-para-monitorar-sua-saude-e-estilo/",
+      "_key": "5eabf855daf83e1194b4419b329b40fc",
+      "title": "Smartwatch em promoção: veja uma seleção para monitorar sua saúde e estilo",
+      "originalTitle": "Smartwatch em promoção: veja uma seleção para monitorar sua saúde e estilo",
+      "summary": "Se você está pensando em investir em um smartwatch, este é um bom momento para ficar de olho nas ofertas disponíveis na Amazon. Reunimos três opções que chamaram a atenção, entre modelos da Samsung e da Redmi, para diferentes perfis e necessidades. Confira!",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/smartwatch-em-promocao-veja-uma-selecao-para-monitorar-sua-saude-e-estilo/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "publishedAt": "2026-08-16T19:40:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/hora-de-jogar-selecionamos-otimas-ofertas-de-jogos-para-xbox-na-amazon/",
+      "_key": "74c244f608ea41d3c02d9f7518daaf8d",
+      "title": "Hora de jogar: selecionamos ótimas ofertas de jogos para Xbox na Amazon",
+      "originalTitle": "Hora de jogar: selecionamos ótimas ofertas de jogos para Xbox na Amazon",
+      "summary": "Se você tem um Xbox One ou Xbox Series X e está de olho em bons títulos para expandir sua biblioteca, a Amazon reúne algumas opções interessantes com preços que valem a pena conferir.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/hora-de-jogar-selecionamos-otimas-ofertas-de-jogos-para-xbox-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/51+Abc6+8mL._SL500_.jpg",
+      "publishedAt": "2026-08-16T19:20:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/gta-vi-street-fighter-6-e-mais-selecionamos-jogos-de-ps5-que-estao-em-promocao-na-amazon/",
+      "_key": "2090aa8970420c81b718be90a18e27f6",
+      "title": "GTA VI, Street Fighter 6 e mais: selecionamos jogos de PS5 que estão em promoção na Amazon",
+      "originalTitle": "GTA VI, Street Fighter 6 e mais: selecionamos jogos de PS5 que estão em promoção na Amazon",
+      "summary": "Se você tem um PlayStation 5 e está de olho em novos títulos para a coleção, chegou a hora certa. Reunimos três jogos em oferta na Amazon que valem muito a atenção — de luta a esporte, passando pelo lançamento mais aguardado dos últimos anos. Confira.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/gta-vi-street-fighter-6-e-mais-selecionamos-jogos-de-ps5-que-estao-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/51TmAUm8BRL._SL500_.jpg",
+      "publishedAt": "2026-08-16T19:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/som-que-envolve-headsets-com-7-1-surround-em-promocao-na-amazon-2/",
