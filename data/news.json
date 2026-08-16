@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:57:44.917459+00:00",
+  "updatedAt": "2026-08-16T13:47:52.133329+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -2738,6 +2738,27 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/finde/como-o-ideal-iluminista-da-f-p-journe-reescreve-as-regras-do-mercado-de-luxo-e-do-tempo/",
+      "_key": "ff4e434f8aa33ea4a2b3d610fc31a7a2",
+      "title": "Como o ideal iluminista da F.P. Journe reescreve as regras do mercado de luxo (e do tempo)",
+      "originalTitle": "Como o ideal iluminista da F.P. Journe reescreve as regras do mercado de luxo (e do tempo)",
+      "summary": "Paris &#8211; Invenit et fecit. No século XVIII, a inscrição em latim no mostrador de um relógio distinguia um tipo raro de relojoeiro: o mestre capaz de conceber um mecanismo e executá-lo do desenho à peça final.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/finde/como-o-ideal-iluminista-da-f-p-journe-reescreve-as-regras-do-mercado-de-luxo-e-do-tempo/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/07/f-p-journe-chronometre-resonance-tamanho-300x169.jpg",
+      "publishedAt": "2026-08-16T11:01:54+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/internet-e-redes-sociais/corinthians-x-cruzeiro-onde-assistir-horario-e-escalacao-do-jogo-do-brasileirao-2/",
@@ -5802,6 +5823,48 @@
       "country": "BR"
     },
     {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/inteligencia-artificial/como-a-anthropic-vai-marcar-textos-do-claude-para-cumprir-lei-da-uniao-europeia/",
+      "_key": "c4a14a87af5e12bcb64dbf84264dc2ae",
+      "title": "Como a Anthropic vai marcar textos do Claude para cumprir lei da União Europeia",
+      "originalTitle": "Como a Anthropic vai marcar textos do Claude para cumprir lei da União Europeia",
+      "summary": "Empresa detalhou como vai funcionar a marca d'água invisível em textos escritos pelo Claude; entenda O post Como a Anthropic vai marcar textos do Claude para cumprir lei da União Europeia apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/inteligencia-artificial/como-a-anthropic-vai-marcar-textos-do-claude-para-cumprir-lei-da-uniao-europeia/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic-1-1024x585.jpg",
+      "publishedAt": "2026-08-16T12:58:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "_key": "a992ce1203557ce2660f293076524842",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "originalTitle": "Rogue AI aren’t science fiction anymore",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-16T12:00:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3364068/i-gave-tencents-wechat-ai-agent-control-24-hours-where-it-excelled-and-stumbled?utm_source=rss_feed",
       "_key": "1b37ae16b3a2a2d6d6f408410910dd01",
       "title": "I gave Tencent’s WeChat AI agent control for 24 hours: where it excelled – and stumbled",
@@ -8145,6 +8208,174 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/esportes/brasil-conquista-ouro-inedito-no-mundial-de-ginastica-ritmica-com-maior-nota-do-ano/",
+      "_key": "3433b1fb79ef2b06bf2adc5e1590e520",
+      "title": "Brasil conquista ouro inédito no Mundial de ginástica rítmica com maior nota do ano",
+      "originalTitle": "Brasil conquista ouro inédito no Mundial de ginástica rítmica com maior nota do ano",
+      "summary": "Conquista veio um dia depois do país ficar com o bronze na prova geral e garantir de forma antecipada uma vaga nos Jogos Olímpicos de Los Angeles The post Brasil conquista ouro inédito no Mundial de ginástica rítmica com maior nota do ano appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/esportes/brasil-conquista-ouro-inedito-no-mundial-de-ginastica-ritmica-com-maior-nota-do-ano/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ginastica-ritmica-esporte-olimpico-olimpiada-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-16T13:03:46+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-16/at-ai-fueled-market-party-wall-street-eyes-the-rates-punch-bowl",
+      "_key": "f1a6082d29c703217b5b127cd1d61a65",
+      "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+      "originalTitle": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+      "summary": "Enthusiasm for Big Tech and its huge investments in artificial intelligence is powering the stock market to record highs again. With a resilient economy and scorching demand, there’s seemingly only one obstacle that can derail this ride: higher interest rates.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/at-ai-fueled-market-party-wall-street-eyes-the-rates-punch-bowl",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-16T12:30:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/hora-de-economizar-uma-selecao-de-iphones-apple-em-promocao-na-amazon-3/",
+      "_key": "2d6c6272f465b6ed4b46c7d4bb23aac4",
+      "title": "Amazon",
+      "originalTitle": "Amazon",
+      "summary": "Se você está pensando em trocar de celular ou presentear alguém especial, a Amazon reúne agora algumas das melhores ofertas em iPhones Apple. Reunimos três opções que valem atenção — de modelos seminovos a lançamentos recentes — para diferentes perfis e necessidades. Confira!",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/hora-de-economizar-uma-selecao-de-iphones-apple-em-promocao-na-amazon-3/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31TfLUEdUPL._SL500_.jpg",
+      "publishedAt": "2026-08-16T12:20:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/samsung-galaxy-a07-ou-a17-veja-qual-modelo-e-ideal-para-voce-e-aproveite-as-ofertas/",
+      "_key": "6688e690beeaf4ec2df6569533cf8a3c",
+      "title": "Samsung Galaxy A07 ou A17? Veja qual modelo é ideal para você e aproveite as ofertas",
+      "originalTitle": "Samsung Galaxy A07 ou A17? Veja qual modelo é ideal para você e aproveite as ofertas",
+      "summary": "A Samsung segue como uma das marcas mais buscadas quando o assunto é smartphone com bom custo-benefício — e não é por acaso. A linha Galaxy A reúne celulares com telas generosas, câmeras decentes e armazenamento que atende bem ao dia a dia.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/samsung-galaxy-a07-ou-a17-veja-qual-modelo-e-ideal-para-voce-e-aproveite-as-ofertas/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41kmEijSNKL._SL500_.jpg",
+      "publishedAt": "2026-08-16T12:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/transforme-sua-tv-com-os-melhores-fire-tv-sticks-em-oferta-agora-3/",
+      "_key": "ec26427d8e775cacd555e8fdd694076c",
+      "title": "Transforme sua TV com os melhores Fire TV Sticks em oferta agora",
+      "originalTitle": "Transforme sua TV com os melhores Fire TV Sticks em oferta agora",
+      "summary": "Se você ainda não atualizou a experiência de streaming da sua casa, este é o momento certo. Reunimos uma seleção com três opções de Fire TV Stick da Amazon em promoção — do modelo HD básico ao 4K com suporte a Wi-Fi 6.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/transforme-sua-tv-com-os-melhores-fire-tv-sticks-em-oferta-agora-3/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31lBb1O2D7L._SL500_.jpg",
+      "publishedAt": "2026-08-16T11:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/sem-salao-e-com-menos-custos-cozinhas-invisiveis-crescem-com-boom-do-delivery/",
+      "_key": "87c4069b0d3a77e1a2257dcb2439c95d",
+      "title": "Sem salão e com menos custos: “cozinhas invisíveis” crescem com boom do delivery",
+      "originalTitle": "Sem salão e com menos custos: “cozinhas invisíveis” crescem com boom do delivery",
+      "summary": "Espaços para produção e venda de comida, sem salão nem relação direta com o cliente, transformaram o mercado da gastronomia The post Sem salão e com menos custos: “cozinhas invisíveis” crescem com boom do delivery appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/sem-salao-e-com-menos-custos-cozinhas-invisiveis-crescem-com-boom-do-delivery/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/cozinha-do-taco-bell.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-16T11:33:42+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-promocao-na-amazon-38/",
+      "_key": "5f8c5d2e033dea0fda71d5b68bf838c3",
+      "title": "Hora de renovar a sala: Smart TVs 4K em promoção na Amazon",
+      "originalTitle": "Hora de renovar a sala: Smart TVs 4K em promoção na Amazon",
+      "summary": "Se você está pensando em trocar aquela TV antiga por um modelo mais moderno, este é o momento certo. Reunimos três boas opções de Smart TVs 4K disponíveis na Amazon com tecnologias atuais, conectividade completa e imagem de alta resolução.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-promocao-na-amazon-38/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/417VfFP6sAL._SL500_.jpg",
+      "publishedAt": "2026-08-16T11:00:31+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/insiders/artigo-no-esporte-e-nos-negocios-consistencia-nao-e-insistencia/",
+      "_key": "21a4b7f7e9831a995fd95995a473e0aa",
+      "title": "ARTIGO: No esporte e nos negócios, consistência não é insistência",
+      "originalTitle": "ARTIGO: No esporte e nos negócios, consistência não é insistência",
+      "summary": "diferente daquele que você imaginou antes de entrar em quadra. Você estuda o adversário, conversa com o treinador, define uma estratégia. Sabe onde ele é mais forte, onde pode ser vulnerável e como pretende jogar.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/insiders/artigo-no-esporte-e-nos-negocios-consistencia-nao-e-insistencia/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/tenis-e-lideranca-300x169.jpg",
+      "publishedAt": "2026-08-16T10:58:42+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/16/entrada-da-china-na-acao-do-brasil-na-omc-ajuda-a-combater-guerra-tarifaria-contra-os-eua.ghtml",
@@ -15622,6 +15853,48 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/anthropic-ceo-dario-amodei-defends-ai-regulation-argues-it-can-boost-competition/articleshow/133276232.cms",
+      "_key": "6630c4cfc222ea0e4268e3a3548a1f20",
+      "title": "competition",
+      "originalTitle": "competition",
+      "summary": "It started with a comment from investor Gavin Baker on the All-In Podcast, which set off a public argument about Anthropic's ambitions, pulling in one of the top researchers in this field, Advanced Machine Intelligence chair Yann LeCunn, and a public essay from Amodei himself.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-ceo-dario-amodei-defends-ai-regulation-argues-it-can-boost-competition/articleshow/133276232.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133276232,imgsize-133134.cms",
+      "publishedAt": "2026-08-16T13:18:20+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3364094/musks-headaches-meet-chinas-corporate-matrix-challenging-his-business-empire?utm_source=rss_feed",
+      "_key": "4ef8115af2231e2159d6fc15f3ea5d6a",
+      "title": "Musk’s headaches: meet China’s corporate matrix challenging his business empire",
+      "originalTitle": "Musk’s headaches: meet China’s corporate matrix challenging his business empire",
+      "summary": "US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3364094/musks-headaches-meet-chinas-corporate-matrix-challenging-his-business-empire?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/9656223a-08f2-44f1-889d-be41ae9de57d_bef0cf19.jpg?itok=9X-jKXjN&v=1786707607",
+      "publishedAt": "2026-08-16T10:00:12+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts?utm_source=rss_feed",
