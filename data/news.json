@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T15:51:44.589132+00:00",
+  "updatedAt": "2026-08-16T19:03:35.171407+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -2104,6 +2104,27 @@
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/toda-a-direita-vai-estar-unida-no-2o-turno-diz-romeu-zema-no-1o-dia-de-campanha/",
+      "_key": "356887b46cf065278c757d89261cc0d3",
+      "title": "‘Toda a direita vai estar unida no 2º turno’, diz Romeu Zema no 1º dia de campanha",
+      "originalTitle": "‘Toda a direita vai estar unida no 2º turno’, diz Romeu Zema no 1º dia de campanha",
+      "summary": "Zema enfatizou sua atuação para atrair investimentos e criticou a política internacional adotada pelo governo Lula The post &#8216;Toda a direita vai estar unida no 2º turno&#8217;, diz Romeu Zema no 1º dia de campanha appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/toda-a-direita-vai-estar-unida-no-2o-turno-diz-romeu-zema-no-1o-dia-de-campanha/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/romeu-zema-governador-minas-gerais-politica-novo03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-16T17:25:31+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/we-will-work-to-provide-ai-skill-training-to-1-crore-youth-in-coming-one-year-pm-modi/articleshow/133256036.cms",
       "_key": "96183ab0a4dabfeb4318360953a0629f",
       "title": "We will train 1 crore youth in AI skills over next year: PM Modi",
@@ -2738,6 +2759,27 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/inteligencia-artificial/qual-e-o-modelo-aberto-de-ia-mais-popular-do-mundo-nao-e-nenhum-feito-nos-eua/",
+      "_key": "88d495fbe03ce636be74e03519457800",
+      "title": "Qual é o modelo aberto de IA mais popular do mundo? Não é nenhum feito nos EUA",
+      "originalTitle": "Qual é o modelo aberto de IA mais popular do mundo? Não é nenhum feito nos EUA",
+      "summary": "Família Qwen, desenvolvida pela chinesa Alibaba, já foi baixada por mais de 3 bilhões de usuários ao redor do planeta O post Qual é o modelo aberto de IA mais popular do mundo? Não é nenhum feito nos EUA apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/inteligencia-artificial/qual-e-o-modelo-aberto-de-ia-mais-popular-do-mundo-nao-e-nenhum-feito-nos-eua/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/03/shutterstock_2578832629-1024x682.jpg",
+      "publishedAt": "2026-08-16T17:06:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/16/agencia-de-classificacao-de-risco-fitch-eleva-nota-de-credito-do-municipio-do-rio-de-janeiro-para-o-grau-mais-alto.ghtml",
@@ -8292,6 +8334,153 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/lula-diz-querer-quarto-mandato-para-impedir-volta-de-direita-que-ria-de-asfixiados/",
+      "_key": "62e87dfbd50dcef4886aa38c2fce1744",
+      "title": "Lula diz querer quarto mandato para impedir volta de direita que ‘ria de asfixiados’",
+      "originalTitle": "Lula diz querer quarto mandato para impedir volta de direita que ‘ria de asfixiados’",
+      "summary": "Lançamento da campanha petista ocorreu neste domingo em São Bernardo do Campo, São Paulo The post Lula diz querer quarto mandato para impedir volta de direita que &#8216;ria de asfixiados&#8217; appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/lula-diz-querer-quarto-mandato-para-impedir-volta-de-direita-que-ria-de-asfixiados/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes-2026-lula-pt-campanha-sao-bernardo-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-16T18:55:33+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/nao-houve-nada-diz-tarcisio-sobre-suposta-perseguicao-da-pm-a-motorista-de-haddad/",
+      "_key": "36e1311a68cba4148319e67b6facf191",
+      "title": "‘Não houve nada’, diz Tarcísio sobre suposta perseguição da PM a motorista de Haddad",
+      "originalTitle": "‘Não houve nada’, diz Tarcísio sobre suposta perseguição da PM a motorista de Haddad",
+      "summary": "Segundo governador, caso deve virar inquérito na Polícia Civil e motorista deve ser intimado a depor The post &#8216;Não houve nada&#8217;, diz Tarcísio sobre suposta perseguição da PM a motorista de Haddad appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/nao-houve-nada-diz-tarcisio-sobre-suposta-perseguicao-da-pm-a-motorista-de-haddad/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/debate1.avif?resize=300,200",
+      "publishedAt": "2026-08-16T18:40:47+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china/articleshow/133280365.cms",
+      "_key": "7696de6553451dff71bf29cadb46265d",
+      "title": "US to tell partners they must pick sides in AI race with China",
+      "originalTitle": "US to tell partners they must pick sides in AI race with China",
+      "summary": "By pressing countries to choose sides the US hopes to starve China of resources in a race to make the most sophisticated AI, which ​could be used for military or economic dominance.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china/articleshow/133280365.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133280365,imgsize-147548.cms",
+      "publishedAt": "2026-08-16T17:55:06+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/som-cinema-em-casa-selecionamos-as-melhores-soundbars-em-promocao-na-amazon/",
+      "_key": "893ea2b3d48c907bd05d09c91c456443",
+      "title": "Som cinema em casa: selecionamos as melhores soundbars em promoção na Amazon",
+      "originalTitle": "Som cinema em casa: selecionamos as melhores soundbars em promoção na Amazon",
+      "summary": "Transformar a sala de estar em uma experiência de cinema não exige uma reforma — basta uma boa soundbar. Reunimos três opções em oferta na Amazon agora, de marcas reconhecidas e com tecnologias que fazem diferença no dia a dia, seja para filmes, séries ou música. Confira.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/som-cinema-em-casa-selecionamos-as-melhores-soundbars-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/21yPj5NGVgL._SL500_.jpg",
+      "publishedAt": "2026-08-16T16:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/presented/business/topics/ai-transforming-industries/article/3363841/bruce-rockowitz-why-ai-reshaping-hong-kongs-food-economy?utm_source=rss_feed",
+      "_key": "e0784c379be8cdcafc9cbe7315143b20",
+      "title": "Economy",
+      "originalTitle": "Economy",
+      "summary": "[The content of this article has been produced by our advertising partner.] Artificial intelligence is moving quickly from experiment to operating tool, and Bruce Rockowitz believes it is becoming an important competitive advantage for Hong Kong’s catering businesses as the city’s food delivery economy enters a more demanding phase.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/presented/business/topics/ai-transforming-industries/article/3363841/bruce-rockowitz-why-ai-reshaping-hong-kongs-food-economy?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2026/08/13/WhatsApp-Image-2026-08-12-at-10.24.02.jpeg?itok=t0hiVOPi",
+      "publishedAt": "2026-08-16T16:00:09+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/quer-melhorar-sua-experiencia-no-game-confira-headsets-que-valem-cada-centavo/",
+      "_key": "2c3ecc5b5ec6bcddb3f12773b6f6becd",
+      "title": "Quer melhorar sua experiência no game? Confira headsets que valem cada centavo",
+      "originalTitle": "Quer melhorar sua experiência no game? Confira headsets que valem cada centavo",
+      "summary": "sério. Reunimos três headsets gamer em oferta na Amazon que combinam qualidade sonora, conforto e recursos pensados para quem joga de verdade. Confira as opções: Headset [&#8230;] O post Quer melhorar sua experiência no game?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/quer-melhorar-sua-experiencia-no-game-confira-headsets-que-valem-cada-centavo/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41j1S82Wg8L._SL500_.jpg",
+      "publishedAt": "2026-08-16T16:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/som-sem-fio-e-sem-complicacao-os-melhores-fones-bluetooth-em-promocao-agora/",
+      "_key": "0ae2f84a3123038eb6da55a0090f62f2",
+      "title": "Som sem fio e sem complicação: os melhores fones Bluetooth em promoção agora",
+      "originalTitle": "Som sem fio e sem complicação: os melhores fones Bluetooth em promoção agora",
+      "summary": "Se você está em busca de um bom fone Bluetooth, este é o momento certo para agir. Reunimos três opções em promoção na Amazon que cobrem diferentes perfis de uso — de quem quer praticidade no dia a dia a quem prioriza qualidade sonora e resistência.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/som-sem-fio-e-sem-complicacao-os-melhores-fones-bluetooth-em-promocao-agora/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31eeSqQHCvL._SL500_.jpg",
+      "publishedAt": "2026-08-16T15:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/mais-velocidade-mais-espaco-ssds-em-promocao-para-turbinar-seu-pc-ou-notebook/",
@@ -16042,6 +16231,90 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/som-que-envolve-headsets-com-7-1-surround-em-promocao-na-amazon-2/",
+      "_key": "352012a244480947a8a49a62ce97e5d6",
+      "title": "Som que envolve: headsets com 7.1 Surround em promoção na Amazon",
+      "originalTitle": "Som que envolve: headsets com 7.1 Surround em promoção na Amazon",
+      "summary": "Quem leva os jogos a sério sabe que o áudio faz toda a diferença — ouvir os passos do inimigo, sentir a direção de uma explosão ou se imergir na trilha sonora de um RPG depende de um bom headset.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/som-que-envolve-headsets-com-7-1-surround-em-promocao-na-amazon-2/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41aU1vsLZWL._SL500_.jpg",
+      "publishedAt": "2026-08-16T17:40:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+      "_key": "f4f457060e238cede513726c3b7f9a62",
+      "title": "Amazon is trying to crush class-action suits before they get started",
+      "originalTitle": "Amazon is trying to crush class-action suits before they get started",
+      "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-16T17:35:02+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/proteja-sua-casa-com-estilo-cameras-de-seguranca-em-promocao-na-amazon-14/",
+      "_key": "89beb44d747d1ed2a9154dc12f7c1205",
+      "title": "Proteja sua casa com estilo: câmeras de segurança em promoção na Amazon",
+      "originalTitle": "Proteja sua casa com estilo: câmeras de segurança em promoção na Amazon",
+      "summary": "Monitorar o que acontece em casa ou no trabalho ficou muito mais fácil — e acessível. Separamos três câmeras de segurança que estão em oferta na Amazon e que entregam recursos de ponta, como visão noturna, conectividade Wi-Fi e detecção de movimento.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/proteja-sua-casa-com-estilo-cameras-de-seguranca-em-promocao-na-amazon-14/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31Y-70cp-jL._SL500_.jpg",
+      "publishedAt": "2026-08-16T17:20:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/caixas-de-som-bluetooth-em-promocao-escolha-a-ideal-para-levar-a-musica-a-qualquer-lugar/",
+      "_key": "9ae230a91d6cec927afaeb15c708bd00",
+      "title": "Caixas de Som Bluetooth em promoção: escolha a ideal para levar a música a qualquer lugar",
+      "originalTitle": "Caixas de Som Bluetooth em promoção: escolha a ideal para levar a música a qualquer lugar",
+      "summary": "Se você está em busca de uma boa caixa de som Bluetooth para curtir sua playlist em qualquer ambiente, chegou a hora certa. Reunimos três opções em promoção na Amazon que combinam portabilidade, qualidade sonora e recursos interessantes — do litoral à sala de estar. Confira!",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/16/reviews/caixas-de-som-bluetooth-em-promocao-escolha-a-ideal-para-levar-a-musica-a-qualquer-lugar/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41JzCA9ATQL._SL500_.jpg",
+      "publishedAt": "2026-08-16T16:20:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
