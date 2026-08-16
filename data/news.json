@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:46:04.110880+00:00",
+  "updatedAt": "2026-08-16T03:19:07.233777+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -2738,6 +2738,27 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/nvidia-planeja-investir-us-3-bi-em-acordo-para-centro-de-dados-da-openai-diz-jornal/",
+      "_key": "22ea9db8c1a9a07a3d62190c8eea45bc",
+      "title": "Nvidia planeja investir US$ 3 bi em acordo para centro de dados da OpenAI, diz jornal",
+      "originalTitle": "Nvidia planeja investir US$ 3 bi em acordo para centro de dados da OpenAI, diz jornal",
+      "summary": "De acordo com o The Information, a Nvidia discutiu a possibilidade de investir metade dos US$3 bilhões quando o acordo para o projeto em Ohio for assinado The post Nvidia planeja investir US$ 3 bi em acordo para centro de dados da OpenAI, diz jornal appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/nvidia-planeja-investir-us-3-bi-em-acordo-para-centro-de-dados-da-openai-diz-jornal/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-15T22:35:16+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/brasil/heranca-de-silvio-santos-o-que-patrimonio-de-patricia-abravanel-diz-sobre-disputa/",
@@ -5676,6 +5697,48 @@
       "country": "BR"
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent?utm_source=rss_feed",
+      "_key": "623c6c0ea5eaf7ce156bd84e67590c16",
+      "title": "Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent",
+      "originalTitle": "Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent",
+      "summary": "China’s southern manufacturing powerhouse of Guangdong province welcomed nearly 40 computer science students from Tsinghua University this week, part of a targeted push by local authorities to bridge a widening gap in China’s artificial intelligence race by attracting top-tier talent from Beijing.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/a7ffd008-25c8-4a31-9a28-6c36b8fa494a_2ba54826.jpg?itok=KQfutOZ4&v=1786708468",
+      "publishedAt": "2026-08-16T03:00:12+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "_key": "e759843804d103329a6c7a44363bc475",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "originalTitle": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-15T20:45:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops",
       "_key": "1bfafeae41bc5af28bd7626b984fb0c9",
       "title": "Bond Traders Agonize Over AI Companies’ $70 Billion of Shadow Credit Backstops",
@@ -7956,6 +8019,27 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/departamento-de-estado-dos-eua-revoga-750-vistos-contra-turismo-de-nascimento/",
+      "_key": "f98eedfdfc662b4f06ed668a39fab143",
+      "title": "de nascimento’",
+      "originalTitle": "de nascimento’",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, assinou, no dia 6 de agosto, uma medida declarando combate à prática, o que teria acelerado a revogação dos documentos, de acordo com o porta-voz The post Departamento de Estado dos EUA revoga 750 vistos contra &#8216;turismo de nascimento&#8217; appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/departamento-de-estado-dos-eua-revoga-750-vistos-contra-turismo-de-nascimento/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-03T194901Z_1_LYNXMPEM721KG_RTROPTP_4_USA-TRUMP-TARIFFS-IMPORTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-15T21:47:36+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/furacao-avanca-sobre-havai-e-pode-atingir-ilha-diretamente-pela-1a-vez-na-historia/",
@@ -15307,6 +15391,27 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts?utm_source=rss_feed",
+      "_key": "d8fbd4e89783a3e56e9d6de8d55f4c35",
+      "title": "Luxury home sales rebound in mainland China but overall market recovery unlikely: analysts",
+      "originalTitle": "Luxury home sales rebound in mainland China but overall market recovery unlikely: analysts",
+      "summary": "Sales of luxury homes in mainland China’s top cities are picking up as high-net-worth individuals, benefiting from the country’s tech boom, splash out billions of yuan to improve their housing.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/138b9684-342b-40c6-885e-c462e45d8046_67959172.jpg?itok=EGH0dIQM&v=1786706917",
+      "publishedAt": "2026-08-16T01:00:11+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/15/reviews/smartwatch-em-promocao-veja-uma-selecao-de-relogios-inteligentes-para-nao-perder/",
