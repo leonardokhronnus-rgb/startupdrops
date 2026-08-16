@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T03:19:07.233777+00:00",
+  "updatedAt": "2026-08-16T07:48:09.811884+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -8019,6 +8019,69 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/us-states-seek-200-billion-penalty-in-blockbuster-meta-lawsuit/articleshow/133271047.cms",
+      "_key": "b58460f94614188d990014179c4af46b",
+      "title": "US states seek $200 billion penalty in blockbuster Meta lawsuit",
+      "originalTitle": "US states seek $200 billion penalty in blockbuster Meta lawsuit",
+      "summary": "A coalition of US states will seek around $200 billion in damages against Meta, which they accuse of intentionally designing Facebook and Instagram to be addictive for children, when a landmark trial kicks off on Tuesday.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/us-states-seek-200-billion-penalty-in-blockbuster-meta-lawsuit/articleshow/133271047.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133271047,imgsize-34000.cms",
+      "publishedAt": "2026-08-16T06:25:06+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power/articleshow/133271001.cms",
+      "_key": "9ead60f75e78f172348fd6d40e028339",
+      "title": "Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power",
+      "originalTitle": "Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power",
+      "summary": "Responding to a debate sparked by comments from investor Gavin Baker, Amodei said the choice between concentrating AI power through regulation and distributing it widely was a \"false choice\".",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power/articleshow/133271001.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133271001,imgsize-66200.cms",
+      "publishedAt": "2026-08-16T06:19:57+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/16/china-domina-mercado-de-robos-humanoides-entenda-por-que-os-eua-decidiram-barra-los.ghtml",
+      "_key": "3988691540f6655ab0f92b402e40838f",
+      "title": "China domina mercado de robôs humanoides; entenda por que os EUA decidiram barrá-los",
+      "originalTitle": "China domina mercado de robôs humanoides; entenda por que os EUA decidiram barrá-los",
+      "summary": "Feira da Indústria tem exposição de robôs humanóides A fabricante chinesa de robôs humanoides e quadrúpedes Unitree Robotics abriu na segunda-feira (10) as inscrições para sua oferta pública inicial de ações na Bolsa de Valores de Xangai.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/16/china-domina-mercado-de-robos-humanoides-entenda-por-que-os-eua-decidiram-barra-los.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/v9kINWoD9gKqYdWu0wLR8klpP3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/q/QtWwBxQNC7feJywGUBBA/78143445-1004.webp",
+      "publishedAt": "2026-08-16T06:00:35+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/departamento-de-estado-dos-eua-revoga-750-vistos-contra-turismo-de-nascimento/",
