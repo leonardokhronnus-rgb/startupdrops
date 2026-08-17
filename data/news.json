@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T08:10:17.755714+00:00",
+  "updatedAt": "2026-08-17T10:20:59.854217+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -448,6 +448,27 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/norways-birdsview-raises-e3-7-million-to-scale-its-mri-for-concrete-technology-and-protect-infrastructure/",
+      "_key": "e41fd2eb31ea83812ecdda3c63839e9d",
+      "title": "Norway’s Birdsview raises €3.7 million to scale its “MRI for concrete” technology and protect infrastructure",
+      "originalTitle": "Norway’s Birdsview raises €3.7 million to scale its “MRI for concrete” technology and protect infrastructure",
+      "summary": "Birdsview, a Bergen-based startup specialising in concrete inspection technology that helps preserve infrastructure, has raised €3.7 million to strengthen its commercial, industrial, and international scaling.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/norways-birdsview-raises-e3-7-million-to-scale-its-mri-for-concrete-technology-and-protect-infrastructure/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-17T145251.952.jpg",
+      "publishedAt": "2026-08-17T09:35:51+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/bill-ackman-cria-fundo-para-dar-acesso-a-pre-ipo-ao-investidor-comum/",
@@ -2887,6 +2908,27 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/ascend-sport-said-to-mull-listing-in-up-to-740-million-merger",
+      "_key": "a2c6cf3e633d322c30d9bc440fdf8a7b",
+      "title": "Ascend Sport Said to Mull Listing in Up to $740 Million Merger",
+      "originalTitle": "Ascend Sport Said to Mull Listing in Up to $740 Million Merger",
+      "summary": "Switzerland’s Ascend Sport Technology AG is exploring strategic options, including a reverse merger with a listed shell company that could value the firm between 500 million and 600 million Swiss francs ($740 million), according to people familiar with matter.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/ascend-sport-said-to-mull-listing-in-up-to-740-million-merger",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-17T09:24:56+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startupi-https://startupi.com.br/como-o-pleno-emprego-no-brasil-desafia-startups-na-area-de-pessoas/",
       "_key": "eeb92d37c6884351cf659f2047ebce79",
       "title": "Como o pleno emprego no Brasil desafia startups na área de pessoas",
@@ -4989,6 +5031,27 @@
       "country": "BR"
     },
     {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/17/internet-e-redes-sociais/internacional-x-remo-onde-assistir-ao-jogo-do-brasileirao-2026/",
+      "_key": "d0da249f84691f043e46e38f2ee82d42",
+      "title": "Internacional x Remo: onde assistir, horário e escalações do jogo do Brasileirão",
+      "originalTitle": "Internacional x Remo: onde assistir, horário e escalações do jogo do Brasileirão",
+      "summary": "Internacional e Remo se enfrentam pela 23ª rodada do Brasileirão. Confira horário, onde assistir, escalações prováveis e arbitragem O post Internacional x Remo: onde assistir, horário e escalações do jogo do Brasileirão apareceu primeiro em Olhar Digital .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/17/internet-e-redes-sociais/internacional-x-remo-onde-assistir-ao-jogo-do-brasileirao-2026/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/internacional-x-remo-scaled.jpg",
+      "publishedAt": "2026-08-17T09:00:00+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/internet-e-redes-sociais/mirassol-x-flamengo-onde-assistir-horario-e-escalacoes-do-jogo-do-brasileirao-2/",
       "_key": "124176c605f45b8679b2b57bcb9c2987",
       "title": "Mirassol x Flamengo: onde assistir, horário e escalações do jogo do Brasileirão",
@@ -6136,6 +6199,69 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-17082026/",
+      "_key": "a59fe067c846e58fb0a861a57cfecf68",
+      "title": "Day Trade hoje (17): Ibovespa acumula 9 quedas; há espaço para repique?",
+      "originalTitle": "Day Trade hoje (17): Ibovespa acumula 9 quedas; há espaço para repique?",
+      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (17): Ibovespa acumula 9 quedas; há espaço para repique? appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-17082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T10:04:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tecnoblog-https://tecnoblog.net/publieditoriais/como-se-preparar-para-nao-ser-substituido-pela-ia-e-aumentar-seu-salario-em-ate-62/",
+      "_key": "304798ad2165ad260366e7b1ac336735",
+      "title": "em até 62%",
+      "originalTitle": "em até 62%",
+      "summary": "A revolução da inteligência artificial já transformou diversas áreas. Estar preparado é a chave para aproveitar as oportunidades. Como se preparar para não ser substituído pela IA e aumentar seu salário em até 62%",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tecnoblog.net/publieditoriais/como-se-preparar-para-nao-ser-substituido-pela-ia-e-aumentar-seu-salario-em-ate-62/",
+      "source": "Tecnoblog",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/tripleten-capa-agosto.png",
+      "publishedAt": "2026-08-17T09:30:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tecnoblog"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/previa-pib-brasil-leilao-bc-galipolo-17082026/",
+      "_key": "acd0adedf302c6b7033e26c96b80f1e6",
+      "title": "Prévia do PIB do Brasil, leilão do BC, Galípolo e mais destaques desta segunda-feira",
+      "originalTitle": "Prévia do PIB do Brasil, leilão do BC, Galípolo e mais destaques desta segunda-feira",
+      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta segunda-feira (17) The post Prévia do PIB do Brasil, leilão do BC, Galípolo e mais destaques desta segunda-feira appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/previa-pib-brasil-leilao-bc-galipolo-17082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-07-24T004821Z_1_LYNXMPEL6N00L_RTROPTP_4_BRAZIL-ECONOMY-SURVEY-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T09:01:24+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3364262/ai-chipmaker-biren-projects-22-fold-revenue-surge-amid-chinas-hi-tech-boom?utm_source=rss_feed",
@@ -8586,6 +8712,111 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/mao-de-obra-em-queda-reforma-tributaria-e-a-visao-do-ceo-da-mrv-para-o-setor/",
+      "_key": "b8b3a30e14af5e75ec2ca16d0e4d8502",
+      "title": "Mão de obra em queda, Reforma Tributária e a visão do CEO da MRV para o setor",
+      "originalTitle": "Mão de obra em queda, Reforma Tributária e a visão do CEO da MRV para o setor",
+      "summary": "Ao InfoMoney Entrevista, Eduardo Fischer, CEO da MRV&#038;CO, falou sobre o gargalo estrutural de mão de obra no setor, os impactos da reforma tributária, o \"ato de fé\" de construir no Brasil e a próxima fronteira da moradia The post Mão de obra em queda, Reforma Tributária e a visão do CEO da MRV para o setor appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/mao-de-obra-em-queda-reforma-tributaria-e-a-visao-do-ceo-da-mrv-para-o-setor/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eduardo-fischer.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T10:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-17/sri-lanka-sec-state-firms-to-list-via-holding-company-video",
+      "_key": "08c36dc8f802dbf331b92ab013ac27c2",
+      "title": "Sri Lanka SEC: State Firms to List Via Holding Company",
+      "originalTitle": "Sri Lanka SEC: State Firms to List Via Holding Company",
+      "summary": "Hareendra Dissabandara, Chairman at the Securities and Exchange Commission of Sri Lanka, says the government is “seriously working” on listing state-owned enterprises on the Colombo bourse. He speaks with Haslinda Amin on Insight with Haslinda Amin. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-17/sri-lanka-sec-state-firms-to-list-via-holding-company-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-17T09:57:35+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/escalada-da-violencia-no-libano-e-em-gaza-ameaca-a-paz-no-oriente-medio/",
+      "_key": "3ca54a7d17183c8776e83e06d4afb007",
+      "title": "Escalada da violência no Líbano e em Gaza ameaça a paz no Oriente Médio",
+      "originalTitle": "Escalada da violência no Líbano e em Gaza ameaça a paz no Oriente Médio",
+      "summary": "O exército israelense afirmou no domingo que matou Abu Hassan Alaa, um importante comandante do Hezbollah, no sul do Líbano The post Escalada da violência no Líbano e em Gaza ameaça a paz no Oriente Médio appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/escalada-da-violencia-no-libano-e-em-gaza-ameaca-a-paz-no-oriente-medio/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/fronteira-libano-ataques-guerra-israel-oriente-medio01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T09:34:41+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/biology-has-the-final-say-greendas-cso-on-why-ai-tools-must-adapt-to-agricultural-ecosystems-sponsored/",
+      "_key": "e27bec493ebe8238003a7ae9267d02e4",
+      "title": "ecosystems (Sponsored)",
+      "originalTitle": "ecosystems (Sponsored)",
+      "summary": "As agriculture navigates intensifying climate volatility, evolving regulation, and shifting buyer expectations, the challenge is not whether AI has a role to play, but whether it can operate effectively on biology’s terms.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/biology-has-the-final-say-greendas-cso-on-why-ai-tools-must-adapt-to-agricultural-ecosystems-sponsored/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/07/Greenda-test.png",
+      "publishedAt": "2026-08-17T09:14:44+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/itau-bradesco-santander-e-bb-o-que-balancos-do-2t-dizem-sobre-cautela-do-setor/",
+      "_key": "0a7e5baff4fe5fc6d49614d6f07995ee",
+      "title": "Itaú, Bradesco, Santander e BB: o que balanços do 2T dizem sobre cautela do setor?",
+      "originalTitle": "Itaú, Bradesco, Santander e BB: o que balanços do 2T dizem sobre cautela do setor?",
+      "summary": "Entre as quatro maiores instituições financeiras do país, a mensagem ecoou em uníssono: redução da exposição a tomadores mais arriscados e ao crédito sem garantia The post Itaú, Bradesco, Santander e BB: o que balanços do 2T dizem sobre cautela do setor?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/itau-bradesco-santander-e-bb-o-que-balancos-do-2t-dizem-sobre-cautela-do-setor/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/bancos.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T09:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "SCMP Business-https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand?utm_source=rss_feed",
@@ -16756,6 +16987,48 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-news-now-video",
+      "_key": "77f9e782d6f5e521e2c1ff77172d8b4b",
+      "title": "Now",
+      "originalTitle": "Now",
+      "summary": "Trump Readies Unprecedented ‘Economic Isolation’ Plan for Iran Trump Reduces US-South Korea Military Drills Anthropic Revenue Surges to Over $11.5B in 2Q Goldman Says Markets Too Hawkish on Fed to Hike Rates US Retailers to Report Today Checking Consumer Health China’s Economic Woes Mount With 1H Data Disappoint Jamie Dimon Warns UK’s Healey on Raising Banks’ Taxes (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-news-now-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-17T10:04:26+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/article/3364288/cxmt-tops-4-trillion-yuan-ai-fuelled-memory-rally-lifts-chinas-chip-champion?utm_source=rss_feed",
+      "_key": "f84fe399d969c117ffe21dadbb56498a",
+      "title": "CXMT value tops 4 trillion yuan as AI-fuelled memory rally lifts China’s chip champion",
+      "originalTitle": "CXMT value tops 4 trillion yuan as AI-fuelled memory rally lifts China’s chip champion",
+      "summary": "Shares of ChangXin Memory Technologies (CXMT), China’s leading DRAM maker, jumped 12 per cent on Monday to close at a record 61.80 yuan (US$9.16), lifting its market capitalisation to 4.13 trillion yuan and extending its lead as China’s most valuable listed company.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/article/3364288/cxmt-tops-4-trillion-yuan-ai-fuelled-memory-rally-lifts-chinas-chip-champion?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/2826e35c-4b28-4c19-80c7-78c0a520f92f_d0d801ac.jpg?itok=zcXF-cpR&v=1786957205",
+      "publishedAt": "2026-08-17T09:00:17+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/alibaba-to-sell-lingxi-games-in-more-than-2-billion-deal-source-says/articleshow/133290205.cms",
