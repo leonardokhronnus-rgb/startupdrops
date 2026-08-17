@@ -109,6 +109,7 @@ SOURCES = [
 DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "news.json")
 USER_AGENT = "StartupDropsBot/1.0 (+https://startupdrops)"
 REQUEST_TIMEOUT = 20
+ACTIVE_COUNTRIES = {"BR", "US"}
  
 # Portão de qualidade: resumo precisa ter pelo menos este tamanho pra virar matéria.
 # Fontes que só entregam trecho curto (HBR, muitos paywalls) são descartadas
@@ -416,16 +417,16 @@ def collect(use_ai, max_age_days):
     existing = load_existing()
     by_key = {a.get("_key") or canonical_key(a["url"]): a for a in existing.get("articles", [])}
  
-    # Escopo do portal: apenas Brasil e EUA. Remove China/India/Europa do acervo.
-    # Escopo do portal: apenas Brasil. Remove EUA/China/India/Europa do acervo.
-    articles = [a for a in by_key.values() if a.get("country") == "BR"]
+    # Escopo operacional: Brasil + EUA. EUA entra traduzido pela IA quando a chave
+    # Anthropic estiver configurada; sem chave, cai no resumo por regra.
+    articles = [a for a in by_key.values() if a.get("country") in ACTIVE_COUNTRIES]
     failures = []
     seen_now = set()
     new_count = 0
     skipped_thin = 0
  
     for source in SOURCES:
-        if source.get("country") != "BR":  # escopo: so Brasil
+        if source.get("country") not in ACTIVE_COUNTRIES:
             continue
         print(f"→ {source['name']}", file=sys.stderr)
         parsed, err = fetch_feed(source)

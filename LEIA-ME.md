@@ -9,6 +9,7 @@ Você não precisa colar nada à mão.
 - `netlify/functions/reescrever.mjs` roda automaticamente 3x ao dia (08h, 14h e 20h de Brasília).
   Puxa o RSS das fontes, detecta matérias novas, reescreve e salva no Netlify Blobs.
 - `netlify/functions/materias.mjs` entrega as matérias prontas para o site.
+- `collector.py` mantém o arquivo `data/news.json` com notícias do Brasil e dos EUA; quando `ANTHROPIC_API_KEY` está configurada, os veículos americanos são traduzidos e contextualizados em português do Brasil.
 - `index.html` é o portal: lê as matérias já reescritas e exibe na identidade StartupDrops.
 
 ## Deploy (passo a passo)
