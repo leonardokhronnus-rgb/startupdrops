@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:43:43.910573+00:00",
+  "updatedAt": "2026-08-17T03:19:48.674073+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -2759,6 +2759,27 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unveiling-the-economic-times-startup-awards-2026-high-powered-jury/articleshow/133284616.cms",
+      "_key": "3713d05c43abadd026fec5c2803c9065",
+      "title": "Unveiling The Economic Times Startup Awards 2026 high-powered jury",
+      "originalTitle": "Unveiling The Economic Times Startup Awards 2026 high-powered jury",
+      "summary": "We’re back with the 12th edition of The Economic Times Startup Awards (ETSA). However hectic it gets for the ETtech team, the thrill of sifting through the best of Indian entrepreneurship makes up for every late night in the newsroom.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unveiling-the-economic-times-startup-awards-2026-high-powered-jury/articleshow/133284616.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133284616,imgsize-1212543.cms",
+      "publishedAt": "2026-08-17T01:55:12+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/esportes/joao-fonseca-vence-holandes-e-avanca-no-masters-1000-de-cincinnati/",
@@ -8355,6 +8376,48 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/chinese-trader-s-unit-ordered-to-liquidate-by-hong-kong-court",
+      "_key": "b6d973307c69b36e3a066cb9c59cabab",
+      "title": "Hong Kong Court Orders Unit of SDIC Commodities to Liquidate",
+      "originalTitle": "Hong Kong Court Orders Unit of SDIC Commodities to Liquidate",
+      "summary": "A unit of China’s state-backed SDIC Commodities Co. was ordered to liquidate by a Hong Kong court, adding to the financial troubles for the metals trader as Beijing increases scrutiny on the sector.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/chinese-trader-s-unit-ordered-to-liquidate-by-hong-kong-court",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-17T02:16:29+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/article/3364205/launch-northern-metropolis-flats-attracts-strong-interest-hong-kong-homebuyers?utm_source=rss_feed",
+      "_key": "40f9a3f82cdbce387bc1bf5dfa313a80",
+      "title": "Launch of Northern Metropolis flats attracts strong interest from Hong Kong homebuyers",
+      "originalTitle": "Launch of Northern Metropolis flats attracts strong interest from Hong Kong homebuyers",
+      "summary": "Hong Kong homebuyers flocked to the first batch of units at a major residential project in the Northern Metropolis with 44 – or more than half – of the 82 flats made available via regular sale finding buyers as of 7.30pm on Sunday, according to agents.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/article/3364205/launch-northern-metropolis-flats-attracts-strong-interest-hong-kong-homebuyers?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/16/09f0e30c-f787-41e0-a308-ab46e51596a3_e1ad23a3.jpg?itok=eP-kwXSH&v=1786884849",
+      "publishedAt": "2026-08-16T23:30:08+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "SCMP Tech-https://www.scmp.com/opinion/world-opinion/article/3363772/chokepoints-and-cost-cutting-access?utm_source=rss_feed",
@@ -16294,6 +16357,27 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/copper-heads-toward-record-high-on-lme-as-supply-tensions-build",
+      "_key": "ebf743e69f8616768814ac07a2cf8173",
+      "title": "Copper Heads Toward Record High on LME as Supply Tensions Build",
+      "originalTitle": "Copper Heads Toward Record High on LME as Supply Tensions Build",
+      "summary": "Copper extended a seven-week rally to head toward a record, with a key price spread on the London Metal Exchange widening to unusual levels in a clear sign of rising competition for short-term supply.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/copper-heads-toward-record-high-on-lme-as-supply-tensions-build",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-17T01:45:04+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "VentureBeat-https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
