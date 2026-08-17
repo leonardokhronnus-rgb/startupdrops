@@ -39,7 +39,6 @@ SOURCES = [
     {"name": "Startups.com.br",       "region": "Brasil",         "country": "BR", "feed": "https://startups.com.br/feed/"},
     {"name": "NeoFeed",               "region": "Brasil",         "country": "BR", "feed": "https://neofeed.com.br/feed/"},
     {"name": "Brazil Journal",        "region": "Brasil",         "country": "BR", "feed": "https://braziljournal.com/feed/"},
-    {"name": "Olhar Digital",         "region": "Brasil",         "country": "BR", "feed": "https://olhardigital.com.br/feed/"},
     {"name": "Tecnoblog",             "region": "Brasil",         "country": "BR", "feed": "https://tecnoblog.net/feed/"},
     {"name": "InfoMoney",             "region": "Brasil",         "country": "BR", "feed": "https://www.infomoney.com.br/feed/"},
     {"name": "Exame",                 "region": "Brasil",         "country": "BR", "feed": "https://exame.com/feed/"},

@@ -1,5 +1,36 @@
 {
-  "updatedAt": "2026-08-17T17:15:00.000000+00:00",
-  "profileUrl": "",
-  "articles": []
+  "updatedAt": "2026-08-17T17:30:00.000000+00:00",
+  "profileUrl": "https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7184655274140454912",
+  "articles": [
+    {
+      "title": "China mudou as regras do venture capital",
+      "excerpt": "Uma leitura sobre como a China reorganizou incentivos, capital e estratégia industrial, mudando a forma como o venture capital precisa ser entendido.",
+      "url": "https://www.linkedin.com/pulse/china-mudou-regras-do-venture-capital-leonardo-brasil-ecjof/",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "O CEO precisa aprender a alocar capital",
+      "excerpt": "Por que a alocação de capital precisa sair do campo financeiro e virar uma disciplina central da liderança executiva.",
+      "url": "https://www.linkedin.com/pulse/o-ceo-precisa-aprender-alocar-capital-leonardo-brasil-o8iuf/",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "O custo invisível da complexidade",
+      "excerpt": "Uma análise sobre como camadas de complexidade consomem margem, foco e velocidade antes de aparecerem nos números da empresa.",
+      "url": "https://www.linkedin.com/pulse/o-custo-invis%C3%ADvel-da-complexidade-leonardo-brasil-u2ulf/",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Unicórnio é uma métrica de vaidade, não prova qualidade",
+      "excerpt": "Uma provocação sobre valuation, qualidade real de negócio e os riscos de confundir narrativa de mercado com criação de valor.",
+      "url": "https://www.linkedin.com/pulse/unic%C3%B3rnio-%C3%A9-uma-m%C3%A9trica-de-vaidade-n%C3%A3o-prova-qualidade-brasil-j7lof/",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "O papel do CFO em uma startup",
+      "excerpt": "Como o CFO pode atuar além do financeiro operacional, ajudando a empresa a ganhar disciplina, previsibilidade e qualidade de decisão.",
+      "url": "https://www.linkedin.com/pulse/o-papel-do-cfo-em-uma-startup-leonardo-brasil-7glvf/",
+      "source": "LinkedIn"
+    }
+  ]
 }

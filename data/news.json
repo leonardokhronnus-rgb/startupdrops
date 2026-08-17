@@ -19,10 +19,6 @@
       "region": "Brasil"
     },
     {
-      "name": "Olhar Digital",
-      "region": "Brasil"
-    },
-    {
       "name": "Tecnoblog",
       "region": "Brasil"
     },
@@ -435,27 +431,6 @@
       ],
       "coverageCount": 1,
       "country": "BR"
-    },
-    {
-      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/pro/saida-de-executivos-coloca-openai-sob-pressao-antes-do-ipo/",
-      "_key": "a0b859bfa79c6d8a4ff5925eab961bae",
-      "title": "Saída de executivos coloca OpenAI sob pressão antes do IPO",
-      "originalTitle": "Saída de executivos coloca OpenAI sob pressão antes do IPO",
-      "summary": "OpenAI perde executivos antes de possível IPO, enquanto área corporativa cresce e chega a 2 milhões de clientes empresariais O post Saída de executivos coloca OpenAI sob pressão antes do IPO apareceu primeiro em Olhar Digital .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://olhardigital.com.br/2026/08/14/pro/saida-de-executivos-coloca-openai-sob-pressao-antes-do-ipo/",
-      "source": "Olhar Digital",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/openai-2-1024x682.jpg",
-      "publishedAt": "2026-08-14T19:08:07+00:00",
-      "score": 52,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Olhar Digital"
-      ],
-      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/14/fgc-orienta-21-mil-credores-da-simpala-apos-liquidacao-pelo-banco-central-veja-o-que-fazer.ghtml",
@@ -3455,27 +3430,6 @@
       "coverageCount": 1
     },
     {
-      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/inteligencia-artificial/ia-chinesa-pode-ter-superado-a-anthropic-em-teste-de-seguranca-cibernetica/",
-      "_key": "478da1d0547d05c0e63cf938f9fecc5d",
-      "title": "IA chinesa pode ter superado a Anthropic em teste de segurança cibernética",
-      "originalTitle": "IA chinesa pode ter superado a Anthropic em teste de segurança cibernética",
-      "summary": "Z.ai planeja lançar o modelo em cerca de duas semanas, mas manterá recursos mais sensíveis restritos a usuários verificados O post IA chinesa pode ter superado a Anthropic em teste de segurança cibernética apareceu primeiro em Olhar Digital .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://olhardigital.com.br/2026/08/14/inteligencia-artificial/ia-chinesa-pode-ter-superado-a-anthropic-em-teste-de-seguranca-cibernetica/",
-      "source": "Olhar Digital",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/shutterstock_2761441095-scaled-1-1024x653.jpg",
-      "publishedAt": "2026-08-14T21:18:32+00:00",
-      "score": 36,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Olhar Digital"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-com-aversao-a-risco-no-brasil/",
       "_key": "60192112daaa1192dd5ef4bdb2298346",
       "title": "Taxas dos DIs sobem com aversão a risco no Brasil",
@@ -3535,27 +3489,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/internet-e-redes-sociais/lgpd-completa-oito-anos-e-empresas-precisam-provar-que-protecao-de-dados-funciona/",
-      "_key": "affcd4b0bee20124df902bd73c8d420a",
-      "title": "LGPD completa oito anos e empresas precisam provar que proteção de dados funciona",
-      "originalTitle": "LGPD completa oito anos e empresas precisam provar que proteção de dados funciona",
-      "summary": "desafios relacionados a incidentes de segurança e inteligência artificial O post LGPD completa oito anos e empresas precisam provar que proteção de dados funciona apareceu primeiro em Olhar Digital .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://olhardigital.com.br/2026/08/14/internet-e-redes-sociais/lgpd-completa-oito-anos-e-empresas-precisam-provar-que-protecao-de-dados-funciona/",
-      "source": "Olhar Digital",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/12/lgpd-e1761740682914-1024x577.jpg",
-      "publishedAt": "2026-08-14T07:45:00+00:00",
-      "score": 36,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Olhar Digital"
       ],
       "coverageCount": 1
     },
@@ -3871,27 +3804,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/11/seguranca/banco-central-tem-um-plano-para-barrar-fraudes-no-pix-e-ele-envolve-ia/",
-      "_key": "c03e43915c07a8995d5d75c0c7c98538",
-      "title": "Banco Central tem um plano para barrar fraudes no Pix – e ele envolve IA",
-      "originalTitle": "Banco Central tem um plano para barrar fraudes no Pix – e ele envolve IA",
-      "summary": "algoritmo calcularia “score” de risco de fraudes nas transações O post Banco Central tem um plano para barrar fraudes no Pix – e ele envolve IA apareceu primeiro em Olhar Digital .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://olhardigital.com.br/2026/08/11/seguranca/banco-central-tem-um-plano-para-barrar-fraudes-no-pix-e-ele-envolve-ia/",
-      "source": "Olhar Digital",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/bacen-1024x576.jpg",
-      "publishedAt": "2026-08-11T17:32:22+00:00",
-      "score": 36,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Olhar Digital"
       ],
       "coverageCount": 1
     },
@@ -4479,27 +4391,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/17/inteligencia-artificial/mil-ias-em-rede-tomam-decisoes-sem-nenhum-humano-no-controle/",
-      "_key": "5a6c0a08b6e98ee9d7234333eba79913",
-      "title": "Mil IAs em rede tomam decisões sem nenhum humano no controle",
-      "originalTitle": "Mil IAs em rede tomam decisões sem nenhum humano no controle",
-      "summary": "Estudo revela que agentes de IA alinham escolhas espontaneamente pela maioria – e isso pode virar um problema de cibersegurança O post Mil IAs em rede tomam decisões sem nenhum humano no controle apareceu primeiro em Olhar Digital .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://olhardigital.com.br/2026/08/17/inteligencia-artificial/mil-ias-em-rede-tomam-decisoes-sem-nenhum-humano-no-controle/",
-      "source": "Olhar Digital",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Consenso-agentes-IA-01-1024x576.jpg",
-      "publishedAt": "2026-08-17T15:07:32+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Olhar Digital"
       ],
       "coverageCount": 1
     },
@@ -5554,27 +5445,6 @@
       "coverageCount": 1
     },
     {
-      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/colunistas/seu-direito-digital-lgpd-completa-8-anos-o-que-mudou-na-sua-privacidade/",
-      "_key": "8dc941e4a4c20e7d10d243967c4b9833",
-      "title": "Seu Direito Digital: LGPD completa 8 anos – o que mudou na sua privacidade?",
-      "originalTitle": "Seu Direito Digital: LGPD completa 8 anos – o que mudou na sua privacidade?",
-      "summary": "Qual a importância dessa legislação e como ela avançou durante esse período? O post Seu Direito Digital: LGPD completa 8 anos &#8211; o que mudou na sua privacidade? apareceu primeiro em Olhar Digital .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://olhardigital.com.br/2026/08/13/colunistas/seu-direito-digital-lgpd-completa-8-anos-o-que-mudou-na-sua-privacidade/",
-      "source": "Olhar Digital",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/lgpd.jpg",
-      "publishedAt": "2026-08-14T00:39:58+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Olhar Digital"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/eua-receberam-alertas-de-israel-sobre-planos-do-ira-para-matar-trump/",
       "_key": "2d42baf03b3cc360b2077abb03648b1c",
       "title": "EUA receberam alertas de Israel sobre planos do Irã para matar Trump",
@@ -5718,27 +5588,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/13/pro/cade-rejeita-pedido-do-google-em-caso-que-envolve-conteudo-de-jornais-e-ia/",
-      "_key": "509bbc41f0d48d7411e0f82a3744a423",
-      "title": "Cade rejeita pedido do Google em caso que envolve conteúdo de jornais e IA",
-      "originalTitle": "Cade rejeita pedido do Google em caso que envolve conteúdo de jornais e IA",
-      "summary": "Decisão foi tomada no âmbito de processo que investiga relação do Google com empresas jornalísticas O post Cade rejeita pedido do Google em caso que envolve conteúdo de jornais e IA apareceu primeiro em Olhar Digital .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://olhardigital.com.br/2026/08/13/pro/cade-rejeita-pedido-do-google-em-caso-que-envolve-conteudo-de-jornais-e-ia/",
-      "source": "Olhar Digital",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/google_logo-1024x682.jpg",
-      "publishedAt": "2026-08-13T19:28:24+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Olhar Digital"
       ],
       "coverageCount": 1
     },
@@ -7675,27 +7524,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Brazil Journal"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/17/internet-e-redes-sociais/processo-contra-meta-coloca-futuro-do-instagram-e-facebook-sob-pressao/",
-      "_key": "f3a872728b7d48d6370834c3685e40f4",
-      "title": "Processo contra Meta coloca futuro do Instagram e Facebook sob pressão",
-      "originalTitle": "Processo contra Meta coloca futuro do Instagram e Facebook sob pressão",
-      "summary": "A ação, marcada para começar nesta terça-feira, também pode obrigar a empresa a rever recursos como notificações, curtidas e rolagem infinita O post Processo contra Meta coloca futuro do Instagram e Facebook sob pressão apareceu primeiro em Olhar Digital .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://olhardigital.com.br/2026/08/17/internet-e-redes-sociais/processo-contra-meta-coloca-futuro-do-instagram-e-facebook-sob-pressao/",
-      "source": "Olhar Digital",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/06/julgamento_meta-1024x682.jpg",
-      "publishedAt": "2026-08-17T15:52:42+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Olhar Digital"
       ],
       "coverageCount": 1
     },
