@@ -474,18 +474,31 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
 .articles-head h1{font-family:var(--sans);font-size:2.5rem;line-height:1.08;letter-spacing:-.04em;color:var(--ink);margin-bottom:10px;}
 .articles-head p{font-size:.98rem;line-height:1.65;color:var(--ink3);max-width:680px;}
 .articles-grid{display:grid;gap:14px;}
-.article-link-card{display:block;background:#fff;border:1px solid var(--rule);border-radius:10px;padding:20px;text-decoration:none;color:inherit;box-shadow:var(--shadow-sm);transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;}
+.article-link-card{display:grid;grid-template-columns:180px minmax(0,1fr);gap:18px;align-items:stretch;background:#fff;border:1px solid var(--rule);border-radius:10px;padding:14px;text-decoration:none;color:inherit;box-shadow:var(--shadow-sm);transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;}
 .article-link-card:hover{transform:translateY(-2px);border-color:#c7d7fe;box-shadow:var(--shadow);}
+.article-card-image{width:100%;height:100%;min-height:132px;border-radius:8px;overflow:hidden;background:#e8edf7;}
+.article-card-image img{width:100%;height:100%;object-fit:cover;display:block;}
 .article-link-card .source{font-size:.68rem;font-weight:900;letter-spacing:.12em;text-transform:uppercase;color:#4326b7;margin-bottom:10px;}
 .article-link-card h2{font-family:var(--serif);font-size:1.35rem;line-height:1.22;color:var(--ink);margin-bottom:10px;}
 .article-link-card p{font-size:.88rem;line-height:1.6;color:var(--ink3);margin:0 0 12px;}
 .article-link-card .meta{font-size:.72rem;color:var(--ink4);}
+.article-detail{background:#fff;border:1px solid var(--rule);border-radius:10px;box-shadow:var(--shadow-sm);overflow:hidden;}
+.article-detail-cover{width:100%;aspect-ratio:16/7;background:#e8edf7;overflow:hidden;}
+.article-detail-cover img{width:100%;height:100%;object-fit:cover;display:block;}
+.article-detail-body{padding:28px;}
+.article-back{display:inline-flex;align-items:center;gap:8px;margin-bottom:18px;color:var(--accent);font-size:.78rem;font-weight:900;text-decoration:none;text-transform:uppercase;letter-spacing:.08em;}
+.article-detail h2{font-family:var(--serif);font-size:2.45rem;line-height:1.08;color:var(--ink);letter-spacing:-.03em;margin-bottom:12px;}
+.article-detail .article-meta{font-size:.78rem;color:var(--ink4);font-weight:800;margin-bottom:22px;}
+.article-detail .lead{font-size:1.04rem;line-height:1.75;color:var(--ink2);font-weight:650;margin-bottom:22px;}
+.article-prose{display:grid;gap:18px;}
+.article-prose p{font-size:1.02rem;line-height:1.82;color:var(--ink2);margin:0;}
 .author-panel{background:#fff;border:1px solid var(--rule);border-radius:10px;padding:22px;box-shadow:var(--shadow-sm);height:fit-content;}
 .author-panel h2{font-family:var(--sans);font-size:1.2rem;line-height:1.2;margin-bottom:10px;color:var(--ink);}
 .author-panel p{font-size:.86rem;line-height:1.6;color:var(--ink3);margin-bottom:16px;}
 .author-panel .read-link{width:100%;justify-content:center;}
 @media(max-width:960px){.site-header{grid-template-columns:1fr;gap:12px;padding:16px 18px;}.site-nav{justify-content:flex-start;overflow-x:auto;}.header-right{justify-content:space-between;}.footer-inner{grid-template-columns:1fr;gap:30px;}.footer-bottom{flex-direction:column;}.newsletter-form{grid-template-columns:1fr;}.site-newsletter{margin-left:14px;margin-right:14px;}}
 @media(max-width:960px){.media-kit{padding:34px 14px 56px;}.media-hero h1{font-size:2.8rem;}.media-stats,.media-grid,.price-grid,.articles-layout{grid-template-columns:1fr;}.media-stat{border-right:0;border-bottom:1px solid var(--rule2);}.media-stat:last-child{border-bottom:0;}.media-top{align-items:flex-start;gap:14px;flex-direction:column;}.static-page,.articles-layout{padding:44px 14px 62px;}.static-page h1,.articles-head h1{font-size:2.6rem;}}
+@media(max-width:720px){.article-link-card{grid-template-columns:1fr;}.article-card-image{height:190px;}.article-detail h2{font-size:2rem;}.article-detail-body{padding:22px;}}
 @media(max-width:580px){.site-header{margin:0;padding:14px;}.ticker-label{margin-left:14px;}.site-newsletter h2{font-size:1.55rem;}.site-footer{padding-top:34px;}.media-hero h1,.static-page h1{font-size:2.25rem;}.media-section-head{align-items:flex-start;flex-direction:column;}.price-card{padding:24px;}.static-list a,.static-list span{border-radius:12px;}}
 
 </style>
@@ -621,7 +634,6 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
     <section class="articles-layout">
       <main>
         <div class="articles-head">
-          <div class="static-kicker">LinkedIn</div>
           <h1>Artigos</h1>
           <p>Análises autorais sobre startups, tecnologia, capital e construção de negócios.</p>
         </div>
@@ -629,8 +641,7 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
       </main>
       <aside class="author-panel">
         <h2>Leonardo Brasil</h2>
-        <p>Conteúdo autoral publicado originalmente no LinkedIn, reunido aqui para consulta no acervo do StartupDrops.</p>
-        <a class="read-link" id="linkedin-profile-link" href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">Assinar no LinkedIn →</a>
+        <p>Ensaios autorais sobre crescimento, capital, estratégia e gestão para fundadores e operadores do ecossistema.</p>
       </aside>
     </section>
   </div>
@@ -879,7 +890,7 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
 
 <script id="embedded-news" type="application/json">
 {
-  "updatedAt": "2026-08-17T17:07:05.714160+00:00",
+  "updatedAt": "2026-08-17T17:42:08.683938+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -3498,6 +3509,27 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/advisor/xp-e-a-empresa-de-investimentos-mais-lembrada-de-santa-catarina-em-2026/",
+      "_key": "94208db2e63e915465811a518742b344",
+      "title": "XP é a empresa de investimentos mais lembrada de Santa Catarina em 2026",
+      "originalTitle": "XP é a empresa de investimentos mais lembrada de Santa Catarina em 2026",
+      "summary": "Reconhecimento no Top of Mind NSC 2026 reforça a presença da XP e sua proximidade com os catarinenses The post XP é a empresa de investimentos mais lembrada de Santa Catarina em 2026 appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/advisor/xp-e-a-empresa-de-investimentos-mais-lembrada-de-santa-catarina-em-2026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/xp-inc-1.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T17:26:00+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/ricardo-leite-assume-como-diretor-de-marketing-de-produtos-da-omie/",
       "_key": "a76cd226816b52d5eccd9c0caad2437e",
       "title": "Ricardo Leite assume como Diretor de Marketing de Produtos da Omie",
@@ -4907,6 +4939,69 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/family-office-dos-moreira-salles-revela-posicao-multimilionaria-na-spacex/",
+      "_key": "c9c95e8e921e4be79108ad9238382c9e",
+      "title": "Family office dos Moreira Salles revela posição multimilionária na SpaceX",
+      "originalTitle": "Family office dos Moreira Salles revela posição multimilionária na SpaceX",
+      "summary": "Documentos regulatórios mostram que mais de uma dezena de gestoras de grandes fortunas, incluindo a família brasileira Moreira Salles, revelaram participações na empresa de Elon Musk The post Family office dos Moreira Salles revela posição multimilionária na SpaceX appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/family-office-dos-moreira-salles-revela-posicao-multimilionaria-na-spacex/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464587993.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T17:38:44+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/casas-bahia-recuperacao-judicial-e-para-continuidade-da-operacao-diz-ceo/",
+      "_key": "282b380207336ff219de64c76dc06012",
+      "title": "Casas Bahia: recuperação judicial é para continuidade da operação, diz CEO",
+      "originalTitle": "Casas Bahia: recuperação judicial é para continuidade da operação, diz CEO",
+      "summary": "O executivo afirma que a recuperação judicial garante que as \"fortalezas da companhia fiquem preservadas\" The post Casas Bahia: recuperação judicial é para continuidade da operação, diz CEO appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/casas-bahia-recuperacao-judicial-e-para-continuidade-da-operacao-diz-ceo/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/casas-bahia-aricanduva.jpg?fit=300%2C217&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T17:31:41+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Finsiders Brasil-https://finsidersbrasil.com.br/regulamentacao/maior-regulamentacao-de-ativos-virtuais-afasta-operadores/",
+      "_key": "22b47bbc2614b5d55ea89b2e92020303",
+      "title": "operadores",
+      "originalTitle": "operadores",
+      "summary": "Da esq. para a dir., Bruno Balduccini, Guilherme Nazar, Andrés Garcia e Rafael Lavezzo | Imagem: divulgação Novas normas incluem retenção preventiva temporária de ativos por até 24 horas e a elevação das exigências de 'compliance'",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://finsidersbrasil.com.br/regulamentacao/maior-regulamentacao-de-ativos-virtuais-afasta-operadores/",
+      "source": "Finsiders Brasil",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.finsidersbrasil.com.br/2026/08/zro_amanda.jpeg",
+      "publishedAt": "2026-08-17T17:06:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Finsiders Brasil"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/17/rio-aaa-o-que-a-nota-de-credito-da-fitch-significa-para-a-cidade.ghtml",
@@ -8992,8 +9087,8 @@ const BRAND = {
   // Para virar Morning Drops, por exemplo:
   //   namePlain:'Morning Drops', namePrefix:'Morning', nameSuffix:'Drops'
 };
-const DATA_URL = './data/news.json?v=20260817-3';
-const ARTICLES_URL = './data/articles.json?v=20260817-3';
+const DATA_URL = './data/news.json?v=20260817-4';
+const ARTICLES_URL = './data/articles.json?v=20260817-4';
 function applyBrand(){
   const set=(id,val)=>{ const el=document.getElementById(id); if(el) el.textContent=val; };
   set('brand-prefix',BRAND.namePrefix);
@@ -9467,7 +9562,7 @@ function articleParagraphs(a){
 
 // ── STATE ──────────────────────────────────────────────────────────────────────
 let ALL=[], MANUAL=[], ARTICLES=[], ARTICLES_PROFILE='', activeFilter='all', lastPayload=null, searchQuery='', listPage=1;
-const PER_PAGE=20;
+const PER_PAGE=40;
 const NOW=new Date();
 document.getElementById('tb-date').textContent=NOW.toLocaleDateString('pt-BR');
 document.getElementById('hd-date') && (document.getElementById('hd-date').textContent=LONG_PT.format(NOW));
@@ -9530,13 +9625,13 @@ async function loadNewsPayload(){
 async function loadArticles(){
   try{
     const data=await loadArticlesPayload();
-    ARTICLES=Array.isArray(data.articles) ? data.articles.filter(a=>a.title && a.url) : [];
+    ARTICLES=Array.isArray(data.articles) ? data.articles.filter(a=>a.title && (a.slug || a.url)) : [];
     ARTICLES_PROFILE=data.profileUrl || '';
   }catch{
     ARTICLES=[];
     ARTICLES_PROFILE='';
   }
-  renderLinkedInArticles();
+  renderSiteArticles();
 }
 async function loadArticlesPayload(){
   try{
@@ -9823,29 +9918,67 @@ function renderTicker(arts){
   document.getElementById('ticker').innerHTML=d.map(a=>`<a href="${articleHref(a)}" class="ticker-link">${a.title}</a>`).join('');
 }
 
-function renderLinkedInArticles(){
+function escapeHtml(value){
+  return String(value||'')
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;')
+    .replace(/'/g,'&#039;');
+}
+function articleDateLabel(value){
+  const published=value ? new Date(value) : null;
+  return published && !Number.isNaN(published.getTime())
+    ? published.toLocaleDateString('pt-BR',{day:'numeric',month:'long',year:'numeric'})
+    : '';
+}
+function renderSiteArticles(){
   const grid=document.getElementById('articles-grid');
   if(!grid) return;
-  const profile=document.getElementById('linkedin-profile-link');
-  if(profile && ARTICLES_PROFILE) profile.href=ARTICLES_PROFILE;
   if(!ARTICLES.length){
     grid.innerHTML='<div class="msg-box">Ainda não há artigos no acervo.</div>';
     return;
   }
+  const detailMatch=location.hash.match(/^#artigos\/(.+)$/);
+  if(detailMatch){
+    const slug=decodeURIComponent(detailMatch[1]);
+    const article=ARTICLES.find(a=>(a.slug||normalize(a.title))===slug);
+    if(article){
+      const dateLabel=articleDateLabel(article.publishedAt);
+      const paragraphs=Array.isArray(article.content) ? article.content : [];
+      grid.innerHTML=`
+        <article class="article-detail">
+          ${article.image ? `<div class="article-detail-cover"><img src="${escapeHtml(article.image)}" alt="${escapeHtml(article.title)}" loading="lazy"></div>` : ''}
+          <div class="article-detail-body">
+            <a class="article-back" href="#artigos">← Voltar aos artigos</a>
+            <h2>${escapeHtml(article.title)}</h2>
+            ${dateLabel || article.readingTime ? `<div class="article-meta">${escapeHtml([dateLabel,article.readingTime].filter(Boolean).join(' · '))}</div>` : ''}
+            ${article.excerpt ? `<p class="lead">${escapeHtml(article.excerpt)}</p>` : ''}
+            <div class="article-prose">
+              ${paragraphs.map(p=>`<p>${escapeHtml(p)}</p>`).join('')}
+            </div>
+          </div>
+        </article>`;
+      document.title=`${article.title} | ${BRAND.namePlain}`;
+      return;
+    }
+  }
   grid.innerHTML=ARTICLES.map(a=>{
-    const published=a.publishedAt ? new Date(a.publishedAt) : null;
-    const dateLabel=published && !Number.isNaN(published.getTime())
-      ? published.toLocaleDateString('pt-BR',{day:'numeric',month:'long',year:'numeric'})
-      : 'LinkedIn';
+    const slug=encodeURIComponent(a.slug||normalize(a.title));
+    const dateLabel=articleDateLabel(a.publishedAt);
     const excerpt=clean(a.excerpt||a.summary||'');
     return `
-      <a class="article-link-card" href="${a.url}" target="_blank" rel="noopener noreferrer">
-        <div class="source">${a.source||'LinkedIn'}</div>
-        <h2>${a.title}</h2>
-        ${excerpt ? `<p>${excerpt}</p>` : ''}
-        <div class="meta">${dateLabel}</div>
+      <a class="article-link-card" href="#artigos/${slug}">
+        ${a.image ? `<div class="article-card-image"><img src="${escapeHtml(a.image)}" alt="${escapeHtml(a.title)}" loading="lazy"></div>` : ''}
+        <div>
+          <div class="source">Artigo</div>
+          <h2>${escapeHtml(a.title)}</h2>
+          ${excerpt ? `<p>${escapeHtml(excerpt)}</p>` : ''}
+          <div class="meta">${escapeHtml([dateLabel,a.readingTime].filter(Boolean).join(' · '))}</div>
+        </div>
       </a>`;
   }).join('');
+  document.title='Artigos | '+BRAND.namePlain;
 }
 
 function findArticleByHash(){
@@ -9944,11 +10077,10 @@ function route(){
     document.title='Educação | '+BRAND.namePlain;
     return;
   }
-  if(location.hash==='#artigos'){
+  if(location.hash==='#artigos' || location.hash.startsWith('#artigos/')){
     showPage('page-articles');
     document.querySelector('.site-nav a[data-page="articles"]')?.classList.add('active');
-    document.title='Artigos | '+BRAND.namePlain;
-    renderLinkedInArticles();
+    renderSiteArticles();
     return;
   }
   if(location.hash==='#home'){
@@ -9978,7 +10110,7 @@ document.querySelectorAll('.site-nav a').forEach(link=>{
     } else if(page==='articles'){
       history.replaceState(null,'',location.pathname + location.search + '#artigos');
       document.getElementById('page-articles').classList.add('active');
-      renderLinkedInArticles();
+      renderSiteArticles();
     } else {
       history.replaceState(null,'',location.pathname + location.search);
       document.getElementById('page-news').classList.add('active');
@@ -10023,7 +10155,7 @@ document.querySelectorAll('[data-page-shortcut="articles"]').forEach(link=>{
     history.replaceState(null,'',location.pathname + location.search + '#artigos');
     showPage('page-articles');
     document.querySelectorAll('.site-nav a').forEach(a=>a.classList.toggle('active',a.dataset.page==='articles'));
-    renderLinkedInArticles();
+    renderSiteArticles();
     window.scrollTo({top:0,behavior:'smooth'});
   });
 });

@@ -638,7 +638,7 @@ def save(payload):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-ai", action="store_true", help="força só a lógica de regras")
-    ap.add_argument("--max-age", type=int, default=60, help="dias de notícia mantidos no arquivo")
+    ap.add_argument("--max-age", type=int, default=120, help="dias de notícia mantidos no arquivo")
     args = ap.parse_args()
  
     use_ai = (not args.no_ai) and bool(os.environ.get("ANTHROPIC_API_KEY"))

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T17:07:05.714160+00:00",
+  "updatedAt": "2026-08-17T17:42:08.683938+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -2618,6 +2618,27 @@
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/advisor/xp-e-a-empresa-de-investimentos-mais-lembrada-de-santa-catarina-em-2026/",
+      "_key": "94208db2e63e915465811a518742b344",
+      "title": "XP é a empresa de investimentos mais lembrada de Santa Catarina em 2026",
+      "originalTitle": "XP é a empresa de investimentos mais lembrada de Santa Catarina em 2026",
+      "summary": "Reconhecimento no Top of Mind NSC 2026 reforça a presença da XP e sua proximidade com os catarinenses The post XP é a empresa de investimentos mais lembrada de Santa Catarina em 2026 appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/advisor/xp-e-a-empresa-de-investimentos-mais-lembrada-de-santa-catarina-em-2026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/xp-inc-1.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T17:26:00+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/ricardo-leite-assume-como-diretor-de-marketing-de-produtos-da-omie/",
       "_key": "a76cd226816b52d5eccd9c0caad2437e",
       "title": "Ricardo Leite assume como Diretor de Marketing de Produtos da Omie",
@@ -4027,6 +4048,69 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/family-office-dos-moreira-salles-revela-posicao-multimilionaria-na-spacex/",
+      "_key": "c9c95e8e921e4be79108ad9238382c9e",
+      "title": "Family office dos Moreira Salles revela posição multimilionária na SpaceX",
+      "originalTitle": "Family office dos Moreira Salles revela posição multimilionária na SpaceX",
+      "summary": "Documentos regulatórios mostram que mais de uma dezena de gestoras de grandes fortunas, incluindo a família brasileira Moreira Salles, revelaram participações na empresa de Elon Musk The post Family office dos Moreira Salles revela posição multimilionária na SpaceX appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/family-office-dos-moreira-salles-revela-posicao-multimilionaria-na-spacex/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464587993.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T17:38:44+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/casas-bahia-recuperacao-judicial-e-para-continuidade-da-operacao-diz-ceo/",
+      "_key": "282b380207336ff219de64c76dc06012",
+      "title": "Casas Bahia: recuperação judicial é para continuidade da operação, diz CEO",
+      "originalTitle": "Casas Bahia: recuperação judicial é para continuidade da operação, diz CEO",
+      "summary": "O executivo afirma que a recuperação judicial garante que as \"fortalezas da companhia fiquem preservadas\" The post Casas Bahia: recuperação judicial é para continuidade da operação, diz CEO appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/casas-bahia-recuperacao-judicial-e-para-continuidade-da-operacao-diz-ceo/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/casas-bahia-aricanduva.jpg?fit=300%2C217&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T17:31:41+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Finsiders Brasil-https://finsidersbrasil.com.br/regulamentacao/maior-regulamentacao-de-ativos-virtuais-afasta-operadores/",
+      "_key": "22b47bbc2614b5d55ea89b2e92020303",
+      "title": "operadores",
+      "originalTitle": "operadores",
+      "summary": "Da esq. para a dir., Bruno Balduccini, Guilherme Nazar, Andrés Garcia e Rafael Lavezzo | Imagem: divulgação Novas normas incluem retenção preventiva temporária de ativos por até 24 horas e a elevação das exigências de 'compliance'",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://finsidersbrasil.com.br/regulamentacao/maior-regulamentacao-de-ativos-virtuais-afasta-operadores/",
+      "source": "Finsiders Brasil",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.finsidersbrasil.com.br/2026/08/zro_amanda.jpeg",
+      "publishedAt": "2026-08-17T17:06:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Finsiders Brasil"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/17/rio-aaa-o-que-a-nota-de-credito-da-fitch-significa-para-a-cidade.ghtml",
