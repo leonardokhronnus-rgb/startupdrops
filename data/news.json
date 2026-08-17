@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T10:20:59.854217+00:00",
+  "updatedAt": "2026-08-17T14:00:08.262808+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -201,11 +201,6 @@
     {
       "source": "First Round Review",
       "url": "https://review.firstround.com/feed.xml",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Sifted",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:sifted.eu&hl=en-US&gl=US&ceid=US:en",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -593,6 +588,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/gravis-robotics-becomes-europes-latest-robotics-unicorn-after-e172-million-series-a/",
+      "_key": "cf5bf217d2d8bb4a46fe43b3d1b46052",
+      "title": "Gravis Robotics becomes Europe’s latest robotics unicorn after €172 million Series A",
+      "originalTitle": "Gravis Robotics becomes Europe’s latest robotics unicorn after €172 million Series A",
+      "summary": "Switzerland-based Gravis Robotics, a ConTech company developing autonomous technology for heavy machinery, has raised €172 million ($200 million) in a Series A round, giving the company an €862 million ($1 billion) post-money valuation &#8211; becoming Europe’s latest robotics unicorn.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/gravis-robotics-becomes-europes-latest-robotics-unicorn-after-e172-million-series-a/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2025/11/Gravis-Robotics2.png",
+      "publishedAt": "2026-08-17T13:51:18+00:00",
+      "score": 62,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
       ],
       "coverageCount": 1
     },
@@ -1137,6 +1153,48 @@
       "country": "US"
     },
     {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-humanoid-robot-maker-unitree-to-list-in-shanghai-on-august-19/articleshow/133297402.cms",
+      "_key": "734387c3dba489549781a55fec5ab390",
+      "title": "Chinese humanoid robot maker Unitree to list in Shanghai on August 19",
+      "originalTitle": "Chinese humanoid robot maker Unitree to list in Shanghai on August 19",
+      "summary": "Unitree's humanoid robots have drawn ​global attention for their running, dancing and performing of martial arts ‌and the IPO was more than ​8,000 times ​oversubscribed ⁠by retail investors, a record for Shanghai's STAR Market ​for tech startups.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-humanoid-robot-maker-unitree-to-list-in-shanghai-on-august-19/articleshow/133297402.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133297402,imgsize-149490.cms",
+      "publishedAt": "2026-08-17T12:41:22+00:00",
+      "score": 52,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
+      "_key": "750a16eadfea321179a2807cb9462cbf",
+      "title": "Semiconductor Giants Are Busy Backing Startups This Year",
+      "originalTitle": "Semiconductor Giants Are Busy Backing Startups This Year",
+      "summary": "Massive AI spending has helped push earnings and valuations for semiconductor industry leaders to record levels, prompting the sector's giants to invest record sums in artificial intelligence and robotics startups.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Computer_chip_02.jpg",
+      "publishedAt": "2026-08-17T11:00:24+00:00",
+      "score": 52,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "SCMP Business-https://www.scmp.com/business/article/3364076/reclusive-chinese-billionaire-strikes-us33m-deal-take-over-shanghai-hotel?utm_source=rss_feed",
       "_key": "ee93a92e0c86cd578a01d89dd88ad228",
       "title": "Reclusive Chinese billionaire strikes US$33m deal to take over Shanghai hotel",
@@ -1335,6 +1393,48 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/indian-deeptech-investments-reach-114-billion-report",
+      "_key": "51902fa9afaf7c0080e23475e78bf9ad",
+      "title": "Indian deeptech investments reach $11.4B: Report",
+      "originalTitle": "Indian deeptech investments reach $11.4B: Report",
+      "summary": "The IVCA Bharat DeepTech Report 2026 reveals record cumulative funding, highlighting a strategic shift towards scientific innovation and industrial segments despite a broader market slowdown in startup investments.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/indian-deeptech-investments-reach-114-billion-report",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/deeptech-F-1-1664291645612.png",
+      "publishedAt": "2026-08-17T13:29:33+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/o-orcamento-da-ciberseguranca-mudou/",
+      "_key": "b800ef073d4de63d65d83b7174668bd2",
+      "title": "O orçamento da cibersegurança mudou: investimento em segurança digital agora é estratégia de crescimento",
+      "originalTitle": "O orçamento da cibersegurança mudou: investimento em segurança digital agora é estratégia de crescimento",
+      "summary": "Startupi O orçamento da cibersegurança mudou: investimento em segurança digital agora é estratégia de crescimento * Por Fernando Dulinski Julho e agosto marcam o início do planejamento orçamentário nas empresas, momento em que lideranças definem prioridades e alocam recursos para o próximo ano.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/o-orcamento-da-ciberseguranca-mudou/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/ciberseguranca-e1786968864657.jpg",
+      "publishedAt": "2026-08-17T12:14:36+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Startupi-https://startupi.com.br/sp2b-foi-legal-mas-nao-foi-legal/",
@@ -1915,6 +2015,27 @@
       "country": "BR"
     },
     {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/uk-based-spaceam-closes-seed-round-to-scale-ai-powered-sensing-technology-for-defence-and-space/",
+      "_key": "90567e745bb7016ae7fae57941d1a083",
+      "title": "space",
+      "originalTitle": "space",
+      "summary": "autonomous sensing systems for deployment in contested and extreme environments, has closed its Seed funding round. The funding amount has not been disclosed, and the round was backed by Foresight Group, a regional private equity and real assets investment manager.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/uk-based-spaceam-closes-seed-round-to-scale-ai-powered-sensing-technology-for-defence-and-space/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-17T182403.309.jpg",
+      "publishedAt": "2026-08-17T12:54:47+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Tech.eu-https://tech.eu/2026/08/17/european-tech-weekly-recap-over-eur763m-invested-across-35-deals/",
       "_key": "bc0c601bc4a1e90a7179e853d4c5de0c",
       "title": "deals",
@@ -2249,6 +2370,27 @@
       "_key": "f8e0775a3d215483d2c4272db6e00e3e",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/brand-stories/apresentado-por-qi-tech/aprovacao-em-minutos-margem-de-volta-para-o-lojista-o-novo-jeito-de-financiar-carro-no-brasil/",
+      "_key": "3d8ca31976ded0b5006f2cdbb995d13e",
+      "title": "jeito de financiar carro no Brasil",
+      "originalTitle": "jeito de financiar carro no Brasil",
+      "summary": "O financiamento de veículos é hoje um dos mercados de crédito que mais crescem no Brasil. Só em 2025, o setor movimentou mais de R$ 280 bilhões em novas concessões, uma média superior a R$ 20 bilhões por mês, segundo dados do Banco Central.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/brand-stories/apresentado-por-qi-tech/aprovacao-em-minutos-margem-de-volta-para-o-lojista-o-novo-jeito-de-financiar-carro-no-brasil/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/Porsche_CupQITECH-300x169.jpg",
+      "publishedAt": "2026-08-17T11:06:13+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/toda-a-direita-vai-estar-unida-no-2o-turno-diz-romeu-zema-no-1o-dia-de-campanha/",
@@ -2906,6 +3048,90 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/de-berkshire-a-disney-b3-inclui-164-novos-ativos-no-mercado-a-termo/",
+      "_key": "85f709dcf7d50d0e3522beee82f0f7af",
+      "title": "De Berkshire a Disney: B3 (B3SA3) inclui 164 novos ativos no mercado a termo",
+      "originalTitle": "De Berkshire a Disney: B3 (B3SA3) inclui 164 novos ativos no mercado a termo",
+      "summary": "B3 amplia o mercado a termo com 99 fundos imobiliários e 65 BDRs, incluindo recibos de Coca-Cola, Visa, Oracle e TSMC The post De Berkshire a Disney: B3 (B3SA3) inclui 164 novos ativos no mercado a termo appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/de-berkshire-a-disney-b3-inclui-164-novos-ativos-no-mercado-a-termo/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_01.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T13:30:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/17/nebex-launches-eur100m-initiative-to-turn-global-space-spending-into-revenue-for-french-startups/",
+      "_key": "ac503cadc1f708959fdf0a85e3daf1e9",
+      "title": "Nebex launches €100M initiative to turn global space spending into revenue for French startups",
+      "originalTitle": "Nebex launches €100M initiative to turn global space spending into revenue for French startups",
+      "summary": "Tejpaul Bhatia, CEO of space trading company Nebex, told me something that he admits will upset many, many, many space entrepreneurs, “with the exception of maybe Elon Musk.” “The only thing that matt...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/17/nebex-launches-eur100m-initiative-to-turn-global-space-spending-into-revenue-for-french-startups/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-32-606.png",
+      "publishedAt": "2026-08-17T12:14:45+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/17/dona-da-tokandstok-e-da-mobly-tem-prejuizo-de-r-2327-milhoes-no-2o-trimestre.ghtml",
+      "_key": "ffe135a8efe55c484acbbc495f9e9d30",
+      "title": "Dona da Tok&Stok e da Mobly tem prejuízo de R$ 232,7 milhões no 2º trimestre",
+      "originalTitle": "Dona da Tok&Stok e da Mobly tem prejuízo de R$ 232,7 milhões no 2º trimestre",
+      "summary": "Casas Bahia entra com pedido de recuperação judicial O Grupo Toky, dono das marcas Tok Stok e Mobly, anunciou na madrugada de sábado (15) prejuízo líquido de R$ 232,7 milhões no segundo trimestre.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/dona-da-tokandstok-e-da-mobly-tem-prejuizo-de-r-2327-milhoes-no-2o-trimestre.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/mlvgce4rBm-vl43C2viKnnWgceQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/X/K/n7z9aLR5SWR1TltMecVQ/tok-stok.jpg",
+      "publishedAt": "2026-08-17T11:51:25+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entra-com-pedido-de-recuperacao-judicial.ghtml",
+      "_key": "51cdb3668daaabff487ac52d05e20894",
+      "title": "Casas Bahia entra com pedido de recuperação judicial para renegociar dívida de R$ 17,3 bilhões",
+      "originalTitle": "Casas Bahia entra com pedido de recuperação judicial para renegociar dívida de R$ 17,3 bilhões",
+      "summary": "Casas Bahia entra com pedido de recuperação judicial O Grupo Casas Bahia anunciou na noite deste domingo (16) que entrou com um pedido de recuperação judicial na Justiça de São Paulo.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entra-com-pedido-de-recuperacao-judicial.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/6qTxGAranInbXogDZZwh44mUOoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/y/LAKKFXRvOnX0fqoMzRMA/foto-g1-1-.jpg",
+      "publishedAt": "2026-08-17T10:15:09+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/ascend-sport-said-to-mull-listing-in-up-to-740-million-merger",
@@ -4827,6 +5053,27 @@
       "country": "BR"
     },
     {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/17/previa-do-pib-do-banco-central-registra-crescimento-de-02percent-no-2o-trimestre.ghtml",
+      "_key": "07e8112fd4b3e84a4066f446f9b3efcf",
+      "title": "'Prévia' do PIB do Banco Central registra crescimento de 0,2% no 2º trimestre, com forte desaceleração",
+      "originalTitle": "'Prévia' do PIB do Banco Central registra crescimento de 0,2% no 2º trimestre, com forte desaceleração",
+      "summary": "Indústria se destacou no segundo trimestre deste ano Arquivo-Fiems O Banco Central (BC) informou nesta segunda-feira (17) que o Índice de Atividade Econômica (IBC-Br), considerado a \"prévia\" do Produto Interno Bruto (PIB), registrou crescimento de 0,2% no segundo trimestre deste ano.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/previa-do-pib-do-banco-central-registra-crescimento-de-02percent-no-2o-trimestre.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/V2nAAYv61n_Uf65_eUCU75o-wBs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/z/5/rjB8orTGm7GFFTMqP9Dw/design-sem-nome-2022-12-09t211337.634.png",
+      "publishedAt": "2026-08-17T12:01:15+00:00",
+      "score": 39,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/ia-entra-na-conta-da-inflacao-chips-mais-caros-pressionam-precos-no-reino-unido/",
       "_key": "e7f78b83ebbd105659d4fd3111a464fb",
       "title": "IA entra na conta da inflação: chips mais caros pressionam preços no Reino Unido",
@@ -5029,6 +5276,27 @@
       "_key": "3867d1aeae160c2b8cd73363f57050b8",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/ricardo-leite-assume-como-diretor-de-marketing-de-produtos-da-omie/",
+      "_key": "a76cd226816b52d5eccd9c0caad2437e",
+      "title": "Ricardo Leite assume como Diretor de Marketing de Produtos da Omie",
+      "originalTitle": "Ricardo Leite assume como Diretor de Marketing de Produtos da Omie",
+      "summary": "Ricardo Leite, novo Diretor de Marketing de Produtos da Omie (Imagem: Divulgação) Focado em inovação e growth, executivo tem a missão de conectar as soluções tecnológicas da Omie ao empreendedor brasileiro O post Ricardo Leite assume como Diretor de Marketing de Produtos da Omie apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/danca-das-cadeiras/ricardo-leite-assume-como-diretor-de-marketing-de-produtos-da-omie/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Ricardo-Leite.jpg",
+      "publishedAt": "2026-08-17T13:00:00+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/17/internet-e-redes-sociais/internacional-x-remo-onde-assistir-ao-jogo-do-brasileirao-2026/",
@@ -6199,6 +6467,48 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/bhia3-acao-da-casas-bahia-desaba-mais-de-30-e-vai-a-r-045-com-pedido-recuperacao-judicial/",
+      "_key": "a3bb05a503d692c5bac196a80b299d6b",
+      "title": "BHIA3: ação da Casas Bahia desaba mais de 30% e vai a R$ 0,45 com pedido de RJ",
+      "originalTitle": "BHIA3: ação da Casas Bahia desaba mais de 30% e vai a R$ 0,45 com pedido de RJ",
+      "summary": "No pedido de recuperação judicial levado à Justiça neste domingo, a Casas Bahia argumenta que enfrenta a \"pior crise financeira desde a fundação\", num cenário ainda mais complexo que o vivido em 2024 The post BHIA3: ação da Casas Bahia desaba mais de 30% e vai a R$ 0,45 com pedido de RJ appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/bhia3-acao-da-casas-bahia-desaba-mais-de-30-e-vai-a-r-045-com-pedido-recuperacao-judicial/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-17-101356.png?fit=300%2C186&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T13:30:21+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/17/reviews/moto-g-na-veia-uma-selecao-de-smartphones-motorola-em-promocao-na-amazon-3/",
+      "_key": "2d0fb8ebf0ac14ff9bfc3aec8a327a7d",
+      "title": "Moto g na veia: uma seleção de Smartphones Motorola em promoção na Amazon",
+      "originalTitle": "Moto g na veia: uma seleção de Smartphones Motorola em promoção na Amazon",
+      "summary": "A linha Moto g da Motorola sempre figurou entre as favoritas dos brasileiros, e não é à toa: a marca combina bom desempenho, câmeras com inteligência artificial e baterias robustas em modelos acessíveis.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/17/reviews/moto-g-na-veia-uma-selecao-de-smartphones-motorola-em-promocao-na-amazon-3/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41o7vjpasKL._SL500_.jpg",
+      "publishedAt": "2026-08-17T12:40:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-17082026/",
@@ -8712,6 +9022,153 @@
       "_key": "ba287aa6107cf3645c222bc98c6e1acc",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/saudis-offer-oil-from-near-oman-in-possible-sign-of-shuttling",
+      "_key": "f4db6d9bb2bb16b6a6a49573bee6fc8e",
+      "title": "Saudis Offer Oil From Near Oman in Possible Sign of Shuttling",
+      "originalTitle": "Saudis Offer Oil From Near Oman in Possible Sign of Shuttling",
+      "summary": "Saudi Arabia is offering to sell oil from off the coast of Oman, a sign that the kingdom may be following the United Arab Emirates in shuttling more barrels through the Strait of Hormuz.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/saudis-offer-oil-from-near-oman-in-possible-sign-of-shuttling",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-17T13:38:50+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/por-que-pablo-marcal-conseguiu-registrar-candidatura-mesmo-inelegivel/",
+      "_key": "bf1878623f41efb7d738eb01977017b3",
+      "title": "Por que Pablo Marçal conseguiu registrar candidatura mesmo inelegível",
+      "originalTitle": "Por que Pablo Marçal conseguiu registrar candidatura mesmo inelegível",
+      "summary": "PRTB registrou empresário no último dia do prazo; liminar resolveu disputa sobre filiação, mas TSE ainda terá de decidir se ele poderá permanecer na corrida presidencial The post Por que Pablo Marçal conseguiu registrar candidatura mesmo inelegível appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/por-que-pablo-marcal-conseguiu-registrar-candidatura-mesmo-inelegivel/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Pablo_Marcal.png?fit=300%2C206&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T13:32:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entenda-a-crise.ghtml",
+      "_key": "e30375701c4d41a9449406b0869b6a51",
+      "title": "Casas Bahia pede recuperação judicial: entenda a crise da varejista e quem faz parte do grupo",
+      "originalTitle": "Casas Bahia pede recuperação judicial: entenda a crise da varejista e quem faz parte do grupo",
+      "summary": "Casas Bahia Divulgação/Casas Bahia O Grupo Casas Bahia informou no último domingo (16) que entrou com um pedido de recuperação judicial na 2ª Vara de Falências e Recuperações Judiciais do Foro Central Cível de São Paulo.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entenda-a-crise.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/3m_5EUQ8OonJzDvtldopQfToTI8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/w/K/45BU4cRheO37wFoodJRw/2002.jpg",
+      "publishedAt": "2026-08-17T13:30:41+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/17/casas-bahia-demite-3-mil-funcionarios-e-fecha-quase-300-lojas-em-agosto-entenda.ghtml",
+      "_key": "1446289691e5b2df17341471f6448b61",
+      "title": "Casas Bahia demite 3 mil funcionários e fecha quase 300 lojas em agosto; entenda",
+      "originalTitle": "Casas Bahia demite 3 mil funcionários e fecha quase 300 lojas em agosto; entenda",
+      "summary": "Casas Bahia entra com pedido de recuperação judicial O Grupo Casas Bahia demitiu cerca de 3 mil funcionários e fechou quase 300 lojas em agosto deste ano, segundo pedido de recuperação judicial apresentado à Justiça de São Paulo e obtido pelo g1.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/17/casas-bahia-demite-3-mil-funcionarios-e-fecha-quase-300-lojas-em-agosto-entenda.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/6qTxGAranInbXogDZZwh44mUOoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/y/LAKKFXRvOnX0fqoMzRMA/foto-g1-1-.jpg",
+      "publishedAt": "2026-08-17T13:28:46+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/17/reviews/xiaomi-em-destaque-selecionamos-os-melhores-redmi-em-promocao-na-amazon/",
+      "_key": "c9b32a93e253d9aff0a403f5b411e3d1",
+      "title": "Xiaomi em destaque: selecionamos os melhores Redmi em promoção na Amazon",
+      "originalTitle": "Xiaomi em destaque: selecionamos os melhores Redmi em promoção na Amazon",
+      "summary": "A Xiaomi consolidou sua presença no mercado brasileiro com smartphones que entregam boa performance sem pesar no bolso. Separamos três opções da linha Redmi disponíveis agora na Amazon para quem quer renovar o celular com uma escolha inteligente.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/17/reviews/xiaomi-em-destaque-selecionamos-os-melhores-redmi-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31iqMCoOx2L._SL500_.jpg",
+      "publishedAt": "2026-08-17T13:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/festive-season-hiring-generate-up-to-27-lakh-gig-jobs-report",
+      "_key": "451dd83a35a9c0151bb43a0f39232b3d",
+      "title": "​Festive season hiring expected to generate up to 2.7 lakh gig jobs: Report",
+      "originalTitle": "​Festive season hiring expected to generate up to 2.7 lakh gig jobs: Report",
+      "summary": "Talent company Adecco India expects temporary and gig hiring for the 2026 festive season to grow 15-20% year-on-year, building on last year's strong base of an estimated 2.16 lakh jobs created across the organised sector.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/festive-season-hiring-generate-up-to-27-lakh-gig-jobs-report",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/f49f80307d7911eaa66f3b309d9a28f5/Imagerd7x-1657718866312.jpg",
+      "publishedAt": "2026-08-17T11:22:27+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/tecnologia/redata-fica-fora-das-prioridades-do-senado-e-setor-de-data-centers-migra-a-pressao-para-o-icms/",
+      "_key": "69e594ba4993677376254a37782c4e7a",
+      "title": "Redata fica fora das prioridades do Senado e setor de data centers migra a pressão para o ICMS",
+      "originalTitle": "Redata fica fora das prioridades do Senado e setor de data centers migra a pressão para o ICMS",
+      "summary": "Com o Redata fora das prioridades do Senado, parte do mercado migrou a pressão para o Confaz, que se reúne em 4 de setembro. O problema: a redução do imposto estadual exige unanimidade, e a derrota no Congresso pode esvaziar o apetite dos secretários de Fazenda",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/tecnologia/redata-fica-fora-das-prioridades-do-senado-e-setor-de-data-centers-migra-a-pressao-para-o-icms/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2023/12/CEO46_STATEOFIT.jpg",
+      "publishedAt": "2026-08-17T10:18:04+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/business/mao-de-obra-em-queda-reforma-tributaria-e-a-visao-do-ceo-da-mrv-para-o-setor/",
@@ -16987,6 +17444,153 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/us-futures-flat-tech-shares-gain-on-anthropic-revenue-jump",
+      "_key": "11fd72adc99baf42de3a8120cbd90b63",
+      "title": "US Stocks Waver; Tech Shares Gain on Anthropic Revenue Jump",
+      "originalTitle": "US Stocks Waver; Tech Shares Gain on Anthropic Revenue Jump",
+      "summary": "US stocks faltered at the open on Monday as long-term Treasury yields extended their recent climb and oil ticked higher. Technology stocks notched gains as details of Anthropic’s surging sales growth stoked bullish sentiment around AI.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/us-futures-flat-tech-shares-gain-on-anthropic-revenue-jump",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-17T12:41:50+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/17/reviews/quer-trocar-de-iphone-veja-uma-selecao-de-modelos-apple-em-promocao-na-amazon/",
+      "_key": "d869eccfead0b1180982a3820499af4e",
+      "title": "Quer trocar de iPhone? Veja uma seleção de modelos Apple em promoção na Amazon",
+      "originalTitle": "Quer trocar de iPhone? Veja uma seleção de modelos Apple em promoção na Amazon",
+      "summary": "Se você está pensando em renovar o smartphone, este é um bom momento para dar uma olhada nas ofertas de iPhones na Amazon. Reunimos três modelos da Apple disponíveis com boas condições — do iPhone 15 ao mais recente iPhone 16e —, para diferentes perfis de usuário e orçamentos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/17/reviews/quer-trocar-de-iphone-veja-uma-selecao-de-modelos-apple-em-promocao-na-amazon/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31TfLUEdUPL._SL500_.jpg",
+      "publishedAt": "2026-08-17T12:20:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/beyond-hiring-how-myntra-building-longer-term-careers-for-women-in-tech",
+      "_key": "80735420b178d662a368b0ac7d207323",
+      "title": "Beyond hiring: How Myntra is building longer-term careers for women in tech",
+      "originalTitle": "Beyond hiring: How Myntra is building longer-term careers for women in tech",
+      "summary": "Beyond hiring: How Myntra is building longer-term careers for women in tech In an exclusive interview, Govindraj MK, CHRO, Myntra, discusses returnships, mentorship, and leadership pathways for women in technology.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/beyond-hiring-how-myntra-building-longer-term-careers-for-women-in-tech",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/81f42290b0f511edaa4d75d0d1d6c429/WomeninTechcreative-1786959895233.jpg",
+      "publishedAt": "2026-08-17T12:05:08+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/17/reviews/galaxy-a07-ou-a17-veja-uma-selecao-de-smartphones-samsung-em-promocao-na-amazon-13/",
+      "_key": "e078489531ffa1eafd5ba28b8ed02dc5",
+      "title": "Galaxy A07 ou A17? Veja uma seleção de Smartphones Samsung em promoção na Amazon",
+      "originalTitle": "Galaxy A07 ou A17? Veja uma seleção de Smartphones Samsung em promoção na Amazon",
+      "summary": "Se você está de olho em um smartphone Samsung com bom desempenho, câmera decente e tela ampla, a Amazon reúne agora algumas opções interessantes da linha Galaxy para diferentes perfis de usuário. Reunimos três modelos que valem atenção — confira cada um deles abaixo.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/17/reviews/galaxy-a07-ou-a17-veja-uma-selecao-de-smartphones-samsung-em-promocao-na-amazon-13/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/41kmEijSNKL._SL500_.jpg",
+      "publishedAt": "2026-08-17T12:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/17/por-que-julgamento-da-meta-pode-mudar-o-futuro-do-facebook-e-do-instagram.ghtml",
+      "_key": "6a734d8c50956e94e8fc86b0db029c69",
+      "title": "Por que julgamento da Meta pode mudar o futuro do Facebook e do Instagram",
+      "originalTitle": "Por que julgamento da Meta pode mudar o futuro do Facebook e do Instagram",
+      "summary": "sucessivas derrotas nos tribunais devido à forma como suas plataformas — Facebook e Instagram — afetam usuários jovens. Mas um julgamento marcado para começar na terça-feira (18/08) pode representar a maior ameaça até agora às suas operações. 🗒️ Tem alguma sugestão de reportagem?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/17/por-que-julgamento-da-meta-pode-mudar-o-futuro-do-facebook-e-do-instagram.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/iHtNcx9Ul_Y7OqxRUbg-x0BGEgE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/d/Flmom2SCK2CQQBb32OAg/ac06b8c0-97c1-11f1-9963-d1f200dff659.jpg",
+      "publishedAt": "2026-08-17T11:45:56+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Olhar Digital-https://olhardigital.com.br/2026/08/17/reviews/transforme-sua-tv-com-os-melhores-fire-tv-sticks-em-promocao-na-amazon-10/",
+      "_key": "9b711db83d45f9186c1c9c3b6d26f0e5",
+      "title": "Transforme sua TV com os melhores Fire TV Sticks em promoção na Amazon",
+      "originalTitle": "Transforme sua TV com os melhores Fire TV Sticks em promoção na Amazon",
+      "summary": "Quer transformar qualquer televisor em uma smart TV completa sem complicação? A Amazon reúne uma seleção de Fire TV Sticks com recursos que vão do streaming em HD até resolução 4K com Dolby Vision e suporte a wi-fi 6 — e algumas dessas opções estão com ótimas condições agora.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://olhardigital.com.br/2026/08/17/reviews/transforme-sua-tv-com-os-melhores-fire-tv-sticks-em-promocao-na-amazon-10/",
+      "source": "Olhar Digital",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://m.media-amazon.com/images/I/31lBb1O2D7L._SL500_.jpg",
+      "publishedAt": "2026-08-17T11:40:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Olhar Digital"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "_key": "12d0a63d861efd8035e1ddeac3962cc1",
+      "title": "bodies",
+      "originalTitle": "bodies",
+      "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-17T11:00:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-news-now-video",
