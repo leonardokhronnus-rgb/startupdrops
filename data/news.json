@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T03:19:48.674073+00:00",
+  "updatedAt": "2026-08-17T08:10:17.755714+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -576,6 +576,27 @@
       "coverageCount": 1
     },
     {
+      "id": "Tech.eu-https://tech.eu/2026/08/17/amber-raises-eur7m-to-expand-its-ai-powered-business-knowledge-platform/",
+      "_key": "c419fb8f66c8707e134562f4bccbb378",
+      "title": "amber raises €7M to expand its AI-powered business knowledge platform",
+      "originalTitle": "amber raises €7M to expand its AI-powered business knowledge platform",
+      "summary": "AIplatform amber has raised €7 million in Series A funding to expand acrossEurope and further develop its technology to help small and medium-sizedbusinesses access and use internal company knowledge....",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/17/amber-raises-eur7m-to-expand-its-ai-powered-business-knowledge-platform/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/amber-featured-786.png",
+      "publishedAt": "2026-08-17T07:00:00+00:00",
+      "score": 62,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "EU-Startups-https://www.eu-startups.com/2026/08/entravel-group-raises-e6-5-million-to-secure-larger-supplier-credit-facilities/",
       "_key": "fe8608e22319816c9f1a6f58cc6a7b16",
       "title": "Entravel Group raises €6.5 million to secure larger supplier credit facilities",
@@ -677,6 +698,27 @@
       ],
       "coverageCount": 1,
       "country": "BR"
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/university-of-essex-spin-out-versatile-robotx-bags-over-e1-17-million-to-commercialise-its-agricultural-robots/",
+      "_key": "a4fea6cc8c244a2914b046aea8664cd8",
+      "title": "University of Essex spin-out Versatile RobotX bags over €1.17 million to commercialise its agricultural robots",
+      "originalTitle": "University of Essex spin-out Versatile RobotX bags over €1.17 million to commercialise its agricultural robots",
+      "summary": "Versatile RobotX, a Colchester-based robotics startup developing field-ready robots that automate labour-intensive farming tasks, has secured more than €1.17 million (£1 million) in funding to accelerate the commercialisation of its intelligent agricultural robots.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/university-of-essex-spin-out-versatile-robotx-bags-over-e1-17-million-to-commercialise-its-agricultural-robots/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-17T113436.372.jpg",
+      "publishedAt": "2026-08-17T06:10:36+00:00",
+      "score": 57,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/fidc-da-nx-boats-dobra-captacao-para-r-100-milhoes-para-financiar-embarcacoes/",
@@ -1274,6 +1316,48 @@
       "country": "BR"
     },
     {
+      "id": "Startupi-https://startupi.com.br/sp2b-foi-legal-mas-nao-foi-legal/",
+      "_key": "5277be6db36950b52fd67219ebc9a306",
+      "title": "SP2B foi legal, mas não foi legal",
+      "originalTitle": "SP2B foi legal, mas não foi legal",
+      "summary": "Startupi SP2B foi legal, mas não foi legal Profusão de summits corporativos reflete o quase isolamento de um ecossistema que debate soluções globais enquanto se alheia dos dilemas estruturais do país.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/sp2b-foi-legal-mas-nao-foi-legal/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/sp2b.jpg",
+      "publishedAt": "2026-08-17T08:00:00+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/aachen-based-amber-raises-e7-million-series-a-to-build-the-infrastructure-for-autonomous-business-ai/",
+      "_key": "e4f3e3a80fa2c3a7102770f03d981205",
+      "title": "Aachen-based amber raises €7 million Series A to build the infrastructure for autonomous business AI",
+      "originalTitle": "Aachen-based amber raises €7 million Series A to build the infrastructure for autonomous business AI",
+      "summary": "amber, an Aachen-based AI platform that enables small and medium-sized businesses to unlock and operationalise their organisational knowledge, today announced the close of a €7 million Series A round.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/aachen-based-amber-raises-e7-million-series-a-to-build-the-infrastructure-for-autonomous-business-ai/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-17T131325.610.jpg",
+      "publishedAt": "2026-08-17T07:45:19+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast/articleshow/133259667.cms",
       "_key": "ad3eecccd5c9aa62b3496a35e2a92bf8",
       "title": "Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast",
@@ -1808,6 +1892,48 @@
       "_key": "2630ff6f1f1c083ab3f7be435dbbeb58",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/17/european-tech-weekly-recap-over-eur763m-invested-across-35-deals/",
+      "_key": "bc0c601bc4a1e90a7179e853d4c5de0c",
+      "title": "deals",
+      "originalTitle": "deals",
+      "summary": "Last week, we tracked more than 35 tech funding deals worth over €763 million and over 10 exits, M A transactions, rumours, and related news stories across Europe.📊 The top three industries that r...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/17/european-tech-weekly-recap-over-eur763m-invested-across-35-deals/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/featured-16082026-673.png",
+      "publishedAt": "2026-08-17T08:00:00+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3364263/ingenic-launches-ipo-join-wave-mainland-china-chipmakers-raising-funds-hong-kong?utm_source=rss_feed",
+      "_key": "3dc447dca648dcc945110a7eeb4492f4",
+      "title": "Ingenic launches IPO to join wave of mainland China chipmakers raising funds in Hong Kong",
+      "originalTitle": "Ingenic launches IPO to join wave of mainland China chipmakers raising funds in Hong Kong",
+      "summary": "Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364263/ingenic-launches-ipo-join-wave-mainland-china-chipmakers-raising-funds-hong-kong?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/74a4862d-fdc2-4281-84f4-e68c726d6167_dd95cbc6.jpg?itok=XPXkTBwS&v=1786948821",
+      "publishedAt": "2026-08-17T06:40:22+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "NeoFeed-https://neofeed.com.br/negocios/em-mais-um-passo-de-seu-plano-de-desalavancagem-cosan-encaminha-venda-de-porto-de-sao-luis-por-r-300-milhoes/",
@@ -2759,6 +2885,48 @@
       "_key": "ccbd7785aa0c50dbdbf439773faa8abf",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/como-o-pleno-emprego-no-brasil-desafia-startups-na-area-de-pessoas/",
+      "_key": "eeb92d37c6884351cf659f2047ebce79",
+      "title": "Como o pleno emprego no Brasil desafia startups na área de pessoas",
+      "originalTitle": "Como o pleno emprego no Brasil desafia startups na área de pessoas",
+      "summary": "Startupi Como o pleno emprego no Brasil desafia startups na área de pessoas Com a taxa nacional em 5,4% e polos de inovação como Santa Catarina e Paraná operando com desemprego abaixo de 3%, founders precisam abandonar a guerra de salários e focar em upskilling, equity e cultura para não perderem a corrida por talentos em 2026.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/como-o-pleno-emprego-no-brasil-desafia-startups-na-area-de-pessoas/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/Vagas-de-estagio.webp",
+      "publishedAt": "2026-08-17T08:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/casas-bahia-entra-com-pedido-de-recuperacao-judicial-para-reestruturar-dividas/",
+      "_key": "3baa3cdec5272e188654f64b13ed292c",
+      "title": "Casas Bahia entra com pedido de recuperação judicial para reestruturar dívidas",
+      "originalTitle": "Casas Bahia entra com pedido de recuperação judicial para reestruturar dívidas",
+      "summary": "A Casas Bahia comunicou na madrugada do domingo que registrou um prejuízo de mais de R$10 bilhões no segundo trimestre, citando impacto de um plano de redimensionamento de sua operação The post Casas Bahia entra com pedido de recuperação judicial para reestruturar dívidas appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/casas-bahia-entra-com-pedido-de-recuperacao-judicial-para-reestruturar-dividas/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/casas-bahia-aricanduva.jpg?fit=300%2C217&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T03:17:55+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "ETtech-https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unveiling-the-economic-times-startup-awards-2026-high-powered-jury/articleshow/133284616.cms",
@@ -5970,6 +6138,48 @@
       "country": "BR"
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3364262/ai-chipmaker-biren-projects-22-fold-revenue-surge-amid-chinas-hi-tech-boom?utm_source=rss_feed",
+      "_key": "03c8826f6c41fcbb5f7fa553fb269302",
+      "title": "AI chipmaker Biren projects up to 22-fold revenue surge amid China’s hi-tech boom",
+      "originalTitle": "AI chipmaker Biren projects up to 22-fold revenue surge amid China’s hi-tech boom",
+      "summary": "Chinese artificial intelligence chipmaker Biren Technology projects that its first-half revenue could shoot up by up to 2,107 per cent amid the AI hardware boom, joining industry peers like Hygon Information Technology and Cambricon Technologies in reporting accelerating demand for home-grown chips.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364262/ai-chipmaker-biren-projects-22-fold-revenue-surge-amid-chinas-hi-tech-boom?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/16a6aaa2-3ea8-4da6-8252-76d61ad9962c_7efad1b3.jpg?itok=xwqGwDVw&v=1786948779",
+      "publishedAt": "2026-08-17T06:39:48+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3364229/chinese-hedge-funds-rotate-out-nvidia-and-us-hyperscalers-evolving-ai-trade?utm_source=rss_feed",
+      "_key": "3d94472a2bdc2f0f68b0882f13cf3c0c",
+      "title": "Chinese hedge funds rotate out of Nvidia and US hyperscalers in evolving AI trade",
+      "originalTitle": "Chinese hedge funds rotate out of Nvidia and US hyperscalers in evolving AI trade",
+      "summary": "China’s biggest hedge funds cut holdings of US hyperscalers and Nvidia and migrated into the hardware makers on the AI supply chain in the second quarter, marking a shift of their playbook on overseas investment in response to evolving market dynamics.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3364229/chinese-hedge-funds-rotate-out-nvidia-and-us-hyperscalers-evolving-ai-trade?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/becb0141-6118-4109-9e6a-2e5ec9ab0199_6090bc87.jpg?itok=yK95efs9&v=1786934456",
+      "publishedAt": "2026-08-17T05:00:09+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/16/reviews/hora-de-colocar-um-smartwatch-no-pulso-veja-uma-selecao-com-otimas-opcoes-em-promocao-2/",
       "_key": "4b8ccd4039448e27ed214e82f5f5103f",
       "title": "Hora de colocar um smartwatch no pulso: veja uma seleção com ótimas opções em promoção",
@@ -8378,6 +8588,174 @@
       "country": "BR"
     },
     {
+      "id": "SCMP Business-https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand?utm_source=rss_feed",
+      "_key": "ce5a4502eff922ada7e03d5b28299e24",
+      "title": "China’s self-driving push gains ground in Europe as Momenta, Pony.ai expand",
+      "originalTitle": "China’s self-driving push gains ground in Europe as Momenta, Pony.ai expand",
+      "summary": "China’s autonomous-driving ambitions are winning growing recognition in Europe, with Deutsche Bank raising its target price for Momenta following a key regulatory breakthrough, and Pony.ai expanding its European robotaxi roll-out alongside Uber Technologies.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/93722640-d67c-49b2-b6e1-0dd7602366c1_869c6790.jpg?itok=F6GjiqTn&v=1786947594",
+      "publishedAt": "2026-08-17T07:00:11+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/india-to-announce-banking-review-committee-soon-sitharaman-says",
+      "_key": "938644da71f6a89a1828beda4d881692",
+      "title": "India to Announce Banking Review Committee Soon, Sitharaman Says",
+      "originalTitle": "India to Announce Banking Review Committee Soon, Sitharaman Says",
+      "summary": "India is set to soon announce a high-powered committee to recommend how the banking sector should evolve to support the country’s transformation into a developed economy within the next two decades, the finance minister said Monday.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/india-to-announce-banking-review-committee-soon-sitharaman-says",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-17T06:44:20+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/17/usar-o-chatgpt-prejudica-o-cerebro-o-que-sabemos-e-o-que-nao-sabemos-sobre-a-divida-cognitiva.ghtml",
+      "_key": "852b963ebe119a1a88bf98a2e359bc6b",
+      "title": "Usar o ChatGPT prejudica o cérebro? O que sabemos, e o que não sabemos, sobre a 'dívida cognitiva'",
+      "originalTitle": "Usar o ChatGPT prejudica o cérebro? O que sabemos, e o que não sabemos, sobre a 'dívida cognitiva'",
+      "summary": "Homem pede conselho médico ao ChatGPT e IA manda ele 'entregar para Deus' Os seres humanos têm criado ferramentas para resolver problemas desde tempos imemoriais. Mas o ritmo dos avanços está se tornando cada vez mais vertiginoso.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/17/usar-o-chatgpt-prejudica-o-cerebro-o-que-sabemos-e-o-que-nao-sabemos-sobre-a-divida-cognitiva.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/_6ZyiVx0ZFH9B48kgd5dJeReQnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/2QDIvUTmuV4oP2QYlmqg/ap26105015984564.jpg",
+      "publishedAt": "2026-08-17T06:00:37+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/17/z-ai-launches-glm-5-3-with-claimed-50-gain-on-coding-benchmark/",
+      "_key": "efbd1a38cbac9b896ffea8e849fa23c4",
+      "title": "Z.ai launches GLM-5.3 with claimed 50% gain on coding benchmark",
+      "originalTitle": "Z.ai launches GLM-5.3 with claimed 50% gain on coding benchmark",
+      "summary": "Z.ai, the international brand of Chinese AI company Zhipu, has launched GLM-5.3, an update focused on coding, long-horizon tasks and cybersecurity. The model uses the same base model as GLM-5.2, with the company attributing the latest gains to post-training.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/17/z-ai-launches-glm-5-3-with-claimed-50-gain-on-coding-benchmark/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/z-ai.png?fit=1024%2C530&amp;ssl=1",
+      "publishedAt": "2026-08-17T05:58:14+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/17/huawei-tops-global-wearable-market-as-q2-shipments-fall-2/",
+      "_key": "21260d9f874ca281d983a1d1907c81ed",
+      "title": "Huawei tops global wearable market as Q2 shipments fall 2%",
+      "originalTitle": "Huawei tops global wearable market as Q2 shipments fall 2%",
+      "summary": "Omdia data showed that Huawei held the largest share of the global wearable-band market in the second quarter of 2026, accounting for 18% of shipments, up from 17% a year earlier. Overall shipments in the category fell 2% year on year.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/17/huawei-tops-global-wearable-market-as-q2-shipments-fall-2/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/11/huawei-store.png?fit=1024%2C597&amp;ssl=1",
+      "publishedAt": "2026-08-17T05:31:30+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/17/apple-reportedly-trains-china-specific-ai-model-with-alibabas-help/",
+      "_key": "bf8be637be3bb1cc73433f9fe970251a",
+      "title": "help",
+      "originalTitle": "help",
+      "summary": "specifically for the Chinese market with support from Alibaba, according to people familiar with the effort. The reported model would sit alongside Apple’s earlier plan to use Alibaba’s Qwen for Apple Intelligence features in China.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/17/apple-reportedly-trains-china-specific-ai-model-with-alibabas-help/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2024/03/2c172ba76c894178c648de2a121e9d2.jpg?fit=1024%2C768&amp;ssl=1",
+      "publishedAt": "2026-08-17T05:17:37+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/news/world/article/3364231/china-embraces-grandpa-cute-policewoman-probed-over-uniform-dance-5-weekend-reads-you-missed?utm_source=rss_feed",
+      "_key": "cd66b5acc12a46617d0b03d01905ec4a",
+      "title": "China embraces ‘Grandpa Cute’; policewoman probed over uniform dance: 5 weekend reads you missed",
+      "originalTitle": "China embraces ‘Grandpa Cute’; policewoman probed over uniform dance: 5 weekend reads you missed",
+      "summary": "We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing. 1. Why Chinese youth are turning to an 84-year-old Cambridge professor for support 2.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/news/world/article/3364231/china-embraces-grandpa-cute-policewoman-probed-over-uniform-dance-5-weekend-reads-you-missed?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/7c36e7c8-b1b9-47b2-8d64-e4f8cc0e6d2b_4457ddcb.jpg?itok=udsQDjq_&v=1786935649",
+      "publishedAt": "2026-08-17T04:15:09+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-investment-1-trillion-in-2026-to-reach-1-4-global-gdp-by-2028-goldman-sachs/articleshow/133285754.cms",
+      "_key": "55de8421fecb186982bcf6dca49098f8",
+      "title": "Global AI investment $1 trillion in 2026, to reach 1.4% global GDP by 2028: Goldman Sachs",
+      "originalTitle": "Global AI investment $1 trillion in 2026, to reach 1.4% global GDP by 2028: Goldman Sachs",
+      "summary": "according to Goldman Sachs Research. The investment is forecast to rise from 0.9 per cent of global GDP in 2026 to 1.3 per cent in 2027 and 1.4 per cent in 2028, suggesting that the AI buildout could continue to support capital spending over the next two years.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-investment-1-trillion-in-2026-to-reach-1-4-global-gdp-by-2028-goldman-sachs/articleshow/133285754.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133285754,imgsize-159150.cms",
+      "publishedAt": "2026-08-17T03:22:31+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/chinese-trader-s-unit-ordered-to-liquidate-by-hong-kong-court",
       "_key": "b6d973307c69b36e3a066cb9c59cabab",
       "title": "Hong Kong Court Orders Unit of SDIC Commodities to Liquidate",
@@ -8416,6 +8794,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
+      "_key": "78ddd0bdbc81821f8e69e8e6d2271796",
+      "title": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap",
+      "originalTitle": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap",
+      "summary": "Technology stocks lifted global equities after stellar revenue growth at Anthropic PBC bolstered the view that massive spending on artificial intelligence will be sustained. Treasuries gained as oil prices fell.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-16T22:14:58+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
       ],
       "coverageCount": 1
     },
@@ -16357,6 +16756,111 @@
       "_key": "d8d7055bcc60db3bee239453b112e9b3",
       "summaryMethod": "regra",
       "country": "US"
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/alibaba-to-sell-lingxi-games-in-more-than-2-billion-deal-source-says/articleshow/133290205.cms",
+      "_key": "25bc34c834c2c6d1e506b598d6c56b01",
+      "title": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says",
+      "originalTitle": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says",
+      "summary": "Alibaba and Trustar have reached a formal agreement after several rounds of talks, according to an internal memo sent to Lingxi staff on Monday by the game developer's CEO Zhou Bingshu and reviewed by Reuters.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/alibaba-to-sell-lingxi-games-in-more-than-2-billion-deal-source-says/articleshow/133290205.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133290205,imgsize-279506.cms",
+      "publishedAt": "2026-08-17T07:27:43+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-17/the-china-show-8-17-2026-video",
+      "_key": "a2c1ba6db9dfd77566c4d2082f1f99a5",
+      "title": "Alibaba Reports World-Beating 3 Billion Downloads for Qwen | The China Show | 8/17/2026",
+      "originalTitle": "Alibaba Reports World-Beating 3 Billion Downloads for Qwen | The China Show | 8/17/2026",
+      "summary": "analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-17/the-china-show-8-17-2026-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-17T06:08:26+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/17/alibaba-reportedly-nears-1-5-billion-deal-to-sell-its-gaming-business/",
+      "_key": "3f0d257599e1b4edc1264bc28ee5031d",
+      "title": "Alibaba reportedly nears $1.5 billion deal to sell its gaming business",
+      "originalTitle": "Alibaba reportedly nears $1.5 billion deal to sell its gaming business",
+      "summary": "than $1.5 billion. The talks are ongoing, and no final agreement has been announced. Lingxi Games develops and publishes mobile titles including Three Kingdoms Tactics, and also operates distribution services for game developers and players. [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/17/alibaba-reportedly-nears-1-5-billion-deal-to-sell-its-gaming-business/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/lingxi-games.png?fit=1024%2C474&amp;ssl=1",
+      "publishedAt": "2026-08-17T06:02:11+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/17/bytedance-shuts-down-paid-fiction-app-after-six-months/",
+      "_key": "124128ccc9291c07c7757b9aae93fb61",
+      "title": "months",
+      "originalTitle": "months",
+      "summary": "operation. The service stopped on Aug. 17, with its servers closed and users unable to log in or access the app. Unlike ByteDance’s free-fiction platform Tomato Novel, Red Candle Stories combined a free section with a paid membership section. [&#8230;]",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/17/bytedance-shuts-down-paid-fiction-app-after-six-months/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/10/bytedance-0-cb0d883e8d2c1c45bafb93eb7cd64468.png?fit=1024%2C683&amp;ssl=1",
+      "publishedAt": "2026-08-17T05:08:33+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/plus/tech/tech-war/article/3364234/chinese-robots-march-despite-tech-war-hurdles?utm_source=rss_feed",
+      "_key": "4353c95ba366c54af49c119ff3b890de",
+      "title": "Chinese robots on the march despite tech war hurdles",
+      "originalTitle": "Chinese robots on the march despite tech war hurdles",
+      "summary": "Did the stair-climbing Chinese robot vacuum or flying robovac prototypes that wowed visitors at the 2026 Consumer Electronics Show in Las Vegas go into production? American consumers will probably not find out.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/plus/tech/tech-war/article/3364234/chinese-robots-march-despite-tech-war-hurdles?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/e08063a9-f421-4701-b7c2-c663ca9a0da8_e56e0399.jpg?itok=9pf8GYqI&v=1786937533",
+      "publishedAt": "2026-08-17T04:15:11+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/copper-heads-toward-record-high-on-lme-as-supply-tensions-build",
