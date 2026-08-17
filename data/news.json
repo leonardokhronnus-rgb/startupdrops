@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T19:21:42.713454+00:00",
+  "updatedAt": "2026-08-17T20:26:01.045873+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -129,6 +129,132 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/economia/crise-varejo-recuperacao-judicial-casas-bahia-marabraz/",
+      "_key": "b2cf1183ffdf4e16e3a2c5e787ecbd63",
+      "title": "O varejo quebrou? O que está por trás das RJs de Casas Bahia e Marabraz",
+      "originalTitle": "O varejo quebrou? O que está por trás das RJs de Casas Bahia e Marabraz",
+      "summary": "Pedidos de RJ por gigantes do setor acendem alerta, mas especialistas descartam quebra generalizada e apontam crise restrita a bens duráveis por conta de juros e crédito caro The post O varejo quebrou?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/economia/crise-varejo-recuperacao-judicial-casas-bahia-marabraz/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_1031624041.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T20:21:01+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/artigo/simplicidade-o-novo-no-gordio-da-lideranca-da-inovacao-e-da-transformacao-nas-empresas/",
+      "_key": "e43761e844f4660214a5d0658b892099",
+      "title": "Simplicidade: o novo nó górdio da liderança, da inovação e da transformação nas empresas",
+      "originalTitle": "Simplicidade: o novo nó górdio da liderança, da inovação e da transformação nas empresas",
+      "summary": "O desafio de hoje não é necessariamente encontrar caminhos cada vez mais sofisticados, mas ter coragem para reconhecer os caminhos simples que já estão diante de nós | Foto: Canva Irão prosperar e evoluir as empresas capazes de transformar problemas reais em soluções simples, eficientes e relevantes O post Simplicidade: o novo nó górdio da liderança, da inovação e da transformação nas empresas apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/artigo/simplicidade-o-novo-no-gordio-da-lideranca-da-inovacao-e-da-transformacao-nas-empresas/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/08/Simplicidade.jpg",
+      "publishedAt": "2026-08-17T20:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/tesouro-direto-taxas-recuam-em-dia-de-dado-economico-fraco-e-real-mais-forte/",
+      "_key": "c8c780a4d4819d8b848f8087894b8a2a",
+      "title": "Tesouro Direto: taxas recuam em dia de dado econômico fraco e real mais forte",
+      "originalTitle": "Tesouro Direto: taxas recuam em dia de dado econômico fraco e real mais forte",
+      "summary": "IBC-Br de junho veio abaixo do esperado, enquanto Treasury de 30 anos nos EUA atinge maior nível desde 2007 The post Tesouro Direto: taxas recuam em dia de dado econômico fraco e real mais forte appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-taxas-recuam-em-dia-de-dado-economico-fraco-e-real-mais-forte/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/mcsp_abr_140820121977.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T19:58:17+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/samsung-bradesco-e-electrolux-casas-bahia-tem-28-mil-credores-veja-maiores-dividas/",
+      "_key": "f7f30fcdd6b1b0b8bd86ee7a498e3ca6",
+      "title": "Samsung, Bradesco e Electrolux: Casas Bahia tem 28 mil credores; veja maiores dívidas",
+      "originalTitle": "Samsung, Bradesco e Electrolux: Casas Bahia tem 28 mil credores; veja maiores dívidas",
+      "summary": "Varejista protocolou pedido de recuperação judicial para renegociar dívidas que somam R$ 17,3 bilhões The post Samsung, Bradesco e Electrolux: Casas Bahia tem 28 mil credores; veja maiores dívidas appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/samsung-bradesco-e-electrolux-casas-bahia-tem-28-mil-credores-veja-maiores-dividas/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-17T100552Z_1_LYNXMPEM7G0M0_RTROPTP_4_PAODEACUCAR-CASASBAHIA.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T19:54:20+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/paramount-pede-caucao-de-us-19-bi-a-estados-que-tentam-barrar-fusao-com-a-warner/",
+      "_key": "3e53d2c54eada20e62f97faeaaaf9aba",
+      "title": "Paramount pede caução de US$ 1,9 bi a estados que tentam barrar fusão com a Warner",
+      "originalTitle": "Paramount pede caução de US$ 1,9 bi a estados que tentam barrar fusão com a Warner",
+      "summary": "Empresa afirma que atraso na fusão de US$ 110 bilhões com a Warner pode gerar prejuízos bilionários e pede garantia financeira aos estados que movem a ação The post Paramount pede caução de US$ 1,9 bi a estados que tentam barrar fusão com a Warner appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/paramount-pede-caucao-de-us-19-bi-a-estados-que-tentam-barrar-fusao-com-a-warner/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-08T221037Z_1_LYNXMPEM671FU_RTROPTP_4_WARNER-BROS-DIS-M-A-PARAMOUNT-BRITAIN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T19:54:16+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/renan-santos-diz-que-direita-populista-que-teve-trump-como-grande-nome-morreu/",
+      "_key": "81dd63d39ed79eb7f43ddf5441fce9f7",
+      "title": "Renan Santos diz que direita populista que teve Trump como grande nome morreu",
+      "originalTitle": "Renan Santos diz que direita populista que teve Trump como grande nome morreu",
+      "summary": "A fala foi feita durante a 27ª Conferência Anual Santander, em São Paulo The post Renan Santos diz que direita populista que teve Trump como grande nome morreu appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/renan-santos-diz-que-direita-populista-que-teve-trump-como-grande-nome-morreu/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/renan-santos-convencao-missao.jpg?fit=300%2C173&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T19:44:34+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/17/paramount-pede-garantia-de-us-188-bilhao-a-estados-que-contestam-fusao-com-warner.ghtml",
       "_key": "f8aef60e1e32e172a23370f14cbc5603",
