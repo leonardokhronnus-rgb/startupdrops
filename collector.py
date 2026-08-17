@@ -212,9 +212,27 @@ def article_source_names(article):
     return names
 
 
+def clean_title(text):
+    """Limpa titulo: remove so HTML/entidades e espacos. NUNCA remove credito de
+    foto (isso decepava titulos com AP/capta/Apple, gerando 'Meta', 'mudou')."""
+    text = re.sub(r"<[^>]+>", " ", text or "")
+    text = re.sub(r"&[a-z]+;", " ", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+def title_broken(a):
+    """Titulo corrompido: palavra solta ou comeca minusculo."""
+    t = (a.get("title") or "").strip()
+    if len(t.split()) <= 2:
+        return True
+    return bool(t) and t[0].islower()
+
+
 def is_allowed_display_article(article):
     return (
         article.get("country") in ACTIVE_COUNTRIES
+        and not title_broken(article)
         and article_source_names(article).isdisjoint(BLOCKED_DISPLAY_SOURCES)
     )
 
@@ -296,14 +314,14 @@ def strip_photo_credit(text):
         r"^[^.!?]{0,120}\|\s*(?:Crédito|Credito|Foto|Fonte|Imagem|Reprodução)\s*:\s*[^.!?]{2,120}?(?:\.com|\.br|\.org|\.net)\s+(?=[A-ZÀ-Ú])",
         r"^(?:Crédito|Credito|Foto|Fonte|Imagem|Reprodução)\s*:\s*[^.!?]{2,120}?(?:\.com|\.br|\.org|\.net)\s+(?=[A-ZÀ-Ú])",
         r"^[^.!?]{0,120}\|\s*(?:Crédito|Credito|Foto|Fonte|Imagem|Reprodução)\s*:\s*[^.!?]{2,80}\s+(?=[A-ZÀ-Ú])",
-        # "Descrição do local Fotógrafo/Reuters Texto real..." — padrão sem pipe
-        r"^[^.!?]{0,180}\s+\w[\w\s]{2,30}/(?:Reuters|AFP|AP|Getty|Bloomberg|Shutterstock|EPA|EFE|Lusa|Folhapress|Agência Brasil)\s+(?=[A-ZÀ-Ú])",
-        # "Descrição Fotógrafo/Agência\n" seguido do texto
-        r"^[^.!?]{0,180}(?:Reuters|AFP|AP|Getty|Bloomberg|Shutterstock|EPA|EFE|Lusa|Folhapress|Agência Brasil)[^.!?]{0,60}\s+(?=[A-ZÀ-Ú][a-zà-ú])",
+        # "Divulgação/Instagram", "Reprodução/Twitter", "Divulgação" solto
+        r"(?:^|\s)(?:Divulgação|Reprodução|Getty\s+Images)\s*/?\s*[A-Za-zÀ-Ú][\w.\-]{0,25}?\s+(?=[A-ZÀ-Ú])",
+        # "Descrição Fotógrafo/Agência" (agencia precedida de espaco ou barra, com \b)
+        r"^[^.!?]{0,180}[\s/]\b(?:Reuters|AFP|Getty|Bloomberg|Shutterstock|EPA|EFE|Lusa|Folhapress|Agência\s+Brasil)\b[^.!?]{0,40}\s+(?=[A-ZÀ-Ú])",
     ]
     for p in patterns:
-        text = re.sub(p, "", text, flags=re.I)
-    return text.strip()
+        text = re.sub(p, " ", text, flags=re.I)
+    return re.sub(r"\s+", " ", text).strip()
  
  
 def first_image(entry):
@@ -517,7 +535,7 @@ def collect(use_ai, max_age_days):
  
         for entry in parsed.entries[:25]:
             url = entry.get("link", "").strip()
-            title = strip_html(entry.get("title", "")).strip()
+            title = clean_title(entry.get("title", ""))
             if not url or not title:
                 continue
             key = canonical_key(url)
