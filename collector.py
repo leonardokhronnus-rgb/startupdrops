@@ -39,7 +39,6 @@ SOURCES = [
     {"name": "Startups.com.br",       "region": "Brasil",         "country": "BR", "feed": "https://startups.com.br/feed/"},
     {"name": "NeoFeed",               "region": "Brasil",         "country": "BR", "feed": "https://neofeed.com.br/feed/"},
     {"name": "Brazil Journal",        "region": "Brasil",         "country": "BR", "feed": "https://braziljournal.com/feed/"},
-    {"name": "Tecnoblog",             "region": "Brasil",         "country": "BR", "feed": "https://tecnoblog.net/feed/"},
     {"name": "InfoMoney",             "region": "Brasil",         "country": "BR", "feed": "https://www.infomoney.com.br/feed/"},
     {"name": "Exame",                 "region": "Brasil",         "country": "BR", "feed": "https://exame.com/feed/"},
     {"name": "Bloomberg Linea BR",    "region": "Brasil",         "country": "BR", "feed": "https://www.bloomberglinea.com.br/arc/outboundfeeds/google-news-feed.xml/?outputType=xml"},
@@ -67,7 +66,6 @@ SOURCES = [
     {"name": "StartSe",               "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:startse.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
     {"name": "MobileTime",            "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:mobiletime.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
     {"name": "Convergencia Digital",  "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:convergenciadigital.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
-    {"name": "Canaltech",             "region": "Brasil",         "country": "BR", "feed": "https://canaltech.com.br/rss/"},
  
     # -- EUA / GLOBAL: startups, VC e tech --
     {"name": "TechCrunch Startups",   "region": "Internacional",  "country": "US", "feed": "https://techcrunch.com/category/startups/feed/"},
@@ -189,6 +187,36 @@ NOISY_TECH_BLOCKLIST = [
     "sol", "matemático", "riemann", "marca d'água", "marca d’água",
     "pornografia", "sexual", "imagens criminosas", "enteada", "padrasto",
 ]
+
+BLOCKED_DISPLAY_SOURCES = NOISY_TECH_SOURCES | {
+    "TechCrunch Startups", "Crunchbase News", "VentureBeat", "The Verge", "Wired",
+    "Rest of World", "Business Insider Tech", "Ars Technica", "Reuters Business",
+    "Bloomberg Markets", "Sifted", "Tech.eu", "EU-Startups", "Finsider",
+}
+
+
+def article_source_names(article):
+    names = set()
+    source = article.get("source")
+    if source:
+        names.add(source)
+    for field in ("sources", "sourcesCovered"):
+        for item in article.get(field, []) or []:
+            if isinstance(item, str):
+                names.add(item)
+            elif isinstance(item, dict) and item.get("source"):
+                names.add(item["source"])
+    for item in article.get("alsoIn", []) or []:
+        if isinstance(item, dict) and item.get("source"):
+            names.add(item["source"])
+    return names
+
+
+def is_allowed_display_article(article):
+    return (
+        article.get("country") in ACTIVE_COUNTRIES
+        and article_source_names(article).isdisjoint(BLOCKED_DISPLAY_SOURCES)
+    )
 
 
 def contains_term(text, term):
@@ -472,7 +500,7 @@ def collect(use_ai, max_age_days):
     by_key = {a.get("_key") or canonical_key(a["url"]): a for a in existing.get("articles", [])}
  
     # Escopo operacional: apenas Brasil.
-    articles = [a for a in by_key.values() if a.get("country") in ACTIVE_COUNTRIES]
+    articles = [a for a in by_key.values() if is_allowed_display_article(a)]
     failures = []
     seen_now = set()
     new_count = 0
@@ -571,8 +599,12 @@ def collect(use_ai, max_age_days):
  
     payload = {
         "updatedAt": now_utc().isoformat(),
-        "editorialFocus": "Brasil + Internacional equilibrado",
-        "sources": [{"name": s["name"], "region": s["region"]} for s in SOURCES],
+        "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
+        "sources": [
+            {"name": s["name"], "region": s["region"]}
+            for s in SOURCES
+            if s.get("country") in ACTIVE_COUNTRIES and s["name"] not in BLOCKED_DISPLAY_SOURCES
+        ],
         "failures": failures,
         "articles": kept,
     }

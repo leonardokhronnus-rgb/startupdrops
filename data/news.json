@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-08-17T17:07:05.714160+00:00",
-  "editorialFocus": "Brasil + Internacional equilibrado",
+  "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
       "name": "Startupi",
@@ -16,10 +16,6 @@
     },
     {
       "name": "Brazil Journal",
-      "region": "Brasil"
-    },
-    {
-      "name": "Tecnoblog",
       "region": "Brasil"
     },
     {
@@ -113,122 +109,6 @@
     {
       "name": "Convergencia Digital",
       "region": "Brasil"
-    },
-    {
-      "name": "Canaltech",
-      "region": "Brasil"
-    },
-    {
-      "name": "TechCrunch Startups",
-      "region": "Internacional"
-    },
-    {
-      "name": "Crunchbase News",
-      "region": "Internacional"
-    },
-    {
-      "name": "VentureBeat",
-      "region": "Internacional"
-    },
-    {
-      "name": "The Verge",
-      "region": "Internacional"
-    },
-    {
-      "name": "Wired",
-      "region": "Internacional"
-    },
-    {
-      "name": "Rest of World",
-      "region": "Internacional"
-    },
-    {
-      "name": "a16z",
-      "region": "Internacional"
-    },
-    {
-      "name": "First Round Review",
-      "region": "Internacional"
-    },
-    {
-      "name": "Axios Pro Rata",
-      "region": "Internacional"
-    },
-    {
-      "name": "Reuters Business",
-      "region": "Internacional"
-    },
-    {
-      "name": "Reuters Tech",
-      "region": "Internacional"
-    },
-    {
-      "name": "Bloomberg Tech",
-      "region": "Internacional"
-    },
-    {
-      "name": "Bloomberg Markets",
-      "region": "Internacional"
-    },
-    {
-      "name": "The Information",
-      "region": "Internacional"
-    },
-    {
-      "name": "Tech.eu",
-      "region": "Internacional"
-    },
-    {
-      "name": "EU-Startups",
-      "region": "Internacional"
-    },
-    {
-      "name": "Sifted",
-      "region": "Internacional"
-    },
-    {
-      "name": "Contxto",
-      "region": "Internacional"
-    },
-    {
-      "name": "LABS Latam",
-      "region": "Internacional"
-    },
-    {
-      "name": "SCMP Tech",
-      "region": "Internacional"
-    },
-    {
-      "name": "SCMP Business",
-      "region": "Internacional"
-    },
-    {
-      "name": "TechNode",
-      "region": "Internacional"
-    },
-    {
-      "name": "Caixin Global",
-      "region": "Internacional"
-    },
-    {
-      "name": "KrASIA",
-      "region": "Internacional"
-    },
-    {
-      "name": "Inc42",
-      "region": "Internacional"
-    },
-    {
-      "name": "YourStory",
-      "region": "Internacional"
-    },
-    {
-      "name": "ETtech",
-      "region": "Internacional"
-    },
-    {
-      "name": "Entrackr",
-      "region": "Internacional"
     }
   ],
   "failures": [
@@ -1069,39 +949,6 @@
       "country": "BR"
     },
     {
-      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/quase-unicornio-o-valuation-da-decade-startup-de-dois-ex-nubank.ghtml",
-      "title": "Quase unicórnio: o valuation da Decade, startup de dois ex-Nubank",
-      "summary": "O que a Decade não contou e o Pipeline apurou é que a rodada avaliou o negócio em US$ 500 milhões, cifra que a coloca a meio caminho de se tornar um unicórnio, um feito impressionante para uma empresa que acaba de se lançar no mercado.",
-      "url": "https://pipelinevalor.globo.com/startups/noticia/quase-unicornio-o-valuation-da-decade-startup-de-dois-ex-nubank.ghtml",
-      "source": "Pipeline Valor",
-      "region": "Brasil",
-      "image": "https://s2-pipelinevalor.glbimg.com/tkFAAtAeDfy6YSyQ71Sr7apYDQI=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/A/G/poIjXXTfmfjYTCJ2fNtA/decade-vitor-olivier-felipe-meneses.jpg",
-      "publishedAt": "2026-08-05T09:00:31+00:00",
-      "score": 45,
-      "alsoIn": [
-        {
-          "title": "Quem comprou a participação da Vinci em nove shoppings",
-          "url": "https://pipelinevalor.globo.com/negocios/noticia/quem-comprou-a-participacao-da-vinci-em-nove-shoppings.ghtml",
-          "source": "Pipeline Valor",
-          "publishedAt": "2026-08-03T18:28:29+00:00"
-        },
-        {
-          "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-          "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-          "source": "TechCrunch Startups",
-          "publishedAt": "2026-08-03T12:50:46+00:00"
-        }
-      ],
-      "sourcesCovered": [
-        "Pipeline Valor",
-        "TechCrunch Startups"
-      ],
-      "coverageCount": 3,
-      "_key": "6ee46d67563120ca068fa72fb1854f8f",
-      "summaryMethod": "regra",
-      "country": "BR"
-    },
-    {
       "id": "Startupi-https://startupi.com.br/agtechs-e-o-credito-privado-emissao-de-cras-e-fiagros-estruturados-por-startups-do-agro/",
       "title": "Agtechs Sofisticam o Crédito Privado com Emissão de CRAs e FIAGROs Estruturados",
       "summary": "Agtechs Sofisticam o Crédito Privado com Emissão de CRAs e FIAGROs Estruturados Com a Selic em 15% e a inadimplência rural em máxima histórica, startups do agro migram do crédito bancário para o mercado de capitais — e redefinem quem financia o campo.",
@@ -1344,40 +1191,6 @@
       "country": "BR"
     },
     {
-      "id": "Startups.com.br-https://startups.com.br/negocios/inteligencia-artificial/claude-sofre-instabilidade-global-e-anthropic-monitora-recuperacao/",
-      "title": "Claude sofre instabilidade global e Anthropic monitora recuperação",
-      "summary": "Claude Fable | Crédito: RixAiArt / Shutterstock.com Empresa diz que implementou uma correção após falhas no chatbot, API e Claude Code e acompanha a normalização dos serviços",
-      "url": "https://startups.com.br/negocios/inteligencia-artificial/claude-sofre-instabilidade-global-e-anthropic-monitora-recuperacao/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "https://uploads.startups.com.br/2026/08/Captura-de-Tela-2026-08-05-as-12.24.30-320x320.png",
-      "publishedAt": "2026-08-05T15:36:01+00:00",
-      "score": 43,
-      "alsoIn": [
-        {
-          "title": "Claude fica instável em escala global; Anthropic trabalha em correção",
-          "url": "https://itforum.com.br/noticias/anthropic-claude-esta-com-instabilidades/",
-          "source": "IT Forum",
-          "publishedAt": "2026-08-05T13:44:41+00:00"
-        },
-        {
-          "title": "Claude fora do ar? Instabilidade derruba modelos da Anthropic",
-          "url": "https://tecnoblog.net/noticias/claude-fora-do-ar-instabilidade-derruba-modelos-da-anthropic/",
-          "source": "Tecnoblog",
-          "publishedAt": "2026-08-05T12:48:38+00:00"
-        }
-      ],
-      "sourcesCovered": [
-        "IT Forum",
-        "Startups.com.br",
-        "Tecnoblog"
-      ],
-      "coverageCount": 3,
-      "_key": "e10ef6eefaa4bd99e65b38f8c0cda72e",
-      "summaryMethod": "regra",
-      "country": "BR"
-    },
-    {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/11/dolar-ibovespa.ghtml",
       "_key": "b5bc1b4ee0ad5dfe36a36a753bf43152",
       "title": "Dólar abre em queda, de olho em inflação e ata do Copom",
@@ -1420,39 +1233,6 @@
       ],
       "coverageCount": 2,
       "_key": "4b0e952fa61a5756d8642487f919997b",
-      "summaryMethod": "regra",
-      "country": "BR"
-    },
-    {
-      "id": "IT Forum-https://itforum.com.br/noticias/sam-altman-reage-a-propostas-de-desacelerar-a-ia/",
-      "title": "Sam Altman reage a propostas de desacelerar a IA e defende avanço contínuo da tecnologia",
-      "summary": "O debate sobre o ritmo de desenvolvimento da inteligência artificial (IA) voltou ao centro das discussões no setor após o CEO da OpenAI, Sam Altman, responder a propostas que defendem uma desaceleração deliberada da evolução da tecnologia.",
-      "url": "https://itforum.com.br/noticias/sam-altman-reage-a-propostas-de-desacelerar-a-ia/",
-      "source": "IT Forum",
-      "region": "Brasil",
-      "image": "https://db00ytxhy7e1q.cloudfront.net/2026/08/Sam-Altman-24-09-2025-reproducao-1200x630-1.jpg",
-      "publishedAt": "2026-08-05T12:55:52+00:00",
-      "score": 42,
-      "alsoIn": [
-        {
-          "title": "Ataques autônomos de IA expõem lacunas jurídicas sobre responsabilidade de desenvolvedores e empresas",
-          "url": "https://itforum.com.br/noticias/ataques-ia-responsabilidade/",
-          "source": "IT Forum",
-          "publishedAt": "2026-08-04T18:00:48+00:00"
-        },
-        {
-          "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-          "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-          "source": "TechCrunch Startups",
-          "publishedAt": "2026-07-31T17:26:32+00:00"
-        }
-      ],
-      "sourcesCovered": [
-        "IT Forum",
-        "TechCrunch Startups"
-      ],
-      "coverageCount": 3,
-      "_key": "76fce56e8b9e7f29fc056c9f524bd11f",
       "summaryMethod": "regra",
       "country": "BR"
     },
@@ -4226,47 +4006,6 @@
       ],
       "coverageCount": 1,
       "_key": "3faa4ead528e74f67c5df25b64c5d3c2",
-      "summaryMethod": "regra",
-      "country": "BR"
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/la-fora/bending-spoons-faz-1a-compra-pos-ipo-e-leva-airtable-por-us-128b/",
-      "title": "Bending Spoons faz 1ª compra pós-IPO e leva Airtable por US$ 1,28B",
-      "summary": "grandes, leva por US$ 1,285 bilhão a plataforma no-code que já valeu US$ 11B",
-      "url": "https://startups.com.br/la-fora/bending-spoons-faz-1a-compra-pos-ipo-e-leva-airtable-por-us-128b/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "https://uploads.startups.com.br/2026/08/shutterstock_2807233235.jpg",
-      "publishedAt": "2026-08-04T19:53:48+00:00",
-      "score": 35,
-      "alsoIn": [
-        {
-          "title": "Bending Spoons to buy Airtable for $1.28B",
-          "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
-          "source": "TechCrunch Startups",
-          "publishedAt": "2026-08-04T11:30:56+00:00"
-        },
-        {
-          "title": "Bending Spoons strikes $2.25bn Airtable deal in first acquisition since IPO",
-          "url": "https://sifted.eu/articles/bending-spoons-airtable-acquisition-post-ipo/",
-          "source": "Sifted",
-          "publishedAt": "2026-08-04T11:04:22+00:00"
-        },
-        {
-          "title": "MAG Investimentos compra R$ 4,5 bi em FIDCs da More Invest",
-          "url": "https://pipelinevalor.globo.com/mercado/noticia/mag-investimentos-compra-r-45-bi-em-fidcs-da-more-invest.ghtml",
-          "source": "Pipeline Valor",
-          "publishedAt": "2026-07-14T23:05:53+00:00"
-        }
-      ],
-      "sourcesCovered": [
-        "Pipeline Valor",
-        "Sifted",
-        "Startups.com.br",
-        "TechCrunch Startups"
-      ],
-      "coverageCount": 4,
-      "_key": "8621cfa3e000cfdc0450339c93ed8235",
       "summaryMethod": "regra",
       "country": "BR"
     },
@@ -7063,25 +6802,6 @@
       "country": "BR"
     },
     {
-      "id": "Tecnoblog-https://tecnoblog.net/noticias/zuckerberg-critica-regulacao-da-ia-e-diz-que-centralizacao-e-um-problema/",
-      "_key": "b82af9f13397ba135a1c154be081718a",
-      "title": "Zuckerberg critica regulação da IA e diz que centralização é um problema",
-      "summary": "Chefão da Meta diz que tecnologia deve empoderar pessoas. Empresa promete modelos abertos e suporte a comunidades afetadas por data centers. Zuckerberg critica regulação da IA e diz que centralização é um problema",
-      "summaryMethod": "regra",
-      "url": "https://tecnoblog.net/noticias/zuckerberg-critica-regulacao-da-ia-e-diz-que-centralizacao-e-um-problema/",
-      "source": "Tecnoblog",
-      "region": "Brasil",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-04.png",
-      "publishedAt": "2026-08-10T17:06:40+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Tecnoblog"
-      ],
-      "coverageCount": 1,
-      "country": "BR"
-    },
-    {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/10/eua-respondem-ao-brasil-na-omc-e-dizem-que-estao-a-disposicao-para-discutir-tarifaco.ghtml",
       "_key": "6264c85c06fdb0e8d889bbc82789cf3c",
       "title": "EUA respondem ao Brasil na OMC e dizem estar 'à disposição' para discutir tarifaço",
@@ -7400,25 +7120,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Brazil Journal"
-      ],
-      "coverageCount": 1,
-      "country": "BR"
-    },
-    {
-      "id": "Tecnoblog-https://tecnoblog.net/noticias/asimov-estava-certo-sobre-regras-para-ia-diz-ex-diretor-de-ciberseguranca-dos-eua/",
-      "_key": "ed5253709cf22c0a91339ac835ea0a7d",
-      "title": "“Asimov estava certo” sobre regras para IA, diz ex-diretor de cibersegurança dos EUA",
-      "summary": "Chris Inglis critica falta de limites éticos em modelos autônomos após casos de invasões não autorizadas. “Asimov estava certo” sobre regras para IA, diz ex-diretor de cibersegurança dos EUA",
-      "summaryMethod": "regra",
-      "url": "https://tecnoblog.net/noticias/asimov-estava-certo-sobre-regras-para-ia-diz-ex-diretor-de-ciberseguranca-dos-eua/",
-      "source": "Tecnoblog",
-      "region": "Brasil",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/2021-06-10t145031z_1644079367_mt1sipa000yzrowj_rtrmadp_3_sipa-usa-1-1024x681-1.jpg",
-      "publishedAt": "2026-08-07T19:19:36+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Tecnoblog"
       ],
       "coverageCount": 1,
       "country": "BR"
