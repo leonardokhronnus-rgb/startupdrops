@@ -496,11 +496,6 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
     <a href="#" data-page="news" data-cat="mercado">Mercado</a>
     <a href="#" data-page="news" data-cat="techia">Tech & IA</a>
     <span class="nav-divider">|</span>
-    <a href="#" data-page="news" data-cat="country-BR">🇧🇷</a>
-    <a href="#" data-page="news" data-cat="country-US">🇺🇸</a>
-    <a href="#" data-page="news" data-cat="country-EU">🇪🇺</a>
-    <a href="#" data-page="news" data-cat="country-CN">🇨🇳</a>
-    <a href="#" data-page="news" data-cat="country-IN">🇮🇳</a>
     <a href="#" data-page="edu" class="nav-edu">Educação</a>
   </nav>
   <div class="header-right">
@@ -569,19 +564,11 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
         <div class="side-block">
           <div class="side-title">Recortes</div>
           <div class="beat-grid">
-            <a class="beat-link" href="#" data-side-filter="brasil">Brasil</a>
             <a class="beat-link" href="#" data-side-filter="funding">Funding</a>
             <a class="beat-link" href="#" data-side-filter="startups">Startups</a>
             <a class="beat-link" href="#" data-side-filter="mercado">Mercado</a>
             <a class="beat-link" href="#" data-side-filter="techia">Tech & IA</a>
             <a class="beat-link" href="#educacao" data-page-shortcut="edu">Educação</a>
-          </div>
-          <div class="side-title" style="margin-top:16px;">Ecossistemas</div>
-          <div class="beat-grid">
-            <a class="beat-link country-flag" href="#" data-side-filter="country-US">🇺🇸 EUA</a>
-            <a class="beat-link country-flag" href="#" data-side-filter="country-EU">🇪🇺 Europa</a>
-            <a class="beat-link country-flag" href="#" data-side-filter="country-CN">🇨🇳 China</a>
-            <a class="beat-link country-flag" href="#" data-side-filter="country-IN">🇮🇳 Índia</a>
           </div>
         </div>
         <div class="side-block">
@@ -2772,6 +2759,7 @@ function summaryPt(a){
   return completeSentencesOnly(smartTrim(text,320)) || smartTrim(text,320);
 }
 function titlePt(a){
+  return clean(a.title); // titulo ja vem pronto (pt-BR) do coletor
   if(regionKey(a)==='brasil') return clean(a.title);
   const title=clean(a.title);
   const text=`${title} ${a.summary||''}`.toLowerCase();
@@ -2920,7 +2908,7 @@ async function loadNews(){
   setStatus('Carregando drops em português...');
   try{
     lastPayload=await loadNewsPayload();
-    ALL=dedupe((lastPayload.articles||[]).map(decorate).filter(a=>isArticleUrl(a.url)));
+    ALL=dedupe((lastPayload.articles||[]).map(decorate).filter(a=>isArticleUrl(a.url)).filter(a=>articleCountry(a)==='BR'));
     if(!ALL.length) throw new Error('Arquivo sem notícias');
     const updated=new Date(lastPayload.updatedAt);
     document.getElementById('hd-update').textContent=`Atualizado às ${updated.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})}`;

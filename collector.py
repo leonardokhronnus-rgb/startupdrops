@@ -56,6 +56,15 @@ SOURCES = [
     {"name": "PEGN",                  "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
     {"name": "MIT Tech Review BR",    "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:mittechreview.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
  
+    # -- BRASIL: fontes extras de startup/tech (adicionadas) --
+    {"name": "Draft",                 "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:projetodraft.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Distrito",              "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:5d+site:distrito.me&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Abstartups",            "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:7d+site:abstartups.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "StartSe",               "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:startse.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "MobileTime",            "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:mobiletime.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Convergencia Digital",  "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:convergenciadigital.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Canaltech",             "region": "Brasil",         "country": "BR", "feed": "https://canaltech.com.br/rss/"},
+ 
     # -- EUA / GLOBAL: startups, VC e tech --
     {"name": "TechCrunch Startups",   "region": "Internacional",  "country": "US", "feed": "https://techcrunch.com/category/startups/feed/"},
     {"name": "Crunchbase News",       "region": "Internacional",  "country": "US", "feed": "https://news.crunchbase.com/feed/"},
@@ -354,13 +363,16 @@ def summary_by_ai(title, raw_summary, region, country="US"):
         parts = [b.text for b in resp.content if getattr(b, "type", "") == "text"]
         out = " ".join(parts).strip()
         new_title, what_happened, why_matters = None, [], None
-        for line in out.split("\n"):
-            if line.startswith("TÍTULO:"):
-                new_title = line.replace("TÍTULO:", "").strip()
-            elif line.startswith("O QUE ACONTECEU:"):
-                what_happened.append(line.replace("O QUE ACONTECEU:", "").strip())
-            elif line.startswith("POR QUE IMPORTA:"):
-                why_matters = line.replace("POR QUE IMPORTA:", "").strip()
+        for raw_line in out.split("\n"):
+            # tolera negrito markdown, marcadores, espacos e acento no rotulo
+            line = raw_line.strip().lstrip("*#->").strip().replace("*", "").strip()
+            u = line.upper().replace("Í", "I").replace(" :", ":")
+            if u.startswith("TITULO:"):
+                new_title = line.split(":", 1)[1].strip()
+            elif u.startswith("O QUE ACONTECEU:"):
+                what_happened.append(line.split(":", 1)[1].strip())
+            elif u.startswith("POR QUE IMPORTA:"):
+                why_matters = line.split(":", 1)[1].strip()
         summary_text = " ".join(what_happened).strip()
         if why_matters:
             summary_text = summary_text + " ||WHY|| " + why_matters
@@ -404,13 +416,17 @@ def collect(use_ai, max_age_days):
     existing = load_existing()
     by_key = {a.get("_key") or canonical_key(a["url"]): a for a in existing.get("articles", [])}
  
-    articles = list(by_key.values())
+    # Escopo do portal: apenas Brasil e EUA. Remove China/India/Europa do acervo.
+    # Escopo do portal: apenas Brasil. Remove EUA/China/India/Europa do acervo.
+    articles = [a for a in by_key.values() if a.get("country") == "BR"]
     failures = []
     seen_now = set()
     new_count = 0
     skipped_thin = 0
  
     for source in SOURCES:
+        if source.get("country") != "BR":  # escopo: so Brasil
+            continue
         print(f"→ {source['name']}", file=sys.stderr)
         parsed, err = fetch_feed(source)
         if err or parsed is None:
