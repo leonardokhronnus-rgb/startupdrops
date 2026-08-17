@@ -613,7 +613,8 @@ def collect(use_ai, max_age_days):
             dt = now_utc()
         if dt >= cutoff:
             kept.append(a)
-    kept.sort(key=lambda a: (a.get("score", 0), a["publishedAt"]), reverse=True)
+    # Ordena por DATA primeiro (mais recente no topo), score so como desempate
+    kept.sort(key=lambda a: (a["publishedAt"], a.get("score", 0)), reverse=True)
  
     payload = {
         "updatedAt": now_utc().isoformat(),
