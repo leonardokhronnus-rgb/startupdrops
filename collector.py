@@ -43,6 +43,7 @@ SOURCES = [
     {"name": "Tecnoblog",             "region": "Brasil",         "country": "BR", "feed": "https://tecnoblog.net/feed/"},
     {"name": "InfoMoney",             "region": "Brasil",         "country": "BR", "feed": "https://www.infomoney.com.br/feed/"},
     {"name": "Exame",                 "region": "Brasil",         "country": "BR", "feed": "https://exame.com/feed/"},
+    {"name": "Bloomberg Linea BR",    "region": "Brasil",         "country": "BR", "feed": "https://www.bloomberglinea.com.br/arc/outboundfeeds/google-news-feed.xml/?outputType=xml"},
     {"name": "G1 Economia",           "region": "Brasil",         "country": "BR", "feed": "https://g1.globo.com/dynamo/economia/rss2.xml"},
  
     # -- BRASIL: resgate via Google News (feeds nativos quebrados) --
@@ -109,7 +110,7 @@ SOURCES = [
 DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "news.json")
 USER_AGENT = "StartupDropsBot/1.0 (+https://startupdrops)"
 REQUEST_TIMEOUT = 20
-ACTIVE_COUNTRIES = {"BR", "US"}
+ACTIVE_COUNTRIES = {"BR"}
  
 # Portão de qualidade: resumo precisa ter pelo menos este tamanho pra virar matéria.
 # Fontes que só entregam trecho curto (HBR, muitos paywalls) são descartadas
@@ -417,8 +418,7 @@ def collect(use_ai, max_age_days):
     existing = load_existing()
     by_key = {a.get("_key") or canonical_key(a["url"]): a for a in existing.get("articles", [])}
  
-    # Escopo operacional: Brasil + EUA. EUA entra traduzido pela IA quando a chave
-    # Anthropic estiver configurada; sem chave, cai no resumo por regra.
+    # Escopo operacional: apenas Brasil.
     articles = [a for a in by_key.values() if a.get("country") in ACTIVE_COUNTRIES]
     failures = []
     seen_now = set()

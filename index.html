@@ -553,14 +553,6 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
           <div class="search-count" id="search-count" style="display:none;"></div>
           <div class="card-grid" id="card-grid"></div>
         </div>
-        <div id="global-radar-section" style="display:none;">
-          <div class="sec-head"><span class="sec-label">Radar Global</span><span class="sec-sub">Brasil, EUA, Europa, China e Índia</span></div>
-          <div class="radar-grid" id="radar-grid"></div>
-        </div>
-        <div id="learn-section" style="display:none;">
-          <div class="sec-head"><span class="sec-label">O que aprendemos lá fora</span></div>
-          <div class="learn-grid" id="learn-grid"></div>
-        </div>
         <div id="list-section" style="display:none;">
           <div class="sec-head"><span class="sec-label">Mais Notícias</span></div>
           <div class="news-list" id="news-list"></div>
@@ -577,16 +569,6 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
             <a class="beat-link" href="#" data-side-filter="mercado">Mercado</a>
             <a class="beat-link" href="#" data-side-filter="techia">Tech & IA</a>
             <a class="beat-link" href="#educacao" data-page-shortcut="edu">Educação</a>
-          </div>
-        </div>
-        <div class="side-block">
-          <div class="side-title">Por País</div>
-          <div class="region-list">
-            <a class="region-link" href="#" data-side-filter="country-br">Brasil <span>🇧🇷</span></a>
-            <a class="region-link" href="#" data-side-filter="country-us">EUA <span>🇺🇸</span></a>
-            <a class="region-link" href="#" data-side-filter="country-eu">Europa <span>🇪🇺</span></a>
-            <a class="region-link" href="#" data-side-filter="country-cn">China <span>🇨🇳</span></a>
-            <a class="region-link" href="#" data-side-filter="country-in">Índia <span>🇮🇳</span></a>
           </div>
         </div>
         <div class="side-block">
@@ -2926,7 +2908,7 @@ async function loadNews(){
   setStatus('Carregando drops em português...');
   try{
     lastPayload=await loadNewsPayload();
-    ALL=dedupe((lastPayload.articles||[]).map(decorate).filter(a=>isArticleUrl(a.url)));
+    ALL=dedupe((lastPayload.articles||[]).map(decorate).filter(a=>isArticleUrl(a.url)).filter(a=>articleCountry(a)==='BR'));
     if(!ALL.length) throw new Error('Arquivo sem notícias');
     const updated=new Date(lastPayload.updatedAt);
     document.getElementById('hd-update').textContent=`Atualizado às ${updated.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})}`;
@@ -3067,8 +3049,6 @@ function renderAll(){
   renderList(list);
   renderTrending(sideTrend);
   renderFundingSide(sideFunding);
-  renderGlobalRadar(arts);
-  renderLearnSection(arts);
   renderTicker(arts);
   document.getElementById('grid-section').style.display='block';
 }

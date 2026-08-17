@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T16:55:47.565807+00:00",
+  "updatedAt": "2026-08-17T17:03:01.678856+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -32,6 +32,10 @@
     },
     {
       "name": "Exame",
+      "region": "Brasil"
+    },
+    {
+      "name": "Bloomberg Linea BR",
       "region": "Brasil"
     },
     {
@@ -225,26 +229,6 @@
       "source": "Abstartups",
       "url": "https://news.google.com/rss/search?q=when:7d+site:abstartups.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "a16z",
-      "url": "https://a16z.com/feed/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "First Round Review",
-      "url": "https://review.firstround.com/feed.xml",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Contxto",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:contxto.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "LABS Latam",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:labsnews.com&hl=en-US&gl=US&ceid=US:en",
-      "reason": "falhou direto e via proxy"
     }
   ],
   "articles": [
@@ -371,27 +355,6 @@
       "coverageCount": 1
     },
     {
-      "id": "Crunchbase News-https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
-      "_key": "c5387f78f6f467b8707310dc65b2a864",
-      "title": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools",
-      "originalTitle": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools",
-      "summary": "Our second in a series of articles about non-tech founders getting venture funding features Sarah Buchner, a \"blue-collar worker by background\" who set out to find a way to help construction companies manage their projects more efficiently using AI agents.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://news.crunchbase.com/wp-content/uploads/non-tech-startups-1024x576.jpg",
-      "publishedAt": "2026-08-13T11:00:23+00:00",
-      "score": 57,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Exame-https://exame.com/negocios/startups-globais-de-fundadores-latino-americanos-ja-criaram-us-200-bilhoes-em-valor-de-mercado/",
       "_key": "17e9e05833e3a3715c91d7977d95f88a",
       "title": "Startups globais de fundadores latino-americanos já criaram US$ 200 bilhões em valor de mercado",
@@ -451,27 +414,6 @@
       ],
       "coverageCount": 1,
       "country": "BR"
-    },
-    {
-      "id": "Crunchbase News-https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
-      "_key": "750a16eadfea321179a2807cb9462cbf",
-      "title": "Semiconductor Giants Are Busy Backing Startups This Year",
-      "originalTitle": "Semiconductor Giants Are Busy Backing Startups This Year",
-      "summary": "Massive AI spending has helped push earnings and valuations for semiconductor industry leaders to record levels, prompting the sector's giants to invest record sums in artificial intelligence and robotics startups.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://news.crunchbase.com/wp-content/uploads/Computer_chip_02.jpg",
-      "publishedAt": "2026-08-17T11:00:24+00:00",
-      "score": 52,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
-      ],
-      "coverageCount": 1
     },
     {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/14/pro/saida-de-executivos-coloca-openai-sob-pressao-antes-do-ipo/",
@@ -674,27 +616,6 @@
       "coverageCount": 1
     },
     {
-      "id": "Crunchbase News-https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
-      "_key": "833066e8df9196b534415084b3b614a4",
-      "title": "Lead",
-      "originalTitle": "Lead",
-      "summary": "Databricks is back raising another $5 billion, after it raised that amount just eight months ago. The largest fundings this week also went to an AI neolab, data center and electricity storage, defense, coding and biotech. Let’s take a look.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
-      "publishedAt": "2026-08-14T19:32:36+00:00",
-      "score": 49,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "NeoFeed-https://neofeed.com.br/negocios/com-fedex-fora-da-rota-e-correios-em-crise-dhl-entrega-r-270-milhoes-em-investimentos-no-brasil/",
       "_key": "e2caa5f63db2241de500d94a68f3cbd4",
       "title": "Com FedEx fora da rota e Correios em crise, DHL “entrega” R$ 270 milhões em investimentos no Brasil",
@@ -817,27 +738,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Crunchbase News-https://news.crunchbase.com/health-wellness-biotech/fitness-startup-funding-rebounding-ai-data-h1-2026/",
-      "_key": "c8035bf66847c3b015b3b01c525fc4b3",
-      "title": "Want AI And Data, Not Treadmills",
-      "originalTitle": "Want AI And Data, Not Treadmills",
-      "summary": "Venture investors seem to be more upbeat than they have been in years about the future of fitness and wellness. Startup investment in those categories totaled more than $3.6 billion in the first half of this year, putting 2026 on pace to come in about a third higher than 2025.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://news.crunchbase.com/health-wellness-biotech/fitness-startup-funding-rebounding-ai-data-h1-2026/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://news.crunchbase.com/wp-content/uploads/AI-generated.jpg",
-      "publishedAt": "2026-08-12T11:00:21+00:00",
-      "score": 49,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
       ],
       "coverageCount": 1
     },
@@ -1288,27 +1188,6 @@
       "coverageCount": 1
     },
     {
-      "id": "VentureBeat-https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
-      "_key": "f6d2be0039a0c728de058d526e6f8ee5",
-      "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
-      "originalTitle": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
-      "summary": "Chinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, today released GLM-5.3 with substantial gains in long-horizon coding and a more consequential — and potentially sensitive — jump in cybersecurity capabilities.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
-      "source": "VentureBeat",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4SSp8seVDFTXUdtXn6Rgyr/dfd61c47834cf5cb947b8f5ecbe249f0/ChatGPT_Image_Aug_14__2026__05_51_59_PM.png?w=300&q=30",
-      "publishedAt": "2026-08-14T22:56:16+00:00",
-      "score": 44,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "VentureBeat"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/sangria-vai-longe-bolsa-brasileira-e-emergente-com-maior-peso-em-fundos-globais/",
       "_key": "288f650cbde1c5f0fd2b2f65f1f3ada7",
       "title": "Sangria vai longe? Bolsa brasileira é emergente com maior peso em fundos globais",
@@ -1347,27 +1226,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "NeoFeed"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Crunchbase News-https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026/",
-      "_key": "c5b4f799e075c8f9b7ed3e62f52e6804",
-      "title": "40 Companies Joined The Unicorn Board In July, The Highest Count In 4 Years",
-      "originalTitle": "40 Companies Joined The Unicorn Board In July, The Highest Count In 4 Years",
-      "summary": "The sectors leading the herd to the Unicorn Board in July, by count, were financial services, robotics, AI orchestration, multimodal AI, energy and semiconductors, with the U.S. adding nearly half of the month's newly minted unicorns.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg",
-      "publishedAt": "2026-08-14T11:00:53+00:00",
-      "score": 44,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
       ],
       "coverageCount": 1
     },
@@ -1651,27 +1509,6 @@
       "country": "BR"
     },
     {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/vitol-makes-push-into-data-center-infrastructure-with-us-deal",
-      "_key": "3e22bbe81ebb58b2b2485338fc3456f8",
-      "title": "Vitol Makes Push Into Data-Center Infrastructure With US Deal",
-      "originalTitle": "Vitol Makes Push Into Data-Center Infrastructure With US Deal",
-      "summary": "Vitol said its renewables arm had acquired a data center campus in South Carolina from Meridan Gridworks, one of the first instances of a major commodity trader delving into artificial intelligence infrastructure.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/vitol-makes-push-into-data-center-infrastructure-with-us-deal",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "country": "US",
-      "image": "",
-      "publishedAt": "2026-08-17T16:42:44+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/vibra-ve-espaco-para-ampliar-volumes-e-margens-com-estrategia-e-combate-a-ilegalidade/",
       "_key": "573f33b0d95064e1046d78a3c30fcc2a",
       "title": "Vibra vê espaço para ampliar volumes e margens com estratégia e combate à ilegalidade",
@@ -1689,6 +1526,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/17/marabraz-recuperacao-judicial.ghtml",
+      "_key": "57f71cb01fe48e51b8a283f6a9633d95",
+      "title": "Marabraz entra com pedido de recuperação judicial para renegociar dívida de R$ 140 milhões",
+      "originalTitle": "Marabraz entra com pedido de recuperação judicial para renegociar dívida de R$ 140 milhões",
+      "summary": "Casas Bahia entra com pedido de recuperação judicial A rede de móveis e eletrodomésticos Marabraz protocolou, no último domingo (16), um pedido de recuperação judicial na 3ª Vara de Falências e Recuperações Judiciais de São Paulo.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/marabraz-recuperacao-judicial.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/jJ2iT6BLvr05e33jVTQ3MS6eigw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/E/HeBQBcRqu789Ve7vJ3XQ/lojas-marabraz-3-1300x731-1-1-.jpg",
+      "publishedAt": "2026-08-17T14:35:54+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
       ],
       "coverageCount": 1
     },
@@ -2739,27 +2597,6 @@
       "country": "BR"
     },
     {
-      "id": "Crunchbase News-https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees/",
-      "_key": "3402f6c5f06873fa4674784a6bab406d",
-      "title": "The VC Firm That Helped Build Latin America’s Startup Scene Is Crossing Into Silicon Valley",
-      "originalTitle": "The VC Firm That Helped Build Latin America’s Startup Scene Is Crossing Into Silicon Valley",
-      "summary": "Monashees, one of Latin America's oldest and most influential VC firms, believes the next phase of the region's startup ecosystem requires a permanent Silicon Valley presence, opening a San Francisco office last year.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://news.crunchbase.com/wp-content/uploads/2021/02/California_.jpg",
-      "publishedAt": "2026-08-11T11:00:59+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Startupi-https://startupi.com.br/a-embraer-da-floresta-uma-historia-de-potencia-empreendedora-no-coracao-da-amazonia/",
       "_key": "329ff74a951d69423eb0bf3269942f23",
       "title": "A Embraer da floresta, uma história de potência empreendedora no coração da Amazônia",
@@ -3703,27 +3540,6 @@
       "country": "BR"
     },
     {
-      "id": "Crunchbase News-https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/",
-      "_key": "b6e9794ee6a9f8b29d672c082e5c8ccd",
-      "title": "Global New Unicorn Counts In The First Half Of 2026 Have Already Surpassed 2025’s Totals",
-      "originalTitle": "Global New Unicorn Counts In The First Half Of 2026 Have Already Surpassed 2025’s Totals",
-      "summary": "A total 195 companies joined The Crunchbase Unicorn Board in the first half of 2026 — far surpassing counts seen since the second half of 2022. Already, H1 is above the new unicorn totals for all of 2025, when 193 companies were minted with that status.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://news.crunchbase.com/wp-content/uploads/Rise-of-Unicorns.jpg",
-      "publishedAt": "2026-08-10T11:00:38+00:00",
-      "score": 38,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "G1 Economia-https://g1.globo.com/loterias/mega-sena/noticia/2026/08/09/concurso-3042-da-mega-sena-confira-os-numeros-sorteados.ghtml",
       "_key": "b88df3a36e2e5908202e5d3191abc31f",
       "title": "Concurso 3042 da Mega-Sena: bolão acerta as seis dezenas e ganha R$ 164,9 milhões",
@@ -3929,6 +3745,27 @@
       "coverageCount": 1
     },
     {
+      "id": "Bloomberg Linea BR-https://www.bloomberglinea.com.br/2026/08/17/presidente-do-conselho-do-monzo-gary-hoffman-vai-deixar-cargo-no-banco-digital/",
+      "_key": "027c3b3ab1f0e38d8cfb850acb66b011",
+      "title": "Presidente do Conselho do Monzo, Gary Hoffman, vai deixar cargo no banco digital",
+      "originalTitle": "Presidente do Conselho do Monzo, Gary Hoffman, vai deixar cargo no banco digital",
+      "summary": "Hoffman havia enfrentado pressão de acionistas em meio a divergências entre a liderança e o conselho sobre os planos de expansão do banco digital. Karen Peacock deverá assumir interinamente o cargo",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberglinea.com.br/2026/08/17/presidente-do-conselho-do-monzo-gary-hoffman-vai-deixar-cargo-no-banco-digital/",
+      "source": "Bloomberg Linea BR",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.bloomberglinea.com/resizer/v2/2O7F6LHVHVFKRNW3G3OU6ELSOY.jpeg?auth=5a4876711600d1a6620f8bcd69c9a13bf99d6d84e54e290fc78f0b8672010340&amp;width=1200&amp;height=630&amp;quality=80&amp;smart=true",
+      "publishedAt": "2026-08-17T15:17:30+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Linea BR"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/17/dona-do-tiktok-assina-acordo-sobre-direitos-autorais-de-ia-com-grupo-de-hollywood.ghtml",
       "_key": "00f38f2e0fa54b7b230fc805950e46f2",
       "title": "Dona do TikTok assina acordo sobre direitos autorais de IA com grupo de Hollywood",
@@ -3946,27 +3783,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "VentureBeat-https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
-      "_key": "6b8d89d379a051eae3585312479c0d67",
-      "title": "How Heidi built production-ready AI for healthcare at global scale",
-      "originalTitle": "How Heidi built production-ready AI for healthcare at global scale",
-      "summary": "Presented by MongoDB Building AI that is accurate, secure, and reliable is a major engineering feat for organizations subject to the compliance obligations that govern healthcare, financial services, and transportation.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
-      "source": "VentureBeat",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1nCLzQa4Tgn03PPfS2aB0A/e8319b09ef2f6fbaac11c34c12d6eae8/AdobeStock_650145795.jpeg?w=300&q=30",
-      "publishedAt": "2026-08-17T14:30:00+00:00",
-      "score": 36,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "VentureBeat"
       ],
       "coverageCount": 1
     },
@@ -5333,27 +5149,6 @@
       "coverageCount": 1
     },
     {
-      "id": "VentureBeat-https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
-      "_key": "722c6e1bcd4b06f0916a3eca05be0382",
-      "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
-      "originalTitle": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
-      "summary": "A company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likely to report the failure happening — not less.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
-      "source": "VentureBeat",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7HlP9eF4ws6aVTKtLKEI5z/3572d302cdc70c680790f21770fb69ed/missing-piece-smk1.jpg?w=300&q=30",
-      "publishedAt": "2026-08-17T16:11:44+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "VentureBeat"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Canaltech-https://canaltech.com.br/inteligencia-artificial/padrasto-usava-o-grok-para-criar-mais-de-7-mil-imagens-criminosas-da-enteada/",
       "_key": "3711005b6577a7f7dfc778db2407d131",
       "title": "Padrasto usava o Grok para criar mais de 7 mil imagens criminosas da enteada",
@@ -5480,69 +5275,6 @@
       "coverageCount": 1
     },
     {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-17/america-s-critical-minerals-push-accelerates-video",
-      "_key": "67b692a9266c6b65ac0ffb6f38c3067f",
-      "title": "America’s Critical Minerals Push Accelerates",
-      "originalTitle": "America’s Critical Minerals Push Accelerates",
-      "summary": "than 85% of critical-mineral refining poses a major US supply-chain risk. She breaks down Washington’s push to keep battery materials at home, the government support needed to compete with China, and how Nth Cycle says its technology can bring domestic refining online faster.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/america-s-critical-minerals-push-accelerates-video",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "country": "US",
-      "image": "",
-      "publishedAt": "2026-08-17T15:32:00+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-17/alibaba-macy-s-rise-snap-shares-tumble-stock-movers-video",
-      "_key": "5ac6092ab6d44827ecda29c1e8690aa3",
-      "title": "Movers",
-      "originalTitle": "Movers",
-      "summary": "On this episode of Stock Movers: - Shares of Alibaba (BABA) rise after disclosing a deal to sell its gaming arm and touting claims of more than 3 billion downloads for its open AI model.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/alibaba-macy-s-rise-snap-shares-tumble-stock-movers-video",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "country": "US",
-      "image": "",
-      "publishedAt": "2026-08-17T15:26:28+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "The Verge-https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
-      "_key": "69a31c3881784b8abc035001e97d4380",
-      "title": "third-party apps",
-      "originalTitle": "third-party apps",
-      "summary": "apps. Apple's App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5, making cross-app tracking of users largely opt in. But [&#8230;]",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
-      "source": "The Verge",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697380/STK071_APPLE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "publishedAt": "2026-08-17T15:10:25+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "The Verge"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Canaltech-https://canaltech.com.br/apps/app-oficial-do-geforce-now-chega-ao-ubuntu-e-mais-distribuicoes-linux/",
       "_key": "2bb530ccc78b52f3d23e1e00f9f6fef1",
       "title": "distribuições Linux",
@@ -5581,27 +5313,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Olhar Digital"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/casas-bahia-files-for-bankruptcy-on-high-rates-tight-credit",
-      "_key": "5b7edb3034114073b5d3305c39426c9e",
-      "title": "Casas Bahia Files for Bankruptcy on High Rates, Tight Credit",
-      "originalTitle": "Casas Bahia Files for Bankruptcy on High Rates, Tight Credit",
-      "summary": "Grupo Casas Bahia SA filed for bankruptcy protection in Sao Paulo, after an out-of-court debt restructuring with its main creditors proved insufficient to resolve its financial troubles.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/casas-bahia-files-for-bankruptcy-on-high-rates-tight-credit",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "country": "US",
-      "image": "",
-      "publishedAt": "2026-08-17T14:57:22+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
       ],
       "coverageCount": 1
     },
@@ -6421,27 +6132,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "VentureBeat-https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
-      "_key": "038753d3eb32b61a0d28f286f3294ea8",
-      "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
-      "originalTitle": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
-      "summary": "There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it&#x27;s tedious, time-consuming, and doesn&#x27;t produce results visible to end users: Verifying that what the model is saying is actually correct.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
-      "source": "VentureBeat",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5i7p6do1zSmoo71Z58g81z/271b2f52cede8bfb4b801d4dafdc70d9/u7277289442_A_teacher_is_sitting_at_a_desk._View_from_behind._0f474f7c-90c2-4350-85cd-0f23e41636c4_0.png?w=300&q=30",
-      "publishedAt": "2026-08-15T19:00:00+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "VentureBeat"
       ],
       "coverageCount": 1
     },
@@ -8525,27 +8215,6 @@
       "coverageCount": 1
     },
     {
-      "id": "TechCrunch Startups-https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "_key": "52a02d64cc9571fa80ad8d92cf5742b7",
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "originalTitle": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "source": "TechCrunch Startups",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800",
-      "publishedAt": "2026-08-12T16:46:02+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechCrunch Startups"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/12/reviews/som-de-cinema-em-casa-veja-uma-selecao-de-soundbars-em-promocao-na-amazon-9/",
       "_key": "8a333b220c848bef7d6de837253c9a5e",
       "title": "Som de cinema em casa: veja uma seleção de soundbars em promoção na Amazon",
@@ -8731,27 +8400,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "TechCrunch Startups-https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "_key": "eda20700950cdebea271b94ff225a74f",
-      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "originalTitle": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "source": "TechCrunch Startups",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/Sandbar_stream_ring-feat.jpg?resize=1200,675",
-      "publishedAt": "2026-08-12T14:22:00+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechCrunch Startups"
       ],
       "coverageCount": 1
     },
@@ -11146,48 +10794,6 @@
       "coverageCount": 1
     },
     {
-      "id": "The Verge-https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection",
-      "_key": "60e446201dd12bc7f73a7e630363f98b",
-      "title": "The Analogue Pocket gets a Supreme makeover in red or gold",
-      "originalTitle": "The Analogue Pocket gets a Supreme makeover in red or gold",
-      "summary": "Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection. Here's how they're described on Supreme's website: Metallic portable handheld multi-video-game-system.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection",
-      "source": "The Verge",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/s_pdp_desktop.c84e4b0b9dd86d1c62db6f65038c90bd.png.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "publishedAt": "2026-08-17T16:40:32+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "The Verge"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/microsoft-tied-project-odyssey-bond-lures-buyers-at-junk-yield",
-      "_key": "d5b7e712b2697732901f5f90f33445f2",
-      "title": "Microsoft-Tied ‘Project Odyssey’ Bond Lures Buyers at Junk Yield",
-      "originalTitle": "Microsoft-Tied ‘Project Odyssey’ Bond Lures Buyers at Junk Yield",
-      "summary": "A corporate-bond sale dubbed “Project Odyssey” may be increased to $3.9 billion as junk-like yields on the Microsoft Corp.-linked data-center financing drew more than twice that amount in demand.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/microsoft-tied-project-odyssey-bond-lures-buyers-at-junk-yield",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "country": "US",
-      "image": "",
-      "publishedAt": "2026-08-17T16:26:37+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Olhar Digital-https://olhardigital.com.br/2026/08/17/internet-e-redes-sociais/processo-contra-meta-coloca-futuro-do-instagram-e-facebook-sob-pressao/",
       "_key": "f3a872728b7d48d6370834c3685e40f4",
       "title": "Processo contra Meta coloca futuro do Instagram e Facebook sob pressão",
@@ -11247,27 +10853,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Olhar Digital"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "The Verge-https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale",
-      "_key": "869918de55de3c8224f404038217223a",
-      "title": "off",
-      "originalTitle": "off",
-      "summary": "Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not locked down to play nicely with select music services. It supports over 20 services, and it sports Wi-Fi 6E, Bluetooth 5.3 and ethernet, [&#8230;]",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale",
-      "source": "The Verge",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vergedealsgrifstudio.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "publishedAt": "2026-08-17T14:35:25+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "The Verge"
       ],
       "coverageCount": 1
     },
@@ -11352,69 +10937,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Olhar Digital"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "The Verge-https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "_key": "12d0a63d861efd8035e1ddeac3962cc1",
-      "title": "bodies",
-      "originalTitle": "bodies",
-      "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "source": "The Verge",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "publishedAt": "2026-08-17T11:00:00+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "The Verge"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Bloomberg Markets-https://www.bloomberg.com/news/articles/2026-08-17/ascend-sport-said-to-mull-listing-in-up-to-740-million-merger",
-      "_key": "a2c6cf3e633d322c30d9bc440fdf8a7b",
-      "title": "Ascend Sport Is in Talks With EvoNext on Merger to Go Public",
-      "originalTitle": "Ascend Sport Is in Talks With EvoNext on Merger to Go Public",
-      "summary": "Switzerland’s Ascend Sport Technology AG is in advanced discussions with SIX Swiss Exchange-listed shell company EvoNext Holdings SA that could bring it to the stock market through a reverse merger, according to a statement on Monday.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/ascend-sport-said-to-mull-listing-in-up-to-740-million-merger",
-      "source": "Bloomberg Markets",
-      "region": "Internacional",
-      "country": "US",
-      "image": "",
-      "publishedAt": "2026-08-17T09:24:56+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Bloomberg Markets"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "VentureBeat-https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
-      "_key": "04f5fecc882ab20753221c42d981191c",
-      "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
-      "originalTitle": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
-      "summary": "Most teams building retrieval augmented generation (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context to sort it out. This works fine in a demo.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
-      "source": "VentureBeat",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7uLwfjMYQqxK7sEOJclb9X/c49147c0a943de6964f0ba5e817b75bf/u7277289442_A_modern_IT_stack._Data_flowing._Colorful._Neon.__6bde8cd6-a885-48ae-82cf-7dbe164e3f5d_3.png?w=300&q=30",
-      "publishedAt": "2026-08-16T20:45:00+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "VentureBeat"
       ],
       "coverageCount": 1
     },
@@ -11839,27 +11361,6 @@
       "coverageCount": 1
     },
     {
-      "id": "TechCrunch Startups-https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "_key": "dcd4371e3077a5a2aacbdf3e63f89636",
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "originalTitle": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "TechCrunch Startups",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
-      "publishedAt": "2026-08-14T14:00:00+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "TechCrunch Startups"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Brazil Journal-https://braziljournal.com/bofa-recruta-greg-reider-ex-warburg-pincus-para-liderar-tech-no-brasil/",
       "_key": "5e97ca192d07b1a08a3a72ac23dd4405",
       "title": "BofA recruta ex-Warburg Pincus para liderar tech na América Latina",
@@ -11982,27 +11483,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Tecnoblog"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Crunchbase News-https://news.crunchbase.com/startups/tech-layoffs/",
-      "_key": "77b0de17c62bb24803548f06fb3a9192",
-      "title": "The Crunchbase Tech Layoffs Tracker",
-      "originalTitle": "The Crunchbase Tech Layoffs Tracker",
-      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-      "source": "Crunchbase News",
-      "region": "Internacional",
-      "country": "US",
-      "image": "https://news.crunchbase.com/wp-content/uploads/Layoffs-scissors.jpg",
-      "publishedAt": "2026-08-13T14:00:30+00:00",
-      "score": 30,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Crunchbase News"
       ],
       "coverageCount": 1
     },
