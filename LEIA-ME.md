@@ -10,7 +10,27 @@ Você não precisa colar nada à mão.
   Puxa o RSS das fontes, detecta matérias novas, reescreve e salva no Netlify Blobs.
 - `netlify/functions/materias.mjs` entrega as matérias prontas para o site.
 - `collector.py` mantém o arquivo `data/news.json` com notícias de veículos brasileiros selecionados.
+- `data/articles.json` reúne artigos autorais publicados no LinkedIn para a seção "Artigos".
 - `index.html` é o portal: lê as matérias já reescritas e exibe na identidade StartupDrops.
+
+## Artigos do LinkedIn
+
+Adicione seus artigos em `data/articles.json` neste formato:
+
+```json
+{
+  "profileUrl": "https://www.linkedin.com/in/seu-perfil/",
+  "articles": [
+    {
+      "title": "Título do artigo",
+      "excerpt": "Resumo curto para aparecer no card.",
+      "url": "https://www.linkedin.com/pulse/...",
+      "publishedAt": "2026-08-17T12:00:00-03:00",
+      "source": "LinkedIn"
+    }
+  ]
+}
+```
 
 ## Deploy (passo a passo)
 

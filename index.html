@@ -469,8 +469,23 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
 .static-card h2{font-family:var(--sans);font-size:1.2rem;margin-bottom:10px;color:var(--ink);}
 .static-list{display:grid;gap:12px;margin-top:18px;}
 .static-list a,.static-list span{display:flex;justify-content:space-between;gap:16px;padding:14px 16px;border:1px solid var(--rule);border-radius:999px;text-decoration:none;color:var(--ink2);font-weight:800;background:#fff;}
+.articles-layout{max-width:1120px;margin:0 auto;padding:42px 0 72px;display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:34px;}
+.articles-head{margin-bottom:24px;border-bottom:1px solid var(--rule);padding-bottom:18px;}
+.articles-head h1{font-family:var(--sans);font-size:2.5rem;line-height:1.08;letter-spacing:-.04em;color:var(--ink);margin-bottom:10px;}
+.articles-head p{font-size:.98rem;line-height:1.65;color:var(--ink3);max-width:680px;}
+.articles-grid{display:grid;gap:14px;}
+.article-link-card{display:block;background:#fff;border:1px solid var(--rule);border-radius:10px;padding:20px;text-decoration:none;color:inherit;box-shadow:var(--shadow-sm);transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;}
+.article-link-card:hover{transform:translateY(-2px);border-color:#c7d7fe;box-shadow:var(--shadow);}
+.article-link-card .source{font-size:.68rem;font-weight:900;letter-spacing:.12em;text-transform:uppercase;color:#4326b7;margin-bottom:10px;}
+.article-link-card h2{font-family:var(--serif);font-size:1.35rem;line-height:1.22;color:var(--ink);margin-bottom:10px;}
+.article-link-card p{font-size:.88rem;line-height:1.6;color:var(--ink3);margin:0 0 12px;}
+.article-link-card .meta{font-size:.72rem;color:var(--ink4);}
+.author-panel{background:#fff;border:1px solid var(--rule);border-radius:10px;padding:22px;box-shadow:var(--shadow-sm);height:fit-content;}
+.author-panel h2{font-family:var(--sans);font-size:1.2rem;line-height:1.2;margin-bottom:10px;color:var(--ink);}
+.author-panel p{font-size:.86rem;line-height:1.6;color:var(--ink3);margin-bottom:16px;}
+.author-panel .read-link{width:100%;justify-content:center;}
 @media(max-width:960px){.site-header{grid-template-columns:1fr;gap:12px;padding:16px 18px;}.site-nav{justify-content:flex-start;overflow-x:auto;}.header-right{justify-content:space-between;}.footer-inner{grid-template-columns:1fr;gap:30px;}.footer-bottom{flex-direction:column;}.newsletter-form{grid-template-columns:1fr;}.site-newsletter{margin-left:14px;margin-right:14px;}}
-@media(max-width:960px){.media-kit{padding:34px 14px 56px;}.media-hero h1{font-size:2.8rem;}.media-stats,.media-grid,.price-grid{grid-template-columns:1fr;}.media-stat{border-right:0;border-bottom:1px solid var(--rule2);}.media-stat:last-child{border-bottom:0;}.media-top{align-items:flex-start;gap:14px;flex-direction:column;}.static-page{padding:44px 14px 62px;}.static-page h1{font-size:2.6rem;}}
+@media(max-width:960px){.media-kit{padding:34px 14px 56px;}.media-hero h1{font-size:2.8rem;}.media-stats,.media-grid,.price-grid,.articles-layout{grid-template-columns:1fr;}.media-stat{border-right:0;border-bottom:1px solid var(--rule2);}.media-stat:last-child{border-bottom:0;}.media-top{align-items:flex-start;gap:14px;flex-direction:column;}.static-page,.articles-layout{padding:44px 14px 62px;}.static-page h1,.articles-head h1{font-size:2.6rem;}}
 @media(max-width:580px){.site-header{margin:0;padding:14px;}.ticker-label{margin-left:14px;}.site-newsletter h2{font-size:1.55rem;}.site-footer{padding-top:34px;}.media-hero h1,.static-page h1{font-size:2.25rem;}.media-section-head{align-items:flex-start;flex-direction:column;}.price-card{padding:24px;}.static-list a,.static-list span{border-radius:12px;}}
 
 </style>
@@ -496,6 +511,7 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
     <a href="#" data-page="news" data-cat="mercado">Mercado</a>
     <a href="#" data-page="news" data-cat="techia">Tech & IA</a>
     <span class="nav-divider">|</span>
+    <a href="#" data-page="articles">Artigos</a>
     <a href="#" data-page="edu" class="nav-edu">Educação</a>
   </nav>
   <div class="header-right">
@@ -598,6 +614,25 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
         </div>
       </aside>
     </div>
+  </div>
+
+  <!-- ARTIGOS -->
+  <div class="page" id="page-articles">
+    <section class="articles-layout">
+      <main>
+        <div class="articles-head">
+          <div class="static-kicker">LinkedIn</div>
+          <h1>Artigos</h1>
+          <p>Análises autorais sobre startups, tecnologia, capital e construção de negócios.</p>
+        </div>
+        <div class="articles-grid" id="articles-grid"></div>
+      </main>
+      <aside class="author-panel">
+        <h2>Leonardo Brasil</h2>
+        <p>Conteúdo autoral publicado originalmente no LinkedIn, reunido aqui para consulta no acervo do StartupDrops.</p>
+        <a class="read-link" id="linkedin-profile-link" href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">Ver no LinkedIn →</a>
+      </aside>
+    </section>
   </div>
 
   <!-- EDUCAÇÃO -->
@@ -779,6 +814,7 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
         <a href="#" data-side-filter="startups">Startups</a>
         <a href="#" data-side-filter="mercado">Mercado</a>
         <a href="#" data-side-filter="techia">Tech & IA</a>
+        <a href="#artigos" data-page-shortcut="articles">Artigos</a>
         <a href="#educacao" data-page-shortcut="edu">Educação</a>
       </div>
     </div>
@@ -787,6 +823,7 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
       <div class="footer-links">
         <a href="#envie-sua-pauta">Envie sua pauta</a>
         <a href="mailto:contato@startupdrops.com.br">Contato comercial</a>
+        <a href="#artigos" data-page-shortcut="articles">Artigos</a>
         <a href="#media-kit" data-page-shortcut="media">Media Kit</a>
         <a href="#newsletter">Newsletter</a>
         <a href="#privacidade">Privacidade</a>
@@ -2415,6 +2452,7 @@ const BRAND = {
   //   namePlain:'Morning Drops', namePrefix:'Morning', nameSuffix:'Drops'
 };
 const DATA_URL = './data/news.json';
+const ARTICLES_URL = './data/articles.json';
 function applyBrand(){
   const set=(id,val)=>{ const el=document.getElementById(id); if(el) el.textContent=val; };
   set('brand-prefix',BRAND.namePrefix);
@@ -2896,7 +2934,7 @@ function articleParagraphs(a){
 }
 
 // ── STATE ──────────────────────────────────────────────────────────────────────
-let ALL=[], MANUAL=[], activeFilter='all', lastPayload=null, searchQuery='', listPage=1;
+let ALL=[], MANUAL=[], ARTICLES=[], ARTICLES_PROFILE='', activeFilter='all', lastPayload=null, searchQuery='', listPage=1;
 const PER_PAGE=20;
 const NOW=new Date();
 document.getElementById('tb-date').textContent=NOW.toLocaleDateString('pt-BR');
@@ -2956,6 +2994,27 @@ async function loadNewsPayload(){
   if(emb) return emb;
 
   throw new Error('Não consegui ler as notícias');
+}
+async function loadArticles(){
+  try{
+    const data=await loadArticlesPayload();
+    ARTICLES=Array.isArray(data.articles) ? data.articles.filter(a=>a.title && a.url) : [];
+    ARTICLES_PROFILE=data.profileUrl || '';
+  }catch{
+    ARTICLES=[];
+    ARTICLES_PROFILE='';
+  }
+  renderLinkedInArticles();
+}
+async function loadArticlesPayload(){
+  try{
+    const controller=new AbortController();
+    const timer=setTimeout(()=>controller.abort(),4000);
+    const response=await fetch(ARTICLES_URL,{cache:'no-store',signal:controller.signal});
+    clearTimeout(timer);
+    if(response.ok) return await response.json();
+  }catch{}
+  return { profileUrl:'', articles:[] };
 }
 function triggerRefresh(){
   document.getElementById('hero-area').innerHTML=`<div class="loader"><div class="spinner"></div><div class="loader-label">Recarregando drops...</div></div>`;
@@ -3232,6 +3291,31 @@ function renderTicker(arts){
   document.getElementById('ticker').innerHTML=d.map(a=>`<a href="${articleHref(a)}" class="ticker-link">${a.title}</a>`).join('');
 }
 
+function renderLinkedInArticles(){
+  const grid=document.getElementById('articles-grid');
+  if(!grid) return;
+  const profile=document.getElementById('linkedin-profile-link');
+  if(profile && ARTICLES_PROFILE) profile.href=ARTICLES_PROFILE;
+  if(!ARTICLES.length){
+    grid.innerHTML='<div class="msg-box">Ainda não há artigos no acervo.</div>';
+    return;
+  }
+  grid.innerHTML=ARTICLES.map(a=>{
+    const published=a.publishedAt ? new Date(a.publishedAt) : null;
+    const dateLabel=published && !Number.isNaN(published.getTime())
+      ? published.toLocaleDateString('pt-BR',{day:'numeric',month:'long',year:'numeric'})
+      : 'LinkedIn';
+    const excerpt=clean(a.excerpt||a.summary||'');
+    return `
+      <a class="article-link-card" href="${a.url}" target="_blank" rel="noopener noreferrer">
+        <div class="source">${a.source||'LinkedIn'}</div>
+        <h2>${a.title}</h2>
+        ${excerpt ? `<p>${excerpt}</p>` : ''}
+        <div class="meta">${dateLabel}</div>
+      </a>`;
+  }).join('');
+}
+
 function findArticleByHash(){
   const match=location.hash.match(/^#artigo\/(.+)$/);
   if(!match) return null;
@@ -3328,6 +3412,13 @@ function route(){
     document.title='Educação | '+BRAND.namePlain;
     return;
   }
+  if(location.hash==='#artigos'){
+    showPage('page-articles');
+    document.querySelector('.site-nav a[data-page="articles"]')?.classList.add('active');
+    document.title='Artigos | '+BRAND.namePlain;
+    renderLinkedInArticles();
+    return;
+  }
   if(location.hash==='#home'){
     history.replaceState(null,'',location.pathname + location.search);
     activeFilter='all'; searchQuery=''; listPage=1;
@@ -3352,6 +3443,10 @@ document.querySelectorAll('.site-nav a').forEach(link=>{
     if(page==='edu'){
       history.replaceState(null,'',location.pathname + location.search + '#educacao');
       document.getElementById('page-edu').classList.add('active');
+    } else if(page==='articles'){
+      history.replaceState(null,'',location.pathname + location.search + '#artigos');
+      document.getElementById('page-articles').classList.add('active');
+      renderLinkedInArticles();
     } else {
       history.replaceState(null,'',location.pathname + location.search);
       document.getElementById('page-news').classList.add('active');
@@ -3387,6 +3482,16 @@ document.querySelectorAll('[data-page-shortcut="edu"]').forEach(link=>{
     document.getElementById('page-edu').classList.add('active');
     document.querySelectorAll('.site-nav a').forEach(a=>a.classList.toggle('active',a.dataset.page==='edu'));
     history.replaceState(null,'',location.pathname + location.search + '#educacao');
+    window.scrollTo({top:0,behavior:'smooth'});
+  });
+});
+document.querySelectorAll('[data-page-shortcut="articles"]').forEach(link=>{
+  link.addEventListener('click',e=>{
+    e.preventDefault();
+    history.replaceState(null,'',location.pathname + location.search + '#artigos');
+    showPage('page-articles');
+    document.querySelectorAll('.site-nav a').forEach(a=>a.classList.toggle('active',a.dataset.page==='articles'));
+    renderLinkedInArticles();
     window.scrollTo({top:0,behavior:'smooth'});
   });
 });
@@ -3662,6 +3767,7 @@ renderDrops();
 // ── INIT ──────────────────────────────────────────────────────────────────────
 applyBrand();
 loadNews();
+loadArticles();
 
 </script>
 </body>
