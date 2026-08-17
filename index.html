@@ -469,7 +469,7 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
 .static-card h2{font-family:var(--sans);font-size:1.2rem;margin-bottom:10px;color:var(--ink);}
 .static-list{display:grid;gap:12px;margin-top:18px;}
 .static-list a,.static-list span{display:flex;justify-content:space-between;gap:16px;padding:14px 16px;border:1px solid var(--rule);border-radius:999px;text-decoration:none;color:var(--ink2);font-weight:800;background:#fff;}
-.articles-layout{max-width:1120px;margin:0 auto;padding:42px 0 72px;display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:34px;}
+.articles-layout{max-width:980px;margin:0 auto;padding:42px 0 72px;display:grid;grid-template-columns:1fr;gap:34px;}
 .articles-head{margin-bottom:24px;border-bottom:1px solid var(--rule);padding-bottom:18px;}
 .articles-head h1{font-family:var(--sans);font-size:2.5rem;line-height:1.08;letter-spacing:-.04em;color:var(--ink);margin-bottom:10px;}
 .articles-head p{font-size:.98rem;line-height:1.65;color:var(--ink3);max-width:680px;}
@@ -492,10 +492,6 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
 .article-detail .lead{font-size:1.04rem;line-height:1.75;color:var(--ink2);font-weight:650;margin-bottom:22px;}
 .article-prose{display:grid;gap:18px;}
 .article-prose p{font-size:1.02rem;line-height:1.82;color:var(--ink2);margin:0;}
-.author-panel{background:#fff;border:1px solid var(--rule);border-radius:10px;padding:22px;box-shadow:var(--shadow-sm);height:fit-content;}
-.author-panel h2{font-family:var(--sans);font-size:1.2rem;line-height:1.2;margin-bottom:10px;color:var(--ink);}
-.author-panel p{font-size:.86rem;line-height:1.6;color:var(--ink3);margin-bottom:16px;}
-.author-panel .read-link{width:100%;justify-content:center;}
 @media(max-width:960px){.site-header{grid-template-columns:1fr;gap:12px;padding:16px 18px;}.site-nav{justify-content:flex-start;overflow-x:auto;}.header-right{justify-content:space-between;}.footer-inner{grid-template-columns:1fr;gap:30px;}.footer-bottom{flex-direction:column;}.newsletter-form{grid-template-columns:1fr;}.site-newsletter{margin-left:14px;margin-right:14px;}}
 @media(max-width:960px){.media-kit{padding:34px 14px 56px;}.media-hero h1{font-size:2.8rem;}.media-stats,.media-grid,.price-grid,.articles-layout{grid-template-columns:1fr;}.media-stat{border-right:0;border-bottom:1px solid var(--rule2);}.media-stat:last-child{border-bottom:0;}.media-top{align-items:flex-start;gap:14px;flex-direction:column;}.static-page,.articles-layout{padding:44px 14px 62px;}.static-page h1,.articles-head h1{font-size:2.6rem;}}
 @media(max-width:720px){.article-link-card{grid-template-columns:1fr;}.article-card-image{height:190px;}.article-detail h2{font-size:2rem;}.article-detail-body{padding:22px;}}
@@ -639,10 +635,6 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
         </div>
         <div class="articles-grid" id="articles-grid"></div>
       </main>
-      <aside class="author-panel">
-        <h2>Leonardo Brasil</h2>
-        <p>Ensaios autorais sobre crescimento, capital, estratégia e gestão para fundadores e operadores do ecossistema.</p>
-      </aside>
     </section>
   </div>
 
@@ -9088,7 +9080,7 @@ const BRAND = {
   //   namePlain:'Morning Drops', namePrefix:'Morning', nameSuffix:'Drops'
 };
 const DATA_URL = './data/news.json?v=20260817-4';
-const ARTICLES_URL = './data/articles.json?v=20260817-4';
+const ARTICLES_URL = './data/articles.json?v=20260817-5';
 function applyBrand(){
   const set=(id,val)=>{ const el=document.getElementById(id); if(el) el.textContent=val; };
   set('brand-prefix',BRAND.namePrefix);
@@ -9953,6 +9945,7 @@ function renderSiteArticles(){
             <a class="article-back" href="#artigos">← Voltar aos artigos</a>
             <h2>${escapeHtml(article.title)}</h2>
             ${dateLabel || article.readingTime ? `<div class="article-meta">${escapeHtml([dateLabel,article.readingTime].filter(Boolean).join(' · '))}</div>` : ''}
+            <div class="article-meta">Por ${escapeHtml(article.author||'Leonardo Brasil')}</div>
             ${article.excerpt ? `<p class="lead">${escapeHtml(article.excerpt)}</p>` : ''}
             <div class="article-prose">
               ${paragraphs.map(p=>`<p>${escapeHtml(p)}</p>`).join('')}

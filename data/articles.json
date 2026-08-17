@@ -1,6 +1,5 @@
 {
-  "updatedAt": "2026-08-17T18:00:00.000000+00:00",
-  "author": "Leonardo Brasil",
+  "updatedAt": "2026-08-17T18:10:00.000000+00:00",
   "articles": [
     {
       "slug": "china-venture-capital",
@@ -22,7 +21,8 @@
         "Um VC tradicional pode pensar: -> Retorno lento demais. Um governo pode pensar: -> Daqui a 15 anos não quero depender de outro país para comprar essa tecnologia. A lógica econômica muda. Então você começa a perceber uma espécie de ecossistema: Estado + Big Tech + VC + indústria + mercado de capitais. Não são mundos completamente separados.",
         "O IPO está sendo usado como parte da estratégia Durante alguns anos, um dos grandes problemas do VC chinês foi a dificuldade de exits. Agora existe esforço explícito para facilitar a listagem de empresas de setores considerados estratégicos. Em 2026, empresas chinesas de tecnologia haviam levantado US$ 3,1 bilhões em IPOs domésticos até 18 de junho, mais de cinco vezes o volume do mesmo período do ano anterior.",
         "Cerca de 50 empresas de áreas como chips e robótica estavam buscando abrir capital. Isso fecha o ciclo: Estado financia ↓ VC financia ↓ empresa desenvolve tecnologia ↓ escala industrial ↓ IPO doméstico ↓ capital volta ao ecossistema Esse ciclo pode ser extremamente poderoso se funcionar."
-      ]
+      ],
+      "author": "Leonardo Brasil"
     },
     {
       "slug": "ceo-alocar-capital",
@@ -46,7 +46,8 @@
         "Onde vamos investir? Onde vamos reduzir? O que merece mais capital? O que não merece mais nenhum? E talvez a decisão mais difícil de todas: Quando é melhor simplesmente não fazer nada e esperar? Não existe capital infinito. Não existe time infinito. E certamente não existe tempo infinito. Toda vez que uma empresa escolhe financiar uma iniciativa, ela também está escolhendo não financiar várias outras.",
         "É por isso que uma empresa pode ter bons produtos, bons executivos, caixa e ainda assim perder valor ao longo dos anos. Ela pode executar muito bem as decisões erradas. No final, talvez uma das principais responsabilidades de um CEO não seja encontrar cada vez mais lugares para colocar dinheiro. É saber quais oportunidades realmente merecem o capital da empresa.",
         "A pergunta que deixo não é onde a sua empresa está investindo... É....se você tivesse que alocar novamente cada real do orçamento hoje, colocaria o dinheiro nos mesmos lugares?"
-      ]
+      ],
+      "author": "Leonardo Brasil"
     },
     {
       "slug": "custo-invisivel-complexidade",
@@ -66,7 +67,8 @@
         "-> Eliminar a reunião que só existe para tapar um buraco de informação que um sistema bem configurado resolveria.",
         "Simplificar é uma decisão desconfortável, porque toda camada tem um dono, uma história e uma justificativa. Ninguém defende a complexidade no abstrato, mas todo mundo defende a própria exceção. Por isso a simplificação raramente acontece de baixo para cima. É uma decisão de quem tem a visão do todo e a autoridade para dizer não.",
         "A pergunta que deixo não é quanto a sua empresa precisa crescer.... É....quanto da sua operação existe apenas para administrar a complexidade que ela mesma criou?"
-      ]
+      ],
+      "author": "Leonardo Brasil"
     },
     {
       "slug": "unicornio-metrica-vaidade",
@@ -97,7 +99,8 @@
         "É necessário observar se a empresa consegue crescer sem consumir capital em proporção cada vez maior, se possui margens que podem sustentar a operação, se recupera o investimento feito na aquisição dos clientes e se mantém a receita ao longo do tempo. Também é preciso avaliar quanto da receita está concentrada em poucos contratos, qual é o nível de dependência dos fundadores, se as informações financeiras são confiáveis, se a governança acompanha o crescimento da companhia e se existe um caminho razoável para uma venda, fusão ou abertura de capital.",
         "Nenhum desses fatores produz um título tão chamativo quanto a palavra “unicórnio”, mas são eles que ajudam a determinar se existe uma empresa sólida por trás do valuation. O problema, portanto, não está em uma startup alcançar a avaliação de US$ 1 bilhão. Empresas excelentes podem atingir esse patamar e continuar construindo valor de maneira consistente.",
         "O erro está em tratar esse número como prova automática de competência ou sucesso empresarial. Unicórnio representa o preço que alguém aceitou pagar por uma participação, em determinadas condições e com uma expectativa específica de retorno. Qualidade empresarial está relacionada à capacidade de transformar capital em crescimento sustentável, vantagem competitiva, geração de caixa e possibilidades concretas de liquidez."
-      ]
+      ],
+      "author": "Leonardo Brasil"
     },
     {
       "slug": "papel-cfo-startup",
@@ -119,6 +122,181 @@
         "Quando os números não fecham, quando as métricas mudam toda hora, quando não existe clareza sobre margem, CAC, burn, churn ou runway, a percepção de risco aumenta. O CFO ajuda a reduzir esse risco percebido. 5 - O quinto papel é construir governança sem matar a velocidade. Startup não pode virar uma empresa engessada, mas também não pode operar no improviso eterno.",
         "O CFO precisa criar o nível certo de controle para o estágio da empresa: DRE gerencial, fluxo de caixa projetado, orçamento por área, ritos de acompanhamento, indicadores-chave, análise de desvios e relatórios para sócios, conselho ou investidores. Trata-se de criar previsibilidade para decidir melhor. Uma startup sem gestão financeira vira refém do saldo do banco.",
         "No fim, o CFO em uma startup não é apenas quem protege o caixa. É quem ajuda a empresa a entender o que o caixa está financiando. E essa é uma diferença enorme. Em startup, o financeiro não deve ser visto como uma área de retaguarda. Quando bem feito, ele é uma das principais ferramentas de construção de valor."
+      ],
+      "author": "Leonardo Brasil"
+    },
+    {
+      "slug": "valuation-overhang-quando-o-alto-vira-um-problema",
+      "title": "Valuation Overhang - Quando o valuation alto vira um problema",
+      "excerpt": "É muito comum que os fundadores de startups sempre queiram o valuation mais alto. Eles pensam algo do tipo:quanto maior o valuation da rodada, melhor para mim.",
+      "image": "https://media.licdn.com/dms/image/v2/D4D12AQGcbfGsnAObIQ/article-cover_image-shrink_720_1280/B4DZ8pnlQdJQAQ-/0/1783109675757?e=2147483647&v=beta&t=td_FLbZHBm00h0Y4yB-roDZmD2jJR5aLCP_KlC5zLSw",
+      "publishedAt": "2026-07-07T13:00:02.000+00:00",
+      "readingTime": "3 min",
+      "author": "Leonardo Brasil",
+      "content": [
+        "É muito comum que os fundadores de startups sempre queiram o valuation mais alto. Eles pensam algo do tipo:quanto maior o valuation da rodada, melhor para mim. Em teoria, parece verdade. Um valuation mais alto reduz a diluição no curto prazo, melhora a percepção externa da empresa e pode funcionar como sinal de validação para mercado, time e investidores.",
+        "Mas existe um ponto importante por trás de cada valuation que é a expectativa do investidor. Quando uma empresa capta com valuation elevado, ela está assumindo uma obrigação implícita de performance. O investidor da próxima rodada vai analisar se a empresa cresceu o suficiente para justificar um novo valuation. E esse valuation precisa fazer sentido contra receita, margem, retenção, eficiência comercial, burn, tamanho de mercado, risco percebido e múltiplos comparáveis.",
+        "É aqui que um valuation alto demais pode virar problema. Imagine uma empresa que capta R$ 10 milhões com um valuation de R$ 100 milhões. Para fazer uma próxima rodada saudável, essa empresa talvez precise chegar a um valuation de R$ 180 milhões, R$ 200 milhões ou mais em pouco tempo. Quais fundamentos vão sustentar essa evolução?",
+        "Se a receita não cresceu na mesma proporção, se o CAC continua pressionado, se o churn ainda é alto, se a margem bruta não melhorou ou se o burn segue ineficiente, o valuation anterior vira uma âncora. Esse é um dos riscos clássicos de uma rodada superprecificada: o valuation overhang. O valuation overhang acontece quando o preço da rodada anterior fica acima da capacidade real de entrega da empresa.",
+        "Na prática, a empresa passa a carregar um valuation que o mercado atual não consegue aceitar. A partir daí, surgem três caminhos ruins. 1 - O primeiro é insistir em uma rodada com valuation alto, mesmo sem fundamentos suficientes. Isso alonga o processo de captação, reduz poder de negociação e consome tempo. 2 - O segundo é aceitar uma rodada flat, com valuation próximo ao da rodada anterior.",
+        "Embora não seja necessariamente fatal, ela sinaliza que a empresa consumiu tempo e capital sem gerar expansão relevante de valor. 3 - O terceiro é fazer uma down round, captando a um valuation inferior ao da rodada anterior. Esse cenário costuma ser o mais sensível, porque afeta cap table, moral do time, relação com investidores antigos e percepção de mercado.",
+        "Além disso, uma down round pode acionar cláusulas de proteção antidiluição. Dependendo dos termos da rodada anterior, investidores podem ter mecanismos como weighted average ou full ratchet. Essas estruturas protegem o investidor contra queda de preço, mas transferem parte relevante do impacto para founders, colaboradores e acionistas comuns.",
+        "O valuation alto que parecia preservar participação no curto prazo pode gerar diluição maior no futuro. Esse é o paradoxo. Muitos founders brigam por valuation para diluir menos hoje, mas ignoram que um preço insustentável pode tornar a próxima rodada mais cara, mais difícil ou mais agressiva. Valuation bom não é necessariamente o maior valuation possível.",
+        "Valuation bom é aquele que cria uma ponte viável entre o estágio atual da empresa e o próximo estágio de captação, venda ou liquidez."
+      ]
+    },
+    {
+      "slug": "smart-money-virou-commodity",
+      "title": "Smart money virou commodity",
+      "excerpt": "Por anos, o termo Smart Money funcionou como diferencial real. O investidor que trazia além do cheque: acesso a clientes, abertura de portas em rodadas subsequentes, senioridade para navegar crises operacionais.",
+      "image": "https://media.licdn.com/dms/image/v2/D4D12AQGyKfFYCAq4Mg/article-cover_image-shrink_720_1280/B4DZ7cU8.7JwAQ-/0/1781812944448?e=2147483647&v=beta&t=V698ouAkiqIY8s78PuCZSrvk_Ami9893y5iFwDU61dA",
+      "publishedAt": "2026-06-23T13:30:01.000+00:00",
+      "readingTime": "3 min",
+      "author": "Leonardo Brasil",
+      "content": [
+        "Por anos, o termo Smart Money funcionou como diferencial real. O investidor que trazia além do cheque: acesso a clientes, abertura de portas em rodadas subsequentes, senioridade para navegar crises operacionais. Havia escassez genuína, porque poucos fundos tinham rede suficiente para entregar o que prometiam. Esse momento passou.",
+        "Hoje, qualquer deck de fundo brasileiro tem a mesma seção: \"além do capital, oferecemos network, mentoria estratégica e suporte ao board\". O problema é que essa promessa não diferencia mais ninguém, porque todo mundo faz isso ou pelo menos diz que faz. Quando todos oferecem smart money, nenhum money é smart. O fundador que está captando agora sabe disso.",
+        "O mercado está sinalizando que capital qualificado virou o mínimo, e o que de fato move a decisão do founder é a qualidade da relação, não a marca do fundo. agora Luciana Seabra 3 years ago",
+        "Isso tem uma implicação direta para quem está no lado investidor: a conversa sobre valor agregado precisa descer dois níveis de abstração. \"Ajudamos no go-to-market\" não é proposta de valor, é ruído genérico que qualquer fundo com dois anos de mercado consegue colocar no pitch deck. O que diferencia é especificidade operacional: ter na rede um CRO de empresa de referência no setor que atende ligação sempre que preciso....... ter histórico documentado de founders indicados para rodadas subsequentes com fundos específicos, ou ter um parceiro com experiência real em M&A que senta na mesa quando começa o processo de saída.",
+        "Isso ainda é raro, e por isso ainda tem valor. A pergunta que os melhores founders estão fazendo antes de assinar o term sheet mudou. Quem no seu time já esteve no lugar em que estou, resolveu o problema que tenho, e tem disponibilidade real para pegar o telefone quando as coisas saírem do plano? Fundos que não souberem responder essa pergunta com precisão vão perder os melhores deals para quem souber, independentemente do tamanho do cheque.",
+        "Smart money não morreu, só ficou muito mais difícil de provar."
+      ]
+    },
+    {
+      "slug": "pricing-power-como-construir-uma-empresa-que-consegue",
+      "title": "Pricing power: como construir uma empresa que consegue aumentar preço sem perder cliente",
+      "excerpt": "Existe uma pergunta simples que revela muito sobre a saúde de um negócio. Se você aumentar o preço do seu produto ou serviço em 20% amanhã, o que acontece? A maioria dos empresários hesita antes de responder.",
+      "image": "https://media.licdn.com/dms/image/v2/D4D12AQGWWq7JZB3WLg/article-cover_image-shrink_720_1280/B4DZ51iYW1GYAQ-/0/1780088412220?e=2147483647&v=beta&t=k509yPTyvEBg4jDIyhU26IWQepa2_MECgr1faqoKGFI",
+      "publishedAt": "2026-06-02T17:00:09.000+00:00",
+      "readingTime": "3 min",
+      "author": "Leonardo Brasil",
+      "content": [
+        "Existe uma pergunta simples que revela muito sobre a saúde de um negócio. Se você aumentar o preço do seu produto ou serviço em 20% amanhã, o que acontece? A maioria dos empresários hesita antes de responder. Alguns sabem que perderiam clientes imediatamente. Outros acreditam que conseguiriam manter a base, mas não têm certeza.",
+        "Poucos respondem com convicção que não perderiam nada relevante. Essa convicção, quando justificada, tem um nome.....Pricing power. É uma das características mais valiosas que uma empresa pode ter. O que é pricing power de verdade? Pricing power é a capacidade de uma empresa aumentar seus preços sem perder volume relevante de clientes ou receita.",
+        "Isso não quer dizer a capacidade de cobrar caro e sim ter construído algo pelo qual o cliente paga mais porque percebe que vale mais. No contexto de valuation, empresas com pricing power comprovado recebem múltiplos significativamente maiores do que empresas equivalentes sem essa característica. O motivo é simples. Pricing power é um indicador de margem futura, de posicionamento competitivo e de qualidade da relação com o cliente.",
+        "Tudo que um investidor quer ver em um ativo de longo prazo. Por que a maioria das empresas não tem pricing power? A resposta mais honesta é que a maioria das empresas compete por preço porque não construiu nada suficientemente diferente para competir por valor. Quando o produto ou serviço é percebido como commodity, o cliente compara preço.",
+        "E quando o cliente compara preço, a empresa que cobra mais perde. Simples assim. O cliente que chegou pelo preço fica pelo preço. Qualquer aumento, mesmo pequeno, é visto como traição. A base de clientes se torna um passivo de expectativas que impede qualquer movimento de reposicionamento. Empresas que nascem tentando ser a melhor opção do mercado para um segmento específico constroem uma relação diferente com o cliente desde o início.",
+        "O cliente que chegou pelo valor fica pelo valor. Os pilares do pricing power Não existe uma fórmula única, mas existe um conjunto de elementos que, quando presentes, criam as condições para que uma empresa aumente preço sem perder cliente. 1 - Diferenciação real e percebida O primeiro pilar é ter algo genuinamente diferente.",
+        "Não diferente no discurso de marketing, mas sim diferente na experiência do cliente, no resultado que ele obtém, na forma como o produto resolve o problema. A diferenciação precisa ser real e percebida. Real porque sem substância o cliente descobre a verdade na prática. Percebida porque sem comunicação eficiente o cliente não valoriza o que tem.",
+        "2 - Custo de troca elevado O segundo pilar é o switching cost.",
+        "Quanto mais difícil, caro ou arriscado for para o cliente trocar de fornecedor, menos sensível ao preço ele se torna. Switching cost pode ser técnico, quando o produto está profundamente integrado aos processos do cliente. Pode ser relacional, quando a troca significa perder um relacionamento construído ao longo de anos.",
+        "Pode ser de dados, quando o cliente acumulou histórico e informações dentro da plataforma que não consegue exportar facilmente. Pode ser de aprendizado, quando dominar o produto levou tempo e a troca significaria começar do zero. Empresas de software empresarial são o exemplo mais claro disso. Um ERP implementado em uma empresa média leva meses para ser substituído, custa caro para ser trocado e gera um risco operacional que a maioria dos gestores prefere evitar.",
+        "Isso dá ao fornecedor um pricing power considerável dentro da base instalada. 3- Efeitos de rede O terceiro pilar é o network effect. Quando o produto fica mais valioso à medida que mais pessoas o usam, o cliente tem um incentivo adicional para permanecer que vai além da qualidade do produto em si. Marketplace, plataformas de comunicação, redes profissionais, sistemas de pagamento.",
+        "Todos se beneficiam de efeitos de rede que criam uma barreira de saída poderosa. O cliente não está apenas avaliando se o produto vale o preço, mas sim está avaliando se existe outra plataforma com a mesma rede, os mesmos participantes e a mesma liquidez. Na maioria dos casos, não existe. 4 - Resultado mensurável e comprovado O quarto pilar é a capacidade de demonstrar resultado de forma clara e quantificável.",
+        "Quando o cliente sabe exatamente quanto dinheiro ele economiza, quanto tempo ele ganha ou quanto risco ele reduz ao usar o produto, o preço entra em uma equação de ROI, não em uma comparação de custo. E essa é uma conversa completamente diferente. Empresa que vende resultado tem pricing power. Empresa que vende funcionalidade compete com qualquer concorrente que lança a mesma funcionalidade por menos.",
+        "5 - Posicionamento premium consistente O quinto pilar é o posicionamento. Marca, comunicação, experiência de compra, onboarding, suporte, linguagem visual. Tudo que o cliente percebe antes, durante e depois de comprar. Empresas que constroem um posicionamento premium de forma consistente ao longo do tempo criam uma percepção de valor que transcende o produto em si.",
+        "O cliente não está comprando apenas o que o produto entrega. Ele compra a experiência, o status, a segurança de estar com quem é reconhecido como referência. O que pricing power revela sobre o valuation de uma empresa Olhando sob a ótica de valuation, pricing power é um dos indicadores mais poderosos de qualidade do negócio e de sustentabilidade das margens futuras.",
+        "Dois negócios com a mesma receita hoje podem ter valuations completamente diferentes se um tem pricing power comprovado e o outro não. O primeiro vai crescer margem ao longo do tempo. O segundo vai ver margem comprimir à medida que a competição aumenta. Em processos de M&A, compradores estratégicos pagam prêmio por empresas com pricing power porque estão comprando não apenas a receita atual, mas a capacidade de expandir margem no futuro sem precisar crescer em volume."
+      ]
+    },
+    {
+      "slug": "o-valuation-muda-em-cada-estágio-de-uma-startup-pre-seed",
+      "title": "O valuation muda em cada estágio de uma startup (pre-seed, seed, série A, série B)",
+      "excerpt": "Valuation não é um número fixo, ele é uma fotografia do momento. E cada momento de uma startup tem uma lógica diferente de precificação.",
+      "image": "https://media.licdn.com/dms/image/v2/D4D12AQHS8wnJisHpBw/article-cover_image-shrink_720_1280/B4DZ5L6Qj4HoAQ-/0/1779390030272?e=2147483647&v=beta&t=0xtDX_GHcihwjzCQUYwZ0bbHqVxDkxDTyATONyRGzwE",
+      "publishedAt": "2026-05-26T12:30:20.000+00:00",
+      "readingTime": "3 min",
+      "author": "Leonardo Brasil",
+      "content": [
+        "Valuation não é um número fixo, ele é uma fotografia do momento. E cada momento de uma startup tem uma lógica diferente de precificação. O que justifica um valuation no pre-seed não justifica o mesmo número na Série A. O que convence um investidor anjo não convence um fundo de venture capital. Founders que não entendem essa lógica tentam captar investimento com argumentos errados, com expectativas de valuation que não fazem sentido para aquele estágio.",
+        "O que o investidor está comprando em cada estágio Antes de falar de números, é preciso entender uma coisa fundamental. Em estágios iniciais, o investidor não está comprando uma empresa, ele está comprando uma tese. Uma aposta sobre o futuro com base em evidências muito limitadas e carregado de muito risco. À medida que a empresa avança, o investidor passa a comprar dados.",
+        "Tração, receita, retenção, crescimento, eficiência... O risco diminui, a evidência aumenta e o valuation responde a essa equação. Quanto menos evidência, mais o valuation depende de narrativa, mercado e time. Quanto mais evidência, mais ele depende de métricas, crescimento e comparáveis de mercado. Pre-seed: precificando o que ainda não existe No pre-seed, a empresa raramente tem produto finalizado, clientes pagantes ou receita relevante.",
+        "O que existe é uma ideia validada em algum grau, um time e uma visão de mercado. Nesse estágio, o valuation é essencialmente uma negociação entre a narrativa do founder e o apetite de risco do investidor. Os fatores que mais influenciam o valuation no pre-seed são o tamanho e a dinâmica do mercado endereçável, a qualidade e o histórico do time fundador, a clareza do problema que está sendo resolvido, o grau de validação da hipótese central do negócio e o potencial de defensibilidade da solução ao longo do tempo.",
+        "Seed: a primeira evidência real Na rodada seed, alguma coisa já foi validada e o produto existe em alguma forma. Aqui, o valuation começa a ter uma ancoragem mais concreta, mas ainda depende muito de potencial. O investidor está precificando o crescimento esperado, não o tamanho atual. Os fatores que mais pesam no valuation seed são a evidência de product-market fit, mesmo que inicial, a taxa de crescimento mês a mês, a qualidade da retenção de clientes ou usuários, o custo de aquisição de clientes em relação ao valor que eles geram ao longo do tempo (LTV), a clareza do modelo de negócios e o tamanho da oportunidade de mercado.",
+        "O que muda fundamentalmente do pre-seed para o seed é que o investidor agora tem dados para analisar. Ele vai olhar cohorts, vai analisar churn, vai questionar a qualidade da receita e vai comparar suas métricas com benchmarks do setor. Quando eu invisto numa startup, eu me torno sócio dela? Investidores.vc 10 months ago",
+        "Série A: precificando crescimento com eficiência A Série A representa uma virada na lógica de precificação. Aqui, o investidor não está mais apostando em potencial com evidência limitada. Ele está analisando um negócio que funciona e avaliando se ele pode crescer de forma eficiente com mais capital. Os principais vetores de valuation na Série A são a receita recorrente anual e sua taxa de crescimento, a retenção líquida de receita, o tamanho e a qualidade do pipeline comercial, a maturidade do time de gestão e a clareza da estratégia de go-to-market para os próximos 18 a 24 meses Série B: escala, liderança de mercado e preparação para o futuro Na Série B, a empresa já provou que sabe crescer.",
+        "O desafio agora é crescer mais rápido, com mais eficiência e com visão clara de liderança de mercado. O valuation aqui é mais sofisticado e começa a incorporar novos elementos. O investidor está pensando em posicionamento competitivo, em barreiras de entrada, em potencial de internacionalização ou em um exit estratégico.",
+        "Os fatores mais relevantes no valuation de Série B incluem a ARR e sua taxa de crescimento anual, a eficiência do time de vendas e a previsibilidade do pipeline, a posição competitiva no mercado e as barreiras construídas até aqui, a qualidade do time executivo e a capacidade de atrair e reter talentos sênior e a clareza do caminho para liderança de mercado ou para um exit relevante.",
+        "O que muda estruturalmente entre os estágios Existe uma progressão clara na lógica de precificação ao longo dos estágios que vale ser explicitada. No pre-seed, o valuation é dominado pela narrativa. Time, mercado e visão. O risco é máximo e a evidência é mínima. No seed, narrativa e dados coexistem. O investidor quer ver a narrativa confirmada por métricas iniciais.",
+        "O risco ainda é alto, mas começa a ser quantificável. Na Série A, os dados dominam a narrativa. O investidor quer crescimento eficiente e previsível. A narrativa serve para contextualizar os números, não para substituí-los. Na Série B em diante, o valuation é essencialmente uma análise financeira sofisticada combinada com posicionamento estratégico.",
+        "O investidor está pensando em retorno, em comparáveis públicos e em caminhos de exit. O erro que atravessa todos os estágios Independente do momento, o erro mais comum é o founder que não entende em qual estágio está e tenta argumentar de forma errada. Cada estágio tem sua linguagem e sua lógica de risco e retorno. Entender essa lógica não é apenas útil para negociar valuation, é fundamental para escolher os investidores certos, estruturar a rodada adequada e chegar na mesa com os argumentos que realmente importam para quem está do outro lado."
+      ]
+    },
+    {
+      "slug": "não-seja-apaixonado-pelo-seu-produto",
+      "title": "Não seja apaixonado pelo seu produto...",
+      "excerpt": "Depois de analisar + 6mil de empresas e acompanhar de perto o crescimento e a queda de muitas delas, fica cada vez mais claro que o erro não está na falta de ideia, nem na falta de mercado. O erro é você ser apaixonado(a) pelo produto.",
+      "image": "https://media.licdn.com/dms/image/v2/D5612AQFwUdqnOQSwvA/article-cover_image-shrink_720_1280/B56Z2TMdIsGoAM-/0/1776291013444?e=2147483647&v=beta&t=yL8kyoUI1-p5sYFW74s6EcA0yGlw2Dw-M_3ltBWouA8",
+      "publishedAt": "2026-04-28T14:00:21.000+00:00",
+      "readingTime": "3 min",
+      "author": "Leonardo Brasil",
+      "content": [
+        "Depois de analisar + 6mil de empresas e acompanhar de perto o crescimento e a queda de muitas delas, fica cada vez mais claro que o erro não está na falta de ideia, nem na falta de mercado. O erro é você ser apaixonado(a) pelo produto. Isso parece contraintuitivo, porque o discurso mais comum no empreendedorismo é justamente o oposto.",
+        "Falam sobre propósito, sobre acreditar na solução, sobre construir algo que você ama. Mas, é exatamente essa paixão cega que leva muitos negócios a decisões ruins. Quando o founder se apaixona pelo produto, ele perde a capacidade de enxergar a realidade. Começa a ignorar sinais do mercado, relativiza feedback negativo, ajusta a narrativa para defender aquilo que já construiu.",
+        "Em vez de perguntar “isso resolve um problema real?”, passa a perguntar “como eu faço isso dar certo?”. E essa mudança de pergunta é perigosa. Empresas crescem porque resolvem um problema relevante de forma que alguém esteja disposto a pagar. E isso não tem nada a ver com gosto pessoal do founder e sim com a dor, demanda e modelo de negócio.",
+        "Já vi produtos tecnicamente excelentes fracassarem porque ninguém precisava daquilo. E já vi soluções simples, bem \"meia-boca\", crescerem rapidamente porque estavam conectadas com uma dor clara e um modelo que funcionava. Outro efeito da paixão pelo produto é o desperdício de energia. Founders passam meses refinando funcionalidades, melhorando detalhes, investindo tempo e dinheiro em algo que ainda não foi validado.",
+        "Enquanto isso, deixam de testar o que realmente importa....se alguém compra, quanto paga, com que frequência volta, se o negócio se sustenta. O papel do founder não amar o produto e sim amar resolver um problema. E isso significa tomar decisões que nem sempre são confortáveis. Significa abandonar o que não escala, simplificar o que está complexo, reposicionar quando necessário.",
+        "Eu sei, não é fácil..."
+      ]
+    },
+    {
+      "slug": "quanto-vale-sua-empresa",
+      "title": "Quanto vale a sua empresa?",
+      "excerpt": "Tenho certeza que quando você vê uma pergunta como essas, você pensa no maior valor possível. Eu construí essa empresa, dediquei muito tempo, dinheiro e suor, é claro que ela vale muito.",
+      "image": "https://media.licdn.com/dms/image/v2/D5612AQFTt3HbYqe0ZA/article-cover_image-shrink_720_1280/B56Z2THEUnIQAI-/0/1776289597636?e=2147483647&v=beta&t=VC8jcYD10_Pyii9cbD6XSush7E9_WR_wkRhno7FyBfk",
+      "publishedAt": "2026-04-21T12:00:14.000+00:00",
+      "readingTime": "3 min",
+      "author": "Leonardo Brasil",
+      "content": [
+        "Tenho certeza que quando você vê uma pergunta como essas, você pensa no maior valor possível. Eu construí essa empresa, dediquei muito tempo, dinheiro e suor, é claro que ela vale muito. Mas você sabia que essas é uma das perguntas mais difíceis de se fazer? No fim, quase ninguém responde com base no que realmente importa.",
+        "Valor não é opinião, valor é consequência. Uma empresa não vale muito porque o fundador acredita, porque o mercado está aquecido ou porque alguém comentou que “negócios assim estão sendo vendidos caro”. Ela vale o que consegue gerar de retorno, ajustado pelo risco de conseguir entregar esse retorno ao longo do tempo. Essa é a lógica central que separa percepção de realidade.",
+        "O primeiro ponto que quase ninguém entende é que faturamento não é valor. Faturar muito não significa valer muito. O que importa é quanto sobra, com que previsibilidade isso acontece e o quão escalável é esse resultado. Uma empresa que fatura 5 milhões com margem baixa, dependente de poucos clientes e cheia de ineficiências pode valer menos do que uma empresa que fatura 1 milhão com margem alta, recorrência e previsibilidade.",
+        "O segundo ponto é o modelo de negócios. Empresas com modelos frágeis até conseguem crescer, mas crescem destruindo valor. Se a resposta depende… Sergio Goldman 3 weeks ago Como Ter uma Boa Margem de Lucro Líquido? Érica Alvarenga Lopes 1 year ago",
+        "Precisam reinvestir tudo para continuar operando, não geram caixa e dependem constantemente de capital externo. Quando chega a hora de avaliar, isso aparece de forma clara. O terceiro ponto é gestão. Mesmo um bom modelo pode ser mal executado. Falta de controle financeiro, ausência de indicadores, decisões baseadas em intuição e não em dados.",
+        "Tudo isso aumenta o risco do negócio. Quanto maior a incerteza, menor o valuation. Existe também uma diferença importante entre preço e valor. O valuation é uma estimativa técnica baseada em premissas, projeções e risco. O preço é o que alguém está disposto a pagar. Em alguns casos, eles convergem, em muitos outros, não.",
+        "Outro ponto crítico é entender que valuation não é estático, ele muda o tempo todo. A cada decisão, a cada contrato fechado, a cada erro cometido. Melhorar o valuation não é algo que acontece apenas quando você decide vender ou captar investimento. É um processo contínuo de construção de valor."
+      ]
+    },
+    {
+      "slug": "dá-para-usar-pdca-em-startups",
+      "title": "Dá para usar PDCA em startups?",
+      "excerpt": "Lembro que nas minhas aulas da faculdade de administração, sempre ficava tentando entender se daria para aplicar aqueles conceitos na vida real. Taylorismo, fordismo, PDCA.",
+      "image": "https://media.licdn.com/dms/image/v2/D4D12AQEUpBYUKidi5w/article-cover_image-shrink_720_1280/B4DZ1PxRqhI4AI-/0/1775159811506?e=2147483647&v=beta&t=r_RHWd-OXOYL42hDfYFroWzI2k1smMr9fUF8uFwCq5I",
+      "publishedAt": "2026-04-07T13:00:21.000+00:00",
+      "readingTime": "3 min",
+      "author": "Leonardo Brasil",
+      "content": [
+        "Lembro que nas minhas aulas da faculdade de administração, sempre ficava tentando entender se daria para aplicar aqueles conceitos na vida real. Taylorismo, fordismo, PDCA.... Quando comecei a trabalhar com as startups, vi um mundo totalmente diferente e parecia que não se encaixa nas teorias de administração. Agora, depois de analisar mais de 6 mil empresas, eu penso que se encaixa sim e muito bem.",
+        "Mas não do jeito que ensinaram, não no estilo Falconi. PDCA é um ciclo de gestão criado para melhorar processos de forma contínua. Ele parte de uma lógica simples: você não acerta de primeira, você melhora com a repetição de processos. O erro é tentar aplicar o PDCA em uma startyup como se fosse uma empresa tradicional, com ciclos longos, planejamento detalhado e execução previsível.",
+        "Startup não funciona assim. O ambiente muda rápido, as hipóteses são incertas e o modelo ainda está sendo construído. Só que, no fundo, é exatamente por isso que o PDCA faz ainda mais sentido. O “Plan” deixa de ser um planejamento rígido e vira uma hipótese. O que você acredita que pode funcionar. Pode ser um canal de aquisição, uma proposta de valor, um público específico.",
+        "O “Do” é colocar isso na rua o mais rápido possível. Sem perfeccionismo. Sem esperar estar pronto demais. O “Check” é onde muita startup falha. Não é metrica de vaidade, numeros de seguidores... É entender se aquilo validou ou não a hipótese inicial. E o “Act” é o que separa quem evolui de quem fica rodando em círculo.",
+        "Ou você ajusta com base no que aprendeu, ou você continua insistindo no erro com mais intensidade. As startups que eu conheci são as que repetem os processos, cada vez tendo novos aprendizados. E sem perceber, estão usando o PDCA."
+      ]
+    },
+    {
+      "slug": "empreender-é-tomar-decisões-sem-ter-todas-informações",
+      "title": "Empreender é tomar decisões sem ter todas as informações",
+      "excerpt": "Empreender é tomar decisões sem ter todas as respostas. Acostume-se, faz parte do game.",
+      "image": "https://media.licdn.com/dms/image/v2/D4D12AQGMxG0L_trbYw/article-cover_image-shrink_720_1280/B4DZ0xZG0NKMAI-/0/1774650159468?e=2147483647&v=beta&t=Zx0dVYlZIlvo6m53uGpgJyOQ2xe_mSRpr2WacLmLN60",
+      "publishedAt": "2026-03-31T12:01:00.000+00:00",
+      "readingTime": "3 min",
+      "author": "Leonardo Brasil",
+      "content": [
+        "Empreender é tomar decisões sem ter todas as respostas. Acostume-se, faz parte do game. Quando você está começando, acha que vai estruturar um negócio de forma completamente racional, baseada em dados sólidos, previsões confiáveis e cenários bem definidos. Como se empreender fosse apenas uma fórmula matemática. Aqui que vemos a grande diferença entre teoria e prática.",
+        "O empreendedor opera em um ambiente onde a informação é sempre parcial, muitas vezes distorcida e, em alguns casos, inexistente. -> O mercado muda antes de você conseguir medi-lo.",
+        "-> O cliente diz uma coisa e faz outra.",
+        "-> O concorrente surge do nada.",
+        "-> O canal que funcionava ontem deixa de funcionar hoje.",
+        "E, no meio disso tudo, você precisa decidir. Será que preciso contratar mais gente para o time? Será que devo investir mais em marketing? Preciso segurar o caixa ou é o momento de all in? E quase nunca você terá segurança plena. Isso não significa agir de forma irresponsável ou agir com base em instintos Ao longo da minha experiência analisando + 6 mil empresas, um padrão fica claro.",
+        "As empresas que evoluem não são aquelas que acertam sempre, mas sim aquelas que decidem mais rápido, ajustam mais rápido e aprendem mais rápido. Elas entendem que clareza total é um luxo que não existe no mundo real. Empreender é, na sua essência, saber operar em um ambiente de incerteza."
+      ]
+    },
+    {
+      "slug": "o-que-faz-um-investidor-perder-interesse-rápido-em-uma",
+      "title": "O que faz um investidor perder interesse rápido em uma empresa.",
+      "excerpt": "Um investidor raramente perde interesse por um motivo único. Na maioria das vezes, ele vai se desligando aos poucos, porque percebe sinais de risco ou baixa qualidade de execução.",
+      "image": "https://media.licdn.com/dms/image/v2/D4D12AQGe7_0K8GpF2A/article-cover_image-shrink_720_1280/B4DZwqalVxHMAI-/0/1770238141321?e=2147483647&v=beta&t=a90mTZje_ntcuEncnAaPCu8x4Mwy0DI2xS1UgaGtTys",
+      "publishedAt": "2026-02-10T12:31:12.000+00:00",
+      "readingTime": "3 min",
+      "author": "Leonardo Brasil",
+      "content": [
+        "Um investidor raramente perde interesse por um motivo único. Na maioria das vezes, ele vai se desligando aos poucos, porque percebe sinais de risco ou baixa qualidade de execução. E o ponto mais importante é que isso quase nunca acontece por falta de “potencial”. Acontece porque o potencial não se sustenta quando o investidor tenta entender o negócio de verdade.",
+        "Tudo começa na falta de clareza. Se a empresa não consegue explicar com simplicidade o que faz, para quem faz e por que o cliente paga, o investidor entende que há confusão dentro da operação. Negócios bons são fáceis de entender. Quando a explicação vira um labirinto, com muitas exceções, muitos “depende” e muitas frases prontas, a leitura é direta: a empresa ainda não domina o próprio modelo.",
+        "Logo depois vem a incoerência entre discurso e números. Um investidor aceita imperfeições, mas não tolera contradições.nQuando a narrativa diz uma coisa e os dados sugerem outra, a confiança cai. Isso aparece quando a empresa fala em recorrência, mas a receita é majoritariamente pontual. Quando diz que tem margem alta, mas o caixa vive apertado.",
+        "Quando promete crescimento rápido, mas não consegue mostrar pipeline, canais e taxa de conversão. Investidor não precisa de perfeição, precisa de consistência no discurso. Quando o todo vale mais do que a soma das partes João Piccioni 2 years ago",
+        "A terceira razão é risco operacional disfarçado de agilidade. Muitas empresas se orgulham de “resolver tudo no improviso”, mas o investidor lê isso como dependência de pessoas específicas, ausência de processo e fragilidade de execução. Quando o fundador é o gargalo de tudo, quando não há segundo nível, quando o financeiro é fraco, quando a empresa não tem indicadores básicos, o investidor não vê velocidade.",
+        "Ele vê risco. Um motivo que parece menor, mas é decisivo, é o uso excessivo de números redondos e métricas sem lastro. Investidor não se impressiona com “crescemos 30% ao mês”, “temos margem de 20%”, “nosso mercado é enorme”. Ele quer base: de onde vem, como calcula, qual período, quais premissas, qual recorte. Quando a empresa não consegue sustentar o próprio dado, perde credibilidade.",
+        "Por fim, existe a questão do “gap” entre ambição e execução. Não há nada errado em ser ambicioso, o problema é quando a empresa fala como se estivesse em um estágio, mas opera como se estivesse em outro. Quando o discurso é de escala e os processos são artesanais. No fundo, o que faz um investidor perder interesse rápido é simples: ele percebe que o risco é maior do que a empresa admite, e que a clareza é menor do que a empresa comunica."
       ]
     }
   ]
