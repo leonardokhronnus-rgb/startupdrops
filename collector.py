@@ -44,6 +44,9 @@ SOURCES = [
     {"name": "InfoMoney",             "region": "Brasil",         "country": "BR", "feed": "https://www.infomoney.com.br/feed/"},
     {"name": "Exame",                 "region": "Brasil",         "country": "BR", "feed": "https://exame.com/feed/"},
     {"name": "Bloomberg Linea BR",    "region": "Brasil",         "country": "BR", "feed": "https://www.bloomberglinea.com.br/arc/outboundfeeds/google-news-feed.xml/?outputType=xml"},
+    {"name": "Finsiders Brasil",      "region": "Brasil",         "country": "BR", "feed": "https://finsidersbrasil.com.br/feed/"},
+    {"name": "Money Times Tech",      "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Inovação Tecnológica",  "region": "Brasil",         "country": "BR", "feed": "https://www.inovacaotecnologica.com.br/boletim/rss.xml"},
     {"name": "G1 Economia",           "region": "Brasil",         "country": "BR", "feed": "https://g1.globo.com/dynamo/economia/rss2.xml"},
  
     # -- BRASIL: resgate via Google News (feeds nativos quebrados) --
@@ -56,6 +59,7 @@ SOURCES = [
     {"name": "Estadao Economia",      "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:estadao.com.br+economia&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
     {"name": "PEGN",                  "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
     {"name": "MIT Tech Review BR",    "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:mittechreview.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "E-Commerce Brasil",     "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:ecommercebrasil.com.br+tecnologia+OR+marketplace+OR+startup&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
  
     # -- BRASIL: fontes extras de startup/tech (adicionadas) --
     {"name": "Draft",                 "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:projetodraft.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},

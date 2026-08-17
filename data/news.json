@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T17:03:01.678856+00:00",
+  "updatedAt": "2026-08-17T17:07:05.714160+00:00",
   "editorialFocus": "Brasil + Internacional equilibrado",
   "sources": [
     {
@@ -36,6 +36,18 @@
     },
     {
       "name": "Bloomberg Linea BR",
+      "region": "Brasil"
+    },
+    {
+      "name": "Finsiders Brasil",
+      "region": "Brasil"
+    },
+    {
+      "name": "Money Times Tech",
+      "region": "Brasil"
+    },
+    {
+      "name": "Inovação Tecnológica",
       "region": "Brasil"
     },
     {
@@ -76,6 +88,10 @@
     },
     {
       "name": "MIT Tech Review BR",
+      "region": "Brasil"
+    },
+    {
+      "name": "E-Commerce Brasil",
       "region": "Brasil"
     },
     {
@@ -220,6 +236,11 @@
     }
   ],
   "failures": [
+    {
+      "source": "Money Times Tech",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
     {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -5460,6 +5481,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Canaltech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Finsiders Brasil-https://finsidersbrasil.com.br/giro-noticias/arvo-summit-reune-liderancas-da-saude-para-discutir-o-impacto-real-da-ia-no-setor/",
+      "_key": "beccc84733d1a93539247327247fd9a9",
+      "title": "Arvo Summit reúne lideranças da saúde para discutir o impacto real da IA no setor",
+      "originalTitle": "Arvo Summit reúne lideranças da saúde para discutir o impacto real da IA no setor",
+      "summary": "Fabrício Valadão (esq.) e Rafael Tinoco/Arvo | Imagem: divulgação Primeira edição do encontro acontece em 20/8, em São Paulo, e terá participação do presidente da ANS, Wadih Damous, além de executivos de grandes operadoras do país",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://finsidersbrasil.com.br/giro-noticias/arvo-summit-reune-liderancas-da-saude-para-discutir-o-impacto-real-da-ia-no-setor/",
+      "source": "Finsiders Brasil",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.finsidersbrasil.com.br/2026/08/Nota1_Arvo.jpeg",
+      "publishedAt": "2026-08-17T12:12:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Finsiders Brasil"
       ],
       "coverageCount": 1
     },
