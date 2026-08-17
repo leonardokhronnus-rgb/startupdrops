@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T17:42:08.683938+00:00",
+  "updatedAt": "2026-08-17T19:08:39.138746+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -231,27 +231,6 @@
       "country": "BR"
     },
     {
-      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/fidc-da-nx-boats-dobra-captacao-para-r-100-milhoes-para-financiar-embarcacoes/",
-      "_key": "6062816986c9fe5ed3e8e0364f855c23",
-      "title": "embarcações",
-      "originalTitle": "embarcações",
-      "summary": "Gerido por Sete Partners e Ouro Preto Investimentos, veículo já viabilizou o financiamento de mais de 100 embarcações e passa a atender também revendedores e o mercado de seminovas The post FIDC da NX Boats dobra captação para R$ 100 milhões para financiar embarcações appeared first on InfoMoney .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.infomoney.com.br/onde-investir/fidc-da-nx-boats-dobra-captacao-para-r-100-milhoes-para-financiar-embarcacoes/",
-      "source": "InfoMoney",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/nx-boats.webp?fit=300%2C168&amp;quality=70&amp;strip=all",
-      "publishedAt": "2026-08-14T15:00:00+00:00",
-      "score": 57,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Exame-https://exame.com/negocios/startups-globais-de-fundadores-latino-americanos-ja-criaram-us-200-bilhoes-em-valor-de-mercado/",
       "_key": "17e9e05833e3a3715c91d7977d95f88a",
       "title": "Startups globais de fundadores latino-americanos já criaram US$ 200 bilhões em valor de mercado",
@@ -269,27 +248,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Exame"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/eventos/pitch-reverso/prepare-se-para-ir-ate-o-fim-com-o-dinheiro-que-captou-diz-investidor/",
-      "_key": "7e934eca08b74609cb2966bcd337adba",
-      "title": "investidor",
-      "originalTitle": "investidor",
-      "summary": "Evento aconteceu na sede da Databricks, em São Paulo (Imagem: Luana Martins/Divulgação) Em nova edição do Pitch Revesi, fundos alertam que o segredo para os fundadores agora é sobreviver sem depender da próxima rodada O post &#8220;Prepare-se para ir até o fim com o dinheiro que captou&#8221;, diz investidor apareceu primeiro em Startups .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/eventos/pitch-reverso/prepare-se-para-ir-ate-o-fim-com-o-dinheiro-que-captou-diz-investidor/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://uploads.startups.com.br/2026/08/Pitch-Reverso.jpg",
-      "publishedAt": "2026-08-14T19:55:33+00:00",
-      "score": 54,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
       ],
       "coverageCount": 1
     },
@@ -313,23 +271,23 @@
       "country": "BR"
     },
     {
-      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/14/fgc-orienta-21-mil-credores-da-simpala-apos-liquidacao-pelo-banco-central-veja-o-que-fazer.ghtml",
-      "_key": "b77a7cb3131191c9f0600d10226c6842",
-      "title": "fazer",
-      "originalTitle": "fazer",
-      "summary": "Simpala S.A. Crédito, Financiamento e Investimento pelo Banco Central nesta sexta-feira (14), o Fundo Garantidor de Créditos (FGC) divulgou as orientações para os clientes que têm dinheiro na instituição. Segundo o FGC, o pagamento da garantia ainda não começou.",
+      "id": "Bloomberg Linea BR-https://www.bloomberglinea.com.br/2026/08/17/com-pritzker-e-moreira-salles-family-offices-acumulam-us-38-bi-em-acoes-da-spacex/",
+      "_key": "eb07d70beddf4fab6c035cce3ac2922a",
+      "title": "Com Pritzker e Moreira Salles, family offices acumulam US$ 3,8 bi em ações da SpaceX",
+      "originalTitle": "Com Pritzker e Moreira Salles, family offices acumulam US$ 3,8 bi em ações da SpaceX",
+      "summary": "Escritórios que administram fortunas nas Américas, Europa e Oriente Médio revelam posições bilionárias na companhia de Elon Musk após o IPO. Moreira Salles divulgaram participações superiores a US$ 100 milhões na empresa de foguetes, satélites e inteligência artificial",
       "whyMatters": "",
       "summaryMethod": "regra",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/14/fgc-orienta-21-mil-credores-da-simpala-apos-liquidacao-pelo-banco-central-veja-o-que-fazer.ghtml",
-      "source": "G1 Economia",
+      "url": "https://www.bloomberglinea.com.br/2026/08/17/com-pritzker-e-moreira-salles-family-offices-acumulam-us-38-bi-em-acoes-da-spacex/",
+      "source": "Bloomberg Linea BR",
       "region": "Brasil",
       "country": "BR",
-      "image": "https://s2-g1.glbimg.com/2DKoUYs7DvWAW56d1e9XhJ0pVgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/I/xfGzDATwmONu1wCb5rFw/fgc-reproducao-linkedin.jpg",
-      "publishedAt": "2026-08-14T16:14:35+00:00",
+      "image": "https://www.bloomberglinea.com/resizer/v2/UEAXI7L4X5EGHCTNJXKAISKVFU.jpeg?auth=767ab4de8872c218b35a0f389143a422343d93f6e06f07dd3c3f8f4c12239d70&amp;width=1200&amp;height=630&amp;quality=80&amp;smart=true",
+      "publishedAt": "2026-08-17T12:13:43+00:00",
       "score": 52,
       "alsoIn": [],
       "sourcesCovered": [
-        "G1 Economia"
+        "Bloomberg Linea BR"
       ],
       "coverageCount": 1
     },
@@ -968,27 +926,6 @@
       "country": "BR"
     },
     {
-      "id": "NeoFeed-https://neofeed.com.br/brand-stories/apresentado-por-qi-tech/aprovacao-em-minutos-margem-de-volta-para-o-lojista-o-novo-jeito-de-financiar-carro-no-brasil/",
-      "_key": "3d8ca31976ded0b5006f2cdbb995d13e",
-      "title": "jeito de financiar carro no Brasil",
-      "originalTitle": "jeito de financiar carro no Brasil",
-      "summary": "O financiamento de veículos é hoje um dos mercados de crédito que mais crescem no Brasil. Só em 2025, o setor movimentou mais de R$ 280 bilhões em novas concessões, uma média superior a R$ 20 bilhões por mês, segundo dados do Banco Central.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://neofeed.com.br/brand-stories/apresentado-por-qi-tech/aprovacao-em-minutos-margem-de-volta-para-o-lojista-o-novo-jeito-de-financiar-carro-no-brasil/",
-      "source": "NeoFeed",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/Porsche_CupQITECH-300x169.jpg",
-      "publishedAt": "2026-08-17T11:06:13+00:00",
-      "score": 44,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "NeoFeed"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/toda-a-direita-vai-estar-unida-no-2o-turno-diz-romeu-zema-no-1o-dia-de-campanha/",
       "_key": "356887b46cf065278c757d89261cc0d3",
       "title": "‘Toda a direita vai estar unida no 2º turno’, diz Romeu Zema no 1º dia de campanha",
@@ -1090,27 +1027,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/11/startup-de-ia-manus-meta.ghtml",
-      "_key": "7cb43aa7533412d5a1dd55492b2b5e4a",
-      "title": "Meta",
-      "originalTitle": "Meta",
-      "summary": "Manus havia sido comprada pela Meta Reprodução A startup chinesa de inteligência artificial Manus informou nesta terça-feira (11) que voltará a operar de forma independente e que excluirá parte dos dados de usuários como parte do processo de separação da Meta, empresa dona do Facebook e do Instagram.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/11/startup-de-ia-manus-meta.ghtml",
-      "source": "G1 Economia",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://s2-g1.glbimg.com/u1y8PjYc4I5-Udmvkym0m049cJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/G/s/5v8JTVSTABhH6lBvBBqQ/2023-09-27t184600z-1495928493-rc25h3asyq7s-rtrmadp-3-meta-platforms-virtual-reality.jpg",
-      "publishedAt": "2026-08-11T15:45:10+00:00",
-      "score": 44,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "G1 Economia"
       ],
       "coverageCount": 1
     },
@@ -1264,6 +1180,27 @@
       "country": "BR"
     },
     {
+      "id": "Bloomberg Linea BR-https://www.bloomberglinea.com.br/negocios/casas-bahia-protocola-recuperacao-judicial-apos-quatro-anos-de-alerta-do-mercado/",
+      "_key": "3804cdfdf6b09ce85bbc1f9162d60b7b",
+      "title": "Casas Bahia protocola recuperação judicial após quatro anos de alerta do mercado",
+      "originalTitle": "Casas Bahia protocola recuperação judicial após quatro anos de alerta do mercado",
+      "summary": "Varejista de eletrodomésticos, eletrônicos e móveis acumula prejuízo de R$ R$11,181 bilhões no primeiro semestre, dívida declarada de R$ 17,3 bilhões, além de um patrimônio líquido negativo em R$ 8,270 bilhões.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberglinea.com.br/negocios/casas-bahia-protocola-recuperacao-judicial-apos-quatro-anos-de-alerta-do-mercado/",
+      "source": "Bloomberg Linea BR",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.bloomberglinea.com/resizer/v2/SYBUDOVR7FH6VJRMSZBF2TE55U.jpeg?auth=d83fce4f9c17b2a906fd6523ca6e963be4786730267727e38cdcc7faed62a44d&amp;width=1200&amp;height=630&amp;quality=80&amp;smart=true",
+      "publishedAt": "2026-08-17T18:07:39+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Linea BR"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/vibra-ve-espaco-para-ampliar-volumes-e-margens-com-estrategia-e-combate-a-ilegalidade/",
       "_key": "573f33b0d95064e1046d78a3c30fcc2a",
       "title": "Vibra vê espaço para ampliar volumes e margens com estratégia e combate à ilegalidade",
@@ -1344,6 +1281,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/casas-bahia-entra-com-pedido-de-recuperacao-judicial-apos-prejuizo-bilionario-e-restricao-de-credito/",
+      "_key": "fea6286f69f307d694e7fff763cac71a",
+      "title": "Casas Bahia entra com pedido de recuperação judicial após prejuízo bilionário e restrição de crédito",
+      "originalTitle": "Casas Bahia entra com pedido de recuperação judicial após prejuízo bilionário e restrição de crédito",
+      "summary": "Após divulgar um prejuízo de R$ 10,1 bilhões no seu segundo trimestre de 2026, a Casas Bahia entrou com pedido de recuperação judicial na 2ª Vara de Falências e Recuperações Judiciais de São Paulo no fim da noite de domingo, 16 de agosto.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/casas-bahia-entra-com-pedido-de-recuperacao-judicial-apos-prejuizo-bilionario-e-restricao-de-credito/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2025/06/casas-bahia-loja-300x169.webp",
+      "publishedAt": "2026-08-17T11:03:15+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
       ],
       "coverageCount": 1
     },
@@ -1449,6 +1407,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/casas-bahia-tem-prejuizo-de-r-101-bilhoes-e-faz-ajustes-em-seu-plano-de-reestruturacao/",
+      "_key": "81c067600124d6c140158f9034e31b65",
+      "title": "Casas Bahia tem prejuízo de R$ 10,1 bilhões e faz ajustes em seu plano de reestruturação",
+      "originalTitle": "Casas Bahia tem prejuízo de R$ 10,1 bilhões e faz ajustes em seu plano de reestruturação",
+      "summary": "A Casas Bahia registrou prejuízo líquido de R$ 10,1 bilhões no segundo trimestre de 2026, resultado influenciado por R$ 9,1 bilhões em efeitos não recorrentes relacionados ao redimensionamento da companhia para o que chamou de &#8220;fase 2 de seu plano de transformação&#8221;.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/casas-bahia-tem-prejuizo-de-r-101-bilhoes-e-faz-ajustes-em-seu-plano-de-reestruturacao/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2023/03/casas-bahia-300x169.jpg",
+      "publishedAt": "2026-08-16T14:07:15+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
       ],
       "coverageCount": 1
     },
@@ -1642,27 +1621,6 @@
       "coverageCount": 1
     },
     {
-      "id": "Startupi-https://startupi.com.br/o-desenvolvimento-comeca-pela-escuta/",
-      "_key": "bec8c5d054cfa96c7266b4ba1baba837",
-      "title": "indígenas",
-      "originalTitle": "indígenas",
-      "summary": "um governo, uma empresa ou uma instituição chega a um território para desenvolver um projeto de inovação, quase sempre começa pela mesma pergunta: qual solução podemos levar para cá?&#160; O problema é que essa pergunta parte de uma premissa perigosa: a de que o conhecimento está em quem chega, enquanto o problema está em [...] O post O desenvolvimento começa pela escuta: o que a inovação pode aprender com as periferias, quilombos e povos indígenas aparece primeiro em Startupi e foi escrito por Ed Lobo",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startupi.com.br/o-desenvolvimento-comeca-pela-escuta/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://startupi.com.br/wp-content/uploads/2024/11/bandeira-do-brasil.jpg",
-      "publishedAt": "2026-08-14T12:40:59+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Startupi-https://startupi.com.br/sobre-tatuagens-cultura-corporativa-e-a-vergonha-alheia/",
       "_key": "82438d7961c82d2733000805925ee073",
       "title": "Sobre tatuagens, cultura corporativa e a vergonha alheia",
@@ -1726,48 +1684,6 @@
       "coverageCount": 1
     },
     {
-      "id": "G1 Economia-https://g1.globo.com/df/distrito-federal/noticia/2026/08/13/reuniao-conciliacao-emprestimo-brb-celina-durigan.ghtml",
-      "_key": "2cbd438f31453c918dc1f42fdd78f984",
-      "title": "decidem manter negociação de R$ 6,6 bilhões",
-      "originalTitle": "decidem manter negociação de R$ 6,6 bilhões",
-      "summary": "Governadora do Distrito Federal, Celina Leão, em audiência de conciliação no STF sobre o empréstimo do BRB Gustavo Moreno/STF Terminou sem avanços concretos a nova reunião de conciliação no Supremo Tribunal Federal (STF), mediada pelo ministro Luiz Fux nesta quinta-feira (13), para tentar destravar um empréstimo bilionário e salvar o balanço patrimonial do Banco de Brasília (BRB).",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/13/reuniao-conciliacao-emprestimo-brb-celina-durigan.ghtml",
-      "source": "G1 Economia",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://s2-g1.glbimg.com/zMYW1WZkTr5cYuyXHl5vB0W4tbw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/4JNi1oStOcIIasAPfwqQ/55462111484-9ff114c972-k.jpg",
-      "publishedAt": "2026-08-13T20:08:46+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "G1 Economia"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/13/instagram-muda-logo-pela-1a-vez-em-10-anos-veja-como-ficou.ghtml",
-      "_key": "e65e07c2209d847a5373fa33ed7609bc",
-      "title": "mudou",
-      "originalTitle": "mudou",
-      "summary": "Instagram muda sua identidade visual pela primeira vez em 10 anos Divulgação/Instagram O Instagram anunciou nesta quinta-feira (13) uma renovação de sua identidade visual, que inclui uma nova tipografia, ajustes nas cores, movimentos e outros elementos gráficos.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/13/instagram-muda-logo-pela-1a-vez-em-10-anos-veja-como-ficou.ghtml",
-      "source": "G1 Economia",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://s2-g1.glbimg.com/aTGv4SxJn0nO-fhMMXHaH2-Vdw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/i/BHuROsTcAjaTH6Za2BPw/772394158-1055095300248883-5303604152289819976-n.webp",
-      "publishedAt": "2026-08-13T19:25:18+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "G1 Economia"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Exame-https://exame.com/negocios/govtech-fecha-contrato-de-r-130-milhoes-para-digitalizar-justica-do-peru/",
       "_key": "11a7a58db2bd2933614950e0ef13e6d3",
       "title": "Govtech fecha contrato de R$ 130 milhões para digitalizar Justiça do Peru",
@@ -1785,27 +1701,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Exame"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "InfoMoney-https://www.infomoney.com.br/mundo/eua-e-japao-planejam-a-mina-submarina-mais-profunda-do-mundo-para-desafiar-a-china/",
-      "_key": "aaaf32bc57261339735c7214177c4828",
-      "title": "desafiar a China",
-      "originalTitle": "desafiar a China",
-      "summary": "Projeto em torno da ilha de Minamitorishima busca explorar gigantescas reservas de terras raras no fundo do Pacífico e reduzir a dependência global da China em minerais estratégicos The post EUA e Japão planejam a mina submarina mais profunda do mundo para desafiar a China appeared first on InfoMoney .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.infomoney.com.br/mundo/eua-e-japao-planejam-a-mina-submarina-mais-profunda-do-mundo-para-desafiar-a-china/",
-      "source": "InfoMoney",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/462180950.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-      "publishedAt": "2026-08-13T15:31:59+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "InfoMoney"
       ],
       "coverageCount": 1
     },
@@ -2498,27 +2393,6 @@
       "coverageCount": 1
     },
     {
-      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/13/dolar-ibovespa.ghtml",
-      "_key": "4db66e1a371a5b1692cf4cf18bd6370d",
-      "title": "Ibovespa cai",
-      "originalTitle": "Ibovespa cai",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar ganhou força no final da manhã desta quinta-feira (13) e subia 0,18% perto das 14h, cotado a R$ 5,1884. Na máxima do dia, chegou a R$ 5,1986.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/13/dolar-ibovespa.ghtml",
-      "source": "G1 Economia",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://s2-g1.glbimg.com/KbOg1q3fzRMd5YV3G82VDQOh1V0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/u/bIbO92QKm2Mwko6Uw45w/2025-08-13t150516z-1527003558-rc2e6gazlupi-rtrmadp-3-zelle-new-york.jpg",
-      "publishedAt": "2026-08-13T12:00:09+00:00",
-      "score": 39,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "G1 Economia"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/11/claude-rival-do-chatgpt-vai-revelar-quem-criou-texto-com-ia-veja-como-vai-funcionar.ghtml",
       "_key": "a6d8464bffda3ec05a55832c45b06dc8",
       "title": "Claude, rival do ChatGPT, vai revelar quem criou texto com IA; veja como vai funcionar",
@@ -2618,6 +2492,27 @@
       "country": "BR"
     },
     {
+      "id": "Startups.com.br-https://startups.com.br/negocios/internet/discord-avisa-que-cumprira-ordem-de-suspensao-de-lives/",
+      "_key": "1265739d42e8d5b77f2b9f34314c6fab",
+      "title": "Discord avisa que cumprirá ordem de suspensão de lives",
+      "originalTitle": "Discord avisa que cumprirá ordem de suspensão de lives",
+      "summary": "Medida da ANPD ocorre após caso envolvendo a morte de uma adolescente de 13 anos durante uma live no Discord O post Discord avisa que cumprirá ordem de suspensão de lives apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/negocios/internet/discord-avisa-que-cumprira-ordem-de-suspensao-de-lives/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/08/Video-Discord.png",
+      "publishedAt": "2026-08-17T18:10:31+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/advisor/xp-e-a-empresa-de-investimentos-mais-lembrada-de-santa-catarina-em-2026/",
       "_key": "94208db2e63e915465811a518742b344",
       "title": "XP é a empresa de investimentos mais lembrada de Santa Catarina em 2026",
@@ -2656,6 +2551,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/insiders/artigo-o-vale-do-silicio-nao-e-o-centro-do-universo-ou-e/",
+      "_key": "89839640c67103a3b0457484c3f3c920",
+      "title": "ARTIGO: O Vale do Silício não é o centro do Universo. Ou é?",
+      "originalTitle": "ARTIGO: O Vale do Silício não é o centro do Universo. Ou é?",
+      "summary": "Passei seis semanas em Stanford interagindo com pesquisadores da Graduate School of Business, profissionais de venture capital, empreendedores, executivos de empresas como Apple, Meta e Cisco, além de gente de negócios de outros cantos dos Estados Unidos e de praticamente todos os continentes.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/insiders/artigo-o-vale-do-silicio-nao-e-o-centro-do-universo-ou-e/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/universo-vale-do-silicio-300x169.jpeg",
+      "publishedAt": "2026-08-16T19:22:35+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
       ],
       "coverageCount": 1
     },
@@ -3061,6 +2977,27 @@
       "_key": "13b870ed1e29d827b269774230c0b2de",
       "summaryMethod": "regra",
       "country": "BR"
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/maioria-dos-americanos-diz-estar-pior-financeiramente-no-governo-trump-aponta-ft/",
+      "_key": "06929bb2b06583f726b882c4c583a973",
+      "title": "Maioria dos americanos diz estar pior financeiramente no governo Trump, aponta FT",
+      "originalTitle": "Maioria dos americanos diz estar pior financeiramente no governo Trump, aponta FT",
+      "summary": "Pesquisa mostra desgaste do presidente a menos de três meses das eleições legislativas; custo de vida e inflação concentram as maiores críticas The post Maioria dos americanos diz estar pior financeiramente no governo Trump, aponta FT appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/maioria-dos-americanos-diz-estar-pior-financeiramente-no-governo-trump-aponta-ft/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-22T140450Z_737662653_RC2XIMAWAGS3_RTRMADP_3_IRAN-CRISIS-TRANSFER-USA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T17:57:52+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
     },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/17/os-choques-que-pressionam-o-varejo-brasileiro.ghtml",
@@ -4050,6 +3987,90 @@
       "country": "BR"
     },
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/turquia-e-ira-discutem-abertura-de-ormuz-e-cessar-fogo-entre-eua-e-ira-diz-fonte/",
+      "_key": "ddc31ac5f54178735aa8247cc93460b5",
+      "title": "Turquia e Irã discutem abertura de Ormuz e cessar-fogo entre EUA e Irã, diz fonte",
+      "originalTitle": "Turquia e Irã discutem abertura de Ormuz e cessar-fogo entre EUA e Irã, diz fonte",
+      "summary": "Atualmente, as negociações para ​a ⁠paz e a retomada do ⁠tráfego de petroleiros pelo estratégico estreito encontram-se em compasso de espera The post Turquia e Irã discutem abertura de Ormuz e cessar-fogo entre EUA e Irã, diz fonte appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/turquia-e-ira-discutem-abertura-de-ormuz-e-cessar-fogo-entre-eua-e-ira-diz-fonte/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-15T130423Z_1076590027_RC24ULA8HLU9_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T18:44:26+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/discord-informa-anpd-que-suspendeu-lives-no-brasil-apos-decisao-da-agencia/",
+      "_key": "6187275b268c009b0e997623539f0862",
+      "title": "Discord informa ANPD que suspendeu lives no Brasil após decisão da agência",
+      "originalTitle": "Discord informa ANPD que suspendeu lives no Brasil após decisão da agência",
+      "summary": "Plataforma suspendeu parte do serviço prestado no Brasil após caso de jovem que se suicidou durante transmissão ao vivo The post Discord informa ANPD que suspendeu lives no Brasil após decisão da agência appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/discord-informa-anpd-que-suspendeu-lives-no-brasil-apos-decisao-da-agencia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/447173807.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T18:27:23+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/17/recuperacao-judicial-da-casas-bahia-o-que-muda-para-quem-comprou-e-para-os-funcionarios.ghtml",
+      "_key": "ea14baa86a8059688a7e77cc4fa02ba6",
+      "title": "Recuperação judicial da Casas Bahia: o que muda para quem comprou? E para os funcionários?",
+      "originalTitle": "Recuperação judicial da Casas Bahia: o que muda para quem comprou? E para os funcionários?",
+      "summary": "Loja das Casas Bahia em shopping de São José dos Campos é fechada. Sarah Brito/g1 Na noite de domingo (16), o grupo Casas Bahia anunciou um pedido de recuperação judicial à Justiça de São Paulo. Mas o que isso significa para clientes e trabalhadores?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/17/recuperacao-judicial-da-casas-bahia-o-que-muda-para-quem-comprou-e-para-os-funcionarios.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/6qTxGAranInbXogDZZwh44mUOoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/y/LAKKFXRvOnX0fqoMzRMA/foto-g1-1-.jpg",
+      "publishedAt": "2026-08-17T18:10:54+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/minhas-financas/infomoney-libera-planilha-de-gastos-para-quem-quer-economizar-mais/",
+      "_key": "be8beb87904bf9d23edbf2de9da3f00a",
+      "title": "InfoMoney libera planilha de gastos para quem quer economizar mais",
+      "originalTitle": "InfoMoney libera planilha de gastos para quem quer economizar mais",
+      "summary": "Ferramenta gratuita ajuda a organizar finanças, cortar excessos e tomar melhores decisões no dia a dia The post InfoMoney libera planilha de gastos para quem quer economizar mais appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/minhas-financas/infomoney-libera-planilha-de-gastos-para-quem-quer-economizar-mais/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/bolsos-vazios-pgastos.png?fit=300%2C201&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-17T18:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/family-office-dos-moreira-salles-revela-posicao-multimilionaria-na-spacex/",
       "_key": "c9c95e8e921e4be79108ad9238382c9e",
       "title": "Family office dos Moreira Salles revela posição multimilionária na SpaceX",
@@ -4088,27 +4109,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Finsiders Brasil-https://finsidersbrasil.com.br/regulamentacao/maior-regulamentacao-de-ativos-virtuais-afasta-operadores/",
-      "_key": "22b47bbc2614b5d55ea89b2e92020303",
-      "title": "operadores",
-      "originalTitle": "operadores",
-      "summary": "Da esq. para a dir., Bruno Balduccini, Guilherme Nazar, Andrés Garcia e Rafael Lavezzo | Imagem: divulgação Novas normas incluem retenção preventiva temporária de ativos por até 24 horas e a elevação das exigências de 'compliance'",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://finsidersbrasil.com.br/regulamentacao/maior-regulamentacao-de-ativos-virtuais-afasta-operadores/",
-      "source": "Finsiders Brasil",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://uploads.finsidersbrasil.com.br/2026/08/zro_amanda.jpeg",
-      "publishedAt": "2026-08-17T17:06:00+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Finsiders Brasil"
       ],
       "coverageCount": 1
     },
@@ -4470,27 +4470,6 @@
       "coverageCount": 1
     },
     {
-      "id": "InfoMoney-https://www.infomoney.com.br/mercados/casas-bahia-fala-em-recuperacao-extrajudicial-ou-judicial-apos-prejuizo-de-r-10-bi/",
-      "_key": "a0f8dd4c4f55dda45ba470f91f88d2f9",
-      "title": "bi",
-      "originalTitle": "bi",
-      "summary": "A companhia começou em 2023 o que chamou de \"plano de transformação\" e vem implementando medidas operacionais e financeiras destinadas à melhoria de sua eficiência, rentabilidade e geração de caixa The post Casas Bahia fala em recuperação extrajudicial ou judicial após prejuízo de R$ 10 bi appeared first on InfoMoney .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.infomoney.com.br/mercados/casas-bahia-fala-em-recuperacao-extrajudicial-ou-judicial-apos-prejuizo-de-r-10-bi/",
-      "source": "InfoMoney",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-08-at-17.52.34-e1786825063739.jpeg?fit=300%2C172&amp;quality=70&amp;strip=all",
-      "publishedAt": "2026-08-16T14:26:13+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "InfoMoney-https://www.infomoney.com.br/esportes/brasil-conquista-ouro-inedito-no-mundial-de-ginastica-ritmica-com-maior-nota-do-ano/",
       "_key": "3433b1fb79ef2b06bf2adc5e1590e520",
       "title": "Brasil conquista ouro inédito no Mundial de ginástica rítmica com maior nota do ano",
@@ -4617,27 +4596,6 @@
       "coverageCount": 1
     },
     {
-      "id": "InfoMoney-https://www.infomoney.com.br/mundo/departamento-de-estado-dos-eua-revoga-750-vistos-contra-turismo-de-nascimento/",
-      "_key": "f98eedfdfc662b4f06ed668a39fab143",
-      "title": "de nascimento’",
-      "originalTitle": "de nascimento’",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, assinou, no dia 6 de agosto, uma medida declarando combate à prática, o que teria acelerado a revogação dos documentos, de acordo com o porta-voz The post Departamento de Estado dos EUA revoga 750 vistos contra &#8216;turismo de nascimento&#8217; appeared first on InfoMoney .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.infomoney.com.br/mundo/departamento-de-estado-dos-eua-revoga-750-vistos-contra-turismo-de-nascimento/",
-      "source": "InfoMoney",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-03T194901Z_1_LYNXMPEM721KG_RTROPTP_4_USA-TRUMP-TARIFFS-IMPORTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-      "publishedAt": "2026-08-15T21:47:36+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/furacao-avanca-sobre-havai-e-pode-atingir-ilha-diretamente-pela-1a-vez-na-historia/",
       "_key": "a303deb8e4137312512a77f2e4699f6e",
       "title": "Furacão avança sobre Havaí e pode atingir ilha diretamente pela 1ª vez na história",
@@ -4676,27 +4634,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "G1 Economia-https://g1.globo.com/politica/noticia/2026/08/15/presidente-da-petrobras-diz-que-amapa-esta-produzindo-petroleo-em-aguas-ultraprofundas-em-ate-sete-anos.ghtml",
-      "_key": "6a397dc1aec2b0fa5fd2fbec08bbced0",
-      "title": "anos",
-      "originalTitle": "anos",
-      "summary": "anos. A Petrobras anunciou nesta sexta-feira (14) que encontrou hidrocarbonetos em um poço exploratório na bacia da Foz do Amazonas, no litoral do Amapá. A descoberta indica a presença de petróleo ou gás natural na região.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://g1.globo.com/politica/noticia/2026/08/15/presidente-da-petrobras-diz-que-amapa-esta-produzindo-petroleo-em-aguas-ultraprofundas-em-ate-sete-anos.ghtml",
-      "source": "G1 Economia",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://s2-g1.glbimg.com/NC68-ifQqvRG94Ga_NrNMIFSdCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/v/YkHWJsRSKNUg7qNuW8EQ/2026-05-12t154913z-1-lynxmpem4b16m-rtroptp-4-petrobras-refinery-pemex.jpg",
-      "publishedAt": "2026-08-15T16:34:47+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "G1 Economia"
       ],
       "coverageCount": 1
     },
@@ -5016,27 +4953,6 @@
       "coverageCount": 1
     },
     {
-      "id": "NeoFeed-https://neofeed.com.br/inovacao/apple-e-alibaba-se-unem-em-ia-e-desafiam-tensao-entre-eua-e-china/",
-      "_key": "f32f5b893a5b1bdc7d3fe111cb9bee47",
-      "title": "China",
-      "originalTitle": "China",
-      "summary": "vez mais raro em meio à escalada das tensões entre Washington e Pequim, com ramificações em diversas frentes, entre elas, a tecnologia. Mas há quem esteja indo na contramão dessa relação cada vez mais conflituosa. Esse é o caso da Apple.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://neofeed.com.br/inovacao/apple-e-alibaba-se-unem-em-ia-e-desafiam-tensao-entre-eua-e-china/",
-      "source": "NeoFeed",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/apple-china-300x169.jpg",
-      "publishedAt": "2026-08-14T17:40:24+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "NeoFeed"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/14/instagram-impulsiona-rede-de-golpes-que-promete-ajudar-migrantes-a-chegar-a-ceuta-por-ate-r-28-mil.ghtml",
       "_key": "75c0c829adf20ac6c9f41f067d67638a",
       "title": "Instagram impulsiona rede de golpes que promete ajudar migrantes a chegar à Ceuta por até R$ 2,8 mil",
@@ -5180,27 +5096,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "NeoFeed"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Brazil Journal-https://braziljournal.com/a-the-led-quer-virar-referencia-em-retail-media-sem-brigar-com-o-ooh/",
-      "_key": "3c188e2c161d9b6d3c040b06a497bd33",
-      "title": "OOH)",
-      "originalTitle": "OOH)",
-      "summary": "A The Led passou 16 anos construindo a infraestrutura de telas para shoppings, varejistas e empresas de mídia out-of-home, como a Eletromidia e a NEOOH. Agora, ela mesma quer transformar esses ativos em mídia.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://braziljournal.com/a-the-led-quer-virar-referencia-em-retail-media-sem-brigar-com-o-ooh/",
-      "source": "Brazil Journal",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://braziljournal.com/wp-content/uploads/2026/08/o-que-e-retail-media-vantagens-1-635x357.jpg",
-      "publishedAt": "2026-08-14T09:50:08+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Brazil Journal"
       ],
       "coverageCount": 1
     },
@@ -5478,27 +5373,6 @@
       "coverageCount": 1
     },
     {
-      "id": "InfoMoney-https://www.infomoney.com.br/mercados/hapvida-hapv3-acoes-desabam-balanco-2t26-marcado-por-margens-pressionadas-e-judicializacao/",
-      "_key": "a457484e050221020d944d16f1470254",
-      "title": "judicialização",
-      "originalTitle": "judicialização",
-      "summary": "Tendência de judicialização veio significativamente pior do que o esperado e dificultou ainda mais a avaliação de qual seria o nível normalizado de rentabilidade da companhia The post Hapvida: HAPV3 desaba 20% com 2T marcado por margens pressionadas e judicialização appeared first on InfoMoney .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.infomoney.com.br/mercados/hapvida-hapv3-acoes-desabam-balanco-2t26-marcado-por-margens-pressionadas-e-judicializacao/",
-      "source": "InfoMoney",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/hospital-vasco-lucena.jpg?fit=300%2C241&amp;quality=70&amp;strip=all",
-      "publishedAt": "2026-08-13T15:05:38+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "InfoMoney-https://www.infomoney.com.br/business/global/de-guarda-costas-a-homem-forte-como-o-neto-de-raul-castro-ganhou-poder-em-cuba/",
       "_key": "46531e4b202da97687c34448c4beada5",
       "title": "De guarda-costas a homem forte: como o neto de Raúl Castro ganhou poder em Cuba",
@@ -5659,27 +5533,6 @@
       "country": "BR",
       "image": "https://s2-g1.glbimg.com/Kyq02FTY8sta438whk3YLOEdrGE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/q/r/3qyF35TKAsShpyvdX0Pg/fre-sonneveld-q6n8nirdqhe-unsplash.jpg",
       "publishedAt": "2026-08-12T22:05:51+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "G1 Economia"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/12/camara-aprova-projeto-que-cria-o-aluguel-consignado-sem-fiador-e-com-desconto-direto-de-ate-30percent-no-salario.ghtml",
-      "_key": "e58a5ce28919fd9aa6b969a53b74af5c",
-      "title": "com desconto de até 30% no salário",
-      "originalTitle": "com desconto de até 30% no salário",
-      "summary": "nova modalidade de garantia para a locação de imóveis através da consignação de parte do salário. 🏠 O limite estabelecido no projeto é de até 30% do salário. Com a consignação, o locatário fica dispensado de buscar fiadores para o contrato ou fazer um depósito caução, por exemplo.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/12/camara-aprova-projeto-que-cria-o-aluguel-consignado-sem-fiador-e-com-desconto-direto-de-ate-30percent-no-salario.ghtml",
-      "source": "G1 Economia",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://s2-g1.glbimg.com/kt1BH6ufNZAMlkDe8ZKuJLv1T6k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/W/U/jgBnu1TTCBF0LUdO09bw/house-4516175-960-720.jpg",
-      "publishedAt": "2026-08-12T22:02:40+00:00",
       "score": 33,
       "alsoIn": [],
       "sourcesCovered": [
@@ -5856,27 +5709,6 @@
       "coverageCount": 1
     },
     {
-      "id": "NeoFeed-https://neofeed.com.br/negocios/apos-falha-b3-diz-que-nao-aumentara-investimento-em-tecnologia-ao-menos-neste-ano/",
-      "_key": "3f6c368f355be2b68906283ba6c8c5ad",
-      "title": "tecnologia (ao menos neste ano)",
-      "originalTitle": "tecnologia (ao menos neste ano)",
-      "summary": "A falha técnica na B3 que impediu a abertura do mercado de ações em 31 de julho ainda levanta preocupações entre os analistas, que seguem sem uma explicação detalhada sobre o ocorrido.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://neofeed.com.br/negocios/apos-falha-b3-diz-que-nao-aumentara-investimento-em-tecnologia-ao-menos-neste-ano/",
-      "source": "NeoFeed",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://neofeed.com.br/wp-content/uploads/2026/07/B3-Bolsa-Brasil-Balcao-efeito-NeoFeed-300x169.jpg",
-      "publishedAt": "2026-08-12T15:40:49+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "NeoFeed"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/com-refinarias-sob-ataque-russia-importa-gasolina-da-india-pela-1a-vez-na-historia/",
       "_key": "20e6cd4f480aff8875d418b3f22c8d4f",
       "title": "Com refinarias sob ataque, Rússia importa gasolina da Índia pela 1ª vez na história",
@@ -5894,27 +5726,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/12/discord-o-que-e-a-rede-social-que-tera-lives-suspensas-no-brasil-apos-decisao-da-anpd.ghtml",
-      "_key": "fe781f0513375b0e457ed995737dc86a",
-      "title": "ANPD",
-      "originalTitle": "ANPD",
-      "summary": "Agência Nacional de Proteção de Dados determina que Discord suspenda transmissão de 'lives' no Brasil A Agência Nacional de Proteção de Dados (ANPD) determinou, nesta quarta-feira (12), que o Discord suspenda as transmissões ao vivo na plataforma no Brasil.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/12/discord-o-que-e-a-rede-social-que-tera-lives-suspensas-no-brasil-apos-decisao-da-anpd.ghtml",
-      "source": "G1 Economia",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://s2-g1.glbimg.com/jxhJeVNveYPzOOSGnjwPBXJDq48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/N/4/FuKFTVTPib1qU0pOd4hA/51203949789-df936dea2c-k.jpg",
-      "publishedAt": "2026-08-12T14:29:46+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "G1 Economia"
       ],
       "coverageCount": 1
     },
@@ -6150,27 +5961,6 @@
       "coverageCount": 1
     },
     {
-      "id": "G1 Economia-https://g1.globo.com/politica/noticia/2026/08/11/senado-aprova-linha-de-credito-para-industria-de-fertilizantes-mas-sem-estipular-valores.ghtml",
-      "_key": "2c153486f6e097473bb241156e02731a",
-      "title": "sem estipular valores",
-      "originalTitle": "sem estipular valores",
-      "summary": "programa, com oferta de financiamentos, para fomentar a indústria de fertilizantes em meio à guerra no Oriente Médio. O texto segue para sanção do presidente Luiz Inácio Lula Silva (PT).",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://g1.globo.com/politica/noticia/2026/08/11/senado-aprova-linha-de-credito-para-industria-de-fertilizantes-mas-sem-estipular-valores.ghtml",
-      "source": "G1 Economia",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://s2-g1.glbimg.com/nWDpJq1SvHFaIs5N1WNatt2M13U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/V/hzlz2EQE2jZBAHNfITig/pexels-kkwritesofficial-31673795.jpg",
-      "publishedAt": "2026-08-11T21:21:24+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "G1 Economia"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Brazil Journal-https://braziljournal.com/deutsche-sera-primeiro-banco-nao-chines-a-ter-clearing-de-yuan/",
       "_key": "38e34262b66bb32c17a1ede59adff916",
       "title": "Deutsche será primeiro banco não chinês a ter ‘clearing’ de yuan",
@@ -6213,27 +6003,6 @@
       "coverageCount": 1
     },
     {
-      "id": "NeoFeed-https://neofeed.com.br/negocios/natura-faz-mea-culpa-apos-balanco-sem-grandes-surpresas/",
-      "_key": "94edea6cb9498e53f7a12cb5edae86ae",
-      "title": "surpresas",
-      "originalTitle": "surpresas",
-      "summary": "A Natura confirmou os alertas que havia antecipado há cerca de um mês em sua prévia do resultado do segundo trimestre de 2026 ao divulgar o balanço consolidado do período na noite da segunda-feira, 10 de agosto.",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://neofeed.com.br/negocios/natura-faz-mea-culpa-apos-balanco-sem-grandes-surpresas/",
-      "source": "NeoFeed",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://neofeed.com.br/wp-content/uploads/2026/03/natura-loja-300x169.jpg",
-      "publishedAt": "2026-08-11T17:24:14+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "NeoFeed"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/tse-se-reune-na-quinta-para-discutir-ia-de-bolsonaro-e-uso-de-deepfake-nas-eleicoes/",
       "_key": "8a1f82b697b47cca2e18f1f0d200f54e",
       "title": "TSE se reune na quinta para discutir IA de Bolsonaro e uso de “deepfake” nas eleições",
@@ -6272,27 +6041,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "InfoMoney-https://www.infomoney.com.br/business/global/entenda-como-trump-usou-conteiner-de-catering-para-sair-da-turquia-apos-ameaca-do-ira/",
-      "_key": "8b3cb667d5bfb737c6d675415397ffba",
-      "title": "Irã",
-      "originalTitle": "Irã",
-      "summary": "Jornalistas e funcionários da Casa Branca serviram como iscas no voo do antigo Air Force One enquanto Trump viajava em segredo num terceiro avião The post Entenda como Trump usou contêiner de catering para sair da Turquia após ameaça do Irã appeared first on InfoMoney .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.infomoney.com.br/business/global/entenda-como-trump-usou-conteiner-de-catering-para-sair-da-turquia-apos-ameaca-do-ira/",
-      "source": "InfoMoney",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/TRUMP-PLANE-RUSE-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-      "publishedAt": "2026-08-11T15:34:35+00:00",
-      "score": 33,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "InfoMoney"
       ],
       "coverageCount": 1
     },
