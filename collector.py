@@ -160,6 +160,56 @@ BLOCKLIST = [
     "save $", "register now", "buy tickets", "early bird",
     "disrupt ", "techcrunch disrupt",
 ]
+
+# Fontes tech generalistas são úteis, mas trazem muito gadget, promoção, games
+# e consumo. Para elas, exigimos sinal claro de negócio/ecossistema.
+NOISY_TECH_SOURCES = {"Tecnoblog", "Canaltech", "Olhar Digital"}
+
+NOISY_TECH_REQUIRED = [
+    "startup", "fintech", "healthtech", "edtech", "agtech", "proptech", "saas",
+    "venture", "investimento", "rodada", "aporte", "captação", "valuation",
+    "aquisição", "m&a", "ipo", "unicórnio", "mercado", "empresa", "companhia",
+    "negócio", "receita", "lucro", "cliente empresarial", "clientes empresariais",
+    "b2b", "corporativo", "empresarial", "executivo", "executivos", "conselho",
+    "acionistas",
+    "open finance", "pix", "banco central", "regulação", "regulatório", "lgpd",
+    "cibersegurança", "segurança cibernética", "data center", "cloud",
+    "mercado financeiro", "cade",
+]
+
+NOISY_TECH_BLOCKLIST = [
+    "promoção", "oferta", "amazon", "magalu", "mercado livre", "cupom",
+    "smartphone", "celular", "tablet", "smartwatch", "fone", "bluetooth",
+    "headset", "soundbar", "tv ", "fire tv", "ssd", "monitor", "mouse",
+    "notebook gamer", "jogo", "games", "gamer", "playstation", "xbox",
+    "nintendo", "streaming", "filme", "série", "cinema", "anime",
+    "onde assistir", "horário e escalação", "brasileirão", "futebol",
+    "roteador", "wi-fi", "smart speaker", "alexa", "iphone", "windows",
+    "chrome", "edge", "ublock", "senha", "foto é real", "câmera de ação",
+    "npcs", "multiplayer", "pubg", "marvel rivals", "spotify", "criadores",
+    "sol", "matemático", "riemann", "marca d'água", "marca d’água",
+    "pornografia", "sexual", "imagens criminosas", "enteada", "padrasto",
+]
+
+
+def contains_term(text, term):
+    term = term.strip().lower()
+    if not term:
+        return False
+    if re.fullmatch(r"[\wÀ-ÿ]+", term):
+        return re.search(rf"(?<![\wÀ-ÿ]){re.escape(term)}(?![\wÀ-ÿ])", text) is not None
+    return term in text
+
+
+def passes_editorial_scope(source_name, title, summary):
+    text = f" {title} {summary} ".lower()
+    if source_name not in NOISY_TECH_SOURCES:
+        return True
+    if len([w for w in title.split() if len(w) > 2]) < 3:
+        return False
+    if any(contains_term(text, term) for term in NOISY_TECH_BLOCKLIST):
+        return False
+    return any(contains_term(text, term) for term in NOISY_TECH_REQUIRED)
  
  
 def normalize_txt(s):
@@ -476,7 +526,9 @@ def collect(use_ai, max_age_days):
             # Portão de bloqueio: termos que nunca devem entrar
             is_blocked = any(kw in haystack for kw in BLOCKLIST)
  
-            if not (enough_length and enough_sentences and distinct_from_title and is_relevant) or is_blocked:
+            in_editorial_scope = passes_editorial_scope(source["name"], title, clean_summary)
+
+            if not (enough_length and enough_sentences and distinct_from_title and is_relevant and in_editorial_scope) or is_blocked:
                 skipped_thin += 1
                 continue
  
