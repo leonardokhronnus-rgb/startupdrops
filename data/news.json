@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T08:00:52.759146+00:00",
+  "updatedAt": "2026-08-18T10:04:32.476903+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -129,6 +129,195 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-18082026/",
+      "_key": "8d649db08ed4068d3554cb52e1cc8deb",
+      "title": "Day Trade hoje (18): Ibovespa acumula 10 quedas; há espaço para reação?",
+      "originalTitle": "Day Trade hoje (18): Ibovespa acumula 10 quedas; há espaço para reação?",
+      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (18): Ibovespa acumula 10 quedas; há espaço para reação? appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-18082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T10:02:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/anvisa-aprova-1o-generico-de-semaglutida-do-brasil-e-eleva-disputa-como-fica-hypera/",
+      "_key": "7b7f57ebdd34682a8fe144c769651b7d",
+      "title": "Anvisa aprova 1º genérico de semaglutida do Brasil e eleva disputa: como fica Hypera?",
+      "originalTitle": "Anvisa aprova 1º genérico de semaglutida do Brasil e eleva disputa: como fica Hypera?",
+      "summary": "Goldman Sachs vê fortalecimento da EMS após aprovação regulatória inédita e reforça expectativa de queda de preços e forte expansão do mercado de semaglutida nos próximos anos The post Anvisa aprova 1º genérico de semaglutida do Brasil e eleva disputa: como fica Hypera?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/anvisa-aprova-1o-generico-de-semaglutida-do-brasil-e-eleva-disputa-como-fica-hypera/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/451931946_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T10:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/empresarios-veem-uso-da-reciprocidade-como-parte-do-processo-de-negociacao-com-eua/",
+      "_key": "5ec38d06c1cdcf7ebe48b67d0c575b25",
+      "title": "Empresários veem uso da reciprocidade como parte do processo de negociação com EUA",
+      "originalTitle": "Empresários veem uso da reciprocidade como parte do processo de negociação com EUA",
+      "summary": "Interlocutores do governo afirmam que país não poderia fingir que não existe uma lei aprovada pelo Congresso como instrumento de defesa e não abrir o processo só sob o argumento de que o outro lado é 'mais forte' The post Empresários veem uso da reciprocidade como parte do processo de negociação com EUA appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/empresarios-veem-uso-da-reciprocidade-como-parte-do-processo-de-negociacao-com-eua/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eua-brasil-tarifas-tarifaco.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T09:53:03+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/ap/amapa/noticia/2026/08/18/novo-pre-sal-o-que-ja-se-sabe-e-o-que-ainda-falta-descobrir-sobre-o-petroleo-na-foz-do-amazonas.ghtml",
+      "_key": "d74255ad4714cae61d219ee9771707ca",
+      "title": "Novo pré-sal? O que já se sabe e o que ainda falta descobrir sobre o petróleo na Foz do Amazonas",
+      "originalTitle": "Novo pré-sal? O que já se sabe e o que ainda falta descobrir sobre o petróleo na Foz do Amazonas",
+      "summary": "Petrobras confirma descoberta de Petroleo na Foz do Amazonas, litoral do Amapá A Petrobras confirmou a existência de petróleo no poço Morpho, na bacia da Foz do Amazonas, no litoral do Amapá, nesta segunda-feira (17).",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/ap/amapa/noticia/2026/08/18/novo-pre-sal-o-que-ja-se-sabe-e-o-que-ainda-falta-descobrir-sobre-o-petroleo-na-foz-do-amazonas.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/OBHx77A3VmPZUuPr49BdcUReoNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/4/cqS5nfTtW7liovtFzlMg/1.webp",
+      "publishedAt": "2026-08-18T09:52:48+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/apos-pedido-de-rj-casas-bahia-busca-emprestimo-de-r-1-bi-e-aposta-no-marketplace/",
+      "_key": "06325279eb277bfdbb6cf73fc09e433a",
+      "title": "Após pedido de RJ, Casas Bahia busca empréstimo de R$ 1 bi e aposta no marketplace",
+      "originalTitle": "Após pedido de RJ, Casas Bahia busca empréstimo de R$ 1 bi e aposta no marketplace",
+      "summary": "As ações da companhia tiveram a negociação suspensa várias vezes ao longo do pregão de ontem diante da forte oscilação e fecharam em baixa de 33%, a R$ 0,44 The post Após pedido de RJ, Casas Bahia busca empréstimo de R$ 1 bi e aposta no marketplace appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/apos-pedido-de-rj-casas-bahia-busca-emprestimo-de-r-1-bi-e-aposta-no-marketplace/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-23T152550Z_1_LYNXMPEL9M0UC_RTROPTP_4_EMPRESAS-CASAS-BAHIA-ACOES.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T09:47:54+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/positivo-diz-que-exposicao-a-casas-bahia-e-baixa/",
+      "_key": "b3c73cce6989bbd81efdbcf8011487ff",
+      "title": "Positivo diz que exposição à Casas Bahia é baixa",
+      "originalTitle": "Positivo diz que exposição à Casas Bahia é baixa",
+      "summary": "A ‌companhia afirmou que o saldo atual de contas a receber da Casas ​Bahia é de cerca de R$19 milhões e ​que a totalidade está coberta por seguro de crédito The post Positivo diz que exposição à Casas Bahia é baixa appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/positivo-diz-que-exposicao-a-casas-bahia-e-baixa/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/05/Linha-Producao-Positivo-Tecnologia-Manaus-1.jpg?fit=300%2C172&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T09:30:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/petroleo-industria-eua-home-depot-18082026/",
+      "_key": "b0a623735cecfdc991a67d9215b3b22d",
+      "title": "Petróleo, indústria nos EUA, balanço da Home Depot e mais destaques nesta 3ª",
+      "originalTitle": "Petróleo, indústria nos EUA, balanço da Home Depot e mais destaques nesta 3ª",
+      "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (18) The post Petróleo, indústria nos EUA, balanço da Home Depot e mais destaques nesta 3ª appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/petroleo-industria-eua-home-depot-18082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/arvind-vallabh-rqWWhKzVCaU-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T09:03:46+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/casas-bahia-e-so-a-ponta-do-iceberg-986-varejistas-estao-em-recuperacao/",
+      "_key": "4d7ada7500fe7b4236e950545a2e9ec0",
+      "title": "Casas Bahia é só a ponta do iceberg: 986 varejistas estão em recuperação",
+      "originalTitle": "Casas Bahia é só a ponta do iceberg: 986 varejistas estão em recuperação",
+      "summary": "Recuperações judiciais crescem 20,4% em 12 meses, mas setor tem 686 empresas falidas The post Casas Bahia é só a ponta do iceberg: 986 varejistas estão em recuperação appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/casas-bahia-e-so-a-ponta-do-iceberg-986-varejistas-estao-em-recuperacao/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/chelaxy-designs-XfRjmYl4UHs-unsplash_251244.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T09:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/crise-economica-santinho-nas-redes-e-mais-casos-na-justica-mostram-formas-mais-comuns-de-assedio-eleitoral-no-trabalho.ghtml",
+      "_key": "33d81c6ff7bc123c49eebdc0c6d68fa9",
+      "title": "Crise econômica, 'santinho' nas redes e mais: casos na Justiça mostram formas mais comuns de assédio eleitoral no trabalho",
+      "originalTitle": "Crise econômica, 'santinho' nas redes e mais: casos na Justiça mostram formas mais comuns de assédio eleitoral no trabalho",
+      "summary": "Crescem os números de processos e denúncias por assédio moral no trabalho Pressão para compartilhar propaganda política no WhatsApp, exigência de \"santinhos\" em perfis pessoais, vigilância das redes sociais e ameaças relacionadas ao emprego.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/crise-economica-santinho-nas-redes-e-mais-casos-na-justica-mostram-formas-mais-comuns-de-assedio-eleitoral-no-trabalho.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg",
+      "publishedAt": "2026-08-18T08:03:06+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/trabalhadores-veem-empresas-tolerarem-abusos-de-chefes-que-entregam-resultados.ghtml",
       "_key": "e22c707247322c79d39128da5ac62140",
