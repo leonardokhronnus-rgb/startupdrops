@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T03:12:49.602899+00:00",
+  "updatedAt": "2026-08-18T08:00:52.759146+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -129,6 +129,69 @@
     }
   ],
   "articles": [
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/trabalhadores-veem-empresas-tolerarem-abusos-de-chefes-que-entregam-resultados.ghtml",
+      "_key": "e22c707247322c79d39128da5ac62140",
+      "title": "Trabalhadores veem empresas tolerarem abusos de chefes que entregam resultados",
+      "originalTitle": "Trabalhadores veem empresas tolerarem abusos de chefes que entregam resultados",
+      "summary": "Trabalhadores veem empresas tolerarem abusos de chefes que entregam resultados Pexels O chefe grita, expõe funcionários, faz cobranças excessivas e cria um clima de medo na equipe. Mesmo assim, continua sendo elogiado pela empresa porque entrega resultados.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/18/trabalhadores-veem-empresas-tolerarem-abusos-de-chefes-que-entregam-resultados.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/KbmX5Z_F2dWmMCJFdnfR5sMCE18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/0/BlgsqlTQ6KI3BoH6zipw/pexels-yankrukov-7794084.jpg",
+      "publishedAt": "2026-08-18T07:03:11+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/18/por-que-cameras-digitais-e-fones-com-fio-estao-de-volta.ghtml",
+      "_key": "30065d6bdc3b1c891ef45555abd6e635",
+      "title": "Câmeras digitais e fones com fio estão de volta. Mas por quê?",
+      "originalTitle": "Câmeras digitais e fones com fio estão de volta. Mas por quê?",
+      "summary": "tropecei no primeiro obstáculo: deixei a bateria da minha câmera digital carregando em casa. A última vez que usei esta câmera foi há 15 anos, em uma viagem de férias em família para as Ilhas Canárias.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/18/por-que-cameras-digitais-e-fones-com-fio-estao-de-volta.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/16__PE7O8qtH6an5JzUO-T-gcZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/1/bi33wMSSmRaHyINQb8Bg/fones-ouvido-com-fio-2.jpg",
+      "publishedAt": "2026-08-18T06:02:16+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/fantastico/noticia/2026/08/18/como-o-super-el-nino-pode-afetar-economia-global-e-fazer-subir-os-precos-de-alimentos.ghtml",
+      "_key": "3a83b4eeeb65aa1f200430ef87143d4d",
+      "title": "Como o 'Super El Niño' pode afetar economia global e fazer subir os preços de alimentos",
+      "originalTitle": "Como o 'Super El Niño' pode afetar economia global e fazer subir os preços de alimentos",
+      "summary": "Cientistas monitoram formação de 'Super El Niño' e alertam para impactos no Brasil O super El Niño que está se formando no Oceano Pacífico não deve trazer apenas mudanças no clima.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/08/18/como-o-super-el-nino-pode-afetar-economia-global-e-fazer-subir-os-precos-de-alimentos.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/Th_1maIQ8Y1-_N8I2VilyBlFx8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/x/hAxhg6TLeUhFA9fNQn2A/elnino-1-.png",
+      "publishedAt": "2026-08-18T06:00:10+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/minhas-financas/o-dilema-da-alta-renda-no-brasil-95-reconhecem-privilegio-e-14-se-consideram-ricos/",
       "_key": "d97dbcc3df26798bb58bb8376b150835",
