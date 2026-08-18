@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T16:03:35.783542+00:00",
+  "updatedAt": "2026-08-18T19:20:24.139723+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -130,6 +130,300 @@
   ],
   "articles": [
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/tesouro-faz-maior-leilao-de-titulos-de-inflacao-desde-abril-apos-vencimento-recorde/",
+      "_key": "a59d14f734c81e48d716b6b85220f0cf",
+      "title": "Tesouro faz maior leilão de títulos de inflação desde abril após vencimento recorde",
+      "originalTitle": "Tesouro faz maior leilão de títulos de inflação desde abril após vencimento recorde",
+      "summary": "Colocação integral dos três vencimentos interrompe sequência de ofertas enxutas, mas concentração no papel mais curto mostra que a demanda por títulos longos segue fraca The post Tesouro faz maior leilão de títulos de inflação desde abril após vencimento recorde appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/tesouro-faz-maior-leilao-de-titulos-de-inflacao-desde-abril-apos-vencimento-recorde/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/dinheiro-reais.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T19:09:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/o-alerta-do-chairman-da-openai-sobre-as-empresas-que-caem-na-tentacao-do-turismo-de-ia/",
+      "_key": "4d0c506c93f47ed7d0c18559dd86df32",
+      "title": "O alerta do chairman da OpenAI sobre as empresas que caem na tentação do “turismo de IA”",
+      "originalTitle": "O alerta do chairman da OpenAI sobre as empresas que caem na tentação do “turismo de IA”",
+      "summary": "A inteligência artificial (IA) terá para as empresas o mesmo impacto que os websites tiveram no fim da década de 1990, melhorando a experiência do consumidor, mas com o diferencial de também ser uma ferramenta para aumentar a produtividade, ampliar market share e reduzir custos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/o-alerta-do-chairman-da-openai-sobre-as-empresas-que-caem-na-tentacao-do-turismo-de-ia/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/Bret-Taylor-chairman-da-OpenAI-300x169.jpg",
+      "publishedAt": "2026-08-18T18:48:17+00:00",
+      "score": 39,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/18/ibovespa-tem-2o-pior-desempenho-entre-21-bolsas-em-agosto.ghtml",
+      "_key": "1dd747f3b4f0b4919b1ede7c46cf6aee",
+      "title": "Ibovespa tem 2º pior desempenho entre 21 bolsas em agosto",
+      "originalTitle": "Ibovespa tem 2º pior desempenho entre 21 bolsas em agosto",
+      "summary": "Ibovespa tem pior queda desde março e dólar sobe O Ibovespa acumula queda de 8,54% em agosto e tem o segundo pior desempenho entre 21 bolsas acompanhadas pela consultoria Elos Ayta. O levantamento considera os resultados em dólares até o dia 17.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/18/ibovespa-tem-2o-pior-desempenho-entre-21-bolsas-em-agosto.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/6tYFg4Q1F5oU6E97quDrPnFi_rI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/z/I/qCZVPnQWAGehPMho85rA/microsoftteams-image-23-.png",
+      "publishedAt": "2026-08-18T18:37:36+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/carreira/empresas-brasileiras-dominam-ranking-de-executivos-na-america-latina-veja-destaques/",
+      "_key": "8b6fc3630159d82ebe21dbb5c05eae35",
+      "title": "Empresas brasileiras dominam ranking de executivos na América Latina; veja destaques",
+      "originalTitle": "Empresas brasileiras dominam ranking de executivos na América Latina; veja destaques",
+      "summary": "AXIA Energia, Itaú Unibanco, Localiza, PRIO, Rede D'Or, Vale e WEG foram as sete empresas brasileiras que alcançaram o status All-Star The post Empresas brasileiras dominam ranking de executivos na América Latina; veja destaques appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/carreira/empresas-brasileiras-dominam-ranking-de-executivos-na-america-latina-veja-destaques/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/pexels-gustavo-fring-4872010.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T18:33:48+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/assista-passarela-e-atingida-por-carreta-e-desaba-em-sp-duas-pessoas-morrem/",
+      "_key": "93ce2dc51bb4383d3a512ebaba5b0318",
+      "title": "ASSISTA: Passarela é atingida por carreta e desaba em SP; duas pessoas morrem",
+      "originalTitle": "ASSISTA: Passarela é atingida por carreta e desaba em SP; duas pessoas morrem",
+      "summary": "Acidente ocorreu por volta das 10h da manhã no km 4,1 da Rodovia Fernão Dias The post ASSISTA: Passarela é atingida por carreta e desaba em SP; duas pessoas morrem appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/assista-passarela-e-atingida-por-carreta-e-desaba-em-sp-duas-pessoas-morrem/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/ciclopassarela.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T18:32:32+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/18/openai-reduz-desenvolvimento-de-ia-apos-agente-em-teste-invadir-sistemas-de-outra-empresa.ghtml",
+      "_key": "b693ee59b618d2d6a23443555b6fe244",
+      "title": "OpenAI reduz desenvolvimento de IA após agente em teste invadir sistemas de outra empresa",
+      "originalTitle": "OpenAI reduz desenvolvimento de IA após agente em teste invadir sistemas de outra empresa",
+      "summary": "[bbc] Logo da empresa OpenAI, responsável pelo ChatGPT OpenAI anunciou nesta terça-feira (18) que está desacelerando o desenvolvimento de seus modelos de inteligência artificial enquanto reformula seus sistemas de pesquisa e treinamento.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/18/openai-reduz-desenvolvimento-de-ia-apos-agente-em-teste-invadir-sistemas-de-outra-empresa.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/ZfKAzrEJwgtN80ljq3Xm_ZKYEVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/7/E9EqvJSQmtpA4O5ba3cg/19bf2440-8770-11f1-b430-afa19a42b819.jpg.webp",
+      "publishedAt": "2026-08-18T18:31:46+00:00",
+      "score": 39,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/ex-chefe-da-fab-relata-pressao-de-bolsonaro-e-temor-de-golpe-iminente-em-2022/",
+      "_key": "fd6a9e7490617ae3db36f4fa09d3029a",
+      "title": "Ex-chefe da FAB relata pressão de Bolsonaro e temor de golpe “iminente” em 2022",
+      "originalTitle": "Ex-chefe da FAB relata pressão de Bolsonaro e temor de golpe “iminente” em 2022",
+      "summary": "Carlos Baptista Junior afirma que temia ruptura dentro do Exército e descreve reuniões em que comandantes militares foram pressionados após a derrota eleitoral The post Ex-chefe da FAB relata pressão de Bolsonaro e temor de golpe &#8220;iminente&#8221; em 2022 appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/ex-chefe-da-fab-relata-pressao-de-bolsonaro-e-temor-de-golpe-iminente-em-2022/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/05/Cid-e-Bolsonaro.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T18:31:33+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/no-c6-bank-r-125-bilhao-de-lucro-e-um-salto-de-20-mas-marcelo-kalim-diz-que-poderia-ter-sido-melhor/",
+      "_key": "25c3ba0ae865debc6a7178932192450c",
+      "title": "No C6 Bank, R$ 1,25 bilhão de lucro e um salto de 20%. Mas Marcelo Kalim diz que poderia ter sido melhor",
+      "originalTitle": "No C6 Bank, R$ 1,25 bilhão de lucro e um salto de 20%. Mas Marcelo Kalim diz que poderia ter sido melhor",
+      "summary": "Desde 2024, quando entregou seu primeiro lucro anual, o C6 Bank vem reportando seus balanços com a última linha tingida de azul. E, no primeiro semestre de 2026, além de manter essa toada, o banco digital registrou a sua melhor marca para o período.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/no-c6-bank-r-125-bilhao-de-lucro-e-um-salto-de-20-mas-marcelo-kalim-diz-que-poderia-ter-sido-melhor/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2025/02/c6-bank-fachada-300x169.webp",
+      "publishedAt": "2026-08-18T18:30:07+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/carreira/empregos-em-tecnologia/",
+      "_key": "7a27c55d13956409ae1a37567b39fb6e",
+      "title": "R$ 40,5 mil por mês: onde estão os empregos em tecnologia no Brasil?",
+      "originalTitle": "R$ 40,5 mil por mês: onde estão os empregos em tecnologia no Brasil?",
+      "summary": "Sudeste ainda concentra vagas, mas o mercado de tecnologia avança fora dos polos tradicionais The post R$ 40,5 mil por mês: onde estão os empregos em tecnologia no Brasil? appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/carreira/empregos-em-tecnologia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Empregos-em-tecnologia.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T18:30:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/esportes/chelsea-entra-no-radar-de-negocio-bilionario-entre-acionistas/",
+      "_key": "999c5962474fa6daad353e61a8adefeb",
+      "title": "Chelsea entra no radar de negócio bilionário entre acionistas",
+      "originalTitle": "Chelsea entra no radar de negócio bilionário entre acionistas",
+      "summary": "Controladora do clube inglês avalia comprar participação de Mark Walter, em operação que pode reorganizar a estrutura de poder da equipe londrina The post Chelsea entra no radar de negócio bilionário entre acionistas appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/esportes/chelsea-entra-no-radar-de-negocio-bilionario-entre-acionistas/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464637130.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T18:23:10+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/neospace-negocia-rodada-de-ate-us-250-milhoes/",
+      "_key": "8731a4b7b41855f39dc670ea7637420f",
+      "title": "Neospace negocia rodada de até US$ 250 milhões",
+      "originalTitle": "Neospace negocia rodada de até US$ 250 milhões",
+      "summary": "Startupi Neospace negocia rodada de até US$ 250 milhões A NeoSpace, startup brasileira de inteligência artificial, está em negociações para uma nova rodada de investimentos que pode chegar a US$ 250 milhões.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/neospace-negocia-rodada-de-ate-us-250-milhoes/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/neospace-e1787076468183.jpg",
+      "publishedAt": "2026-08-18T18:07:55+00:00",
+      "score": 68,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/18/ministerio-da-fazenda-suspende-zeroumbet-criada-pela-influenciadora-deolane-bezerra-e-outras-empresas-de-apostas-online.ghtml",
+      "_key": "e82180bfbf40ea4797fd30eaa6190a4e",
+      "title": "Ministério da Fazenda suspende ZeroumBet, criada pela influenciadora Deolane Bezerra, e outras empresas de apostas online",
+      "originalTitle": "Ministério da Fazenda suspende ZeroumBet, criada pela influenciadora Deolane Bezerra, e outras empresas de apostas online",
+      "summary": "O Ministério da Fazenda suspendeu na última sexta-feira (14) a empresa de apostas online ZeroumBet, criada pela advogada, influenciadora digital e empresária Deolane Bezerra, por não encaminhar as informações exigidas para o monitoramento e fiscalização conduzido pela Secretaria de Prêmios e Apostas da pasta.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/18/ministerio-da-fazenda-suspende-zeroumbet-criada-pela-influenciadora-deolane-bezerra-e-outras-empresas-de-apostas-online.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/pN521y38_oe_gZuFwXo2liz6MHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/W/xhgARnSrWR2ApcWXFQKQ/globo-canal-5-20260524-2000-frame-55347.jpeg",
+      "publishedAt": "2026-08-18T16:41:23+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/18/efeito-domino-crises-de-casas-bahia-e-marabraz-podem-deixar-credito-mais-dificil-ao-varejo.ghtml",
+      "_key": "31bf119f10a59524246d6f7ca8720f01",
+      "title": "Efeito dominó: crises de Casas Bahia e Marabraz podem deixar crédito mais difícil ao varejo",
+      "originalTitle": "Efeito dominó: crises de Casas Bahia e Marabraz podem deixar crédito mais difícil ao varejo",
+      "summary": "Crise das Casas Bahia pode limitar crédito Os pedidos de recuperação judicial das Casas Bahia e Marabraz nesta semana reacenderam uma preocupação no mercado financeiro: a ameaça de um novo aperto generalizado nas linhas de financiamento para empresas do varejo.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/18/efeito-domino-crises-de-casas-bahia-e-marabraz-podem-deixar-credito-mais-dificil-ao-varejo.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/Q6A47zyQCPFRDCQix09CykyqRU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/s/3/KsxjYyR1ysKxThJWITRw/ato20240429117.jpg",
+      "publishedAt": "2026-08-18T16:30:08+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/inteligencia-artificial/saint-paul-e-exame-oferecem-mais-de-87-de-desconto-no-pre-mba-em-ia-saiba-como-se-inscrever/",
+      "_key": "dc71d21a74b3730d80cb6bc92848188c",
+      "title": "Saint Paul e EXAME oferecem mais de 87% de desconto no Pré-MBA em IA; saiba como se inscrever",
+      "originalTitle": "Saint Paul e EXAME oferecem mais de 87% de desconto no Pré-MBA em IA; saiba como se inscrever",
+      "summary": "Para democratizar o acesso ao conhecimento de alto nível, a Saint Paul em parceria com a EXAME acaba de anunciar a abertura de vagas para o seu Pré-MBA em Inteligência Artificial com uma condição de mais de 87% de desconto. Saiba mais!",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/inteligencia-artificial/saint-paul-e-exame-oferecem-mais-de-87-de-desconto-no-pre-mba-em-ia-saiba-como-se-inscrever/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/2151618523.jpg",
+      "publishedAt": "2026-08-18T16:02:45+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/advisor/escritorios-de-assessoria-tem-quase-5-vezes-mais-profissionais-que-ha-uma-decada/",
       "_key": "9de1563382b8044e631461851c57c5e8",
       "title": "Escritórios de assessoria têm quase 5 vezes mais profissionais que há uma década",
@@ -147,6 +441,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/18/robos-que-dancam-lutam-e-trabalham-gigante-chinesa-estreia-na-bolsa-apos-levantar-quase-us-1-bilhao.ghtml",
+      "_key": "fb143ae522b73d4c5cb040e210860bad",
+      "title": "Robôs que dançam, lutam e trabalham: gigante chinesa estreia na bolsa após levantar quase US$ 1 bilhão",
+      "originalTitle": "Robôs que dançam, lutam e trabalham: gigante chinesa estreia na bolsa após levantar quase US$ 1 bilhão",
+      "summary": "Robôs humanoides chineses superam humanos em meia-maratona em Pequim A Unitree, uma das maiores fabricantes de robôs humanoides do mundo em volume de vendas, estreia nesta quarta-feira (19) na bolsa de Xangai, na China, com uma oferta pública inicial (IPO, na sigla em inglês) que já se tornou recorde no mercado local voltado para empresas de tecnologia.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/18/robos-que-dancam-lutam-e-trabalham-gigante-chinesa-estreia-na-bolsa-apos-levantar-quase-us-1-bilhao.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/PbgwBYV8UEwce8uQ4MaGsQglBmg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/W/7R3BfTREOIbyq5USWB5g/2026-08-10t021254z-1657893717-rc2kfmad3a7d-rtrmadp-3-unitree-ipo-explainer.jpg",
+      "publishedAt": "2026-08-18T15:58:37+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
       ],
       "coverageCount": 1
     },
