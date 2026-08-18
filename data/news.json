@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T19:20:24.139723+00:00",
+  "updatedAt": "2026-08-18T21:51:41.440101+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -129,6 +129,69 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/stf-forma-maioria-para-tornar-ex-presidente-da-alerj-reu-em-caso-de-vazamento-de-acao/",
+      "_key": "1902593e656d7bcae1aff9d09f33fe11",
+      "title": "STF forma maioria para tornar ex-presidente da Alerj réu em caso de vazamento de ação",
+      "originalTitle": "STF forma maioria para tornar ex-presidente da Alerj réu em caso de vazamento de ação",
+      "summary": "Desembargador federal Macário Ramos Júdice Neto está na mesma ação. O placar agora é de 3 a 0, faltando apenas o voto do ministro Flávio Dino The post STF forma maioria para tornar ex-presidente da Alerj réu em caso de vazamento de ação appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/stf-forma-maioria-para-tornar-ex-presidente-da-alerj-reu-em-caso-de-vazamento-de-acao/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/26112025_162803ordemdodia_26_11_2025_thiagolontra-27.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T21:41:28+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18082026/",
+      "_key": "d09091bfe4204692d105108a5c30b629",
+      "title": "Dólar hoje fecha em alta de 0,44% e vai a R$ 5,22, com aversão a risco no exterior",
+      "originalTitle": "Dólar hoje fecha em alta de 0,44% e vai a R$ 5,22, com aversão a risco no exterior",
+      "summary": "Combinação de incertezas geopolíticas e expectativas para a política monetária mantém os investidores mais cautelosos The post Dólar hoje fecha em alta de 0,44% e vai a R$ 5,22, com aversão a risco no exterior appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T223943Z_1_LYNXMPEM3M1IY_RTROPTP_4_IRAN-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T20:44:20+00:00",
+      "score": 39,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/cvm-julgara-em-setembro-caso-que-apura-suposta-fraude-com-fii-ligada-ao-banco-master/",
+      "_key": "868e3118da46c76563251611d2a0f371",
+      "title": "CVM julgará em setembro caso que apura suposta fraude com FII ligada ao Banco Master",
+      "originalTitle": "CVM julgará em setembro caso que apura suposta fraude com FII ligada ao Banco Master",
+      "summary": "Processo envolve Daniel Vorcaro, Banco Master e outros investigados; autarquia aponta esquema com ativos sobreavaliados que teria causado perdas de R$ 5,8 milhões a fundos investidores The post CVM julgará em setembro caso que apura suposta fraude com FII ligada ao Banco Master appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/cvm-julgara-em-setembro-caso-que-apura-suposta-fraude-com-fii-ligada-ao-banco-master/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-18-161423.png?fit=300%2C203&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T20:26:50+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/tesouro-faz-maior-leilao-de-titulos-de-inflacao-desde-abril-apos-vencimento-recorde/",
       "_key": "a59d14f734c81e48d716b6b85220f0cf",
