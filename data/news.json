@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T14:07:57.287759+00:00",
+  "updatedAt": "2026-08-18T16:03:35.783542+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -129,6 +129,132 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/advisor/escritorios-de-assessoria-tem-quase-5-vezes-mais-profissionais-que-ha-uma-decada/",
+      "_key": "9de1563382b8044e631461851c57c5e8",
+      "title": "Escritórios de assessoria têm quase 5 vezes mais profissionais que há uma década",
+      "originalTitle": "Escritórios de assessoria têm quase 5 vezes mais profissionais que há uma década",
+      "summary": "Os escritórios de assessoria têm hoje quase cinco vezes mais profissionais do que há cerca de uma década, com a média passando de aproximadamente quatro assessores por estrutura entre 2012 e 2016 para cerca de 19 em 2025.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/advisor/escritorios-de-assessoria-tem-quase-5-vezes-mais-profissionais-que-ha-uma-decada/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/pexels-alphatradezone-5833312.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T16:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/bancarios-aprovam-paralisacao-nacional-de-24-horas-na-5a-feira/",
+      "_key": "cd1a1e010f57c18458396eb8d42ae98f",
+      "title": "Bancários aprovam paralisação nacional de 24 horas na 5ª feira",
+      "originalTitle": "Bancários aprovam paralisação nacional de 24 horas na 5ª feira",
+      "summary": "Proposta da Fenaban sobre congelamento do piso salarial e ausência de reajustes foi rejeitada por mais de 95% da categoria The post Bancários aprovam paralisação nacional de 24 horas na 5ª feira appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/bancarios-aprovam-paralisacao-nacional-de-24-horas-na-5a-feira/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/1054770-df_img_4709.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T15:35:07+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/ataque-russo-com-misseis-deixa-10-mortos-na-ucrania-zelensky-promete-retaliar/",
+      "_key": "c54e0ab86e76cfaa4e2dd1a526aea985",
+      "title": "Ataque russo com mísseis deixa 10 mortos na Ucrânia; Zelensky promete retaliar",
+      "originalTitle": "Ataque russo com mísseis deixa 10 mortos na Ucrânia; Zelensky promete retaliar",
+      "summary": "Não houve comentário imediato da Rússia sobre o ataque, que também feriu pelo menos 18 pessoas, segundo o governador regional The post Ataque russo com mísseis deixa 10 mortos na Ucrânia; Zelensky promete retaliar appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/ataque-russo-com-misseis-deixa-10-mortos-na-ucrania-zelensky-promete-retaliar/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Zelensky-e1783798896628.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T15:32:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/vale-lanca-plano-para-destravar-mineracao-e-gerar-mais-23-mi-de-vagas-no-setor/",
+      "_key": "1d826db4fbd95a150abc8cd2320e3e0e",
+      "title": "Vale lança plano para destravar mineração e gerar mais 2,3 mi de vagas no setor",
+      "originalTitle": "Vale lança plano para destravar mineração e gerar mais 2,3 mi de vagas no setor",
+      "summary": "O relatório, chamado de \"Destravando o Potencial da Mineração no Brasil\", foi lançado em fórum homônimo, realizado em Brasília The post Vale lança plano para destravar mineração e gerar mais 2,3 mi de vagas no setor appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/vale-lanca-plano-para-destravar-mineracao-e-gerar-mais-23-mi-de-vagas-no-setor/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T15:31:33+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/fii-hslg11-despenca-9-e-aprofunda-tombo-apos-recuperacao-judicial-da-casas-bahia/",
+      "_key": "5f5fdf9589e543e19994614cf2a7d5c1",
+      "title": "FII HSLG11 despenca 9% e aprofunda tombo após recuperação judicial da Casas Bahia",
+      "originalTitle": "FII HSLG11 despenca 9% e aprofunda tombo após recuperação judicial da Casas Bahia",
+      "summary": "O HSLG11 acumula uma desvalorização de aproximadamente 21% desde julho The post FII HSLG11 despenca 9% e aprofunda tombo após recuperação judicial da Casas Bahia appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/fii-hslg11-despenca-9-e-aprofunda-tombo-apos-recuperacao-judicial-da-casas-bahia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Bolsa-Queda-Ibovespa-.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T15:28:11+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/chile-pode-limitar-acesso-a-saude-e-educacao-de-condenados-por-terrorismo/",
+      "_key": "1cd6c44ffdd097fd81e27c62c587e9b2",
+      "title": "Chile pode limitar acesso a saúde e educação de condenados por terrorismo",
+      "originalTitle": "Chile pode limitar acesso a saúde e educação de condenados por terrorismo",
+      "summary": "Reforma constitucional enviada ao Congresso prevê limitações por até 15 anos após o cumprimento da pena e amplia agenda de segurança do presidente The post Chile pode limitar acesso a saúde e educação de condenados por terrorismo appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/chile-pode-limitar-acesso-a-saude-e-educacao-de-condenados-por-terrorismo/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-15T133127Z_272267802_RC2YGIA0HFQP_RTRMADP_3_CHILE-ELECTION.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T15:17:57+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18082026/",
       "_key": "b7f220e78cba2a21b794bb9c04b1575f",
