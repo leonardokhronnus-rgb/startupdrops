@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:56:20.392497+00:00",
+  "updatedAt": "2026-08-18T03:12:49.602899+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -129,6 +129,111 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/minhas-financas/o-dilema-da-alta-renda-no-brasil-95-reconhecem-privilegio-e-14-se-consideram-ricos/",
+      "_key": "d97dbcc3df26798bb58bb8376b150835",
+      "title": "O dilema da alta renda no Brasil: 95% reconhecem privilégio e 14% se consideram ricos",
+      "originalTitle": "O dilema da alta renda no Brasil: 95% reconhecem privilégio e 14% se consideram ricos",
+      "summary": "Para o topo da pirâmide de renda, riqueza não é uma questão de salário, mas de patrimônio e liberdade de escolha, segundo uma pesquisa inédita do Google The post O dilema da alta renda no Brasil: 95% reconhecem privilégio e 14% se consideram ricos appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/minhas-financas/o-dilema-da-alta-renda-no-brasil-95-reconhecem-privilegio-e-14-se-consideram-ricos/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/natalya-zaritskaya-SIOdjcYotms-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T03:01:00+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/18/bolsa-familia-2026-pagamentos-de-agosto-comecam-nesta-terca-veja-calendario.ghtml",
+      "_key": "f938a71d21c58ac5f52b937be312924d",
+      "title": "Bolsa Família 2026: pagamentos de agosto começam nesta terça; veja calendário",
+      "originalTitle": "Bolsa Família 2026: pagamentos de agosto começam nesta terça; veja calendário",
+      "summary": "Bolsa Família divulga calendário de pagamentos de janeiro de 2026 A Caixa Econômica Federal inicia os pagamentos de agosto do Bolsa Família 2026 nesta terça-feira (18). Os primeiros a receber serão os beneficiários com Número de Identificação Social (NIS) com final 1.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/18/bolsa-familia-2026-pagamentos-de-agosto-comecam-nesta-terca-veja-calendario.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/PO0iKlR8KpT1zOOYPg35i2nBfHQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/X/p/m9WC1JRNGCSTELVKKrBA/fta20240801129.jpg",
+      "publishedAt": "2026-08-18T03:00:37+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/uniao-europeia-pretende-impor-sancoes-mais-severas-contra-a-russia/",
+      "_key": "77f24c612f151611796f0a9ff79ba201",
+      "title": "União Europeia pretende impor sanções mais severas contra a Rússia",
+      "originalTitle": "União Europeia pretende impor sanções mais severas contra a Rússia",
+      "summary": "Segundo chefe da diplomacia, Europa também está enfrentando pressões da Rússia por meio de uma guerra híbrida The post União Europeia pretende impor sanções mais severas contra a Rússia appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/uniao-europeia-pretende-impor-sancoes-mais-severas-contra-a-russia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-04T205050Z_1_LYNXNPEL33156_RTROPTP_3_MERCOSUL-UE.jpg?fit=300%2C188&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T00:36:20+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/lula-provoca-trump-ao-exaltar-descoberta-de-petroleo-na-foz-do-amazonas/",
+      "_key": "ab3ba4ed581764c148475746366f5bcd",
+      "title": "Lula provoca Trump ao exaltar descoberta de petróleo na Foz do Amazonas",
+      "originalTitle": "Lula provoca Trump ao exaltar descoberta de petróleo na Foz do Amazonas",
+      "summary": "Presidente afirmou que se guerra com Irã seguir, Brasil poderá oferecer petróleo ao resto do mundo The post Lula provoca Trump ao exaltar descoberta de petróleo na Foz do Amazonas appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/lula-provoca-trump-ao-exaltar-descoberta-de-petroleo-na-foz-do-amazonas/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-13T162217Z_227302648_RC2G6GAH9RBG_RTRMADP_3_USA-TRUMP-TARIFFS-BRAZIL.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T00:27:35+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/poder/em-guerra-com-a-mp-das-blusinhas-varejo-pressiona-congresso-por-isencao-de-ate-250-reais/",
+      "_key": "4a30363089f882b5625252365672e5ab",
+      "title": "Em guerra com a MP das Blusinhas, varejo pressiona Congresso por isenção de até 250 reais",
+      "originalTitle": "Em guerra com a MP das Blusinhas, varejo pressiona Congresso por isenção de até 250 reais",
+      "summary": "Brasília &#8211; Pressionado por vendas oscilantes no primeiro semestre e inadimplência em níveis altos, o setor varejista decidiu se rebelar contra a medida provisória que isenta de imposto de importação as compras de itens de até US$ 50, mais conhecida como a MP da taxa das blusinhas.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/poder/em-guerra-com-a-mp-das-blusinhas-varejo-pressiona-congresso-por-isencao-de-ate-250-reais/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/blusinha-300x169.jpg",
+      "publishedAt": "2026-08-17T23:09:05+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/nasdaq-inicia-dialogos-para-operar-24-horas-por-dia-cinco-vezes-na-semana/",
       "_key": "dae826f6025c2bc6c20733f3a63c5f30",
@@ -336,6 +441,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/17/petrobras-foz-do-amazonas.ghtml",
+      "_key": "32abb165604392cf7165e7a90dfdb552",
+      "title": "Petrobras confirma descoberta de petróleo na Foz do Amazonas, no litoral do Amapá",
+      "originalTitle": "Petrobras confirma descoberta de petróleo na Foz do Amazonas, no litoral do Amapá",
+      "summary": "Presidente da Petrobras, Magda Chambriard, conduz visita de Lula e Alexandre Silveira à sonda NS-42, na Margem Equatorial Stuckert A Petrobras confirmou nesta segunda-feira (17) a descoberta de petróleo no poço Morpho, na bacia da Foz do Amazonas, no litoral do Amapá.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/17/petrobras-foz-do-amazonas.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/4RoFJgWEa_m2FMdnpa5NtpSKtCM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/D/9IDlQfRwaDjBM8fXSaZQ/visita-sonda-ns-42-poco-morpho-amapa-margem-equatorial-foto1.jpeg",
+      "publishedAt": "2026-08-17T19:57:15+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
       ],
       "coverageCount": 1
     },
