@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:51:41.440101+00:00",
+  "updatedAt": "2026-08-19T03:15:30.090827+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -129,6 +129,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "NeoFeed-https://neofeed.com.br/poder/com-parecer-de-ex-stf-julgamento-no-cade-sobre-keeta-e-99food-pode-redefinir-o-setor-de-delivery/",
+      "_key": "060de199cf78739615f37aef7239b0c9",
+      "title": "Com parecer de ex-STF, julgamento no Cade sobre Keeta e 99Food pode redefinir o setor de delivery",
+      "originalTitle": "Com parecer de ex-STF, julgamento no Cade sobre Keeta e 99Food pode redefinir o setor de delivery",
+      "summary": "Brasília &#8211; A disputa acirrada pelo mercado de delivery no Brasil, que já escalou até à Justiça, pode ter um sinal importante para o futuro das três empresas que operam hoje, quando o Conselho Administrativo de Defesa Econômica (Cade) julgar na quarta-feira, 19 de agosto, um processo movido pela Keeta contra a 99Food alegando concorrência [&#8230;] O post Com parecer de ex-STF, julgamento no Cade sobre Keeta e 99Food pode redefinir o setor de delivery apareceu primeiro em NeoFeed .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/poder/com-parecer-de-ex-stf-julgamento-no-cade-sobre-keeta-e-99food-pode-redefinir-o-setor-de-delivery/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/keeta-99food-300x169.jpg",
+      "publishedAt": "2026-08-18T22:55:17+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/cerca-de-metade-da-producao-de-petroleo-da-venezuela-e-exportada-para-os-eua/",
+      "_key": "9f2d3e2770fac7e1dc6b61583061e4f7",
+      "title": "Cerca de metade da produção de petróleo da Venezuela é exportada para os EUA",
+      "originalTitle": "Cerca de metade da produção de petróleo da Venezuela é exportada para os EUA",
+      "summary": "Segundo subsecretário de Energia dos Estados Unidos, mais de 500 mil barris foram enviados para o país por dia The post Cerca de metade da produção de petróleo da Venezuela é exportada para os EUA appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/cerca-de-metade-da-producao-de-petroleo-da-venezuela-e-exportada-para-os-eua/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/9421.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T22:54:17+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/advisor/superciclo-dos-etfs-como-o-mercado-saltou-de-r-50-bi-para-r-130-bi/",
+      "_key": "fb21e3f5b99e93491639d4ea90ba8590",
+      "title": "Superciclo dos ETFs: como o mercado saltou de R$ 50 bi para R$ 130 bi",
+      "originalTitle": "Superciclo dos ETFs: como o mercado saltou de R$ 50 bi para R$ 130 bi",
+      "summary": "Para Danilo Gabriel, gestor de fundos indexados da XP Asset, custo baixo, eficiência tributária e bons retornos tornam o ETF mais atraente do que boa parte dos produtos de gestão ativa The post Superciclo dos ETFs: como o mercado saltou de R$ 50 bi para R$ 130 bi appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/advisor/superciclo-dos-etfs-como-o-mercado-saltou-de-r-50-bi-para-r-130-bi/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/outliers-1808.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T22:25:17+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/economia/pib-do-chile-trava-em-trimestre-horrivel-e-reforca-duvidas-sobre-plano-de-kast/",
+      "_key": "e68bdd6c109fe8ef5a36039256117ce6",
+      "title": "PIB do Chile trava em trimestre “horrível” e reforça dúvidas sobre plano de Kast",
+      "originalTitle": "PIB do Chile trava em trimestre “horrível” e reforça dúvidas sobre plano de Kast",
+      "summary": "Desempenho abaixo do esperado no segundo trimestre pressiona o peso chileno, derruba a confiança dos consumidores e desafia as promessas de retomada econômica do presidente The post PIB do Chile trava em trimestre &#8220;horrível&#8221; e reforça dúvidas sobre plano de Kast appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/economia/pib-do-chile-trava-em-trimestre-horrivel-e-reforca-duvidas-sobre-plano-de-kast/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464696574.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-18T22:21:53+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/stf-forma-maioria-para-tornar-ex-presidente-da-alerj-reu-em-caso-de-vazamento-de-acao/",
       "_key": "1902593e656d7bcae1aff9d09f33fe11",
