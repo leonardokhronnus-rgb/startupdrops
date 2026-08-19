@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T08:00:57.198258+00:00",
+  "updatedAt": "2026-08-19T10:05:30.355730+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -134,6 +134,174 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/plataforma-de-gestao-do-trabalho-flash-capta-r150-mi/",
+      "_key": "0b7dbc0a8214bd487477ec306536134d",
+      "title": "Plataforma de gestão do trabalho Flash capta R$150 mi",
+      "originalTitle": "Plataforma de gestão do trabalho Flash capta R$150 mi",
+      "summary": "O ​aporte na rodada Série D foi liderado pelos investidores Battery ​Ventures e Kevin Efrusy The post Plataforma de gestão do trabalho Flash capta R$150 mi appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/plataforma-de-gestao-do-trabalho-flash-capta-r150-mi/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/03/flash-fundadores.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T09:54:38+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/grupo-multi-anuncia-provisao-de-r-20-mi-para-perdas-com-casas-bahia/",
+      "_key": "757527af46f0a45c5a695f80b68f8885",
+      "title": "Grupo Multi anuncia provisão de R$ 20 mi para perdas com Casas Bahia",
+      "originalTitle": "Grupo Multi anuncia provisão de R$ 20 mi para perdas com Casas Bahia",
+      "summary": "Grupo Multi justificou esta medida em ⁠razão ‌do pedido de recuperação judicial ⁠apresentado pelo Grupo Casas Bahia na segunda-feira The post Grupo Multi anuncia provisão de R$ 20 mi para perdas com Casas Bahia appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/grupo-multi-anuncia-provisao-de-r-20-mi-para-perdas-com-casas-bahia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-17T100552Z_1_LYNXMPEM7G0M0_RTROPTP_4_PAODEACUCAR-CASASBAHIA.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T09:41:48+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/simpar-descruza-participacoes-com-terra-transportes/",
+      "_key": "3166bd7801b9274e5fceffa6ecc0b87d",
+      "title": "Simpar descruza participações com Terra Transportes",
+      "originalTitle": "Simpar descruza participações com Terra Transportes",
+      "summary": "A CS Mobi ⁠Leste SP é uma parceria público-privada para a gestão de 13 terminais urbanos e seis estações de ônibus ​do Expresso Tiradentes The post Simpar descruza participações com Terra Transportes appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/simpar-descruza-participacoes-com-terra-transportes/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-11-155216.png?fit=300%2C198&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T09:40:27+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/cade-rejeita-recurso-de-instituto-em-caso-american-azul/",
+      "_key": "838c09e2b86d1e23e7d053173c0f5e49",
+      "title": "Cade rejeita recurso de instituto em caso American-Azul",
+      "originalTitle": "Cade rejeita recurso de instituto em caso American-Azul",
+      "summary": "Em julho, o Cade aprovou, sem restrições, a aquisição, pela American, de participação minoritária e determinados direitos de governança na Azul The post Cade rejeita recurso de instituto em caso American-Azul appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/cade-rejeita-recurso-de-instituto-em-caso-american-azul/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/azul-aeronave.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T09:38:59+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/startups/a-flash-nao-precisava-de-dinheiro-mas-acaba-de-levantar-r-150-milhoes/",
+      "_key": "8cc7311ba7f7efcf65e9670803b658f1",
+      "title": "A Flash “não precisava de dinheiro”, mas acaba de levantar R$ 150 milhões",
+      "originalTitle": "A Flash “não precisava de dinheiro”, mas acaba de levantar R$ 150 milhões",
+      "summary": "Quatro anos depois de captar seu último investimento, a Flash, startup de gestão de benefícios, pessoas e despesas corporativas, está voltando a reforçar seu caixa com uma nova injeção de recursos. E com “velhos conhecidos”.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/startups/a-flash-nao-precisava-de-dinheiro-mas-acaba-de-levantar-r-150-milhoes/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/plataforma-flash-300x169.jpg",
+      "publishedAt": "2026-08-19T09:00:08+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/19/crise-do-varejo-por-que-algumas-gigantes-estao-em-crise-e-outras-seguem-crescendo.ghtml",
+      "_key": "4b21303cd2778041112f6120de56747b",
+      "title": "Crise do varejo? Por que algumas gigantes estão em crise e outras seguem crescendo",
+      "originalTitle": "Crise do varejo? Por que algumas gigantes estão em crise e outras seguem crescendo",
+      "summary": "Crise das Casas Bahia pode limitar crédito Os pedidos de recuperação judicial da Casas Bahia e da Marabraz, anunciados no último domingo (16), são novos capítulos da crise enfrentada por parte do varejo brasileiro.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/19/crise-do-varejo-por-que-algumas-gigantes-estao-em-crise-e-outras-seguem-crescendo.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/mPxZT_RzKRPMX334ye_dVeLdhXY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/s/R/4QWm36SnilgLlWwDkYPA/shopping2.jpg",
+      "publishedAt": "2026-08-19T08:04:27+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/o-que-a-falta-de-temas-como-inovacao-e-transformacao-digital-em-planos-de-governo-dizem-sobre-o-futuro-do-brasil/",
+      "_key": "9d6697e4ea69d06cd0cf7e96f4ecf8f1",
+      "title": "O que a falta de temas como inovação e transformação digital em planos de governo dizem sobre o futuro do Brasil",
+      "originalTitle": "O que a falta de temas como inovação e transformação digital em planos de governo dizem sobre o futuro do Brasil",
+      "summary": "Startupi O que a falta de temas como inovação e transformação digital em planos de governo dizem sobre o futuro do Brasil Programas presidenciais apresentados até agora tratam tecnologia de forma pontual, sem metas para transformar empresas, serviços públicos e a segurança nacional.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/o-que-a-falta-de-temas-como-inovacao-e-transformacao-digital-em-planos-de-governo-dizem-sobre-o-futuro-do-brasil/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/eleicao-povo.jpg.webp",
+      "publishedAt": "2026-08-19T08:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/global/voce-nao-demite-seus-filhos-a-dura-licao-que-ajudou-a-criar-a-netflix-bilionaria/",
+      "_key": "3910f3a53c530e2ae63620ce005ef0ad",
+      "title": "“Você não demite seus filhos”: a dura lição que ajudou a criar a Netflix bilionária",
+      "originalTitle": "“Você não demite seus filhos”: a dura lição que ajudou a criar a Netflix bilionária",
+      "summary": "Após cortar um terço dos funcionários em 2001, Reed Hastings concluiu que empresas de alta performance devem ser administradas como equipes esportivas, não como famílias The post &#8220;Você não demite seus filhos&#8221;: a dura lição que ajudou a criar a Netflix bilionária appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/global/voce-nao-demite-seus-filhos-a-dura-licao-que-ajudou-a-criar-a-netflix-bilionaria/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/REED-HASTINGS-SAYS-HE-LEARNED-WHY-COMPANIES-ARENT-FAMILIES-AFTER-LAYING-OFF-ONE-THIRD-OF-NETFLIX-YOU-WOULD-NEVER-LAY-OFF-TWO-OF-YOUR-KIDS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T08:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "Brazil Journal-https://braziljournal.com/byd-passa-a-vender-kits-de-energia-solar-em-suas-concessionarias/",
       "_key": "b85b41c57879e40574e07a973607dd3d",
