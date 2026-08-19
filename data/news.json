@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T03:15:30.090827+00:00",
+  "updatedAt": "2026-08-19T08:00:57.198258+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -123,12 +123,59 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "Distrito",
+      "url": "https://news.google.com/rss/search?q=when:5d+site:distrito.me&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Abstartups",
       "url": "https://news.google.com/rss/search?q=when:7d+site:abstartups.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     }
   ],
   "articles": [
+    {
+      "id": "Brazil Journal-https://braziljournal.com/byd-passa-a-vender-kits-de-energia-solar-em-suas-concessionarias/",
+      "_key": "b85b41c57879e40574e07a973607dd3d",
+      "title": "BYD passa a vender kits de energia solar em suas concessionárias",
+      "originalTitle": "BYD passa a vender kits de energia solar em suas concessionárias",
+      "summary": "A BYD vai usar sua rede de concessionárias de veículos elétricos para vender kits de geração de energia solar para residências, entrando em um novo nicho bilionário e com imenso potencial de expansão.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/byd-passa-a-vender-kits-de-energia-solar-em-suas-concessionarias/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/BYD-kit-635x357.png",
+      "publishedAt": "2026-08-19T03:40:40+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/podcast/o-assunto/noticia/2026/08/19/a-foz-do-amazonas-e-o-futuro-da-exploracao-de-petroleo-no-brasil-o-assunto-1786.ghtml",
+      "_key": "aa2d2529d3e93bd53cbe06846ab4987c",
+      "title": "A Foz do Amazonas e o futuro da exploração de petróleo no Brasil - O Assunto #1786",
+      "originalTitle": "A Foz do Amazonas e o futuro da exploração de petróleo no Brasil - O Assunto #1786",
+      "summary": "No último sábado (15), a Petrobras anunciou a identificação de hidrocarbonetos no poço Morpho, localizado a 175 quilômetros da costa do Amapá e a cerca de 2.800 metros de profundidade.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/19/a-foz-do-amazonas-e-o-futuro-da-exploracao-de-petroleo-no-brasil-o-assunto-1786.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/7SQwKUlxVHN7_BJkoSWp-hh9Dr0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/i/QvjvAVR1uqF4Nu5T15Jw/sonda-petrobras.jpg",
+      "publishedAt": "2026-08-19T03:30:08+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "NeoFeed-https://neofeed.com.br/poder/com-parecer-de-ex-stf-julgamento-no-cade-sobre-keeta-e-99food-pode-redefinir-o-setor-de-delivery/",
       "_key": "060de199cf78739615f37aef7239b0c9",
