@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T14:09:22.801773+00:00",
+  "updatedAt": "2026-08-19T16:04:16.642463+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -134,6 +134,153 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/economia/exportacoes-de-trigo-da-ucrania-podem-cair-para-menos-de-10-mi-ton-em-2026-27/",
+      "_key": "8d20a2815561160672ebb08649e5b03d",
+      "title": "Exportações de trigo da Ucrânia podem cair para menos de 10 mi ton em 2026/27",
+      "originalTitle": "Exportações de trigo da Ucrânia podem cair para menos de 10 mi ton em 2026/27",
+      "summary": "Os portos marítimos ucranianos no complexo portuário de Odessa interromperam efetivamente suas operações no final de julho devido a ataques russos com drones e mísseis contra terminais e embarcações The post Exportações de trigo da Ucrânia podem cair para menos de 10 mi ton em 2026/27 appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/economia/exportacoes-de-trigo-da-ucrania-podem-cair-para-menos-de-10-mi-ton-em-2026-27/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Trigo.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T15:59:51+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/repressao-a-cocaina-abre-nova-frente-de-guerra-na-colombia/",
+      "_key": "c2e133d04f564c46b2925281da9dfe6f",
+      "title": "Repressão à cocaína abre nova frente de guerra na Colômbia",
+      "originalTitle": "Repressão à cocaína abre nova frente de guerra na Colômbia",
+      "summary": "Ofensiva do novo presidente contra grupos armados ameaça enterrar a política de paz, elevar a violência e reacender conflitos em regiões dominadas pelo narcotráfico The post Repressão à cocaína abre nova frente de guerra na Colômbia appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/repressao-a-cocaina-abre-nova-frente-de-guerra-na-colombia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464729133.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T15:53:18+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/copasa-itau-bba-ve-nova-fase-apos-privatizacao-e-eleva-preco-alvo-em-quase-50/",
+      "_key": "2d6731be2d748c098cb99a31a6c532c6",
+      "title": "Copasa: Itaú BBA vê nova fase após privatização e eleva preço-alvo em quase 50%",
+      "originalTitle": "Copasa: Itaú BBA vê nova fase após privatização e eleva preço-alvo em quase 50%",
+      "summary": "A visão positiva combina crescimento acelerado da base de ativos, ambiente regulatório favorável e ganhos de eficiência operacional The post Copasa: Itaú BBA vê nova fase após privatização e eleva preço-alvo em quase 50% appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/copasa-itau-bba-ve-nova-fase-apos-privatizacao-e-eleva-preco-alvo-em-quase-50/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/copasa-csmg3.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T15:49:21+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-19082026/",
+      "_key": "3cdca3d47025596ac29e8531843806aa",
+      "title": "Por que Ibovespa sobe mais de 2% com recompra de títulos pelo Tesouro dos EUA?",
+      "originalTitle": "Por que Ibovespa sobe mais de 2% com recompra de títulos pelo Tesouro dos EUA?",
+      "summary": "Às 11h13, o Ibovespa, referência do mercado acionário brasileiro, subia 2,13%, a 169.870,48 pontos The post Por que Ibovespa sobe mais de 2% com recompra de títulos pelo Tesouro dos EUA? appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-19082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/08/Stocksss.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T15:48:30+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/pms-vao-a-juri-popular-por-9-mortes-durante-dispersao-de-baile-funk-em-paraisopolis/",
+      "_key": "ea7cf5abf354a2de7b3a52238469f8a0",
+      "title": "PMs vão a júri popular por 9 mortes durante dispersão de baile funk em Paraisópolis",
+      "originalTitle": "PMs vão a júri popular por 9 mortes durante dispersão de baile funk em Paraisópolis",
+      "summary": "Na decisão, a magistrada Ana Luisa Marcondes manteve a denúncia de homicídio por motivo torpe dado o contexto da atuação dos agentes The post PMs vão a júri popular por 9 mortes durante dispersão de baile funk em Paraisópolis appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/pms-vao-a-juri-popular-por-9-mortes-durante-dispersao-de-baile-funk-em-paraisopolis/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/policia-militar-sp_2ca21b.jpg?fit=300%2C172&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T15:40:30+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/19/trump-anuncia-acordo-com-o-canada-e-diz-que-tarifas-serao-zeradas-para-agricultores.ghtml",
+      "_key": "448c4c2a12510e440bdcb1606dabf389",
+      "title": "Trump anuncia acordo com o Canadá e diz que tarifas serão zeradas para agricultores",
+      "originalTitle": "Trump anuncia acordo com o Canadá e diz que tarifas serão zeradas para agricultores",
+      "summary": "Donald Trump anuncia tarifas. AFP Os Estados Unidos e o Canadá anunciaram nesta quarta-feira (19) um acordo comercial que interrompe a escalada da guerra tarifária entre os dois países.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/19/trump-anuncia-acordo-com-o-canada-e-diz-que-tarifas-serao-zeradas-para-agricultores.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/2cOiWE8V2GdPIUmG5ZHHF6VPpu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/P/YbVutYRKm0qE72srQJyA/2026-07-08t120648z-1-lynxmpem670no-rtroptp-4-nato-summit-trump.jpg",
+      "publishedAt": "2026-08-19T15:33:53+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/blendus-nomeia-danilo-candido-como-diretor-de-negocios/",
+      "_key": "40e7f8429dc712bfc7aff5900b0ec704",
+      "title": "Blendus nomeia Danilo Cândido como Diretor de Negócios",
+      "originalTitle": "Blendus nomeia Danilo Cândido como Diretor de Negócios",
+      "summary": "Danilo Cândido, novo Diretor de Negócios da Blendus (Imagem: Divulgação) Executivo chega para orquestrar a experiência do cliente, garantindo alinhamento entre o posicionamento da Blendus e a venda da solução O post Blendus nomeia Danilo Cândido como Diretor de Negócios apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/danca-das-cadeiras/blendus-nomeia-danilo-candido-como-diretor-de-negocios/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Danilo-Candido.jpg",
+      "publishedAt": "2026-08-19T14:30:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/acoes-de-fabricante-chinesa-de-robos-acrobatas-disparam-ate-629-em-estreia/",
       "_key": "03db9dd903795eda15f3794459dc44e1",
