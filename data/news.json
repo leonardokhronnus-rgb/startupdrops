@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T19:14:43.920097+00:00",
+  "updatedAt": "2026-08-19T21:57:34.482196+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -134,6 +134,111 @@
     }
   ],
   "articles": [
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/19/latam-incidente-seguranca-dados.ghtml",
+      "_key": "50934e9514f1d0bb01bae2059aa26080",
+      "title": "Latam diz que falha de segurança expôs nome, endereço e parte do cartão de crédito de clientes",
+      "originalTitle": "Latam diz que falha de segurança expôs nome, endereço e parte do cartão de crédito de clientes",
+      "summary": "Aeroporto da Zona da Mata terá retomada de operações da Latam com novos voos para Guarulhos (SP) Gabriel Magacho/Divulgação Aeroporto da Zona da Mata A companhia aérea Latam informou nesta quarta-feira (19) que uma falha em seu sistema permitiu que dados de clientes fossem consultados por pessoas não autorizadas.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/19/latam-incidente-seguranca-dados.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/693g5sBiDxN5roOytgn9RwVEVNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/Z/fEp7ieRX66wBzMNIbAmw/gabriel-magachodivulgacao-cazm.jpg",
+      "publishedAt": "2026-08-19T21:26:49+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/vacina-contra-o-cancer-de-pele-imuniza-wall-street-e-revigora-acoes-da-moderna/",
+      "_key": "c3f5640c3421b403a25af914b6a1b1fb",
+      "title": "Vacina contra o câncer de pele “imuniza” Wall Street e revigora ações da Moderna",
+      "originalTitle": "Vacina contra o câncer de pele “imuniza” Wall Street e revigora ações da Moderna",
+      "summary": "O anúncio da empresa de biotecnologia Moderna e de sua parceira, a farmacêutica Merck, de que uma vacina experimental baseada em mRNA desenvolvida em conjunto conseguiu impedir o retorno ou a disseminação do câncer em um estudo com pacientes de melanoma de alto risco gerou na quarta-feira, 19 de agosto, uma corrida pelas ações das [&#8230;] O post Vacina contra o câncer de pele &#8220;imuniza&#8221; Wall Street e revigora ações da Moderna apareceu primeiro em NeoFeed .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/vacina-contra-o-cancer-de-pele-imuniza-wall-street-e-revigora-acoes-da-moderna/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/moderna-companhia-farmaceutica-300x169.jpg",
+      "publishedAt": "2026-08-19T20:44:50+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19082026/",
+      "_key": "52327e17602e404ba964e7e0d1cd8097",
+      "title": "Ibovespa sobe e consegue primeira vitória de agosto; dólar cai a R$ 5,17",
+      "originalTitle": "Ibovespa sobe e consegue primeira vitória de agosto; dólar cai a R$ 5,17",
+      "summary": "Índices nos EUA fecham com leves altas, após Tesouro decidir pressão no mercado de títulos The post Ibovespa sobe e consegue primeira vitória de agosto; dólar cai a R$ 5,17 appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-8.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T20:31:09+00:00",
+      "score": 39,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/governo-quer-que-brasil-produza-70-dos-medicamentos-usados-pelo-sus-diz-alckmin/",
+      "_key": "d1539e1637b96703ae5399f50c48080d",
+      "title": "Governo quer que Brasil produza 70% dos medicamentos usados pelo SUS, diz Alckmin",
+      "originalTitle": "Governo quer que Brasil produza 70% dos medicamentos usados pelo SUS, diz Alckmin",
+      "summary": "Meta para 2033 busca reduzir dependência de importações no setor The post Governo quer que Brasil produza 70% dos medicamentos usados pelo SUS, diz Alckmin appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/governo-quer-que-brasil-produza-70-dos-medicamentos-usados-pelo-sus-diz-alckmin/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55130728686_c1386d1cc7_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T20:18:24+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/moderna-anuncia-vacina-contra-o-cancer-de-pele-e-acao-dispara-150/",
+      "_key": "9d29698ec7ce8b97b9ea7002863f4b14",
+      "title": "Moderna anuncia vacina contra o câncer de pele e ação dispara 150%",
+      "originalTitle": "Moderna anuncia vacina contra o câncer de pele e ação dispara 150%",
+      "summary": "Uma vacina experimental de mRNA, desenvolvida pela Moderna em parceria com a Merck, reduziu o risco de recorrência e progressão do melanoma em pacientes de alto risco, segundo resultados divulgados nesta quarta-feira.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/moderna-anuncia-vacina-contra-o-cancer-de-pele-e-acao-dispara-150/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/GettyImages-2196719459-635x357.jpg",
+      "publishedAt": "2026-08-19T19:11:11+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/esquerda-democrata-vence-primaria-do-senado-na-florida-trump-volta-a-comemorar/",
       "_key": "da6754840b01c66cb0590c4576f80a1f",
@@ -656,6 +761,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/19/dolar-ibovespa.ghtml",
+      "_key": "c3f8581a7dec871bc06743bde0c5a1a5",
+      "title": "Dólar cai fecha a R$ 5,17; Ibovespa sobe e interrompe sequência de 11 quedas",
+      "originalTitle": "Dólar cai fecha a R$ 5,17; Ibovespa sobe e interrompe sequência de 11 quedas",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em queda de 0,87% nesta quarta-feira (19), cotado a R$ 5,1761. Já o Ibovespa, principal índice da bolsa brasileira, subiu 0,90%, aos 167.830 pontos, interrompendo uma sequência de 11 quedas consecutivas.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/19/dolar-ibovespa.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/en-e3pXXYmmv5grpZimBQ0X1DaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg",
+      "publishedAt": "2026-08-19T12:00:20+00:00",
+      "score": 39,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
       ],
       "coverageCount": 1
     },
