@@ -9211,7 +9211,7 @@ function relTime(value){
 function tagsFor(a){
   const text=`${a.title} ${a.summary} ${a.drop||''}`.toLowerCase();
   const tags=[];
-  if(/\bia\b|ai|inteligência artificial|artificial intelligence|llm|claude|openai|gemini|machine learning/.test(text)) tags.push('ia');
+  if(/\bia\b|\bai\b|inteligência artificial|artificial intelligence|llm|claude|openai|gemini|machine learning/.test(text)) tags.push('ia');
   if(/funding|investimento|rodada|série|series|seed|capta|levanta|raised|raises|venture|m&a|aquisi|valuation|avaliad/.test(text)) tags.push('funding');
   if(/fintech|banco digital|pagamento|payment|meio de pagamento|carteira digital|pix\b/.test(text)) tags.push('fintech');
   if(/saas|software|plataforma|platform|enterprise|b2b|crm|erp|cloud|api|developer|devtools/.test(text)) tags.push('saas');
