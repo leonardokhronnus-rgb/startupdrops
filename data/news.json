@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T19:50:50.117014+00:00",
+  "updatedAt": "2026-08-20T22:02:53.220998+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -266,6 +266,111 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/flavio-votou-contra-reforma-tributaria-mas-promete-enviar-nova-regulamentacao/",
+      "_key": "fa2870a4aed63b5830aa3ab0cd30383e",
+      "title": "Flávio votou contra reforma tributária, mas promete enviar nova regulamentação",
+      "originalTitle": "Flávio votou contra reforma tributária, mas promete enviar nova regulamentação",
+      "summary": "Postulante do Partido Liberal prometeu que, se eleito, mandará ao Congresso nova proposta de regulamentação tributária The post Flávio votou contra reforma tributária, mas promete enviar nova regulamentação appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/flavio-votou-contra-reforma-tributaria-mas-promete-enviar-nova-regulamentacao/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/convencao-pl-partido-liberal-eleicoes-2026-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-20T21:26:02+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/mendonca-manda-apagar-video-de-ia-que-relaciona-flavio-bolsonaro-a-vorcaro/",
+      "_key": "484601787c639e31889bdf10b9f2c7d6",
+      "title": "Mendonça manda apagar vídeo de IA que relaciona Flávio Bolsonaro a Vorcaro",
+      "originalTitle": "Mendonça manda apagar vídeo de IA que relaciona Flávio Bolsonaro a Vorcaro",
+      "summary": "Ministro do TSE entendeu que a peça cria uma realidade audiovisual inexistente e pode prejudicar a candidatura do presidenciável do PL The post Mendonça manda apagar vídeo de IA que relaciona Flávio Bolsonaro a Vorcaro appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/mendonca-manda-apagar-video-de-ia-que-relaciona-flavio-bolsonaro-a-vorcaro/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/tse.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-20T21:09:55+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/eleicoes-2026-ons-planeja-operacao-especial-para-acompanhar-desempenho-do-sistema-eletrico.ghtml",
+      "_key": "10af611c1f94d944d566866e0eb6e93b",
+      "title": "Eleições 2026: ONS planeja operação especial para acompanhar desempenho do sistema elétrico",
+      "originalTitle": "Eleições 2026: ONS planeja operação especial para acompanhar desempenho do sistema elétrico",
+      "summary": "Nacional do Sistema Elétrico (ONS), Márcio Rea, afirmou que, neste momento, não vê risco de falta de energia elétrica durante as eleições. Segundo ele, o órgão fará, como ocorre em grandes eventos, uma operação especial de acompanhamento do sistema.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/eleicoes-2026-ons-planeja-operacao-especial-para-acompanhar-desempenho-do-sistema-eletrico.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/TpbWt8XOxwetMF8uHmQc0XOEBOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/z/BIbWXkRNAoS0fZw8OdBw/2026-03-18t193313z-1-lynxmpem2h1bl-rtroptp-4-france-energy.jpg",
+      "publishedAt": "2026-08-20T20:57:07+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/carros/noticia/2026/08/20/ele-vendia-carros-sem-saber-que-era-filho-de-um-principe-dna-revelou-a-verdade-aos-26-anos.ghtml",
+      "_key": "4c5e47bda1ef2dcb2eb73646be1af218",
+      "title": "Ele vendia carros sem saber que era filho de um príncipe; DNA revelou a verdade aos 26 anos",
+      "originalTitle": "Ele vendia carros sem saber que era filho de um príncipe; DNA revelou a verdade aos 26 anos",
+      "summary": "Clément Vandenkerckhove (à direita) com seu pai, o príncipe Laurent. O príncipe Laurent da Bélgica reconheceu legalmente Clément Vandenkerckhove, um ex-vendedor de carros de 26 anos, como seu filho e herdeiro.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/20/ele-vendia-carros-sem-saber-que-era-filho-de-um-principe-dna-revelou-a-verdade-aos-26-anos.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/lZbVzsAlATKR5q-7mpIURjpTQ7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/e/AG8AdATwS1Rp0vaZHEnA/202ecd60-9c9e-11f1-a5a0-114ca9d4a1bc.jpg",
+      "publishedAt": "2026-08-20T19:50:59+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/bofa-ve-mbrf-no-ponto-e-volta-a-recomendar-a-compra-das-acoes/",
+      "_key": "a14d309a64fb36260a22855ae4369bfd",
+      "title": "BofA vê MBRF “no ponto” e volta a recomendar a compra das ações",
+      "originalTitle": "BofA vê MBRF “no ponto” e volta a recomendar a compra das ações",
+      "summary": "A MBRF voltou ao menu recomendado do Bank of America (BofA), diante da expectativa de que a recuperação das margens da operação de carne bovina na América do Norte e os menores investimentos resultarão em uma forte inflexão na geração de fluxo de caixa livre, abrindo caminho para a desalavancagem do balanço.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/bofa-ve-mbrf-no-ponto-e-volta-a-recomendar-a-compra-das-acoes/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/MBRF_foods-300x169.jpg",
+      "publishedAt": "2026-08-20T19:50:14+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "NeoFeed-https://neofeed.com.br/negocios/juros-altos-e-rjs-reduzem-oferta-de-credito-e-ampliam-disputa-entre-credores-e-devedores/",
       "_key": "ff1f245c73313b749ebf68449645992d",
