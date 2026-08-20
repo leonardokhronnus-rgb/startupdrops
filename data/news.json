@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T03:15:07.676454+00:00",
+  "updatedAt": "2026-08-20T08:06:41.537362+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -134,6 +134,216 @@
     }
   ],
   "articles": [
+    {
+      "id": "Startupi-https://startupi.com.br/como-o-julgamento-da-meta-pode-redirecionar-todo-o-mercado-de-algoritmos-e-publicidade/",
+      "_key": "67fa390a1448e16bb8f663600753d382",
+      "title": "Como o julgamento da Meta pode redirecionar todo o mercado de algoritmos e publicidade",
+      "originalTitle": "Como o julgamento da Meta pode redirecionar todo o mercado de algoritmos e publicidade",
+      "summary": "Startupi Como o julgamento da Meta pode redirecionar todo o mercado de algoritmos e publicidade Ação movida por 29 estados americanos pode custar até US$ 1,4 trilhão à dona do Facebook e Instagram — e forçar mudanças nos mecanismos que sustentam a aquisição de clientes de milhões de startups.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/como-o-julgamento-da-meta-pode-redirecionar-todo-o-mercado-de-algoritmos-e-publicidade/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/trial.webp",
+      "publishedAt": "2026-08-20T08:00:00+00:00",
+      "score": 62,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/economia/desenrola-inadimplencia-juros-altos/",
+      "_key": "38e241445bd79871c8025908508d02f9",
+      "title": "Desenrola até ajuda no bolso, mas endividamento só muda com corte estrutural de juros",
+      "originalTitle": "Desenrola até ajuda no bolso, mas endividamento só muda com corte estrutural de juros",
+      "summary": "Renegociação do governo alivia o orçamento no curto prazo, mas a oferta de crédito fácil por fintechs e a Selic elevada mantêm as famílias na armadilha financeira, dizem especialistas The post Desenrola até ajuda no bolso, mas endividamento só muda com corte estrutural de juros appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/economia/desenrola-inadimplencia-juros-altos/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/desenrola-economia-fazenda.jpeg?fit=300%2C199&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-20T08:00:00+00:00",
+      "score": 42,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/historias-da-florida-que-valem-refletir-e-nao-sao-da-disney/",
+      "_key": "d05fb2bc6c29ce2f8d94c01a988d06ba",
+      "title": "Histórias da Flórida que valem refletir (e não são da Disney)",
+      "originalTitle": "Histórias da Flórida que valem refletir (e não são da Disney)",
+      "summary": "Startupi Histórias da Flórida que valem refletir (e não são da Disney) As primárias na Flórida expõem o contraste entre a força da organização comunitária sobre o capital financeiro e as barreiras invisíveis do racismo estrutural no eleitorado norte-americano.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/historias-da-florida-que-valem-refletir-e-nao-sao-da-disney/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/18pol-takeaways-04-whbk-superJumbo.webp",
+      "publishedAt": "2026-08-20T08:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/o-que-os-governos-de-eua-e-reino-unido-estao-pensando-sobre-stablecoins-e-tokenizacao/",
+      "_key": "403ad0629becd1b29ee30cdc3790c4d8",
+      "title": "O que os governos de EUA e Reino Unido estão pensando sobre stablecoins e tokenização",
+      "originalTitle": "O que os governos de EUA e Reino Unido estão pensando sobre stablecoins e tokenização",
+      "summary": "Startupi O que os governos de EUA e Reino Unido estão pensando sobre stablecoins e tokenização Em reunião bilateral em Londres, autoridades dos dois países reafirmam alinhamento regulatório e discutem Lei GENIUS, tokenização de ativos e o futuro dos pagamentos digitais.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/o-que-os-governos-de-eua-e-reino-unido-estao-pensando-sobre-stablecoins-e-tokenizacao/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/spring-meetings.jpg.webp",
+      "publishedAt": "2026-08-20T08:00:00+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/global/o-conselho-de-steve-jobs-que-larry-page-nao-seguiu-ao-criar-a-alphabet/",
+      "_key": "effbf90f9a88d6b0cea581a774d15d9a",
+      "title": "O conselho de Steve Jobs que Larry Page não seguiu ao criar a Alphabet",
+      "originalTitle": "O conselho de Steve Jobs que Larry Page não seguiu ao criar a Alphabet",
+      "summary": "O cofundador da Apple recomendou que o Google focasse em poucos produtos, mas Page tinha planos mais ambiciosos para a empresa The post O conselho de Steve Jobs que Larry Page não seguiu ao criar a Alphabet appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/global/o-conselho-de-steve-jobs-que-larry-page-nao-seguiu-ao-criar-a-alphabet/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/GOOGLES-FOUNDERS-DIDNT-MARKET-TEST-ALPHABETS-NAME-BEFORE-LAUNCHING-THE-NOW-19-TRILLION-JUGGERNAUT-HERES-THE-ADVICE-STEVE-JOBS-GAVE-LARRY-PAGE.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-20T08:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/casas-bahia-em-crise-quem-mais-no-varejo-tem-problema-de-divida/",
+      "_key": "09c47c90faf7444bb3c914ae33f6eb5f",
+      "title": "Casas Bahia em crise: quem mais no varejo tem problema de dívida?",
+      "originalTitle": "Casas Bahia em crise: quem mais no varejo tem problema de dívida?",
+      "summary": "Balanços do segundo trimestre mostram vendas fracas em quase todo o setor, de um lado com empresas reportando caixa líquido, mas com endividamento mais preocupante no Magazine Luiza The post Casas Bahia em crise: quem mais no varejo tem problema de dívida?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/casas-bahia-em-crise-quem-mais-no-varejo-tem-problema-de-divida/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/trbr0763_0.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-20T08:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/20/sair-durante-atestado-ou-gravar-trend-no-trabalho-pode-dar-justa-causa-entenda-os-limites.ghtml",
+      "_key": "1ba93edcb09335ffda73605340210268",
+      "title": "Sair durante atestado ou gravar trend no trabalho pode dar justa causa? Entenda os limites",
+      "originalTitle": "Sair durante atestado ou gravar trend no trabalho pode dar justa causa? Entenda os limites",
+      "summary": "Técnica de enfermagem foi demitida após gravar trend em hospital de Sirlany Maria Dois casos envolvendo demissões por justa causa chamaram atenção nesta semana e levantaram dúvidas sobre em quais situações o comportamento de um funcionário pode levar a esse tipo de desligamento.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/20/sair-durante-atestado-ou-gravar-trend-no-trabalho-pode-dar-justa-causa-entenda-os-limites.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/TrJinYJpHjpl8yxUeYfeBcRaxGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/k/8p8r7WSc2gOvOGBwX0EA/imagens-g1-18-.png",
+      "publishedAt": "2026-08-20T07:01:56+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/mundo/noticia/2026/08/20/ira-diz-que-dia-d-economico-de-trump-trara-mais-derrota-aos-eua.ghtml",
+      "_key": "cc9fae410bd5b94b09f9182223b6ca8b",
+      "title": "Ministro das relações exteriores do Irã diz que 'Dia D econômico' de Trump trará 'mais derrota' aos EUA",
+      "originalTitle": "Ministro das relações exteriores do Irã diz que 'Dia D econômico' de Trump trará 'mais derrota' aos EUA",
+      "summary": "Trump diz que não há perspectiva de negociações com o Irã O ministro das Relações Exteriores iraniano, Abbas Araqchi, disse na quinta-feira (20) que o \"Dia D Econômico\" dos EUA contra o Irã foi uma distração dos problemas econômicos americanos e alertou que a pressão adicional fracassaria.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/mundo/noticia/2026/08/20/ira-diz-que-dia-d-economico-de-trump-trara-mais-derrota-aos-eua.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/3vDa7M5J9GDxT58tHLFLhUHSwoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/d/Np7kZcTlGXgF104gSNFQ/2026-08-14t200613z-1795537502-rc2jymam5ni2-rtrmadp-3-usa-trump.jpg",
+      "publishedAt": "2026-08-20T06:22:02+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/carros/noticia/2026/08/20/propaganda-na-tela-do-carro.ghtml",
+      "_key": "0c44f1ad93fb65dc4fd0f3828cf74625",
+      "title": "Homem-Aranha na BMW abre discussão: montadoras podem colocar propaganda na tela do carro?",
+      "originalTitle": "Homem-Aranha na BMW abre discussão: montadoras podem colocar propaganda na tela do carro?",
+      "summary": "BMW fez ação em parceria com estúdio de cinema em telas de multimídia de carros da marca No começo de agosto, proprietários de BMW em mais de 70 países se depararam com um novo ícone na tela da central multimídia dos carros.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/20/propaganda-na-tela-do-carro.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/cRdvONZt7JSdGPF5buJffhDNoqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/h/7fhPZqRgyEFVI2ZzGgfQ/bmw-homem-aranha-abre.jpg",
+      "publishedAt": "2026-08-20T06:00:47+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/20/fundador-da-evergrande-e-condenado-a-prisao-perpetua.ghtml",
+      "_key": "630bf31cd4f7079e5c58a37ee260cce5",
+      "title": "Fundador da Evergrande é condenado a prisão perpétua na China; penas de outros cinco executivos vão de 6 a 18 anos",
+      "originalTitle": "Fundador da Evergrande é condenado a prisão perpétua na China; penas de outros cinco executivos vão de 6 a 18 anos",
+      "summary": "incorporadora imobiliária mais endividada do mundo, foi condenado à prisão perpétua na quinta-feira (19) por um tribunal chinês, que ordenou o confisco de todos os seus bens pessoais.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/20/fundador-da-evergrande-e-condenado-a-prisao-perpetua.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/lAjKVsOSRzooELOM_ZjvncXT520=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/9/rxA7qIQ1mUsmxgbKtD3A/afp-20260414-a7pe9g3-v1-midres-fileschinaeconomyrealestatetrialevergrande.jpg",
+      "publishedAt": "2026-08-20T05:26:30+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/20/apesar-de-queda-na-fila-no-inss-pessoas-relatam-espera-de-ate-8-meses-por-resposta-a-pedido-de-beneficio.ghtml",
       "_key": "def9ba204f4a28903e0a6c603974be94",
