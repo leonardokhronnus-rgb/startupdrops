@@ -854,7 +854,7 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
   <span class="live-row"><span class="dot"></span> <span id="status-msg">Conectando...</span></span>
   <span>StartupDrops · Drops em português</span>
 </div>
-<section class="site-newsletter" id="newsletter">
+<section class="site-newsletter" id="newsletter-box">
   <h2>Newsletter</h2>
   <p>Receba as principais notícias do dia</p>
   <form class="newsletter-form">
@@ -862,6 +862,121 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
     <button type="submit">Assinar</button>
   </form>
 </section>
+
+  <div class="page" id="page-newsletter">
+    <section class="nl">
+      <style>
+        .nl{max-width:1140px;margin:0 auto;padding:6px 0 64px;font-family:var(--sans);color:var(--ink);}
+        .nl-crumb{font-size:.72rem;color:var(--ink4);margin-bottom:24px;letter-spacing:.03em;}
+        .nl-crumb a{color:var(--accent);text-decoration:none;}
+        .nl-hero{display:grid;grid-template-columns:1.05fr .95fr;gap:48px;align-items:center;padding:6px 0 64px;}
+        .nl-kicker{font-size:.72rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--accent);margin-bottom:16px;}
+        .nl-h1{font-family:var(--serif);font-weight:900;font-size:3rem;line-height:1.05;letter-spacing:-.02em;margin:0 0 20px;color:var(--ink);}
+        .nl-h1 .dot{color:var(--accent);}
+        .nl-lead{font-size:1.1rem;line-height:1.6;color:var(--ink3);max-width:450px;margin:0 0 26px;}
+        .nl-form{display:flex;gap:10px;max-width:470px;flex-wrap:wrap;}
+        .nl-form input{flex:1;min-width:190px;height:50px;border:1px solid #d9dde5;border-radius:10px;padding:0 16px;font:inherit;font-size:.95rem;background:#fff;}
+        .nl-form button{height:50px;border:0;border-radius:10px;background:var(--accent);color:#fff;font:inherit;font-weight:700;padding:0 24px;cursor:pointer;white-space:nowrap;}
+        .nl-form button:hover{background:#1544b0;}
+        .nl-note{display:flex;align-items:center;gap:7px;font-size:.8rem;color:var(--ink4);margin-top:13px;}
+        .nl-phone{display:flex;justify-content:center;}
+        .nl-benefits{border-top:1px solid #e6e9ef;padding-top:42px;}
+        .nl-benefits h2{font-weight:800;font-size:1.5rem;margin:0 0 8px;color:var(--ink);}
+        .nl-benefits .rule{width:44px;height:3px;background:var(--accent);margin-bottom:36px;border-radius:2px;}
+        .nl-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:26px;}
+        .nl-item .ic{width:38px;height:38px;color:var(--accent);margin-bottom:14px;}
+        .nl-item h4{font-size:.96rem;font-weight:700;margin:0 0 7px;color:var(--ink);}
+        .nl-item p{font-size:.85rem;line-height:1.5;color:var(--ink3);margin:0;}
+        .nl-cta{margin-top:58px;background:#eef3fe;border-radius:16px;padding:32px 38px;display:flex;align-items:center;gap:30px;flex-wrap:wrap;}
+        .nl-cta-ico{width:74px;height:74px;border-radius:50%;background:#fff;color:var(--accent);display:flex;align-items:center;justify-content:center;flex:0 0 auto;}
+        .nl-cta-txt{flex:1;min-width:250px;font-weight:700;font-size:1.15rem;line-height:1.36;color:var(--ink);}
+        .nl-ok{margin-top:12px;font-size:.85rem;font-weight:600;color:var(--green);display:none;}
+        @media(max-width:820px){
+          .nl-hero{grid-template-columns:1fr;gap:32px;}
+          .nl-phone{order:-1;}
+          .nl-h1{font-size:2.3rem;}
+          .nl-grid{grid-template-columns:repeat(2,1fr);gap:30px 20px;}
+          .nl-cta{flex-direction:column;text-align:center;}
+          .nl-cta .nl-form{width:100%;}
+        }
+      </style>
+
+      <div class="nl-crumb"><a href="#">Início</a> &rsaquo; Newsletter</div>
+
+      <div class="nl-hero">
+        <div>
+          <div class="nl-kicker">Newsletter StartupDrops</div>
+          <h1 class="nl-h1">Tudo que importa no ecossistema, direto no seu e-mail<span class="dot">.</span></h1>
+          <p class="nl-lead">Receba diariamente as principais not&iacute;cias, an&aacute;lises, rodadas de investimento, movimentos de mercado e insights sobre startups, tecnologia e inova&ccedil;&atilde;o.</p>
+          <form class="nl-form" novalidate>
+            <input type="email" required placeholder="Seu melhor e-mail" aria-label="Seu e-mail">
+            <button type="submit">Quero receber</button>
+          </form>
+          <div class="nl-note"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg> Sem spam. Cancele quando quiser.</div>
+          <div class="nl-ok">Pronto! Abra seu email para confirmar a inscri&ccedil;&atilde;o.</div>
+        </div>
+        <div class="nl-phone">
+          <svg viewBox="0 0 300 440" width="100%" style="max-width:300px;" xmlns="http://www.w3.org/2000/svg">
+            <rect x="30" y="6" width="240" height="428" rx="34" fill="#0c1220"/>
+            <rect x="40" y="16" width="220" height="408" rx="26" fill="#0b1a3a"/>
+            <rect x="120" y="24" width="60" height="8" rx="4" fill="#0c1220"/>
+            <text x="58" y="70" font-family="Georgia,serif" font-size="17" font-weight="700" fill="#fff">Startup<tspan fill="#4f8cff">Drops</tspan></text>
+            <text x="58" y="90" font-family="Inter,sans-serif" font-size="7" fill="#6f8bc0">Edi&#231;&#227;o de hoje</text>
+            <text x="58" y="126" font-family="Georgia,serif" font-size="15" font-weight="700" fill="#fff">Bom dia,</text>
+            <text x="58" y="144" font-family="Georgia,serif" font-size="15" font-weight="700" fill="#fff">empreendedor(a).</text>
+            <text x="58" y="164" font-family="Inter,sans-serif" font-size="7.5" fill="#9fb2d6">Aqui est&#225; o que voc&#234; precisa saber hoje.</text>
+            <text x="58" y="196" font-family="Inter,sans-serif" font-size="7" letter-spacing="1" fill="#4f8cff">DESTAQUE DO DIA</text>
+            <defs><linearGradient id="nlimg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a56db"/><stop offset="1" stop-color="#08153a"/></linearGradient></defs>
+            <rect x="58" y="206" width="184" height="80" rx="8" fill="url(#nlimg)"/>
+            <text x="58" y="306" font-family="Georgia,serif" font-size="10" font-weight="700" fill="#fff">Rodada S&#233;rie B da fintech</text>
+            <text x="58" y="320" font-family="Georgia,serif" font-size="10" font-weight="700" fill="#fff">chega a R$ 120 milh&#245;es</text>
+            <rect x="58" y="332" width="150" height="5" rx="2" fill="#24365f"/>
+            <rect x="58" y="343" width="120" height="5" rx="2" fill="#24365f"/>
+            <text x="58" y="372" font-family="Inter,sans-serif" font-size="7" letter-spacing="1" fill="#6f8bc0">MAIS NOT&#205;CIAS</text>
+            <rect x="58" y="382" width="30" height="24" rx="4" fill="url(#nlimg)"/>
+            <text x="96" y="392" font-family="Inter,sans-serif" font-size="7.5" font-weight="600" fill="#cdd9f2">Agtechs sofisticam o</text>
+            <text x="96" y="403" font-family="Inter,sans-serif" font-size="7.5" font-weight="600" fill="#cdd9f2">cr&#233;dito privado</text>
+          </svg>
+        </div>
+      </div>
+
+      <div class="nl-benefits">
+        <h2>O que voc&ecirc; recebe na newsletter</h2>
+        <div class="rule"></div>
+        <div class="nl-grid">
+          <div class="nl-item">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8M15 18h-5M10 6h8v4h-8V6Z"/></svg>
+            <h4>Not&iacute;cias essenciais</h4><p>Os principais acontecimentos do ecossistema, selecionados pelo nosso time.</p>
+          </div>
+          <div class="nl-item">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="m19 9-5 5-4-4-3 3"/></svg>
+            <h4>Rodadas e investimentos</h4><p>Quem captou, quanto captou e o que isso significa para o mercado.</p>
+          </div>
+          <div class="nl-item">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+            <h4>An&aacute;lises e insights</h4><p>Conte&uacute;do exclusivo com an&aacute;lises profundas e opini&atilde;o de quem entende.</p>
+          </div>
+          <div class="nl-item">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"/><path d="m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"/><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"/></svg>
+            <h4>Startups em destaque</h4><p>Novas empresas, produtos e ideias que est&atilde;o movimentando o mercado.</p>
+          </div>
+          <div class="nl-item">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+            <h4>Tudo todos os dias</h4><p>Resumo di&aacute;rio direto no seu e-mail, r&aacute;pido e f&aacute;cil de ler.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="nl-cta">
+        <div class="nl-cta-ico"><svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 6 10-6"/></svg></div>
+        <div class="nl-cta-txt">Junte-se a fundadores, investidores e executivos que come&ccedil;am o dia bem informados.</div>
+        <form class="nl-form" novalidate style="max-width:430px;">
+          <input type="email" required placeholder="Seu melhor e-mail" aria-label="Seu e-mail">
+          <button type="submit">Quero receber</button>
+        </form>
+      </div>
+    </section>
+  </div>
 
   <div class="page" id="page-contato">
     <section class="static-page">
@@ -10116,7 +10231,8 @@ function route(){
     return;
   }
   const staticRoutes={
-    '#contato':['page-contato','Contato | '+BRAND.namePlain]
+    '#contato':['page-contato','Contato | '+BRAND.namePlain],
+    '#newsletter':['page-newsletter','Newsletter | '+BRAND.namePlain]
   };
   if(staticRoutes[location.hash]){
     const [page,title]=staticRoutes[location.hash];
@@ -10491,6 +10607,18 @@ applyBrand();
 loadNews();
 loadArticles();
 
+</script>
+
+<script>
+document.addEventListener('submit',function(e){
+  var f=e.target.closest('.nl-form'); if(!f) return;
+  e.preventDefault();
+  var inp=f.querySelector('input[type=email]'); var email=(inp&&inp.value||'').trim();
+  if(!email||email.indexOf('@')<0){ if(inp) inp.focus(); return; }
+  var ok=document.querySelector('.nl-ok'); if(ok) ok.style.display='block';
+  if(inp) inp.value='';
+  window.location.href='mailto:contato@startupdrops.com.br?subject='+encodeURIComponent('Quero assinar a newsletter')+'&body='+encodeURIComponent('Quero receber a newsletter do StartupDrops. Meu email: '+email);
+});
 </script>
 </body>
 </html>
