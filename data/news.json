@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T16:06:28.617233+00:00",
+  "updatedAt": "2026-08-20T19:50:50.117014+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -109,6 +109,118 @@
     {
       "name": "Convergencia Digital",
       "region": "Brasil"
+    },
+    {
+      "name": "TechCrunch Startups",
+      "region": "Internacional"
+    },
+    {
+      "name": "Crunchbase News",
+      "region": "Internacional"
+    },
+    {
+      "name": "VentureBeat",
+      "region": "Internacional"
+    },
+    {
+      "name": "The Verge",
+      "region": "Internacional"
+    },
+    {
+      "name": "Wired",
+      "region": "Internacional"
+    },
+    {
+      "name": "Rest of World",
+      "region": "Internacional"
+    },
+    {
+      "name": "a16z",
+      "region": "Internacional"
+    },
+    {
+      "name": "First Round Review",
+      "region": "Internacional"
+    },
+    {
+      "name": "Axios Pro Rata",
+      "region": "Internacional"
+    },
+    {
+      "name": "Reuters Business",
+      "region": "Internacional"
+    },
+    {
+      "name": "Reuters Tech",
+      "region": "Internacional"
+    },
+    {
+      "name": "Bloomberg Tech",
+      "region": "Internacional"
+    },
+    {
+      "name": "Bloomberg Markets",
+      "region": "Internacional"
+    },
+    {
+      "name": "The Information",
+      "region": "Internacional"
+    },
+    {
+      "name": "Tech.eu",
+      "region": "Internacional"
+    },
+    {
+      "name": "EU-Startups",
+      "region": "Internacional"
+    },
+    {
+      "name": "Sifted",
+      "region": "Internacional"
+    },
+    {
+      "name": "Contxto",
+      "region": "Internacional"
+    },
+    {
+      "name": "LABS Latam",
+      "region": "Internacional"
+    },
+    {
+      "name": "SCMP Tech",
+      "region": "Internacional"
+    },
+    {
+      "name": "SCMP Business",
+      "region": "Internacional"
+    },
+    {
+      "name": "TechNode",
+      "region": "Internacional"
+    },
+    {
+      "name": "Caixin Global",
+      "region": "Internacional"
+    },
+    {
+      "name": "KrASIA",
+      "region": "Internacional"
+    },
+    {
+      "name": "Inc42",
+      "region": "Internacional"
+    },
+    {
+      "name": "YourStory",
+      "region": "Internacional"
+    },
+    {
+      "name": "ETtech",
+      "region": "Internacional"
+    },
+    {
+      "name": "Entrackr",
+      "region": "Internacional"
     }
   ],
   "failures": [
@@ -131,9 +243,281 @@
       "source": "Abstartups",
       "url": "https://news.google.com/rss/search?q=when:7d+site:abstartups.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "a16z",
+      "url": "https://a16z.com/feed/",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "First Round Review",
+      "url": "https://review.firstround.com/feed.xml",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Contxto",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:contxto.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "LABS Latam",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:labsnews.com&hl=en-US&gl=US&ceid=US:en",
+      "reason": "falhou direto e via proxy"
     }
   ],
   "articles": [
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/juros-altos-e-rjs-reduzem-oferta-de-credito-e-ampliam-disputa-entre-credores-e-devedores/",
+      "_key": "ff1f245c73313b749ebf68449645992d",
+      "title": "Juros altos e RJs reduzem oferta de crédito e ampliam disputa entre credores e devedores",
+      "originalTitle": "Juros altos e RJs reduzem oferta de crédito e ampliam disputa entre credores e devedores",
+      "summary": "O estoque de empresas em recuperação judicial cresceu 21,2% de junho do ano passado para junho deste ano, totalizando 6.341 empresas brasileiras protegidas da falência pela Justiça, mostra um levantamento produzido pelas consultorias RGF e Bizdoc, especializadas em reestruturação.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/juros-altos-e-rjs-reduzem-oferta-de-credito-e-ampliam-disputa-entre-credores-e-devedores/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/juros-brasil-reestruturacao-empresas-300x169.jpg",
+      "publishedAt": "2026-08-20T19:19:34+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
+      "_key": "0d4661c93b8e092377613d84a22010ea",
+      "title": "Mark Zuckerberg bought an Irish castle",
+      "originalTitle": "Mark Zuckerberg bought an Irish castle",
+      "summary": "Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland \"several weeks ago,\" according to The Irish Times.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546251/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-20T18:50:14+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/abs-lanca-case-2026-e-amplia-conexao-entre-startups-de-todo-o-brasil/",
+      "_key": "8ba16a50e9f252ce7020432f5ac2dbaa",
+      "title": "ABS lança CASE 2026 e amplia conexão entre startups de todo o Brasil",
+      "originalTitle": "ABS lança CASE 2026 e amplia conexão entre startups de todo o Brasil",
+      "summary": "Startupi ABS lança CASE 2026 e amplia conexão entre startups de todo o Brasil A Associação Brasileira de Startups (ABS) lançou oficialmente o CASE 2026, que chega com uma nova proposta para ampliar a participação de startups, comunidades e agentes de inovação de diferentes regiões do país.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/abs-lanca-case-2026-e-amplia-conexao-entre-startups-de-todo-o-brasil/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/case-2026.jpg",
+      "publishedAt": "2026-08-20T18:38:11+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/esportes/apos-lesao-e-queda-no-ranking-alcaraz-anuncia-volta-para-defender-titulo-do-us-open/",
+      "_key": "5ca4d0cbf28901b923b32f6434d89003",
+      "title": "Após lesão e queda no ranking, Alcaraz anuncia volta para defender título do US Open",
+      "originalTitle": "Após lesão e queda no ranking, Alcaraz anuncia volta para defender título do US Open",
+      "summary": "Espanhol não joga desde abril, perdeu três Masters 1000 e dois Grand Slams, e hoje ocupa a terceira posição mundial The post Após lesão e queda no ranking, Alcaraz anuncia volta para defender título do US Open appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/esportes/apos-lesao-e-queda-no-ranking-alcaraz-anuncia-volta-para-defender-titulo-do-us-open/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-20T181541Z_1_LYNXMPEM7J1FB_RTROPTP_4_TENNIS-MONTECARLO.jpg?fit=300%2C195&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-20T18:35:15+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/sp-vai-cumprir-metas-do-marco-de-saneamento-ate-2030-promete-tarcisio/",
+      "_key": "c79fd003a51c50a273a22415145ef5b2",
+      "title": "SP vai cumprir metas do marco de saneamento até 2030, promete Tarcísio",
+      "originalTitle": "SP vai cumprir metas do marco de saneamento até 2030, promete Tarcísio",
+      "summary": "Ao defender atual gestão da Sabesp, governador reforçou que maioria das reclamações sobre a companhia são sobre preço da tarifa e não sobre qualidade do serviço ofertado The post SP vai cumprir metas do marco de saneamento até 2030, promete Tarcísio appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/sp-vai-cumprir-metas-do-marco-de-saneamento-ate-2030-promete-tarcisio/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Tarcisio-de-Freitas.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-20T18:29:25+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/anthropic-quer-quebrar-recorde-da-spacex-em-megacaptacao-na-bolsa/",
+      "_key": "f0afe76e2a5944420b1ea5a789f5fc27",
+      "title": "Anthropic quer quebrar recorde da SpaceX em megacaptação na bolsa",
+      "originalTitle": "Anthropic quer quebrar recorde da SpaceX em megacaptação na bolsa",
+      "summary": "Empresa de IA avaliada em US$ 965 bilhões prepara abertura de capital que pode se tornar a maior da história dos EUA The post Anthropic quer quebrar recorde da SpaceX em megacaptação na bolsa appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/anthropic-quer-quebrar-recorde-da-spacex-em-megacaptacao-na-bolsa/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464994128.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-20T18:28:42+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/20/move-brasil-apos-baixa-procura-governo-aumenta-limite-de-credito-para-motoristas-de-app-comprarem-carros.ghtml",
+      "_key": "10957475675f43378ab921d983a7fcd5",
+      "title": "Move Brasil: após baixa procura, governo aumenta limite de crédito para motoristas de app comprarem carros",
+      "originalTitle": "Move Brasil: após baixa procura, governo aumenta limite de crédito para motoristas de app comprarem carros",
+      "summary": "Uma portaria publicada nesta quarta-feira (19) e divulgada em edição extra do Diário Oficial da União (DOU) ampliou de R$ 150 mil para R$ 200 mil o valor máximo dos carros que podem ser financiados pelo programa Move Brasil, voltado a motoristas de aplicativo e taxistas.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/20/move-brasil-apos-baixa-procura-governo-aumenta-limite-de-credito-para-motoristas-de-app-comprarem-carros.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/cWvLW76Nbu5o16hVyvvIJjs96r0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/K/1vPf60QuyJyX3BgeklFg/taxistas.jpeg",
+      "publishedAt": "2026-08-20T17:33:54+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "_key": "af0282015032901b8a591b0507e29f6c",
+      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
+      "originalTitle": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
+      "summary": "Adding an AI agent to Slack sounds appealing to many enterprises — but, as VentureBeat has experienced ourselves first hand — the reality is often far more complex and clunkier than it first seems.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5I3UuhIsHvssElUOhxg953/b120622de8833224afa8c1425d376d2a/ChatGPT_Image_Aug_20__2026__01_10_24_PM.png?w=300&q=30",
+      "publishedAt": "2026-08-20T17:25:44+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Markets-https://www.bloomberg.com/news/videos/2026-08-20/us-set-to-cut-tariffs-on-canada-metals-autos-video",
+      "_key": "001f0d41e3f6f3a3b809633aad928596",
+      "title": "US Set to Cut Tariffs on Canada Metals, Autos in Trade Deal",
+      "originalTitle": "US Set to Cut Tariffs on Canada Metals, Autos in Trade Deal",
+      "summary": "The tentative trade deal between the US and Canada would lower tariffs on certain Canadian exports of steel and aluminum to 25% and cut duties on Canadian auto exports to 15%, according to people familiar with the matter.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/us-set-to-cut-tariffs-on-canada-metals-autos-video",
+      "source": "Bloomberg Markets",
+      "region": "Internacional",
+      "country": "US",
+      "image": "",
+      "publishedAt": "2026-08-20T16:21:42+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Markets"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/mc-foundation-launches-accelerator-energy-deeptech-startups",
+      "_key": "63f3913f04c53262bd60bf05ba958877",
+      "title": "MC² Foundation launches accelerator for energy deeptech startups",
+      "originalTitle": "MC² Foundation launches accelerator for energy deeptech startups",
+      "summary": "The programme will select around 30 startups and offer up to Rs 2 crore in milestone-linked convertible funding, along with access to pilot sites, labs, technical expertise and industry partners across India.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/mc-foundation-launches-accelerator-energy-deeptech-startups",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/deeptech-F-1-1664291645612.png",
+      "publishedAt": "2026-08-20T16:07:08+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/branded-content/replit-lanca-free-mode-e-promete-ampliar-em-ate-30-vezes-a-capacidade-de-criacao-com-ia/",
+      "_key": "242cb1c74d36fa68636542e2291308ad",
+      "title": "Replit lança Free Mode e promete ampliar em até 30 vezes a capacidade de criação com IA",
+      "originalTitle": "Replit lança Free Mode e promete ampliar em até 30 vezes a capacidade de criação com IA",
+      "summary": "passa a integrar em uma única experiência diversas atividades O post Replit lança Free Mode e promete ampliar em até 30 vezes a capacidade de criação com IA apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/branded-content/replit-lanca-free-mode-e-promete-ampliar-em-ate-30-vezes-a-capacidade-de-criacao-com-ia/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/08/Replit.jpg",
+      "publishedAt": "2026-08-20T16:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechCrunch Startups-https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "_key": "59e1aa562f51626999866de2c0c7bdb5",
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "originalTitle": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/nif-1209-18047.jpg?resize=1200,927",
+      "publishedAt": "2026-08-20T16:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/business/coty-aposta-em-perfumes-premium-para-retomar-crescimento-apos-trimestre-fraco/",
       "_key": "dac8f58fa98827e345b8edea4c2a5c8e",
@@ -152,6 +536,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "_key": "627456c518d0a71a56da993defe926ef",
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "originalTitle": "It’s Greg Brockman’s OpenAI now",
+      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-20T15:45:55+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
       ],
       "coverageCount": 1
     },
@@ -177,6 +582,132 @@
       "coverageCount": 1
     },
     {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/belgian-creative-learning-platform-artwod-raises-e1-1-million-to-launch-creators-marketplace/",
+      "_key": "c1c958ff179fa0ce82b97155860ab4d2",
+      "title": "Belgian creative learning platform Artwod raises €1.1 million to launch creators’ marketplace",
+      "originalTitle": "Belgian creative learning platform Artwod raises €1.1 million to launch creators’ marketplace",
+      "summary": "Antwerp-based Artwod, a guided learning and community platform for visual artists, has raised a €1.1 million Seed round to launch their creators&#8217; marketplace, promote greater community participation, and build artist loyalty.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/belgian-creative-learning-platform-artwod-raises-e1-1-million-to-launch-creators-marketplace/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Artwod.png",
+      "publishedAt": "2026-08-20T15:37:49+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "The Verge-https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+      "_key": "f8f7fc85ed7264c3190e0ffd0bb505e2",
+      "title": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
+      "originalTitle": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
+      "summary": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-20T15:30:34+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/walmart-sees-q3-growth-hit-as-flipkart-shifts-big-billion-days-sale/articleshow/133381793.cms",
+      "_key": "517782aad4f78fb1d061b00a52279ccc",
+      "title": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale",
+      "originalTitle": "Walmart sees Q3 growth hit as Flipkart shifts Big Billion Days sale",
+      "summary": "Walmart expects Flipkart’s Big Billion Days sales event moving from Q3 to Q4 to weigh about 100 basis points on growth next quarter. The company said India drove growth in Walmart International’s operating income and advertising revenue.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/walmart-sees-q3-growth-hit-as-flipkart-shifts-big-billion-days-sale/articleshow/133381793.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133381793,imgsize-37166.cms",
+      "publishedAt": "2026-08-20T15:28:54+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/carreira/casas-bahia-e-marabraz-em-recuperacao-quais-sao-os-direitos-dos-funcionarios/",
+      "_key": "f51d26f529d77b7f45bac6dbf6373a3c",
+      "title": "Casas Bahia e Marabraz em recuperação judicial: quais são os direitos dos funcionários?",
+      "originalTitle": "Casas Bahia e Marabraz em recuperação judicial: quais são os direitos dos funcionários?",
+      "summary": "A lei coloca o trabalhador entre os primeiros da fila para receber, mas isso não significa que o dinheiro está garantido. Advogada trabalhista responde 15 dúvidas sobre processos de demissão e salários – inclusive em casos de falência",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/carreira/casas-bahia-e-marabraz-em-recuperacao-quais-sao-os-direitos-dos-funcionarios/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2020/07/store-in-store.jpg",
+      "publishedAt": "2026-08-20T15:24:32+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/cashfree-payments-posts-52-jump-in-revenue-in-fy26-losses-narrow/articleshow/133381071.cms",
+      "_key": "1058f3f6841ce4ae553b02824e9d2194",
+      "title": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow",
+      "originalTitle": "Cashfree Payments posts 52% jump in revenue in FY26, losses narrow",
+      "summary": "Over the last two years, Cashfree reported marginal growth in revenue and no improvement in the bottom line following a year-long ban by the Reserve Bank of India on online payment aggregators from onboarding new merchants, which was lifted in late 2023.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/cashfree-payments-posts-52-jump-in-revenue-in-fy26-losses-narrow/articleshow/133381071.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133381071,imgsize-1262368.cms",
+      "publishedAt": "2026-08-20T14:52:04+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
+      "_key": "a56198c00d141455c92452db35ae1964",
+      "title": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
+      "originalTitle": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
+      "summary": "Serval is making Catalyst , its AI agent for building enterprise automations, generally available Thursday and enabling it by default for customers — allowing teams of AI agents to decide what should be automated and then build the automation itself.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1bbEEgkdX0AN9Se2MVx3y3/56bd7e10edae0a3ba9b429ab827d366b/ChatGPT_Image_Aug_20__2026__10_03_58_AM.png?w=300&q=30",
+      "publishedAt": "2026-08-20T14:42:07+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/gerdau-possivel-acordo-entre-eua-e-canada-preocupa-menos-do-que-parece-entenda/",
       "_key": "c51c69e9dc6b38ce9ff20e5f64135608",
       "title": "Gerdau: possível acordo entre EUA e Canadá preocupa menos do que parece; entenda",
@@ -194,6 +725,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-introduces-new-safety-tool-to-protect-user-privacy/articleshow/133380728.cms",
+      "_key": "905bf83073ab1bd0279c9b66c269bf27",
+      "title": "OpenAI introduces new safety tool to protect user privacy",
+      "originalTitle": "OpenAI introduces new safety tool to protect user privacy",
+      "summary": "Under ZDR, OpenAI does not save a customer's prompts or the AI's responses once a task is finished. No OpenAI employee can view the content, and unless a company chooses to opt in, none of that data is used to train AI models.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-introduces-new-safety-tool-to-protect-user-privacy/articleshow/133380728.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133380728,imgsize-60914.cms",
+      "publishedAt": "2026-08-20T14:31:14+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -219,6 +771,27 @@
       "coverageCount": 1
     },
     {
+      "id": "The Verge-https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+      "_key": "5a00b3a59b63dfe1f03777283bc534e2",
+      "title": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
+      "originalTitle": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
+      "summary": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+      "source": "The Verge",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "publishedAt": "2026-08-20T14:09:31+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "The Verge"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-20082026/",
       "_key": "cce8b14b2add3b54dade4e10b672dd22",
       "title": "Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta quinta-feira (20)",
@@ -236,6 +809,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/dpiit-inks-mou-with-phonepe-shell-india-to-support-startups/articleshow/133379989.cms",
+      "_key": "1b07ec4c4d34b25601a8526fe9d54ff3",
+      "title": "DPIIT inks MoU with PhonePe, Shell India to support startups",
+      "originalTitle": "DPIIT inks MoU with PhonePe, Shell India to support startups",
+      "summary": "Under its collaboration with DPIIT, PhonePe will provide DPIIT-recognised startups with a range of benefits, including transaction credits through its payment gateway, access to the Indus AppStore, dedicated onboarding and support services, and opportunities for enhanced brand visibility.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/dpiit-inks-mou-with-phonepe-shell-india-to-support-startups/articleshow/133379989.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133379989,imgsize-149686.cms",
+      "publishedAt": "2026-08-20T14:03:11+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -324,6 +918,48 @@
       "coverageCount": 1
     },
     {
+      "id": "YourStory-https://yourstory.com/2026/08/google-ai-powered-learning-tools-students-test-prep",
+      "_key": "a1bae0f9f8e838bf4b273ab2949210c8",
+      "title": "Google rolls out AI-powered learning tools for students to prep for competitive exams",
+      "originalTitle": "Google rolls out AI-powered learning tools for students to prep for competitive exams",
+      "summary": "Google Search lets students create customised practice quizzes, which draw on test-prep content via partnerships with education companies The Princeton Review, Careers360, PhysicsWallah and Akira Enem.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/google-ai-powered-learning-tools-students-test-prep",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/CopyofNewPPTTemplates45-1787233207544.jpg",
+      "publishedAt": "2026-08-20T13:29:50+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/indias-battery-storage-self-reliance-a-decade-away-amid-tech-financing-and-execution-delays-report/articleshow/133379113.cms",
+      "_key": "c65a5a66f60ff78a8ebe7adbf1f69a8a",
+      "title": "India's battery storage self-reliance a decade away amid tech, financing and execution delays: Report",
+      "originalTitle": "India's battery storage self-reliance a decade away amid tech, financing and execution delays: Report",
+      "summary": "India has just 2 GWh of commissioned cell manufacturing capacity as of 2026, against China's cumulative capacity of 2,695 GWh, the report said, noting China controls between 85% and 98% of global capacity across every major supply chain component, from cathode to anode, separator and electrolyte.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/indias-battery-storage-self-reliance-a-decade-away-amid-tech-financing-and-execution-delays-report/articleshow/133379113.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133379113,imgsize-113815.cms",
+      "publishedAt": "2026-08-20T13:24:23+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/vice-de-marcal-vira-reu-por-associacao-criminosa-e-violencia-politica-de-genero/",
       "_key": "d1a172aec9ba60288d06a4b4a932f8dc",
       "title": "Vice de Marçal vira réu por associação criminosa e violência política de gênero",
@@ -387,6 +1023,27 @@
       "coverageCount": 1
     },
     {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/with-9-3-billion-existing-dubai-investment-55274-jobs-new-mous-seek-to-expand-india-uae-ai-and-trade-ties/articleshow/133378555.cms",
+      "_key": "9bc02083b6a7f62a2066675e0ae4e55c",
+      "title": "With $9.3 billion existing Dubai investment, 55,274 jobs; new MoUs seek to expand India-UAE AI and trade ties",
+      "originalTitle": "With $9.3 billion existing Dubai investment, 55,274 jobs; new MoUs seek to expand India-UAE AI and trade ties",
+      "summary": "The agreements were signed in Bengaluru between the Indian industry bodies and a delegation led by Dubai Chambers’ president and chief executive officer, Mohammed Ali Rashed Lootah. The delegation held eight meetings with Indian and multinational companies and technology startups.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/with-9-3-billion-existing-dubai-investment-55274-jobs-new-mous-seek-to-expand-india-uae-ai-and-trade-ties/articleshow/133378555.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133378555,imgsize-257664.cms",
+      "publishedAt": "2026-08-20T13:05:04+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/economia/citi-ve-inadimplencia-crescendo-com-orcamentos-das-familias-cada-vez-mais-apertados/",
       "_key": "ef730974e3d63fb35da905af8efcb8a5",
       "title": "Citi vê inadimplência crescendo com orçamentos das famílias cada vez mais apertados",
@@ -429,6 +1086,69 @@
       "coverageCount": 1
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3364700/chinese-ai-chips-fall-short-coding-forcing-firms-stretch-scarce-nvidia-supply?utm_source=rss_feed",
+      "_key": "181925f773ce9f216bd1890f712de66f",
+      "title": "Chinese AI chips fall short on coding, forcing firms to stretch scarce Nvidia supply",
+      "originalTitle": "Chinese AI chips fall short on coding, forcing firms to stretch scarce Nvidia supply",
+      "summary": "Chinese AI companies are optimising software to cope with surging demand for inference, as part of that workload still relies on computing power from a limited pool of high-end chips amid restricted access to Nvidia processors.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364700/chinese-ai-chips-fall-short-coding-forcing-firms-stretch-scarce-nvidia-supply?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/f1e58693-819b-4bd4-91b6-3cb70cf75049_615418b0.jpg?itok=7vMUunsd&v=1787218632",
+      "publishedAt": "2026-08-20T12:30:12+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/zomato-pilots-food-vending-machines-at-workplaces-in-new-attempt-at-quick-delivery/articleshow/133377194.cms",
+      "_key": "3040283d51407c05a8a5e3ff728afc6a",
+      "title": "Zomato pilots food vending machines at workplaces in new attempt at quick delivery",
+      "originalTitle": "Zomato pilots food vending machines at workplaces in new attempt at quick delivery",
+      "summary": "Zomato is piloting food vending machines in Gurugram corporate offices. This new initiative, Zomato Now, aims for rapid food delivery access. Zomato Now comes alongside sister company Blinkit’s 10-minute food delivery service Bistro, which operates through its own cloud kitchens.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/zomato-pilots-food-vending-machines-at-workplaces-in-new-attempt-at-quick-delivery/articleshow/133377194.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133377194,imgsize-60616.cms",
+      "publishedAt": "2026-08-20T12:27:16+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/stockholms-pixelgen-technologies-secures-e13-26-million-to-advance-spatial-mapping-of-cell-surface-proteins/",
+      "_key": "e09eec02095f3ae2e7080985a56119e1",
+      "title": "Stockholm’s Pixelgen Technologies secures €13.26 million to advance spatial mapping of cell-surface proteins",
+      "originalTitle": "Stockholm’s Pixelgen Technologies secures €13.26 million to advance spatial mapping of cell-surface proteins",
+      "summary": "Pixelgen Technologies, a Stockholm-based life sciences company that claims to have developed the first high-throughput platform for mapping molecular cell architecture, has closed an oversubscribed €13.26 million ($15.5 million) Series B funding round.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/stockholms-pixelgen-technologies-secures-e13-26-million-to-advance-spatial-mapping-of-cell-surface-proteins/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-20T173604.134.jpg",
+      "publishedAt": "2026-08-20T12:09:26+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/20/dolar-ibovespa.ghtml",
       "_key": "dc768a99f1e4efa108547f34e953c044",
       "title": "Dólar opera em alta, mesmo após anúncio do Tesouro americano e de olho no petróleo; Ibovespa sobe",
@@ -446,6 +1166,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/20/solinide-closes-eur4m-to-commercialise-photonic-chips-for-ai-data-centres/",
+      "_key": "70b36b865b2ba9b4e192974e9cccd7a4",
+      "title": "Solinide closes €4M to commercialise photonic chips for AI data centres",
+      "originalTitle": "Solinide closes €4M to commercialise photonic chips for AI data centres",
+      "summary": "Swedish deeptech company Solinide Photonics has raised €4 million in seed funding to commercialise its siliconnitride photonic integrated circuit technology and prepare for scalablemanufacturing. The ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/20/solinide-closes-eur4m-to-commercialise-photonic-chips-for-ai-data-centres/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/solinide-featured-239.png",
+      "publishedAt": "2026-08-20T11:10:00+00:00",
+      "score": 68,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
       ],
       "coverageCount": 1
     },
@@ -492,6 +1233,48 @@
       "coverageCount": 1
     },
     {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/london-based-callosum-raises-e85-4-million-in-atomico-led-seed-round-to-unify-ai-models-and-chips/",
+      "_key": "b26f4327c4591d0cb3246ecb9924a740",
+      "title": "London-based Callosum raises €85.4 million in Atomico-led Seed round to unify AI models and chips",
+      "originalTitle": "London-based Callosum raises €85.4 million in Atomico-led Seed round to unify AI models and chips",
+      "summary": "Callosum, a London-based startup building infrastructure to unify different AI models and chips, has raised €85.4 million ($100 million) in a Seed round to advance what it calls &#8220;heterogeneous intelligence&#8221;.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/london-based-callosum-raises-e85-4-million-in-atomico-led-seed-round-to-unify-ai-models-and-chips/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Callosum.jpg",
+      "publishedAt": "2026-08-20T10:54:56+00:00",
+      "score": 73,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3364705/alibabas-ai-cloud-growth-surge-drives-earnings-despite-soaring-tech-spending?utm_source=rss_feed",
+      "_key": "be23fad3bec2b823d20cb37e3cff84d3",
+      "title": "Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending",
+      "originalTitle": "Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending",
+      "summary": "Alibaba Group Holding on Thursday reported revenue growth of 45 per cent for its cloud and artificial intelligence division in the June quarter, driving adjusted profit to a better-than-expected 27.3 billion yuan (US$4 billion).",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3364705/alibabas-ai-cloud-growth-surge-drives-earnings-despite-soaring-tech-spending?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/0501818c-c627-4eb5-ad44-e83b17c1f0cd_a1b0625a.jpg?itok=wSoiXVEY&v=1787220948",
+      "publishedAt": "2026-08-20T10:16:24+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/20/por-que-fundador-de-gigante-do-setor-imobiliario-foi-condenado-a-prisao-perpetua-na-china.ghtml",
       "_key": "06bec6336210426c57ee19480fb4d867",
       "title": "Por que fundador de gigante do setor imobiliário foi condenado à prisão perpétua na China",
@@ -509,6 +1292,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/alibaba-reports-9-rise-in-quarterly-revenue/articleshow/133373637.cms",
+      "_key": "d3c05dcedfa0a9919838102a607325a0",
+      "title": "Alibaba reports 9% rise in quarterly revenue",
+      "originalTitle": "Alibaba reports 9% rise in quarterly revenue",
+      "summary": "As businesses increasingly deploy artificial intelligence applications, ​demand for the cloud computing power needed to train ​and run those systems has surged, benefiting China's largest technology companies.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/alibaba-reports-9-rise-in-quarterly-revenue/articleshow/133373637.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133373637,imgsize-2102799.cms",
+      "publishedAt": "2026-08-20T10:08:19+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -534,6 +1338,90 @@
       "coverageCount": 1
     },
     {
+      "id": "SCMP Business-https://www.scmp.com/business/companies/article/3364702/shein-pushes-back-hong-kong-debut-september-amid-delayed-investor-orders-sources?utm_source=rss_feed",
+      "_key": "ed9ac3b529330e9e91e8514b2da4d719",
+      "title": "Shein pushes back Hong Kong debut to September amid delayed investor orders: sources",
+      "originalTitle": "Shein pushes back Hong Kong debut to September amid delayed investor orders: sources",
+      "summary": "Fast-fashion retailer Shein Global Holdings has pushed back its Hong Kong market debut until September 1, after a small delay in taking investor orders for its initial public offering (IPO) at a reduced valuation, according to sources familiar with the matter.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/companies/article/3364702/shein-pushes-back-hong-kong-debut-september-amid-delayed-investor-orders-sources?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/08f2aaab-880d-45f1-9fd7-aab026cd2d94_6f15b844.jpg?itok=hWlyExVQ&v=1787219008",
+      "publishedAt": "2026-08-20T09:43:28+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/20/frances-top-funded-tech-companies-in-h1-2026/",
+      "_key": "5c95de7693c587de62030713678caafc",
+      "title": "France's top-funded tech companies in H1 2026",
+      "originalTitle": "France's top-funded tech companies in H1 2026",
+      "summary": "France remained one of Europe’s leading tech funding marketsin H1 2026, with investment concentrated in AI, space, fintech and healthcare.Several large transactions shaped the total, including Eutelsa...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/20/frances-top-funded-tech-companies-in-h1-2026/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/franceh12026-featured-14.png",
+      "publishedAt": "2026-08-20T09:30:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/20/why-unitree-became-the-first-humanoid-robot-company-to-go-public-in-china/",
+      "_key": "62bff094803443545313626a580a8b50",
+      "title": "Why Unitree became the first humanoid robot company to go public in China",
+      "originalTitle": "Why Unitree became the first humanoid robot company to go public in China",
+      "summary": "On Wednesday, Unitree Robotics debuted on the STAR Market of the Shanghai Stock Exchange under the ticker 688836.SH. On the same day, the 2026 World Robot Conference opened in Beijing.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/20/why-unitree-became-the-first-humanoid-robot-company-to-go-public-in-china/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/UNITREE-3.png?fit=1024%2C742&amp;ssl=1",
+      "publishedAt": "2026-08-20T09:16:14+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/20/callosum-raises-100m-seed-round/",
+      "_key": "a6874539b998df4e1ca364cf421cdc3c",
+      "title": "Callosum raises $100M seed round",
+      "originalTitle": "Callosum raises $100M seed round",
+      "summary": "A UK AI startup that is building software infrastructure that allows AI workloads to run on different chips and AI models has raised $100m in an exceptionally high-value European seed round. Callosum ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/20/callosum-raises-100m-seed-round/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/02/callosum-1-660.png",
+      "publishedAt": "2026-08-20T09:00:00+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/business/a-nb-steak-esta-no-ponto-para-comecar-o-crescimento-nacional-diz-arri-coser/",
       "_key": "4952323041bd2f990b2dd43a5e74047a",
       "title": "A NB Steak está ‘no ponto’ para começar o crescimento nacional, diz Arri Coser",
@@ -551,6 +1439,48 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/20/paralo-raises-ps270k-to-tackle-golfs-fragmented-technology-stack/",
+      "_key": "9e96d9e4945f03c133f0a998d6d222a7",
+      "title": "Paralo raises £270K to tackle golf’s fragmented technology stack",
+      "originalTitle": "Paralo raises £270K to tackle golf’s fragmented technology stack",
+      "summary": "UK golf technology startup Paralo has raised £270,000 in an oversubscribed pre-seed funding round to develop its operating system for golf clubs and a connected product for golfers. £250,000 of the fo...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/20/paralo-raises-ps270k-to-tackle-golfs-fragmented-technology-stack/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-13-667.png",
+      "publishedAt": "2026-08-20T08:57:00+00:00",
+      "score": 70,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/australia-passes-law-to-levy-tech-giants-that-fail-to-pay-for-local-news/articleshow/133371548.cms",
+      "_key": "2cb2a2ba98231fed4a51cfdb974121b4",
+      "title": "Australia passes law to levy tech giants that fail to pay for local news",
+      "originalTitle": "Australia passes law to levy tech giants that fail to pay for local news",
+      "summary": "The levy ​applies to Meta, Alphabet's Google, TikTok and Microsoft's LinkedIn, covering companies with a \"significant\" social media or search service in Australia, and local ​advertising revenue exceeding A$250 million ($178 million).",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/australia-passes-law-to-levy-tech-giants-that-fail-to-pay-for-local-news/articleshow/133371548.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133371548,imgsize-145504.cms",
+      "publishedAt": "2026-08-20T08:49:13+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
       ],
       "coverageCount": 1
     },
@@ -593,6 +1523,69 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/vilnius-based-guideless-raises-e1-million-to-turn-software-workflows-into-narrated-video-training-guides-using-ai/",
+      "_key": "e5161d4c6530cee0b5b2c6dd350b649b",
+      "title": "Vilnius-based Guideless raises €1 million to turn software workflows into narrated video training guides using AI",
+      "originalTitle": "Vilnius-based Guideless raises €1 million to turn software workflows into narrated video training guides using AI",
+      "summary": "Guideless, a Vilnius-based AI-powered software training and operational knowledge platform, has raised a €1 million pre-Seed funding round to help companies reduce time and money spent on creating and maintaining workflow training materials.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/vilnius-based-guideless-raises-e1-million-to-turn-software-workflows-into-narrated-video-training-guides-using-ai/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-20T133008.650.jpg",
+      "publishedAt": "2026-08-20T08:02:19+00:00",
+      "score": 76,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/10-european-compliance-startups-to-watch-as-ai-act-enforcement-kicks-in/",
+      "_key": "3e08d7bcb72c73ac2147b2351c7dbc09",
+      "title": "10 European compliance startups to watch as AI Act enforcement kicks in",
+      "originalTitle": "10 European compliance startups to watch as AI Act enforcement kicks in",
+      "summary": "Europe’s regulatory technology market is entering a new phase. From 2 August 2026, the European Commission’s AI Office and national authorities began exercising enforcement powers under the EU AI Act, while transparency obligations for certain AI systems also became applicable.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/10-european-compliance-startups-to-watch-as-ai-act-enforcement-kicks-in/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2024/11/Biorce-696x410.png",
+      "publishedAt": "2026-08-20T08:00:21+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/20/lithuanian-ai-startup-guideless-raises-eur1m-to-streamline-software-training/",
+      "_key": "02808923a185ea2d0491d46f83fbce93",
+      "title": "Lithuanian AI startup Guideless raises €1M to streamline software training",
+      "originalTitle": "Lithuanian AI startup Guideless raises €1M to streamline software training",
+      "summary": "AI-powered software training andoperational knowledge platform Guideless has raised €1 million in pre-seedfunding to further develop its technology and expand internationally. The roundwas led by Supe...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/20/lithuanian-ai-startup-guideless-raises-eur1m-to-streamline-software-training/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/guideless-featured-583.png",
+      "publishedAt": "2026-08-20T08:00:00+00:00",
+      "score": 84,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
       ],
       "coverageCount": 1
     },
@@ -723,6 +1716,111 @@
       "coverageCount": 1
     },
     {
+      "id": "Tech.eu-https://tech.eu/2026/08/20/velatir-secures-eur5m-seed-funding-to-expand-its-ai-infrastructure-across-europe/",
+      "_key": "332d48fc168644dd8af88ecec7761982",
+      "title": "Velatir secures €5M seed funding to expand its AI infrastructure across Europe",
+      "originalTitle": "Velatir secures €5M seed funding to expand its AI infrastructure across Europe",
+      "summary": "DanishAI startup Velatir has raised €5 million in new funding to expand its AIinfrastructure platform across Europe and grow its team. The round was co-ledby new investor Spintop Ventures and existing...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/20/velatir-secures-eur5m-seed-funding-to-expand-its-ai-infrastructure-across-europe/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/velatir-featured-107.png",
+      "publishedAt": "2026-08-20T07:30:00+00:00",
+      "score": 81,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/citi-hsbc-stanchart-adopt-ant-internationals-forex-ai-tool/articleshow/133368594.cms",
+      "_key": "49df5d3a539eb5263b9294dd237d041a",
+      "title": "Citi, HSBC, StanChart adopt Ant International's forex AI tool",
+      "originalTitle": "Citi, HSBC, StanChart adopt Ant International's forex AI tool",
+      "summary": "The Singapore-based fintech ​giant rolled out its Falcon Time-Series Transformer Model ​2.0 and has partnered with six large banks including Citi, HSBC, Deutsche Bank, ​Standard Chartered, and ⁠Barclays, according ‌to Kelvin Li, the ​firm's general ​manager of platform tech.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/citi-hsbc-stanchart-adopt-ant-internationals-forex-ai-tool/articleshow/133368594.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133368594,imgsize-104964.cms",
+      "publishedAt": "2026-08-20T07:23:59+00:00",
+      "score": 39,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/uber-launches-autonomous-rides-in-zagreb-its-first-in-europe/articleshow/133368451.cms",
+      "_key": "3908e1e1e6ce21d41590fab6325e65e8",
+      "title": "Uber launches autonomous rides in Zagreb, its first in Europe",
+      "originalTitle": "Uber launches autonomous rides in Zagreb, its first in Europe",
+      "summary": "Currently, riders can book robotaxis ​in key areas in Zagreb, including the city center, ​with service availability and geographic coverage expected to expand over time, the companies ​said.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/uber-launches-autonomous-rides-in-zagreb-its-first-in-europe/articleshow/133368451.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133368451,imgsize-40184.cms",
+      "publishedAt": "2026-08-20T07:19:43+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/mark-zuckerberg-encouraged-growth-over-child-safety-ex-meta-executive-testifies-at-trial/articleshow/133368359.cms",
+      "_key": "309e1f24a5cef6c3053a835adc82684a",
+      "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial",
+      "originalTitle": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial",
+      "summary": "Arturo Bejar, a vocal critic of Meta's safety record, made the allegation during his second day of testimony in ​a landmark trial over claims brought by a coalition of states that could reshape Facebook and Instagram, some of the most popular apps on the planet.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/mark-zuckerberg-encouraged-growth-over-child-safety-ex-meta-executive-testifies-at-trial/articleshow/133368359.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133368359,imgsize-49162.cms",
+      "publishedAt": "2026-08-20T07:17:53+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/samsung-electroncis-to-announce-more-than-72-billion-shareholder-return-programme-media-reports/articleshow/133368008.cms",
+      "_key": "9a41265d76368e58a0cea446c0351f52",
+      "title": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media reports",
+      "originalTitle": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media reports",
+      "summary": "The South Korean memory-chip maker ​will hold a board meeting at the end of August to approve ​a shareholder return ⁠plan that includes ‌a special dividend, MoneyToday ​reported, ​citing unidentified people in the ⁠industry.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/samsung-electroncis-to-announce-more-than-72-billion-shareholder-return-programme-media-reports/articleshow/133368008.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133368008,imgsize-61684.cms",
+      "publishedAt": "2026-08-20T07:06:51+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/20/sair-durante-atestado-ou-gravar-trend-no-trabalho-pode-dar-justa-causa-entenda-os-limites.ghtml",
       "_key": "1ba93edcb09335ffda73605340210268",
       "title": "Sair durante atestado ou gravar trend no trabalho pode dar justa causa? Entenda os limites",
@@ -740,6 +1838,69 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/business/china-evs/article/3364636/hesai-rides-lidar-growth-smart-cars-gain-ground-despite-chinas-struggling-market?utm_source=rss_feed",
+      "_key": "17eb62eb775d7f3d6efdf570664d7256",
+      "title": "Hesai rides on lidar growth as smart cars gain ground despite China’s struggling market",
+      "originalTitle": "Hesai rides on lidar growth as smart cars gain ground despite China’s struggling market",
+      "summary": "Chinese carmakers’ reinforced push to produce more smart vehicles could sustain growth for hi-tech component suppliers, even as the broader automotive market remains lacklustre, according to Hesai Group chief financial officer Andrew Fan.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-evs/article/3364636/hesai-rides-lidar-growth-smart-cars-gain-ground-despite-chinas-struggling-market?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/6843838f-e8ab-452c-aaf8-285f661c05ec_af47ccc5.jpg?itok=rRLpxQ9l&v=1787198430",
+      "publishedAt": "2026-08-20T07:00:14+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/danish-ai-infrastructure-startup-velatir-secures-e5-million-six-months-after-its-pre-seed-round-and-official-launch/",
+      "_key": "85c51bc5b016e52b5dda21cc31d5459b",
+      "title": "Danish AI infrastructure startup Velatir secures €5 million six months after its pre-Seed round and official launch",
+      "originalTitle": "Danish AI infrastructure startup Velatir secures €5 million six months after its pre-Seed round and official launch",
+      "summary": "Velatir, an Odense-based AI infrastructure startup, today announced it has secured €5 million in new funding to “triple down” on its European expansion and “compete for the best talent” in the region.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/danish-ai-infrastructure-startup-velatir-secures-e5-million-six-months-after-its-pre-seed-round-and-official-launch/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-20T120323.372.jpg",
+      "publishedAt": "2026-08-20T06:35:44+00:00",
+      "score": 68,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/20/cherys-aimoga-robotics-begins-ipo-preparations-as-it-targets-overseas-markets/",
+      "_key": "627955c44608d7f3ac4b3644eb6cdc0f",
+      "title": "Chery’s AiMOGA Robotics begins IPO preparations as it targets overseas markets",
+      "originalTitle": "Chery’s AiMOGA Robotics begins IPO preparations as it targets overseas markets",
+      "summary": "Chery’s AiMOGA Robotics has started preparing for a potential standalone IPO and is in discussions over possible listing venues. The company has not announced a timetable or selected an exchange.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/20/cherys-aimoga-robotics-begins-ipo-preparations-as-it-targets-overseas-markets/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/Cherys-AiMOGA-Robotics.png?fit=1024%2C550&amp;ssl=1",
+      "publishedAt": "2026-08-20T06:24:55+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
       ],
       "coverageCount": 1
     },
@@ -765,6 +1926,48 @@
       "coverageCount": 1
     },
     {
+      "id": "TechNode-https://technode.com/2026/08/20/bytedance-reorganizes-seed-foundation-model-team-amid-reported-5-trillion-parameter-model-plans/",
+      "_key": "426eda52176fc5a4aa0cf56fb3edad32",
+      "title": "ByteDance reorganizes Seed foundation-model team amid reported 5 trillion-parameter model plans",
+      "originalTitle": "ByteDance reorganizes Seed foundation-model team amid reported 5 trillion-parameter model plans",
+      "summary": "ByteDance’s Seed foundation-model division has reportedly completed a new round of internal restructuring. Its foundation-model team has created four new first-level departments: Pretrain Data, Horizon RL, Product Posttrain-Work and Product Posttrain-Chat.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/20/bytedance-reorganizes-seed-foundation-model-team-amid-reported-5-trillion-parameter-model-plans/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/10/bytedance-0-cb0d883e8d2c1c45bafb93eb7cd64468.png?fit=1024%2C683&amp;ssl=1",
+      "publishedAt": "2026-08-20T06:15:26+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/20/yangtze-memory-clears-ipo-counseling-acceptance-moving-closer-to-a-shanghai-listing/",
+      "_key": "e9e5c1c9671da76ccc42565b31539a6c",
+      "title": "Yangtze Memory clears IPO counseling acceptance, moving closer to a Shanghai listing",
+      "originalTitle": "Yangtze Memory clears IPO counseling acceptance, moving closer to a Shanghai listing",
+      "summary": "Yangtze Memory has completed the IPO counseling acceptance process, clearing a key preparatory milestone for a potential Shanghai listing. The Chinese NAND flash memory maker completed its IPO counseling registration in May, and the latest status change was disclosed on Aug. 19.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/20/yangtze-memory-clears-ipo-counseling-acceptance-moving-closer-to-a-shanghai-listing/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/04/Yangtze.jpeg?fit=682%2C456&amp;ssl=1",
+      "publishedAt": "2026-08-20T06:07:36+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/carros/noticia/2026/08/20/propaganda-na-tela-do-carro.ghtml",
       "_key": "0c44f1ad93fb65dc4fd0f3828cf74625",
       "title": "Homem-Aranha na BMW abre discussão: montadoras podem colocar propaganda na tela do carro?",
@@ -786,6 +1989,69 @@
       "coverageCount": 1
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/tech/article/3364654/armed-funding-boost-spacesail-accelerates-chinas-push-rival-elon-musks-starlink?utm_source=rss_feed",
+      "_key": "5b781527ea4bcc239f1a84e631b1d192",
+      "title": "Armed with funding boost, SpaceSail accelerates China’s push to rival Elon Musk’s Starlink",
+      "originalTitle": "Armed with funding boost, SpaceSail accelerates China’s push to rival Elon Musk’s Starlink",
+      "summary": "In a record funding round for China’s satellite internet sector, domestic start-up SpaceSail has raised around 7 billion yuan (US$1 billion) to accelerate the buildout of a low-Earth-orbit (LEO) network designed to compete with Elon Musk’s Starlink project.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/article/3364654/armed-funding-boost-spacesail-accelerates-chinas-push-rival-elon-musks-starlink?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/e572d67a-62f9-417e-bc0a-7f60b1de6eaf_640c6bf5.jpg?itok=LRMTb_bZ&v=1787205139",
+      "publishedAt": "2026-08-20T06:00:29+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/20/kuaishous-kling-ai-revenue-tops-rmb850-million-in-q2-up-more-than-200/",
+      "_key": "e708379c8d201a5cb1a3ddae33ff75c6",
+      "title": "Kuaishou’s Kling AI revenue tops RMB850 million in Q2, up more than 200%",
+      "originalTitle": "Kuaishou’s Kling AI revenue tops RMB850 million in Q2, up more than 200%",
+      "summary": "Kuaishou’s Kling AI video-generation business generated more than RMB850 million in revenue during the second quarter, up more than 200% year on year and 30% from the previous quarter. Kling AI’s revenue reached RMB1.5 billion in the first half of the year.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/20/kuaishous-kling-ai-revenue-tops-rmb850-million-in-q2-up-more-than-200/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2022/09/%E4%B8%8B%E8%BC%89.png?fit=1024%2C675&amp;ssl=1",
+      "publishedAt": "2026-08-20T05:58:20+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-pay-60-of-employee-bonuses-in-company-stock-under-preliminary-deal/articleshow/133365805.cms",
+      "_key": "59dd55a31e2f31f48985ee19063b43ac",
+      "title": "SK Hynix to pay 60% of employee bonuses in company stock under preliminary deal",
+      "originalTitle": "SK Hynix to pay 60% of employee bonuses in company stock under preliminary deal",
+      "summary": "SK-HYNIX-SK Hynix to pay 60South Korean ​chipmaker ​SK Hynix has agreed ​to pay 60% of employee bonuses in shares and the ‌remaining ⁠40% in ⁠cash under a preliminary ​wage agreement, a person familiar with ​the matter told Reuters.% of employee bonuses in company stock under preliminary deal, says source",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-pay-60-of-employee-bonuses-in-company-stock-under-preliminary-deal/articleshow/133365805.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133365805,imgsize-62390.cms",
+      "publishedAt": "2026-08-20T05:50:56+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/20/fundador-da-evergrande-e-condenado-a-prisao-perpetua.ghtml",
       "_key": "630bf31cd4f7079e5c58a37ee260cce5",
       "title": "Fundador da Evergrande é condenado a prisão perpétua na China; penas de outros cinco executivos vão de 6 a 18 anos",
@@ -803,6 +2069,90 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/australia-secures-court-enforceable-child-safety-undertaking-from-roblox/articleshow/133365098.cms",
+      "_key": "b6ea1aa460f1bef3dca33c7cb42681b0",
+      "title": "Australia secures court-enforceable child safety undertaking from Roblox",
+      "originalTitle": "Australia secures court-enforceable child safety undertaking from Roblox",
+      "summary": "The agreement marks an incremental win for the eSafety Commissioner as ‌it seeks ⁠to use ⁠its enforcement powers to make online platforms comply with Australia's sweeping child-safety rules, ​including a landmark ban on social media for children under 16.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/australia-secures-court-enforceable-child-safety-undertaking-from-roblox/articleshow/133365098.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133365098,imgsize-71772.cms",
+      "publishedAt": "2026-08-20T05:15:53+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3364646/us-treasuries-drivers-seat-risky-ai-stocks-investors-grapple-elevated-yields?utm_source=rss_feed",
+      "_key": "918c3fde2fc83e86a8ae1e8df952354d",
+      "title": "US Treasuries in driver’s seat for risky AI stocks as investors grapple with elevated yields",
+      "originalTitle": "US Treasuries in driver’s seat for risky AI stocks as investors grapple with elevated yields",
+      "summary": "Stock traders in mainland China and Hong Kong are looking to the US bond market for clues on the sustainability of the artificial-intelligence trade after rising Treasury yields jolted global financial markets.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3364646/us-treasuries-drivers-seat-risky-ai-stocks-investors-grapple-elevated-yields?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/80506134-52a9-4284-aec5-69910fc065b9_253b911b.jpg?itok=NOrsEdFV&v=1787201759",
+      "publishedAt": "2026-08-20T05:00:38+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3364641/china-evergrande-founder-hui-ka-yan-sentenced-life-imprisonment?utm_source=rss_feed",
+      "_key": "2417a6005e2c4f4dfb7d17ba5f19fb21",
+      "title": "Saga of China Evergrande founder Hui Ka-yan ends with life sentence",
+      "originalTitle": "Saga of China Evergrande founder Hui Ka-yan ends with life sentence",
+      "summary": "A court in Shenzhen has sentenced China Evergrande Group founder and former chairman Hui Ka-yan to life imprisonment for “multiple combined crimes”, confiscating all of Hui’s personal property.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3364641/china-evergrande-founder-hui-ka-yan-sentenced-life-imprisonment?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/4ac5fece-1b99-49fa-a440-3703c8dd4f06_48960134.jpg?itok=PDHjbc8M&v=1787200057",
+      "publishedAt": "2026-08-20T04:27:39+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/banking-finance/article/3364629/hong-kong-sees-opportune-time-advancing-ipo-connect-scheme-ipo-queen-pamela-chung?utm_source=rss_feed",
+      "_key": "c2029d3fed704ea1e30d19373b2ff46c",
+      "title": "‘IPO queen’ Pamela Chung says time is ripe for listing connect scheme",
+      "originalTitle": "‘IPO queen’ Pamela Chung says time is ripe for listing connect scheme",
+      "summary": "Hong Kong is at an opportune time to move forward with a so-called IPO connect scheme, according to Pamela Chung Kong-hung, Vistra’s managing director and head of its IPO and share registry services, as the scheme would allow mainland investors access to initial public offerings in Hong Kong, enable better price discovery and expand the investor capital pool to better match the city’s large IPO pipeline.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/banking-finance/article/3364629/hong-kong-sees-opportune-time-advancing-ipo-connect-scheme-ipo-queen-pamela-chung?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/a5818f86-7aec-4406-ac40-299e69ad3de3_2a1aba31.jpg?itok=hrjwWbzl&v=1787194947",
+      "publishedAt": "2026-08-20T03:02:28+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
       ],
       "coverageCount": 1
     },
@@ -845,6 +2195,111 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/rescue-mission-for-aging-nasa-space-telescope-fails/articleshow/133362299.cms",
+      "_key": "a0a48e0d5f2d90079e3bf7e382e6ce77",
+      "title": "Rescue mission for aging NASA space telescope fails",
+      "originalTitle": "Rescue mission for aging NASA space telescope fails",
+      "summary": "Katalyst's LINK craft was launched in early July to approach the observatory, ‌also known ⁠as ⁠Swift, some 216 miles (347 km) in space, grapple onto it and then tug it to ​a higher orbit of roughly 373 miles (600 km), extending its life by years.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/rescue-mission-for-aging-nasa-space-telescope-fails/articleshow/133362299.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133362299,imgsize-53110.cms",
+      "publishedAt": "2026-08-20T02:41:06+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/technology/former-meta-engineer-says-instagram-took-a-dont-ask-dont-tell-approach-on-kids-under-13/articleshow/133362274.cms",
+      "_key": "39602e0f6129eb17d29152a3d9d43094",
+      "title": "Former Meta engineer says Instagram took a 'don't ask, don't tell' approach on kids under 13",
+      "originalTitle": "Former Meta engineer says Instagram took a 'don't ask, don't tell' approach on kids under 13",
+      "summary": "During his second day of testimony, Arturo Bejar said Meta consistently prioritized profits over safety in designing its products, focusing on how often and for how long people used them, even if it was detrimental to their mental well-being.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/technology/former-meta-engineer-says-instagram-took-a-dont-ask-dont-tell-approach-on-kids-under-13/articleshow/133362274.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133362274,imgsize-19038.cms",
+      "publishedAt": "2026-08-20T02:38:11+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "YourStory-https://yourstory.com/2026/08/fundamentals-first-arsh-goyal-warns-against-vibe-coding-without-security-basics-",
+      "_key": "977461f5f7e7867d9c3070d352575c1b",
+      "title": "Fundamentals first: Arsh Goyal warns against vibe coding without security basics",
+      "originalTitle": "Fundamentals first: Arsh Goyal warns against vibe coding without security basics",
+      "summary": "At DevSparks Hyderabad 2026, AI and engineering creator Arsh Goyal urged developers to look beyond flashy prototypes and focus on fundamentals that keep applications safe in production.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://yourstory.com/2026/08/fundamentals-first-arsh-goyal-warns-against-vibe-coding-without-security-basics-",
+      "source": "YourStory",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://images.yourstory.com/cs/2/94a03c40169611f0b4b0c5b62b4900c2/0W2A5862optimized5000-1787139940010.jpg",
+      "publishedAt": "2026-08-20T02:30:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "YourStory"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "ETtech-https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/the-economic-times-startup-awards-2026-nominees-for-woman-ahead-and-social-enterprise/articleshow/133361639.cms",
+      "_key": "28eee521b06bfc1d175f624f7fade656",
+      "title": "The Economic Times Startup Awards 2026: Nominees for Woman Ahead and Social Enterprise",
+      "originalTitle": "The Economic Times Startup Awards 2026: Nominees for Woman Ahead and Social Enterprise",
+      "summary": "Happy Thursday! The ETtech team has been preparing for the past few months to bring you the 12th edition of The Economic Times Startup Awards (ETSA). Today, we are unveiling the nominees for two more categories: Woman Ahead and Social Enterprise.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/the-economic-times-startup-awards-2026-nominees-for-woman-ahead-and-social-enterprise/articleshow/133361639.cms",
+      "source": "ETtech",
+      "region": "Internacional",
+      "country": "IN",
+      "image": "https://img.etimg.com/photo/msid-133361639,imgsize-78206.cms",
+      "publishedAt": "2026-08-20T02:02:29+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "ETtech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/banking-finance/article/3364569/chinas-mech-mind-robotics-set-open-order-book-us300m-ipo-sources-say?utm_source=rss_feed",
+      "_key": "a2ebb1a9ada7b33115352f08ab80714d",
+      "title": "China’s Mech-Mind Robotics set to open order book for US$300m IPO, sources say",
+      "originalTitle": "China’s Mech-Mind Robotics set to open order book for US$300m IPO, sources say",
+      "summary": "China’s Mech-Mind Robotics Technologies plans to start taking investor orders for its Hong Kong initial public offering (IPO) as soon as next week amid a boom in artificial intelligence-driven robotics that has lifted investor enthusiasm, according to people familiar with the matter.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/banking-finance/article/3364569/chinas-mech-mind-robotics-set-open-order-book-us300m-ipo-sources-say?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/b84f61b1-9ba7-4846-95a4-130bf215d5c1_dc932c27.jpg?itok=vkDBbh_O&v=1787132706",
+      "publishedAt": "2026-08-20T01:30:10+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
       ],
       "coverageCount": 1
     },
@@ -908,6 +2363,48 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+      "_key": "33ad33bce3cc51d0a55c0b08cfb2c95e",
+      "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
+      "originalTitle": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
+      "summary": "Another day, another new AI agent harness is released. Only this time, it&#x27;s one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents and tools, while reducing cost.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/Zu58wse6Ue2XSH7QjdasT/cab01dedb55805687b566c53a20fd64d/Carl_Franzen_graphic_novel_flat_illustration_in_dominant_purple_b9eee842-b613-4cb0-82b6-f0d39acd0d96.png?w=300&q=30",
+      "publishedAt": "2026-08-19T23:50:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/companies/article/3364620/aia-first-half-profit-11-driven-strong-growth-hong-kong-and-asia-sales?utm_source=rss_feed",
+      "_key": "3ec853deb561125d55900640e269e7c3",
+      "title": "Mainland Chinese investors still buying Hong Kong insurance policies after tax pivot: AIA",
+      "originalTitle": "Mainland Chinese investors still buying Hong Kong insurance policies after tax pivot: AIA",
+      "summary": "AIA Group, Asia’s largest independent, publicly listed life insurance group, says that Beijing’s recent pivot on policies and tax issues relating to offshore investment has not hurt the sales to mainland Chinese visitors in Hong Kong, with purchases steady from May to August, according to a senior executive.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/companies/article/3364620/aia-first-half-profit-11-driven-strong-growth-hong-kong-and-asia-sales?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/471e893d-5253-4b44-931f-f31027063659_dd2a63b2.jpg?itok=VRM-l5dq&v=1787213603",
+      "publishedAt": "2026-08-19T23:36:12+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
       ],
       "coverageCount": 1
     },
@@ -1311,6 +2808,27 @@
       "coverageCount": 1
     },
     {
+      "id": "TechCrunch Startups-https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "_key": "560e94842c52e525974b853a3cb2c67e",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "originalTitle": "Meet the startup helping Wall Street put a price on AI compute",
+      "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "source": "TechCrunch Startups",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
+      "publishedAt": "2026-08-19T17:26:48+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechCrunch Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/trabalho-e-carreira/noticia/2026/08/19/justica-casas-bahia-reverter-demissoes.ghtml",
       "_key": "88d2a06f9bfa531f3efd90a8243cde40",
       "title": "Justiça manda Casas Bahia reverter demissões; veja como ficam os funcionários",
@@ -1521,6 +3039,27 @@
       "coverageCount": 1
     },
     {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/turning-livestock-waste-into-renewable-energy-for-small-farms-uk-startup-economad-solutions-lands-e466k/",
+      "_key": "993fa1e5a6e1a5d08a630a9919b67af6",
+      "title": "Turning livestock waste into renewable energy for small farms, UK startup EcoNomad Solutions lands €466k",
+      "originalTitle": "Turning livestock waste into renewable energy for small farms, UK startup EcoNomad Solutions lands €466k",
+      "summary": "Harpenden-based AgriTech startup EcoNomad Solutions has received €466k (£400k) in new funding to help small livestock farms cut methane emissions, reduce rising energy and fertiliser costs, and turn organic waste into renewable energy.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/turning-livestock-waste-into-renewable-energy-for-small-farms-uk-startup-economad-solutions-lands-e466k/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/EcoNomad-Solutions.png",
+      "publishedAt": "2026-08-19T15:08:13+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/blendus-nomeia-danilo-candido-como-diretor-de-negocios/",
       "_key": "40e7f8429dc712bfc7aff5900b0ec704",
       "title": "Blendus nomeia Danilo Cândido como Diretor de Negócios",
@@ -1538,6 +3077,48 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/19/oakley-capital-takes-majority-stake-in-graphwise-in-one-of-bulgarias-largest-software-exits/",
+      "_key": "424e346e5a62bffa9fd4a5911cf47f2a",
+      "title": "Oakley Capital takes majority stake in Graphwise in one of Bulgaria’s largest software exits",
+      "originalTitle": "Oakley Capital takes majority stake in Graphwise in one of Bulgaria’s largest software exits",
+      "summary": "Private equity investor Oakley Capital has reached an agreement to acquire a majority stake in Graphwise, a key player in the enterprise AI data platforms market. The transaction represents one of th...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/19/oakley-capital-takes-majority-stake-in-graphwise-in-one-of-bulgarias-largest-software-exits/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-12-48.png",
+      "publishedAt": "2026-08-19T14:26:06+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "_key": "5630c6b89cf1b863682c328a98c15b3e",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "originalTitle": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
+      "publishedAt": "2026-08-19T14:18:12+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
       ],
       "coverageCount": 1
     },
@@ -1584,6 +3165,27 @@
       "coverageCount": 1
     },
     {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/a-year-after-their-last-raise-germanys-flip-raises-e22-million-to-scale-its-frontline-ai-platform/",
+      "_key": "37414429b6e2a6d4fcb042f33940918c",
+      "title": "A year after their last raise, Germany’s Flip raises €22 million to scale its frontline AI platform",
+      "originalTitle": "A year after their last raise, Germany’s Flip raises €22 million to scale its frontline AI platform",
+      "summary": "Flip, a Stuttgart-based employee experience platform for frontline workers, has raised €22 million (£19 million) in order to fund AI infrastructure and knowledge development for deskless roles.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/a-year-after-their-last-raise-germanys-flip-raises-e22-million-to-scale-its-frontline-ai-platform/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Flip.png",
+      "publishedAt": "2026-08-19T14:00:16+00:00",
+      "score": 57,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/minhas-financas/score-de-credito-no-sudeste-cai-em-meio-a-juro-e-inadimplencia-altos/",
       "_key": "09ab9c6d8a316793cc1ce5be078da895",
       "title": "Score de crédito no Sudeste cai em meio a juro e inadimplência altos",
@@ -1622,6 +3224,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/19/economad-raises-ps400k-to-bring-waste-to-energy-tech-to-small-livestock-farms/",
+      "_key": "fd481e710bc0d210e90afbbb1d76f87a",
+      "title": "EcoNomad raises £400K to bring waste-to-energy tech to small livestock farms",
+      "originalTitle": "EcoNomad raises £400K to bring waste-to-energy tech to small livestock farms",
+      "summary": "UK‑based startup EcoNomad Solutions has received £230,000 in funding from the British Design Fund (BDF) to help small livestock farms cut methane emissions, reduce rising energy and fertiliser costs, ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/19/economad-raises-ps400k-to-bring-waste-to-energy-tech-to-small-livestock-farms/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-11-931.png",
+      "publishedAt": "2026-08-19T13:52:51+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
       ],
       "coverageCount": 1
     },
@@ -1689,6 +3312,48 @@
       "coverageCount": 1
     },
     {
+      "id": "Tech.eu-https://tech.eu/2026/08/19/nebius-looks-to-raise-45bn-through-bond-issue/",
+      "_key": "5009dc0d66a48b7a8559c8a59168be0e",
+      "title": "Nebius looks to raise $4.5BN through bond issue",
+      "originalTitle": "Nebius looks to raise $4.5BN through bond issue",
+      "summary": "Nebius, the Amsterdam-based AI infrastructure provider, is looking to raise $4.5bn through convertible notes, it said today, as it looks to finance the sizeable cost of compute and data centre build-o...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/19/nebius-looks-to-raise-45bn-through-bond-issue/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2025/12/nebius-845.png",
+      "publishedAt": "2026-08-19T13:40:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/blockchain/article/3364593/shanghai-lays-out-plan-boost-digital-economy-catch-beijing-shenzhen?utm_source=rss_feed",
+      "_key": "8b1d06a491024142dbb335ca1905a386",
+      "title": "Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen",
+      "originalTitle": "Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen",
+      "summary": "Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and Shenzhen.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/blockchain/article/3364593/shanghai-lays-out-plan-boost-digital-economy-catch-beijing-shenzhen?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/ffd63d64-b090-4ed9-81be-6bb2f42214b7_b55efde9.jpg?itok=195erczp&v=1787143760",
+      "publishedAt": "2026-08-19T13:30:09+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startupi-https://startupi.com.br/golpe-do-desenrola-mostra-como-criminosos-usam-dados-reais-para-enganar-vitimas-pelo-pix/",
       "_key": "cc4e732ff32ed78cf099a47e5d5dfdde",
       "title": "Golpe do Desenrola mostra como criminosos usam dados reais para enganar vítimas pelo Pix",
@@ -1706,6 +3371,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/article/3364587/making-better-robots-depends-better-data-capture-chinese-firm-51world-says?utm_source=rss_feed",
+      "_key": "fc8b6c58750743ecfb6b2696fadf8dc7",
+      "title": "Making better robots depends on better data capture, Chinese firm 51World says",
+      "originalTitle": "Making better robots depends on better data capture, Chinese firm 51World says",
+      "summary": "The race to develop intelligent humanoid robots faces a major roadblock in a severe shortage of high-quality training data, but Beijing-based tech company 51World believes it has the tools to break the bottleneck.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/article/3364587/making-better-robots-depends-better-data-capture-chinese-firm-51world-says?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/1a589133-d961-4f11-93c6-df6aab4b98ac_75f8eb9c.jpg?itok=b7zV-5YW&v=1787139991",
+      "publishedAt": "2026-08-19T12:30:06+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -1731,6 +3417,132 @@
       "coverageCount": 1
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture?utm_source=rss_feed",
+      "_key": "d3b1d4abafd965bcb3ae4ab62a48fbbe",
+      "title": "From spectacle to scale: why China’s robotics firms face a ‘critical juncture’",
+      "originalTitle": "From spectacle to scale: why China’s robotics firms face a ‘critical juncture’",
+      "summary": "At China’s annual World Robot Conference (WRC) that kicked off on Wednesday, the hall was filled with humanoid robots wowing visitors with feats of dexterity: from playing table tennis to performing drum solos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/4612391d-a096-4d1e-b248-9473b84d82c6_62d97be2.jpg?itok=aq5Tt3gz&v=1787138495",
+      "publishedAt": "2026-08-19T12:00:10+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/19/prevalent-ai-secures-22m-growth-investment-to-scale-enterprise-ai-platform/",
+      "_key": "ae1dafbaa1d5ff13b5e04280b9e46bf5",
+      "title": "Prevalent AI secures $22M growth investment to scale enterprise AI platform",
+      "originalTitle": "Prevalent AI secures $22M growth investment to scale enterprise AI platform",
+      "summary": "Enterprise AI company Prevalent AI has secured a $22million growth investment from Los Angeles-based Integrity Growth Partners(IGP), marking the first primary capital raised by the company since itsfo...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/19/prevalent-ai-secures-22m-growth-investment-to-scale-enterprise-ai-platform/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/prevalent-featured-646.png",
+      "publishedAt": "2026-08-19T12:00:00+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/19/deepl-strikes-deal-with-us-legal-ai-startup-harvey/",
+      "_key": "50353225ce7be54b14f6e55e606ab8c5",
+      "title": "DeepL strikes deal with US legal AI startup Harvey",
+      "originalTitle": "DeepL strikes deal with US legal AI startup Harvey",
+      "summary": "DeepL has struck a deal with US AI startup Harvey to carry out legal document translation, as it looks to push further into heavily regulated industries. DeepL, valued at $2bn in 2024, said the deal w...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/19/deepl-strikes-deal-with-us-legal-ai-startup-harvey/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/06/deepl-936-466.png",
+      "publishedAt": "2026-08-19T12:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "EU-Startups-https://www.eu-startups.com/2026/08/scotlands-singular-photonics-secures-e1-85-million-to-scale-spad-image-sensors-with-on-chip-computing/",
+      "_key": "24f9919503e3925dc363ad7a7b0bfa57",
+      "title": "Scotland’s Singular Photonics secures €1.85 million to scale SPAD image sensors with on-chip computing",
+      "originalTitle": "Scotland’s Singular Photonics secures €1.85 million to scale SPAD image sensors with on-chip computing",
+      "summary": "Singular Photonics, an Edinburgh-based fabless semiconductor company developing SPAD (single photon avalanche diode) image sensors with on-chip computation, has closed an oversubscribed €1.85 million ($2.15 million) funding round.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.eu-startups.com/2026/08/scotlands-singular-photonics-secures-e1-85-million-to-scale-spad-image-sensors-with-on-chip-computing/",
+      "source": "EU-Startups",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://www.eu-startups.com/wp-content/uploads/2026/08/Untitled-design-2026-08-19T171022.304.jpg",
+      "publishedAt": "2026-08-19T11:17:47+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "EU-Startups"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/ma/company-board-selling-considerations-sagie/",
+      "_key": "62aca3dbcaa742e6cfd1a4de9292dfbc",
+      "title": "When Should A Board Consider Selling A Company?",
+      "originalTitle": "When Should A Board Consider Selling A Company?",
+      "summary": "The best boards continuously evaluate selling alongside scaling, pivoting, or staying independent, especially when the company is thriving, founder priorities are shifting, or strategic buyers begin showing interest, argues tech strategic adviser Itay Sagie.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/ma/company-board-selling-considerations-sagie/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/money-kites-1024x576.jpg",
+      "publishedAt": "2026-08-19T11:00:25+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/venture/unicorn-investors-ai-robotics-2026-sequoia-khosla/",
+      "_key": "609427fc68a1c6348fc210783cb69259",
+      "title": "Which Investors Have Backed The Most 2026 Unicorns?",
+      "originalTitle": "Which Investors Have Backed The Most 2026 Unicorns?",
+      "summary": "So far this year, 250 companies have joined the unicorn ranks through Aug. 15, up from 2025's 193 companies. Leading sectors included robotics, AI labs, healthcare and biotech, financial services, AI infrastructure, and AI deployment, among others.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/venture/unicorn-investors-ai-robotics-2026-sequoia-khosla/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Unicorn_Money_v3.jpg",
+      "publishedAt": "2026-08-19T11:00:06+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startups.com.br-https://startups.com.br/negocios/toyota-mobility-foundation-escolhe-sao-carlos-para-hub-de-mobilidade-ativa/",
       "_key": "8819431c1b2ee2b322fd0202191853c7",
       "title": "Toyota Mobility Foundation escolhe São Carlos para hub de mobilidade ativa",
@@ -1748,6 +3560,48 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/19/flip-raises-25m-to-expand-ai-platform-for-frontline-workers/",
+      "_key": "082a1992e4820bffcd46e9b369a53a59",
+      "title": "Flip raises $25M to expand AI platform for frontline workers",
+      "originalTitle": "Flip raises $25M to expand AI platform for frontline workers",
+      "summary": "Employee experience platform Flip hasraised $25 million in new funding to expand its AI-powered technology forfrontline workers. Existing investors Notion Capital and HV Capital increasedtheir stakes ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/19/flip-raises-25m-to-expand-ai-platform-for-frontline-workers/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/flip-featured-728.png",
+      "publishedAt": "2026-08-19T10:00:00+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/19/beyond-ai-scribes-aisel-raises-eur17m-to-tackle-psychiatrys-capacity-crisis/",
+      "_key": "fad2550d9969bb9c8a3624c2968dceac",
+      "title": "Beyond AI scribes: Aisel raises €1.7M to tackle psychiatry’s capacity crisis",
+      "originalTitle": "Beyond AI scribes: Aisel raises €1.7M to tackle psychiatry’s capacity crisis",
+      "summary": "Aisel Health, the Danish HealthTech company building an Operating System (OS) purpose-built for psychiatry and mental health, today announced it has closed a €1.7 million pre-seed round. The round was...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/19/beyond-ai-scribes-aisel-raises-eur17m-to-tackle-psychiatrys-capacity-crisis/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-10-39.png",
+      "publishedAt": "2026-08-19T09:57:06+00:00",
+      "score": 63,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
       ],
       "coverageCount": 1
     },
@@ -1857,6 +3711,48 @@
       "coverageCount": 1
     },
     {
+      "id": "TechNode-https://technode.com/2026/08/19/from-smart-cockpits-to-ai-native-cars-banma-intelligence-eyes-the-next-wave-of-automotive-software/",
+      "_key": "b2793e93c7e074f429d044e8a48f0700",
+      "title": "From smart cockpits to AI-native cars, Banma Intelligence eyes the next wave of automotive software",
+      "originalTitle": "From smart cockpits to AI-native cars, Banma Intelligence eyes the next wave of automotive software",
+      "summary": "As large AI models accelerate their integration into vehicles, the competitive dynamics of intelligent cars are changing. In the past, smart cockpits largely focused on voice assistants, in-car applications, and multimedia services.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/19/from-smart-cockpits-to-ai-native-cars-banma-intelligence-eyes-the-next-wave-of-automotive-software/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/banma-1.png?fit=1024%2C692&amp;ssl=1",
+      "publishedAt": "2026-08-19T08:52:09+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Business-https://www.scmp.com/business/markets/article/3364550/china-fund-managers-stick-ai-chips-august-despite-july-sell-survey-finds?utm_source=rss_feed",
+      "_key": "a369277dd7c4afbddcd471cdfc8ec831",
+      "title": "China fund managers stick with AI, chips in August despite July sell-off, survey finds",
+      "originalTitle": "China fund managers stick with AI, chips in August despite July sell-off, survey finds",
+      "summary": "Despite July’s sharp sell-off in global semiconductor shares, driven by concerns over AI-linked profitability, artificial intelligence and chips remained China’s most preferred investment themes in August, while more investors moved to hedge tech exposure, according to a survey by BofA Global Research.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/markets/article/3364550/china-fund-managers-stick-ai-chips-august-despite-july-sell-survey-finds?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/98c06554-80fb-4fa2-aaf0-0945e44c9773_7176b2a6.jpg?itok=Wvs5iQLl&v=1787127234",
+      "publishedAt": "2026-08-19T08:13:55+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/19/crise-do-varejo-por-que-algumas-gigantes-estao-em-crise-e-outras-seguem-crescendo.ghtml",
       "_key": "4b21303cd2778041112f6120de56747b",
       "title": "Crise do varejo? Por que algumas gigantes estão em crise e outras seguem crescendo",
@@ -1874,6 +3770,48 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/19/medly-ai-raises-8m-to-bring-ai-powered-tutoring-to-more-students/",
+      "_key": "97aa18e6752c1fffa94927e858c56d8e",
+      "title": "Medly AI raises $8M to bring AI-powered tutoring to more students",
+      "originalTitle": "Medly AI raises $8M to bring AI-powered tutoring to more students",
+      "summary": "UK edtech startup Medly AI has raised$8 million in seed funding to expand its AI-powered exam preparation platformin the UK and international markets. The round was led by Felix Capital, withparticipa...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/19/medly-ai-raises-8m-to-bring-ai-powered-tutoring-to-more-students/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/medly-featured-667.png",
+      "publishedAt": "2026-08-19T08:00:00+00:00",
+      "score": 84,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/19/singular-photonics-lands-215m-to-develop-next-generation-image-sensors/",
+      "_key": "74942e777b1e3e3e1d96dc741a59b2de",
+      "title": "Singular Photonics lands $2.15M to develop next-generation image sensors",
+      "originalTitle": "Singular Photonics lands $2.15M to develop next-generation image sensors",
+      "summary": "Edinburgh-basedsemiconductor company Singular Photonics has raised $2.15 million in anoversubscribed funding round to accelerate the development of its nextgeneration of SPAD-based image sensors. The ...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/19/singular-photonics-lands-215m-to-develop-next-generation-image-sensors/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/singularphotonics-featured-199.png",
+      "publishedAt": "2026-08-19T08:00:00+00:00",
+      "score": 54,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
       ],
       "coverageCount": 1
     },
@@ -1920,6 +3858,174 @@
       "coverageCount": 1
     },
     {
+      "id": "SCMP Business-https://www.scmp.com/business/china-business/article/3364522/chinese-robotaxi-firms-see-eased-regulatory-bottleneck-europe-deployment-picks?utm_source=rss_feed",
+      "_key": "836073f423684391f019f57c245585df",
+      "title": "Chinese robotaxi firms see eased regulatory bottleneck in Europe as deployment picks up",
+      "originalTitle": "Chinese robotaxi firms see eased regulatory bottleneck in Europe as deployment picks up",
+      "summary": "The business environment for Chinese robotaxi operators in Europe has become more open over the past year, which would help Chinese firms to commercialise their self-driving technology worldwide, according to Pony AI founder and CEO James Peng.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3364522/chinese-robotaxi-firms-see-eased-regulatory-bottleneck-europe-deployment-picks?utm_source=rss_feed",
+      "source": "SCMP Business",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/9f9a0192-b73e-4c8d-b50c-fc6385e5af38_a4aeaf31.jpg?itok=OvLuaKoU&v=1787124145",
+      "publishedAt": "2026-08-19T06:39:59+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Business"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/19/yuanxin-satellite-reportedly-raises-nearly-rmb7-billion-at-rmb50-billion-valuation/",
+      "_key": "7e47ada4252fd15ae66a8f58b17a82be",
+      "title": "Yuanxin Satellite reportedly raises nearly RMB7 billion at RMB50 billion valuation",
+      "originalTitle": "Yuanxin Satellite reportedly raises nearly RMB7 billion at RMB50 billion valuation",
+      "summary": "Yuanxin Satellite has reportedly completed a financing round worth nearly RMB7 billion at a valuation of about RMB50 billion, according to Caixin&#8217;s report. The reported valuation is below the company&#8217;s earlier target of up to RMB75 billion.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/19/yuanxin-satellite-reportedly-raises-nearly-rmb7-billion-at-rmb50-billion-valuation/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/yuanxin.png?fit=815%2C535&amp;ssl=1",
+      "publishedAt": "2026-08-19T06:23:49+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/19/xiaomi-robot-set-for-public-debut-at-2026-world-robot-conference/",
+      "_key": "a8b990789278d7da4b105acd8a845f68",
+      "title": "Xiaomi robot set for public debut at 2026 World Robot Conference",
+      "originalTitle": "Xiaomi robot set for public debut at 2026 World Robot Conference",
+      "summary": "Xiaomi&#8217;s robot will make its first public appearance at the 2026 World Robot Conference, Xiaomi President Lu Weibing said in the earnings-call report. The conference is scheduled to run from Aug. 19 to Aug. 23, according to the Beijing government&#8217;s event information.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/19/xiaomi-robot-set-for-public-debut-at-2026-world-robot-conference/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/Xiaomi-logo-on-its-office.png?fit=607%2C287&amp;ssl=1",
+      "publishedAt": "2026-08-19T06:16:41+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/19/landspace-lands-zhuque-3-booster-in-a-reusable-rocket-milestone/",
+      "_key": "085bf27702e5acce95cc7e4410d4fd0f",
+      "title": "LandSpace lands ZhuQue-3 booster in a reusable-rocket milestone",
+      "originalTitle": "LandSpace lands ZhuQue-3 booster in a reusable-rocket milestone",
+      "summary": "LandSpace&#8217;s ZhuQue-3 Y2 reached orbit and successfully landed its first-stage booster after launching on Aug. 19. The company confirmed the recovery in a post from its official account. It was LandSpace&#8217;s second attempt to recover a ZhuQue-3 booster.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/19/landspace-lands-zhuque-3-booster-in-a-reusable-rocket-milestone/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/landspace.png?fit=979%2C529&amp;ssl=1",
+      "publishedAt": "2026-08-19T06:10:19+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/19/alibaba-cloud-adds-a-third-data-center-in-south-korea/",
+      "_key": "dff863cbb3c6e58e75cbbdde7c5598f8",
+      "title": "Alibaba Cloud adds a third data center in South Korea",
+      "originalTitle": "Alibaba Cloud adds a third data center in South Korea",
+      "summary": "Alibaba Cloud has brought its third data center in South Korea online, adding enterprise cloud services and six Agentic AI services for local customers, according to the announcement.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/19/alibaba-cloud-adds-a-third-data-center-in-south-korea/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/03/%E9%98%BF%E9%87%8C%E4%BA%91.jpg?fit=600%2C600&amp;ssl=1",
+      "publishedAt": "2026-08-19T06:02:43+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/19/tencent-cloud-plans-first-malaysian-cloud-region-in-johor/",
+      "_key": "0330aad853a1c820b3acf929579d6b5c",
+      "title": "Tencent Cloud plans first Malaysian cloud region in Johor",
+      "originalTitle": "Tencent Cloud plans first Malaysian cloud region in Johor",
+      "summary": "Tencent Cloud plans to establish its first cloud region in Malaysia&#8217;s Johor state, with three availability zones planned for the initial phase, according to the company announcement.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/19/tencent-cloud-plans-first-malaysian-cloud-region-in-johor/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2023/08/164922843_l_normal_none-scaled.jpg?fit=1024%2C683&amp;ssl=1",
+      "publishedAt": "2026-08-19T05:42:29+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/19/unitree-debuts-in-shanghai-at-a-market-value-of-about-rmb445-billion/",
+      "_key": "8dd6c3668f71f892fae597ac8b2c099b",
+      "title": "Unitree debuts in Shanghai at a market value of about RMB445 billion",
+      "originalTitle": "Unitree debuts in Shanghai at a market value of about RMB445 billion",
+      "summary": "Unitree began trading on Shanghai&#8217;s STAR Market on Aug. 19. The company&#8217;s shares opened at RMB1,100, up 629.44% from the IPO price of RMB150.80, giving Unitree a market value of about RMB444.9 billion, according to the listing data.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/19/unitree-debuts-in-shanghai-at-a-market-value-of-about-rmb445-billion/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/05/unitree-scaled.png?fit=1024%2C576&amp;ssl=1",
+      "publishedAt": "2026-08-19T05:39:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/19/xiaomi-says-its-next-generation-self-developed-chip-is-nearing-release/",
+      "_key": "976723a38bd97b93f9dd7144f56e01f7",
+      "title": "Xiaomi says its next-generation self-developed chip is nearing release",
+      "originalTitle": "Xiaomi says its next-generation self-developed chip is nearing release",
+      "summary": "Xiaomi CEO Lei Jun announced that the company&#8217;s next-generation self-developed chip is nearing release. He did not disclose a launch date, product name or technical specifications in the announcement.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/19/xiaomi-says-its-next-generation-self-developed-chip-is-nearing-release/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2025/10/xiaomi-factory.png?fit=1024%2C506&amp;ssl=1",
+      "publishedAt": "2026-08-19T05:34:45+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Brazil Journal-https://braziljournal.com/byd-passa-a-vender-kits-de-energia-solar-em-suas-concessionarias/",
       "_key": "b85b41c57879e40574e07a973607dd3d",
       "title": "BYD passa a vender kits de energia solar em suas concessionárias",
@@ -1958,6 +4064,90 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/business/china-business/article/3364508/hong-kong-gold-exchange-taps-tech-strength-joint-venture-power-gold-settlement?utm_source=rss_feed",
+      "_key": "cad68b905a9441d27e0f2438ade86855",
+      "title": "Hong Kong Gold Exchange taps tech strength in joint venture to power gold settlement",
+      "originalTitle": "Hong Kong Gold Exchange taps tech strength in joint venture to power gold settlement",
+      "summary": "The Hong Kong Gold Exchange (HKGX) and TGX Technology have launched a joint venture to build a “secure, stable and internationally competitive” gold trading and clearing platform, as the city pushes to become a gold trading hub.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-business/article/3364508/hong-kong-gold-exchange-taps-tech-strength-joint-venture-power-gold-settlement?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/5f6bfef8-afa2-450b-9095-1e0ee986809b_a0274eaa.jpg?itok=EdYRqJKC&v=1787110131",
+      "publishedAt": "2026-08-19T03:28:54+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
+      "_key": "a8b68d6e55467699da02be58ef0671c3",
+      "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
+      "originalTitle": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
+      "summary": "After a stunning debut last week with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3, the new frontier open source language model from Chinese startup z.ai, has now hit the application programming interface (API) — allowing developers the ability to build atop it and plug it into their agents and applications.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/16anNQpfgOFlIDLBYTmOtA/ab9d2c337e6fc6333fb7f26efb1693cd/ChatGPT_Image_Aug_18__2026__09_59_34_PM.png?w=300&q=30",
+      "publishedAt": "2026-08-19T02:00:00+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut?utm_source=rss_feed",
+      "_key": "4ccff976de78a5b22cc4f950df47cfd8",
+      "title": "Unitree Robotics surges 629% to US$66 billion valuation in Shanghai share debut",
+      "originalTitle": "Unitree Robotics surges 629% to US$66 billion valuation in Shanghai share debut",
+      "summary": "Shares of Unitree Robotics surged 629 per cent above their initial public offering price to open at 1,100 yuan in their Shanghai trading debut on Wednesday, giving China’s best-known humanoid robot maker a market capitalisation of about 445 billion yuan (US$66 billion).",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/a1a2f383-9c72-4fd5-ae2b-1ffb2911655f_bdd440ae.jpg?itok=a7D2AOEn&v=1787104657",
+      "publishedAt": "2026-08-19T01:57:38+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "VentureBeat-https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+      "_key": "04db826463de8b049d652301efbc0aed",
+      "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
+      "originalTitle": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
+      "summary": "Block , the technology company founded by former Twitter CEO Jack Dorsey that owns Square, Cash App and the music streaming service Tidal, is open-sourcing Berd , a desktop application it originally built to give its own employees a single environment for working with AI agents across different models, tools and projects.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5snXmmN8j5fhxpsVoMmT27/02e45a6299b8eb4f58ae6f178d4dbd55/ChatGPT_Image_Aug_18__2026__07_16_56_PM.png?w=300&q=30",
+      "publishedAt": "2026-08-18T23:23:22+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
       ],
       "coverageCount": 1
     },
@@ -2319,6 +4509,27 @@
       "coverageCount": 1
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/news/world/united-states-canada/article/3364482/meta-accused-targeting-children-boost-facebook-and-instagram-use-us-trial-begins?utm_source=rss_feed",
+      "_key": "0af5bb00c59ef1f4dcecbf07188db7ce",
+      "title": "Meta accused of targeting children to boost Facebook and Instagram use, as US trial begins",
+      "originalTitle": "Meta accused of targeting children to boost Facebook and Instagram use, as US trial begins",
+      "summary": "Meta Platforms intentionally sought to ⁠addict children to its Facebook and Instagram platforms, a lawyer for California said on Tuesday at the start of a trial that could reshape some of the most popular apps on the planet.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3364482/meta-accused-targeting-children-boost-facebook-and-instagram-use-us-trial-begins?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/8f385e93-c9f9-48b2-9118-000435757170_a3306b2f.jpg?itok=BMBd8Fr8&v=1787083678",
+      "publishedAt": "2026-08-18T18:12:21+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startupi-https://startupi.com.br/neospace-negocia-rodada-de-ate-us-250-milhoes/",
       "_key": "8731a4b7b41855f39dc670ea7637420f",
       "title": "Neospace negocia rodada de até US$ 250 milhões",
@@ -2445,6 +4656,27 @@
       "coverageCount": 1
     },
     {
+      "id": "VentureBeat-https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
+      "_key": "7d629ff6bd872ed905edc0a8145010bb",
+      "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
+      "originalTitle": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
+      "summary": "Enterprises that already got burned by an AI agent passing its evals and then failing in production are moving faster toward removing humans from deployment decisions, not slower — even as trust in automated evaluation is rising across the board, new VB Pulse research shows .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
+      "source": "VentureBeat",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4SgXUYzHiyxkbOaJ4IzQsD/e241188ade4753ec20b014140fde3656/Carl_Franzen_minimalist_flat_retromodern_expressionist_simple_s_e483f3e4-ed45-45e5-9b15-37c175cd7b87.png?w=300&q=30",
+      "publishedAt": "2026-08-18T15:35:16+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "VentureBeat"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/brasil/bancarios-aprovam-paralisacao-nacional-de-24-horas-na-5a-feira/",
       "_key": "cd1a1e010f57c18458396eb8d42ae98f",
       "title": "Bancários aprovam paralisação nacional de 24 horas na 5ª feira",
@@ -2550,6 +4782,27 @@
       "coverageCount": 1
     },
     {
+      "id": "Tech.eu-https://tech.eu/2026/08/18/bootstrapped-and-profitable-taimi-and-hily-set-their-sights-on-ipo-readiness/",
+      "_key": "32c6933510c7367134de1311e02dd0b5",
+      "title": "Bootstrapped and profitable: Taimi and Hily set their sights on IPO readiness",
+      "originalTitle": "Bootstrapped and profitable: Taimi and Hily set their sights on IPO readiness",
+      "summary": "Jake Vygnan and his fellow Kyiv co-founders made an unusual bet when they moved into mobile dating: rather than build one app, they built two in 2017.Taimi is a dating app launched by appflame in 201...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/18/bootstrapped-and-profitable-taimi-and-hily-set-their-sights-on-ipo-readiness/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-4-263.png",
+      "publishedAt": "2026-08-18T14:08:00+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18082026/",
       "_key": "b7f220e78cba2a21b794bb9c04b1575f",
       "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe e volta aos 168 mil após 10 sessões de quedas",
@@ -2567,6 +4820,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3364380/meet-chinese-ai-star-who-splashed-reported-us70m-california-mansion?utm_source=rss_feed",
+      "_key": "2c66b68cfdbf006a6e6b846214617433",
+      "title": "Meet the Chinese AI star who splashed a reported US$70m on a California mansion",
+      "originalTitle": "Meet the Chinese AI star who splashed a reported US$70m on a California mansion",
+      "summary": "Tony Wu Yuhuai, the China-born co-founder of Elon Musk’s artificial intelligence lab, sparked discussions across Chinese social media after reportedly spending US$70 million on a six-bedroom Californian mega-mansion.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3364380/meet-chinese-ai-star-who-splashed-reported-us70m-california-mansion?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/fe5d3e49-7b5b-4858-a1c2-5f58d72902f7_ac1fbe15.jpg?itok=yebJc8Sq&v=1787065252",
+      "publishedAt": "2026-08-18T14:00:05+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -2697,6 +4971,69 @@
       "coverageCount": 1
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3364425/nokia-close-almost-all-sites-mainland-china-year-end-sources-say?utm_source=rss_feed",
+      "_key": "72096d0131ba1821b810b9266d0becef",
+      "title": "Nokia to close almost all sites in mainland China by year end, sources say",
+      "originalTitle": "Nokia to close almost all sites in mainland China by year end, sources say",
+      "summary": "Finnish telecoms equipment giant Nokia plans to cut most of its workforce in mainland China and close sites in stages by year end, marking a sweeping retreat after more than four decades as it loses ground to domestic rivals, according to sources familiar with the situation.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3364425/nokia-close-almost-all-sites-mainland-china-year-end-sources-say?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/3b76a811-837b-49d4-9b48-15e3cd8cb2cf_dc140d8d.jpg?itok=67pd9gk-&v=1787043439",
+      "publishedAt": "2026-08-18T13:00:06+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Tech.eu-https://tech.eu/2026/08/18/computomics-raises-eur63m-to-scale-climate-smart-plant-breeding/",
+      "_key": "d6be7e1d62a7d03a8069dfa39c6a20c1",
+      "title": "Computomics raises €6.3M to scale climate-smart plant breeding",
+      "originalTitle": "Computomics raises €6.3M to scale climate-smart plant breeding",
+      "summary": "Germanagritech company Computomics has raised €6.3 million in Series B funding toscale the commercial deployment of its climate-smart breeding platform. Theround was led by Convent Capital Agri Food F...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/18/computomics-raises-eur63m-to-scale-climate-smart-plant-breeding/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/computomics-featured-619.png",
+      "publishedAt": "2026-08-18T12:30:00+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/business/china-evs/article/3364458/xiaomi-no-rush-turn-vast-ai-spending-profits-despite-earnings-slump?utm_source=rss_feed",
+      "_key": "070af118383e8a921a1dd99e27dbdbc8",
+      "title": "Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump",
+      "originalTitle": "Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump",
+      "summary": "Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second quarter amid intense competition and cost inflation.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/business/china-evs/article/3364458/xiaomi-no-rush-turn-vast-ai-spending-profits-despite-earnings-slump?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/98781497-3f22-4e43-85b8-4f29ea4d77f8_3beabc82.jpg?itok=26gkIxoT&v=1787055685",
+      "publishedAt": "2026-08-18T12:21:27+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Startups.com.br-https://startups.com.br/la-fora/startup-levanta-us-24m-e-atrai-a16z-para-ser-o-dropbox-que-deu-certo/",
       "_key": "b5226b5e648e2bca2b325b9f635f2743",
       "title": "Startup levanta US$ 2,4M e atrai a16z para ser o “Dropbox que deu certo”",
@@ -2739,6 +5076,27 @@
       "coverageCount": 1
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3364404/alibabas-lightweight-qwen-model-takes-larger-ai-systems-openai-deepseek-zhipu?utm_source=rss_feed",
+      "_key": "734d7aeea522e645a8331549dc437a9c",
+      "title": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu",
+      "originalTitle": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu",
+      "summary": "Alibaba Group Holding’s new lightweight AI model Qwen3.8-27B has matched much larger near-frontier rivals while being able to run on everyday hardware, impressing developers as local AI gains momentum.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364404/alibabas-lightweight-qwen-model-takes-larger-ai-systems-openai-deepseek-zhipu?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/84a630f9-de24-4ec6-96e0-6025c5b846df_fcffa6e4.jpg?itok=Joui-SrC&v=1787037283",
+      "publishedAt": "2026-08-18T12:00:05+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Brazil Journal-https://braziljournal.com/citi-inicia-banco-mercantil-com-buy-ve-combinacao-rara/",
       "_key": "808a6300f8716bd98d8b63af5c27c260",
       "title": "Citi inicia Banco Mercantil com ‘buy’, o ‘banco dos clientes 50+’",
@@ -2756,6 +5114,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
+      "_key": "46a025337604bda52a91034bab0e0bfd",
+      "title": "VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape",
+      "originalTitle": "VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape",
+      "summary": "In the first half of 2026, global venture funding in the physical AI space totaled $47.4 billion across 521 deals, per Crunchbase data. That’s up dramatically — almost 4x — compared to the second half of 2025 when startups in the sector raised $12 billion across 470 deals.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/physical-ai-1024x576.jpg",
+      "publishedAt": "2026-08-18T11:00:15+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
       ],
       "coverageCount": 1
     },
@@ -2844,6 +5223,27 @@
       "coverageCount": 1
     },
     {
+      "id": "Tech.eu-https://tech.eu/2026/08/18/lithuanias-litilit-lands-eur8m-to-take-femtosecond-lasers-into-mass-manufacturing/",
+      "_key": "894df8e5629f1926b075a6156906e6e0",
+      "title": "Lithuania’s LITILIT lands €8M to take femtosecond lasers into mass manufacturing",
+      "originalTitle": "Lithuania’s LITILIT lands €8M to take femtosecond lasers into mass manufacturing",
+      "summary": "Vilnius-based femtosecond laser manufacturer LITILIT has received an €8 million loan from the Lithuanian National Development Bank ILTE. The company manufactures lasers based on patented technology t...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/18/lithuanias-litilit-lands-eur8m-to-take-femtosecond-lasers-into-mass-manufacturing/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-25-192.png",
+      "publishedAt": "2026-08-18T09:51:13+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/apos-pedido-de-rj-casas-bahia-busca-emprestimo-de-r-1-bi-e-aposta-no-marketplace/",
       "_key": "06325279eb277bfdbb6cf73fc09e433a",
       "title": "Após pedido de RJ, Casas Bahia busca empréstimo de R$ 1 bi e aposta no marketplace",
@@ -2861,6 +5261,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3364436/baidu-quarterly-revenue-drops-4-ai-cloud-surge-fails-offset-advertising-slump?utm_source=rss_feed",
+      "_key": "1277e97b9b2be4acbdbee42db29de8ab",
+      "title": "Baidu’s quarterly revenue drops 4% as AI cloud surge fails to offset advertising slump",
+      "originalTitle": "Baidu’s quarterly revenue drops 4% as AI cloud surge fails to offset advertising slump",
+      "summary": "Chinese tech giant Baidu on Tuesday posted a 4 per cent year-on-year decline in second-quarter revenue, as continued weakness in advertising outweighed growth in its artificial intelligence cloud operations, highlighting intensifying competition in China’s tech sector.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3364436/baidu-quarterly-revenue-drops-4-ai-cloud-surge-fails-offset-advertising-slump?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/00bff2e7-664a-4242-a0ee-498b424cf8e1_6dbfe62c.jpg?itok=nz6UMoxY&v=1787046045",
+      "publishedAt": "2026-08-18T09:45:49+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -2970,6 +5391,27 @@
       "coverageCount": 1
     },
     {
+      "id": "TechNode-https://technode.com/2026/08/18/verisilicon-reports-91-first-half-revenue-growth-as-ai-orders-reach-90/",
+      "_key": "357339cac08d98713aac5c05a83ef15f",
+      "title": "VeriSilicon reports 91% first-half revenue growth as AI orders reach 90%",
+      "originalTitle": "VeriSilicon reports 91% first-half revenue growth as AI orders reach 90%",
+      "summary": "Chinese semiconductor design company VeriSilicon reported first-half revenue of RMB1.864 billion, up 91.37% year on year. Its orders on hand stood at RMB12.449 billion as of June 30.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/18/verisilicon-reports-91-first-half-revenue-growth-as-ai-orders-reach-90/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/verisilicon.png?fit=1024%2C566&amp;ssl=1",
+      "publishedAt": "2026-08-18T06:06:39+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/18/por-que-cameras-digitais-e-fones-com-fio-estao-de-volta.ghtml",
       "_key": "30065d6bdc3b1c891ef45555abd6e635",
       "title": "Câmeras digitais e fones com fio estão de volta. Mas por quê?",
@@ -3012,6 +5454,48 @@
       "coverageCount": 1
     },
     {
+      "id": "TechNode-https://technode.com/2026/08/18/mech-mind-clears-hong-kong-listing-hearing-as-overseas-revenue-passes-50/",
+      "_key": "3c8c45c8b9e44786056c134c7712b9e3",
+      "title": "Mech-Mind clears Hong Kong listing hearing as overseas revenue passes 50%",
+      "originalTitle": "Mech-Mind clears Hong Kong listing hearing as overseas revenue passes 50%",
+      "summary": "Chinese machine-vision and robotics company Mech-Mind has cleared the Hong Kong Stock Exchange&#8217;s listing hearing. Its overseas revenue accounted for 50.3% of total revenue in 2025.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/18/mech-mind-clears-hong-kong-listing-hearing-as-overseas-revenue-passes-50/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/mechmind.png?fit=1024%2C422&amp;ssl=1",
+      "publishedAt": "2026-08-18T05:57:42+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "TechNode-https://technode.com/2026/08/18/unitree-says-its-new-humanoid-reaches-12-66-m-s-and-jumps-2-meters/",
+      "_key": "384addcb1aa2ea494efc2e4e08fe183a",
+      "title": "Unitree says its new humanoid reaches 12.66 m/s and jumps 2 meters",
+      "originalTitle": "Unitree says its new humanoid reaches 12.66 m/s and jumps 2 meters",
+      "summary": "Chinese robotics company Unitree has introduced a new humanoid robot called &#8220;Superman.&#8221; The company says the robot can jump 2 meters from a standing position and reach a maximum speed of 12.66 meters per second.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://technode.com/2026/08/18/unitree-says-its-new-humanoid-reaches-12-66-m-s-and-jumps-2-meters/",
+      "source": "TechNode",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/08/unitree-new-robot.png?fit=1024%2C566&amp;ssl=1",
+      "publishedAt": "2026-08-18T05:41:19+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "TechNode"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/minhas-financas/o-dilema-da-alta-renda-no-brasil-95-reconhecem-privilegio-e-14-se-consideram-ricos/",
       "_key": "d97dbcc3df26798bb58bb8376b150835",
       "title": "O dilema da alta renda no Brasil: 95% reconhecem privilégio e 14% se consideram ricos",
@@ -3050,6 +5534,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/article/3364356/zhipu-ais-answer-project-glasswing-marks-shift-chinese-cyber-safety-researcher?utm_source=rss_feed",
+      "_key": "472557bd0b617222eed49d760810822b",
+      "title": "Zhipu AI’s answer to Project Glasswing marks shift for Chinese cyber safety: researcher",
+      "originalTitle": "Zhipu AI’s answer to Project Glasswing marks shift for Chinese cyber safety: researcher",
+      "summary": "Zhipu AI’s launch of China’s first answer to Project Glasswing signals a shift in how the country’s top artificial intelligence labs approach global cybersecurity, according to a researcher.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/article/3364356/zhipu-ais-answer-project-glasswing-marks-shift-chinese-cyber-safety-researcher?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/9d0c3953-652c-44c9-ab1d-93ea7d9a8356_1e3df32f.jpg?itok=f93507lx&v=1787019285",
+      "publishedAt": "2026-08-18T03:00:14+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -3621,6 +6126,27 @@
       "coverageCount": 1
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3364341/nvidia-provide-us105-billion-guarantee-openais-ohio-data-centre?utm_source=rss_feed",
+      "_key": "eeab9cd059a3f96e3de2df5ffb57b366",
+      "title": "Nvidia to provide up to US$105 billion guarantee for OpenAI’s Ohio data centre",
+      "originalTitle": "Nvidia to provide up to US$105 billion guarantee for OpenAI’s Ohio data centre",
+      "summary": "Nvidia has agreed to provide a ⁠guarantee of up to US$105 billion ⁠to help ⁠OpenAI lease a sprawling data centre in Ohio being developed by SoftBank-backed SB Energy, in one of the chipmaker’s largest infrastructure financing commitments.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3364341/nvidia-provide-us105-billion-guarantee-openais-ohio-data-centre?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/3f26d988-100e-402c-899a-6bf25f091ba8_708e3b7e.jpg?itok=_xL8auP6&v=1786987715",
+      "publishedAt": "2026-08-17T17:30:11+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/advisor/xp-e-a-empresa-de-investimentos-mais-lembrada-de-santa-catarina-em-2026/",
       "_key": "94208db2e63e915465811a518742b344",
       "title": "XP é a empresa de investimentos mais lembrada de Santa Catarina em 2026",
@@ -3915,6 +6441,27 @@
       "coverageCount": 1
     },
     {
+      "id": "Tech.eu-https://tech.eu/2026/08/17/softbank-invests-200m-in-swiss-robotics-startup-gravis-robotics/",
+      "_key": "de9ec90f2793c94a55347a2ff90f9ea4",
+      "title": "SoftBank invests $200M in Swiss robotics startup Gravis Robotics",
+      "originalTitle": "SoftBank invests $200M in Swiss robotics startup Gravis Robotics",
+      "summary": "SoftBank has invested $200m in Swiss robotics startup Gravis Robotics, in what has been billed as a record investment. Gravis says the Series A funding round, in which the Japanese investor was the so...",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://tech.eu/2026/08/17/softbank-invests-200m-in-swiss-robotics-startup-gravis-robotics/",
+      "source": "Tech.eu",
+      "region": "Internacional",
+      "country": "EU",
+      "image": "https://cdn.tech.eu/uploads/2026/08/gravis-153.png",
+      "publishedAt": "2026-08-17T14:35:00+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Tech.eu"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "NeoFeed-https://neofeed.com.br/negocios/casas-bahia-negocia-emprestimo-de-r-1-bilhao/",
       "_key": "efd941d853798c2a211f91cd4e4bbe53",
       "title": "Casas Bahia negocia empréstimo de R$ 1 bilhão",
@@ -3932,6 +6479,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3364327/next-silicon-ai-data-centre-material-faces-price-spike-amid-china-supply-crunch?utm_source=rss_feed",
+      "_key": "4324d2d2b3dcc64aba5be0c9704b203c",
+      "title": "The next silicon? AI data centre material faces price spike amid China supply crunch",
+      "originalTitle": "The next silicon? AI data centre material faces price spike amid China supply crunch",
+      "summary": "The artificial intelligence boom is driving demand for optical modules that enable ultra-fast data transmission in data centres, with the latest beneficiary a chemical compound that is seeing an unprecedented surge in prices.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364327/next-silicon-ai-data-centre-material-faces-price-spike-amid-china-supply-crunch?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/dd1ea95d-72b9-4261-bcdd-98c72f6b2309_3a57125e.jpg?itok=bYPyDJyP&v=1786971390",
+      "publishedAt": "2026-08-17T14:00:30+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -4230,6 +6798,27 @@
       "coverageCount": 1
     },
     {
+      "id": "Crunchbase News-https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
+      "_key": "750a16eadfea321179a2807cb9462cbf",
+      "title": "Semiconductor Giants Are Busy Backing Startups This Year",
+      "originalTitle": "Semiconductor Giants Are Busy Backing Startups This Year",
+      "summary": "Massive AI spending has helped push earnings and valuations for semiconductor industry leaders to record levels, prompting the sector's giants to invest record sums in artificial intelligence and robotics startups.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Computer_chip_02.jpg",
+      "publishedAt": "2026-08-17T11:00:24+00:00",
+      "score": 52,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "Exame-https://exame.com/tecnologia/redata-fica-fora-das-prioridades-do-senado-e-setor-de-data-centers-migra-a-pressao-para-o-icms/",
       "_key": "69e594ba4993677376254a37782c4e7a",
       "title": "Redata fica fora das prioridades do Senado e setor de data centers migra a pressão para o ICMS",
@@ -4289,6 +6878,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/big-tech/article/3364287/alibaba-sells-gaming-arm-lingxi-games-tech-giant-sharpens-focus-ai-and-e-commerce?utm_source=rss_feed",
+      "_key": "84fe1b55e4364f7b2e83190b0cb821d2",
+      "title": "Alibaba sells gaming arm Lingxi Games as tech giant sharpens focus on AI and e-commerce",
+      "originalTitle": "Alibaba sells gaming arm Lingxi Games as tech giant sharpens focus on AI and e-commerce",
+      "summary": "Alibaba Group Holding has agreed to sell its wholly owned gaming business Lingxi Games to Trustar Capital as the Chinese technology giant pivots away from noncore sectors to prioritise e-commerce and artificial intelligence, according to an internal letter issued on Monday.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/big-tech/article/3364287/alibaba-sells-gaming-arm-lingxi-games-tech-giant-sharpens-focus-ai-and-e-commerce?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/50cc26ea-59a3-4686-bd8c-e50ded3f8660_5f9fc577.jpg?itok=9CHQVFm4&v=1786956904",
+      "publishedAt": "2026-08-17T10:00:11+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -4356,6 +6966,27 @@
       "coverageCount": 1
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/tech/article/3364288/cxmt-tops-4-trillion-yuan-ai-fuelled-memory-rally-lifts-chinas-chip-champion?utm_source=rss_feed",
+      "_key": "f84fe399d969c117ffe21dadbb56498a",
+      "title": "CXMT value tops 4 trillion yuan as AI-fuelled memory rally lifts China’s chip champion",
+      "originalTitle": "CXMT value tops 4 trillion yuan as AI-fuelled memory rally lifts China’s chip champion",
+      "summary": "Shares of ChangXin Memory Technologies (CXMT), China’s leading DRAM maker, jumped 12 per cent on Monday to close at a record 61.80 yuan (US$9.16), lifting its market capitalisation to 4.13 trillion yuan and extending its lead as China’s most valuable listed company.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/article/3364288/cxmt-tops-4-trillion-yuan-ai-fuelled-memory-rally-lifts-chinas-chip-champion?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/2826e35c-4b28-4c19-80c7-78c0a520f92f_d0d801ac.jpg?itok=zcXF-cpR&v=1786957205",
+      "publishedAt": "2026-08-17T09:00:17+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/itau-bradesco-santander-e-bb-o-que-balancos-do-2t-dizem-sobre-cautela-do-setor/",
       "_key": "0a7e5baff4fe5fc6d49614d6f07995ee",
       "title": "Itaú, Bradesco, Santander e BB: o que balanços do 2T dizem sobre cautela do setor?",
@@ -4419,6 +7050,48 @@
       "coverageCount": 1
     },
     {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3364263/ingenic-launches-ipo-join-wave-mainland-china-chipmakers-raising-funds-hong-kong?utm_source=rss_feed",
+      "_key": "3dc447dca648dcc945110a7eeb4492f4",
+      "title": "Ingenic launches IPO, joining wave of mainland China chipmakers raising funds in Hong Kong",
+      "originalTitle": "Ingenic launches IPO, joining wave of mainland China chipmakers raising funds in Hong Kong",
+      "summary": "Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364263/ingenic-launches-ipo-join-wave-mainland-china-chipmakers-raising-funds-hong-kong?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/74a4862d-fdc2-4281-84f4-e68c726d6167_dd95cbc6.jpg?itok=XPXkTBwS&v=1786948821",
+      "publishedAt": "2026-08-17T06:40:22+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/tech/tech-trends/article/3364262/ai-chipmaker-biren-projects-22-fold-revenue-surge-amid-chinas-hi-tech-boom?utm_source=rss_feed",
+      "_key": "03c8826f6c41fcbb5f7fa553fb269302",
+      "title": "AI chipmaker Biren projects up to 22-fold revenue surge amid China’s hi-tech boom",
+      "originalTitle": "AI chipmaker Biren projects up to 22-fold revenue surge amid China’s hi-tech boom",
+      "summary": "Chinese artificial intelligence chipmaker Biren Technology projects that its first-half revenue could shoot up by up to 2,107 per cent amid the AI hardware boom, joining industry peers like Hygon Information Technology and Cambricon Technologies in reporting accelerating demand for home-grown chips.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364262/ai-chipmaker-biren-projects-22-fold-revenue-surge-amid-chinas-hi-tech-boom?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/16a6aaa2-3ea8-4da6-8252-76d61ad9962c_7efad1b3.jpg?itok=xwqGwDVw&v=1786948779",
+      "publishedAt": "2026-08-17T06:39:48+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/17/usar-o-chatgpt-prejudica-o-cerebro-o-que-sabemos-e-o-que-nao-sabemos-sobre-a-divida-cognitiva.ghtml",
       "_key": "852b963ebe119a1a88bf98a2e359bc6b",
       "title": "Usar o ChatGPT prejudica o cérebro? O que sabemos, e o que não sabemos, sobre a 'dívida cognitiva'",
@@ -4436,6 +7109,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "SCMP Tech-https://www.scmp.com/plus/tech/tech-war/article/3364234/chinese-robots-march-despite-tech-war-hurdles?utm_source=rss_feed",
+      "_key": "4353c95ba366c54af49c119ff3b890de",
+      "title": "Chinese robots on the march despite tech war hurdles",
+      "originalTitle": "Chinese robots on the march despite tech war hurdles",
+      "summary": "Did the stair-climbing Chinese robot vacuum or flying robovac prototypes that wowed visitors at the 2026 Consumer Electronics Show in Las Vegas go into production? American consumers will probably not find out.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.scmp.com/plus/tech/tech-war/article/3364234/chinese-robots-march-despite-tech-war-hurdles?utm_source=rss_feed",
+      "source": "SCMP Tech",
+      "region": "Internacional",
+      "country": "CN",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/e08063a9-f421-4701-b7c2-c663ca9a0da8_e56e0399.jpg?itok=9pf8GYqI&v=1786937533",
+      "publishedAt": "2026-08-17T04:15:11+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "SCMP Tech"
       ],
       "coverageCount": 1
     },
@@ -5343,6 +8037,27 @@
       "coverageCount": 1
     },
     {
+      "id": "Crunchbase News-https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
+      "_key": "833066e8df9196b534415084b3b614a4",
+      "title": "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
+      "originalTitle": "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
+      "summary": "Databricks is back raising another $5 billion, after it raised that amount just eight months ago. The largest fundings this week also went to an AI neolab, data center and electricity storage, defense, coding and biotech. Let’s take a look.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+      "publishedAt": "2026-08-14T19:32:36+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "NeoFeed-https://neofeed.com.br/negocios/concorrencia-ou-oportunidade-o-que-pensa-a-panvel-sobre-a-entrada-das-farmacias-nos-supermercados/",
       "_key": "4d7636425746ff722a81e905da595f46",
       "title": "Concorrência ou oportunidade? O que pensa a Panvel sobre a entrada das farmácias nos supermercados",
@@ -5717,6 +8432,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026/",
+      "_key": "c5b4f799e075c8f9b7ed3e62f52e6804",
+      "title": "40 Companies Joined The Unicorn Board In July, The Highest Count In 4 Years",
+      "originalTitle": "40 Companies Joined The Unicorn Board In July, The Highest Count In 4 Years",
+      "summary": "The sectors leading the herd to the Unicorn Board in July, by count, were financial services, robotics, AI orchestration, multimodal AI, energy and semiconductors, with the U.S. adding nearly half of the month's newly minted unicorns.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg",
+      "publishedAt": "2026-08-14T11:00:53+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
       ],
       "coverageCount": 1
     },
@@ -6330,6 +9066,27 @@
       "coverageCount": 1
     },
     {
+      "id": "Crunchbase News-https://news.crunchbase.com/startups/tech-layoffs/",
+      "_key": "77b0de17c62bb24803548f06fb3a9192",
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "originalTitle": "The Crunchbase Tech Layoffs Tracker",
+      "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Layoffs-scissors.jpg",
+      "publishedAt": "2026-08-13T14:00:30+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "G1 Economia-https://g1.globo.com/politica/noticia/2026/08/13/congresso-adia-novamente-instalacao-da-comissao-para-analisar-mp-da-taxa-das-blusinhas.ghtml",
       "_key": "77671cc7fb87fa4a509b2c51f7e976f0",
       "title": "Congresso adia para 1º de setembro instalação da comissão para analisar MP da 'taxa das blusinhas'",
@@ -6368,6 +9125,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
+      "_key": "c5387f78f6f467b8707310dc65b2a864",
+      "title": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools",
+      "originalTitle": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools",
+      "summary": "Our second in a series of articles about non-tech founders getting venture funding features Sarah Buchner, a \"blue-collar worker by background\" who set out to find a way to help construction companies manage their projects more efficiently using AI agents.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/non-tech-startups-1024x576.jpg",
+      "publishedAt": "2026-08-13T11:00:23+00:00",
+      "score": 57,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
       ],
       "coverageCount": 1
     },
@@ -7145,6 +9923,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Crunchbase News-https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb/",
+      "_key": "bfcba33011b4e03be03260770354c084",
+      "title": "Exclusive: ClearJet raises $25M to build the ‘Uber of Cargo’",
+      "originalTitle": "Exclusive: ClearJet raises $25M to build the ‘Uber of Cargo’",
+      "summary": "Austin-based ClearJet, an AI-enabled logistics technology startup connects shippers with unused cargo capacity on commercial flights, has raised a $25 million Edison Partners-led Series B, it tells Crunchbase News exclusively.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb/",
+      "source": "Crunchbase News",
+      "region": "Internacional",
+      "country": "US",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Supply_Chain.jpg",
+      "publishedAt": "2026-08-12T12:00:18+00:00",
+      "score": 65,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Crunchbase News"
       ],
       "coverageCount": 1
     },
