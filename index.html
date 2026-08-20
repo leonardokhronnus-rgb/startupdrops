@@ -9414,8 +9414,8 @@ function kickerCls(a){
 }
 function isFundingDrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
-  if(/recomenda compra|recomendação de compra|\brecomendação\b|\bcoverage\b|\bbuy\b|\bb3\b|bolsa de valores|\bações\b|\betf|bilheteria|empréstimo|conciliação|stf|banco de brasília|justa causa|atestado|trend no trabalho|demiss/.test(text)) return false;
-  const fundingSignal=/\bfunding\b|\bcapta(?:ção|r|do|m)?\b|\bcaptou\b|\blevantou\b|\bnova rodada\b|\brodada de (?:investimento|funding|captação|venture)\b|\baporte\b|\bsérie\s+[a-k]\b|\bseries\s+[a-k]\b|\bseed\b|\bpre-seed\b|\braised\b|\braises\b|\bcvc(?:s)?\b|\bventure capital\b|\bcapital de risco\b/i.test(text);
+  if(/recomenda compra|recomendação de compra|\brecomendação\b|\bcoverage\b|\bbuy\b|\bb3\b|\bbolsa\b|bolsa de valores|\bações\b|\betf|renda fixa|cdb|lci|lca|fiagro|fii\b|fundo imobiliário|ibovespa|asset management|fundos listados|real estate|bilheteria|empréstimo|conciliação|stf|banco de brasília|justa causa|atestado|trend no trabalho|demiss|guerra econômica|maracanã|copa feminina|carros chineses|artigo:|vale do silício não é|dinheiro fácil|inverno dos cvcs|diz investidor|pitchbook|robinhood|agências de fomento|ipo da spacex|saída para os vcs/.test(text)) return false;
+  const fundingSignal=/\bfunding\b|\bcapta(?:ção|r|do|m)?\b|\bcaptou\b|\blevantou\b|\bnova rodada\b|\brodada de (?:investimento|funding|captação|venture)\b|\baporte\b|\bsérie\s+[a-k]\b|\bseries\s+[a-k]\b|\bseed\b|\bpre-seed\b|\braised\b|\braises\b/i.test(text);
   const ecosystemContext=/startup|scale-up|venture|cvc|investidor|fundador|founder|private equity|fundo de venture|capital de risco|ecossistema|fintech|edtech|healthtech|deeptech|saas|ia\b|inteligência artificial/i.test(text);
   return fundingSignal && ecosystemContext;
 }
@@ -9893,6 +9893,10 @@ function matchesSearch(a,q){
 // ── RENDER NEWS ───────────────────────────────────────────────────────────────
 function renderAll(){
   const arts=filtered();
+  const sideBase=uniqueByDisplayedTitle(dedupe([...MANUAL,...ALL]
+    .filter(a=>a.isManual||isArticleUrl(a.url))
+    .filter(isDenseEnough)
+    .filter(isRelevantDrop)));
   const countEl=document.getElementById('search-count');
   if(countEl){
     if(searchQuery){
@@ -9916,7 +9920,8 @@ function renderAll(){
   const reserved = new Set([hero, ...grid].map(a=>a.url));
   const sideTrend = arts.filter(a=>!reserved.has(a.url)).slice(0,5);
   sideTrend.forEach(a=>reserved.add(a.url));
-  const sideFunding = arts.filter(a=>!reserved.has(a.url) && isFundingDrop(a)).slice(0,4);
+  let sideFunding = sideBase.filter(a=>!reserved.has(a.url) && isFundingDrop(a)).slice(0,4);
+  if(!sideFunding.length) sideFunding = sideBase.filter(isFundingDrop).slice(0,4);
   sideFunding.forEach(a=>reserved.add(a.url));
   const list = arts.filter(a=>!reserved.has(a.url));
   renderHero(hero);
