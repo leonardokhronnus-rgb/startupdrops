@@ -9281,6 +9281,12 @@ const BRAND = {
 };
 const DATA_URL = './data/news.json?v=20260820-4';
 const ARTICLES_URL = './data/articles.json?v=20260820-4';
+const EDITORIAL_URL = './data/editorial-overrides.json?v=20260820-1';
+const API = {
+  newsletter: '/.netlify/functions/newsletter',
+  analytics: '/.netlify/functions/analytics',
+  editorial: '/.netlify/functions/editorial',
+};
 function applyBrand(){
   const set=(id,val)=>{ const el=document.getElementById(id); if(el) el.textContent=val; };
   set('brand-prefix',BRAND.namePrefix);
@@ -9799,25 +9805,84 @@ function articleParagraphs(a){
 }
 
 // ── STATE ──────────────────────────────────────────────────────────────────────
-let ALL=[], MANUAL=[], ARTICLES=[], ARTICLES_PROFILE='', activeFilter='all', lastPayload=null, searchQuery='', listPage=1;
+let ALL=[], MANUAL=[], ARTICLES=[], ARTICLES_PROFILE='', EDITORIAL_RULES=null, activeFilter='all', lastPayload=null, searchQuery='', listPage=1;
 const PER_PAGE=40;
 const NOW=new Date();
 document.getElementById('tb-date').textContent=NOW.toLocaleDateString('pt-BR');
 document.getElementById('hd-date') && (document.getElementById('hd-date').textContent=LONG_PT.format(NOW));
+
+function apiAvailable(){
+  return location.protocol.startsWith('http');
+}
+function track(event, data={}){
+  if(!apiAvailable()) return;
+  const payload=JSON.stringify({
+    event,
+    path: location.pathname + location.search + location.hash,
+    referrer: document.referrer,
+    ...data,
+  });
+  try{
+    if(navigator.sendBeacon){
+      navigator.sendBeacon(API.analytics,new Blob([payload],{type:'application/json'}));
+      return;
+    }
+  }catch{}
+  fetch(API.analytics,{method:'POST',headers:{'Content-Type':'application/json'},body:payload,keepalive:true}).catch(()=>{});
+}
+async function loadEditorialRules(){
+  const empty={hiddenUrls:[],hiddenIds:[],pinnedUrls:[],overrides:{}};
+  const merge=(a,b)=>({
+    hiddenUrls:[...(a.hiddenUrls||[]),...(b.hiddenUrls||[])],
+    hiddenIds:[...(a.hiddenIds||[]),...(b.hiddenIds||[])],
+    pinnedUrls:[...(a.pinnedUrls||[]),...(b.pinnedUrls||[])],
+    overrides:{...(a.overrides||{}),...(b.overrides||{})},
+  });
+  let rules=empty;
+  try{
+    const r=await fetch(EDITORIAL_URL,{cache:'no-store'});
+    if(r.ok) rules=merge(rules,await r.json());
+  }catch{}
+  try{
+    const r=await fetch(API.editorial,{cache:'no-store'});
+    if(r.ok) rules=merge(rules,await r.json());
+  }catch{}
+  return rules;
+}
+function applyEditorialRules(articles,rules){
+  if(!rules) return articles;
+  const hiddenUrls=new Set((rules.hiddenUrls||[]).map(String));
+  const hiddenIds=new Set((rules.hiddenIds||[]).map(String));
+  const pinned=new Map((rules.pinnedUrls||[]).map((url,i)=>[String(url),i]));
+  const overrides=rules.overrides||{};
+  return articles
+    .filter(a=>!hiddenUrls.has(String(a.url)) && !hiddenIds.has(String(a.id||a._key||a.articleId||'')))
+    .map(a=>({ ...a, ...(overrides[a.url]||{}), ...(overrides[a.id]||{}) }))
+    .sort((a,b)=>{
+      const pa=pinned.has(String(a.url)) ? pinned.get(String(a.url)) : 9999;
+      const pb=pinned.has(String(b.url)) ? pinned.get(String(b.url)) : 9999;
+      if(pa!==pb) return pa-pb;
+      return 0;
+    });
+}
 
 // ── LOAD NEWS ─────────────────────────────────────────────────────────────────
 async function loadNews(){
   loadManual();
   setStatus('Carregando drops em português...');
   try{
-    lastPayload=await loadNewsPayload();
-    ALL=dedupe((lastPayload.articles||[]).map(decorate).filter(a=>isArticleUrl(a.url)).filter(isTranslatedEnough));
+    const [payload,rules]=await Promise.all([loadNewsPayload(),loadEditorialRules()]);
+    lastPayload=payload;
+    EDITORIAL_RULES=rules;
+    const curated=applyEditorialRules(lastPayload.articles||[],EDITORIAL_RULES);
+    ALL=dedupe(curated.map(decorate).filter(a=>isArticleUrl(a.url)).filter(isTranslatedEnough));
     if(!ALL.length) throw new Error('Arquivo sem notícias');
     const updated=new Date(lastPayload.updatedAt);
     document.getElementById('hd-update').textContent=`Atualizado às ${updated.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})}`;
     setStatus(`${ALL.length} drops carregados · ${ts()}`);
     renderAll();
     route();
+    track('page_view',{label:'home'});
   }catch(err){
     ALL=[];
     setStatus('Não consegui carregar o arquivo de notícias');
@@ -10370,6 +10435,7 @@ document.querySelectorAll('.site-nav a').forEach(link=>{
       const cat=link.dataset.cat||'all';
       if(activeFilter!==cat){ activeFilter=cat; listPage=1; if(ALL.length||MANUAL.length) renderAll(); }
       document.querySelectorAll('.filter-btn').forEach(b=>b.classList.toggle('on',b.dataset.f===cat||(cat==='all'&&b.dataset.f==='all')));
+      track('filter_click',{label:cat});
     }
   });
 });
@@ -10379,6 +10445,7 @@ document.getElementById('filter-row').addEventListener('click',e=>{
   document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('on'));
   btn.classList.add('on');
   if(ALL.length||MANUAL.length) renderAll();
+  track('filter_click',{label:activeFilter});
 });
 document.querySelectorAll('[data-side-filter]').forEach(link=>{
   link.addEventListener('click',e=>{
@@ -10389,6 +10456,7 @@ document.querySelectorAll('[data-side-filter]').forEach(link=>{
     document.querySelectorAll('.site-nav a').forEach(a=>a.classList.toggle('active',a.dataset.cat===activeFilter));
     document.querySelectorAll('.filter-btn').forEach(b=>b.classList.toggle('on',b.dataset.f===activeFilter));
     if(ALL.length||MANUAL.length) renderAll();
+    track('filter_click',{label:activeFilter});
     window.scrollTo({top:0,behavior:'smooth'});
   });
 });
@@ -10432,6 +10500,7 @@ document.querySelectorAll('[data-page-shortcut="media"]').forEach(link=>{
     searchQuery=input.value.trim(); listPage=1;
     wrap.classList.toggle('has-q',!!searchQuery);
     if(ALL.length||MANUAL.length) renderAll();
+    if(searchQuery) track('search',{label:searchQuery});
   };
   input.addEventListener('input',()=>{ clearTimeout(deb); deb=setTimeout(apply,180); });
   input.addEventListener('keydown',e=>{ if(e.key==='Escape'){ input.value=''; apply(); input.blur(); } });
@@ -10444,15 +10513,51 @@ document.querySelector('.top-search')?.addEventListener('click',()=>{
   document.getElementById('search-wrap')?.scrollIntoView({behavior:'smooth',block:'center'});
   setTimeout(()=>input?.focus(),350);
 });
-document.querySelectorAll('.newsletter-form,.newsletter-box').forEach(form=>{
-  form.addEventListener('submit',e=>{
-    e.preventDefault();
+document.addEventListener('click',e=>{
+  const link=e.target.closest('a');
+  if(!link) return;
+  const href=link.getAttribute('href')||'';
+  const label=(link.innerText||link.getAttribute('aria-label')||href).trim().slice(0,180);
+  if(link.closest('.branded-section')) track('branded_click',{label,value:href});
+  else if(href.startsWith('#artigo/')) track('article_open',{label,value:href});
+  else if(link.classList.contains('read-link') && /^https?:\/\//i.test(href)) track('original_click',{label,value:href});
+});
+async function submitNewsletter(email,source='newsletter'){
+  const cleanEmail=String(email||'').trim();
+  if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(cleanEmail)){
+    setStatus('Digite um email válido');
+    return false;
+  }
+  setStatus('Enviando cadastro...');
+  try{
+    const response=await fetch(API.newsletter,{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({email:cleanEmail,source,page:location.href}),
+    });
+    if(!response.ok) throw new Error('falha');
     setStatus(`Newsletter cadastrada · ${ts()}`);
+    track('newsletter_submit',{label:source,value:cleanEmail.split('@')[1]||''});
+    return true;
+  }catch{
+    const mailto='mailto:contato@startupdrops.com.br?subject='+encodeURIComponent('Cadastro na newsletter')+'&body='+encodeURIComponent('Quero receber a newsletter do StartupDrops. Meu email: '+cleanEmail);
+    window.location.href=mailto;
+    setStatus('Abrindo email para concluir cadastro');
+    return false;
+  }
+}
+document.querySelectorAll('.newsletter-form').forEach(form=>{
+  form.addEventListener('submit',async e=>{
+    e.preventDefault();
+    const input=form.querySelector('input[type="email"],input');
+    if(await submitNewsletter(input?.value,'newsletter-form')) input.value='';
   });
 });
 document.querySelectorAll('.newsletter-box button').forEach(button=>{
-  button.addEventListener('click',()=>{
-    setStatus(`Newsletter cadastrada · ${ts()}`);
+  button.addEventListener('click',async()=>{
+    const box=button.closest('.newsletter-box');
+    const input=box?.querySelector('input[type="email"],input');
+    if(await submitNewsletter(input?.value,'newsletter-box')) input.value='';
   });
 });
 window.addEventListener('hashchange',route);
