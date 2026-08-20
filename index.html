@@ -9244,8 +9244,8 @@ const BRAND = {
   // Para virar Morning Drops, por exemplo:
   //   namePlain:'Morning Drops', namePrefix:'Morning', nameSuffix:'Drops'
 };
-const DATA_URL = './data/news.json?v=20260820-1';
-const ARTICLES_URL = './data/articles.json?v=20260820-1';
+const DATA_URL = './data/news.json?v=20260820-3';
+const ARTICLES_URL = './data/articles.json?v=20260820-3';
 function applyBrand(){
   const set=(id,val)=>{ const el=document.getElementById(id); if(el) el.textContent=val; };
   set('brand-prefix',BRAND.namePrefix);
@@ -9907,16 +9907,17 @@ function matchesSearch(a,q){
 
 // ── RENDER NEWS ───────────────────────────────────────────────────────────────
 function renderAll(){
-  const sideBase=uniqueByDisplayedTitle(dedupe([...MANUAL,...ALL]
+  const shelfBase=uniqueByDisplayedTitle(dedupe([...MANUAL,...ALL]
     .filter(a=>a.isManual||isArticleUrl(a.url))
-    .filter(isDenseEnough)
-    .filter(isRelevantDrop)));
+    .filter(isDenseEnough)));
+  const sideBase=shelfBase.filter(isRelevantDrop);
   let arts=filtered();
+  if(activeFilter==='funding' && arts.length<8){
+    const fundingPool=shelfBase.filter(isFundingDrop);
+    arts=uniqueByDisplayedTitle([...arts,...fundingPool]);
+  }
   if(activeFilter==='startups' && arts.length<8){
-    const startupPool=dedupe([...MANUAL,...ALL]
-      .filter(a=>a.isManual||isArticleUrl(a.url))
-      .filter(isDenseEnough)
-      .filter(isStartupShelfDrop));
+    const startupPool=shelfBase.filter(isStartupShelfDrop);
     arts=uniqueByDisplayedTitle([...arts,...startupPool]);
   }
   const countEl=document.getElementById('search-count');
@@ -9942,8 +9943,8 @@ function renderAll(){
   const reserved = new Set([hero, ...grid].map(a=>a.url));
   const sideTrend = arts.filter(a=>!reserved.has(a.url)).slice(0,5);
   sideTrend.forEach(a=>reserved.add(a.url));
-  let sideFunding = sideBase.filter(a=>!reserved.has(a.url) && isFundingDrop(a)).slice(0,4);
-  if(!sideFunding.length) sideFunding = sideBase.filter(isFundingDrop).slice(0,4);
+  let sideFunding = shelfBase.filter(a=>!reserved.has(a.url) && isFundingDrop(a)).slice(0,4);
+  if(!sideFunding.length) sideFunding = shelfBase.filter(isFundingDrop).slice(0,4);
   sideFunding.forEach(a=>reserved.add(a.url));
   const list = arts.filter(a=>!reserved.has(a.url));
   renderHero(hero);
