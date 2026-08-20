@@ -415,6 +415,19 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
 .newsletter-box p{font-size:.9rem;line-height:1.45;color:var(--ink3);margin-bottom:16px;}
 .newsletter-box input{width:100%;height:38px;border:1px solid #ddd4ce;border-radius:3px;background:#fff;padding:0 12px;margin-bottom:12px;font:inherit;font-size:.86rem;}
 .newsletter-box button{width:100%;height:38px;border:0;border-radius:4px;background:#e12b2b;color:#fff;font:inherit;font-weight:800;letter-spacing:0;text-transform:none;cursor:pointer;}
+.branded-section{margin:42px 0 0;background:#101114;color:#fff;border-radius:8px;padding:34px 36px 36px;}
+.branded-head{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;border-bottom:1px solid rgba(255,255,255,.28);padding-bottom:14px;margin-bottom:28px;}
+.branded-head h2{font-family:var(--sans);font-size:1.55rem;line-height:1.1;font-weight:900;}
+.branded-note{font-size:.72rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.72);}
+.branded-card{display:grid;grid-template-columns:minmax(0,1fr) minmax(280px,42%);gap:34px;align-items:center;text-decoration:none;color:inherit;}
+.branded-label{display:inline-flex;align-items:center;width:max-content;border:1px solid #e12b2b;border-radius:999px;color:#ff4b4b;padding:4px 10px;font-size:.68rem;font-weight:900;letter-spacing:.04em;text-transform:uppercase;margin-bottom:14px;}
+.branded-title{font-family:var(--serif);font-size:2rem;font-weight:900;line-height:1.08;margin-bottom:14px;max-width:720px;}
+.branded-deck{font-size:.95rem;line-height:1.65;color:rgba(255,255,255,.72);max-width:660px;margin-bottom:18px;}
+.branded-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;color:rgba(255,255,255,.58);font-size:.76rem;}
+.branded-cta{display:inline-flex;align-items:center;justify-content:center;height:34px;padding:0 14px;border-radius:999px;background:#fff;color:#101114;font-size:.7rem;font-weight:900;letter-spacing:.06em;text-transform:uppercase;}
+.branded-visual{min-height:230px;border-radius:7px;background:radial-gradient(circle at 78% 22%,rgba(37,99,235,.85),transparent 28%),radial-gradient(circle at 18% 82%,rgba(225,43,43,.7),transparent 30%),linear-gradient(135deg,#24262d 0%,#101114 70%);border:1px solid rgba(255,255,255,.12);display:flex;align-items:flex-end;padding:22px;overflow:hidden;position:relative;}
+.branded-visual::before{content:"";position:absolute;inset:18px;border:1px solid rgba(255,255,255,.12);border-radius:6px;}
+.branded-visual strong{position:relative;font-family:var(--serif);font-size:2rem;line-height:1;color:#fff;}
 .site-footer{margin:54px 0 0;background:#f1ece8;border-top:1px solid var(--rule);border-radius:0;padding:44px 0 28px;color:var(--ink3);text-align:left;font-size:1rem;letter-spacing:0;}
 .footer-inner{max-width:1120px;margin:0 auto;padding:0 24px;display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:64px;}
 .footer-brand{font-family:var(--sans);font-size:1.5rem;font-weight:900;color:var(--ink);margin-bottom:20px;}
@@ -494,8 +507,10 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
 .article-prose p{font-size:1.02rem;line-height:1.82;color:var(--ink2);margin:0;}
 @media(max-width:960px){.site-header{grid-template-columns:1fr;gap:12px;padding:16px 18px;}.site-nav{justify-content:flex-start;overflow-x:auto;}.header-right{justify-content:space-between;}.footer-inner{grid-template-columns:1fr;gap:30px;}.footer-bottom{flex-direction:column;}.newsletter-form{grid-template-columns:1fr;}.site-newsletter{margin-left:14px;margin-right:14px;}}
 @media(max-width:960px){.media-kit{padding:34px 14px 56px;}.media-hero h1{font-size:2.8rem;}.media-stats,.media-grid,.price-grid,.articles-layout{grid-template-columns:1fr;}.media-stat{border-right:0;border-bottom:1px solid var(--rule2);}.media-stat:last-child{border-bottom:0;}.media-top{align-items:flex-start;gap:14px;flex-direction:column;}.static-page,.articles-layout{padding:44px 14px 62px;}.static-page h1,.articles-head h1{font-size:2.6rem;}}
+.branded-section{max-width:1120px;}
+@media(max-width:760px){.branded-section{padding:26px 22px;margin-top:30px;}.branded-card{grid-template-columns:1fr;gap:24px;}.branded-title{font-size:1.65rem;}.branded-visual{min-height:170px;}}
 @media(max-width:720px){.article-link-card{grid-template-columns:1fr;}.article-card-image{height:190px;}.article-detail h2{font-size:2rem;}.article-detail-body{padding:22px;}}
-@media(max-width:580px){.site-header{margin:0;padding:14px;}.ticker-label{margin-left:14px;}.site-newsletter h2{font-size:1.55rem;}.site-footer{padding-top:34px;}.media-hero h1,.static-page h1{font-size:2.25rem;}.media-section-head{align-items:flex-start;flex-direction:column;}.price-card{padding:24px;}.static-list a,.static-list span{border-radius:12px;}}
+@media(max-width:580px){.site-header{margin:0;padding:14px;}.ticker-label{margin-left:14px;}.site-newsletter h2{font-size:1.55rem;}.site-footer{padding-top:34px;}.media-hero h1,.static-page h1{font-size:2.25rem;}.media-section-head{align-items:flex-start;flex-direction:column;}.price-card{padding:24px;}.static-list a,.static-list span{border-radius:12px;}.branded-head{align-items:flex-start;flex-direction:column;}.branded-title{font-size:1.45rem;}}
 
 </style>
 </head>
@@ -607,6 +622,27 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
         </div>
       </aside>
     </div>
+    <section class="branded-section" aria-labelledby="branded-title">
+      <div class="branded-head">
+        <h2 id="branded-title">Branded Content</h2>
+        <div class="branded-note">Conteúdo de marca</div>
+      </div>
+      <a class="branded-card" href="https://startuphero.com.br/" target="_blank" rel="noopener noreferrer sponsored">
+        <div>
+          <div class="branded-label">Oferecido por StartupHero</div>
+          <div class="branded-title">Sua startup está pronta para conversar com investidores?</div>
+          <div class="branded-deck">Valuation, pitch deck e preparação para captação ajudam founders a apresentar o negócio com mais clareza, números consistentes e uma narrativa que conversa melhor com investidores e compradores.</div>
+          <div class="branded-meta">
+            <span>StartupHero</span>
+            <span>Valuation · Pitch deck · Captação</span>
+            <span class="branded-cta">Conhecer</span>
+          </div>
+        </div>
+        <div class="branded-visual" aria-hidden="true">
+          <strong>StartupHero</strong>
+        </div>
+      </a>
+    </section>
   </div>
 
   <!-- ARTIGO -->
