@@ -593,6 +593,7 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
             <a class="beat-link" href="#" data-side-filter="startups">Startups</a>
             <a class="beat-link" href="#" data-side-filter="mercado">Mercado</a>
             <a class="beat-link" href="#" data-side-filter="techia">Tech & IA</a>
+            <a class="beat-link" href="#artigos" data-page-shortcut="articles">Artigos</a>
             <a class="beat-link" href="#educacao" data-page-shortcut="edu">Educação</a>
           </div>
         </div>
@@ -872,14 +873,15 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
         .nl-hero{display:grid;grid-template-columns:1.05fr .95fr;gap:48px;align-items:center;padding:6px 0 64px;}
         .nl-kicker{font-size:.72rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--accent);margin-bottom:16px;}
         .nl-h1{font-family:var(--serif);font-weight:900;font-size:3rem;line-height:1.05;letter-spacing:-.02em;margin:0 0 20px;color:var(--ink);}
-        .nl-h1 .dot{color:var(--accent);}
+        .nl-h1 .nl-period{color:var(--accent);}
         .nl-lead{font-size:1.1rem;line-height:1.6;color:var(--ink3);max-width:450px;margin:0 0 26px;}
         .nl-form{display:flex;gap:10px;max-width:470px;flex-wrap:wrap;}
         .nl-form input{flex:1;min-width:190px;height:50px;border:1px solid #d9dde5;border-radius:10px;padding:0 16px;font:inherit;font-size:.95rem;background:#fff;}
         .nl-form button{height:50px;border:0;border-radius:10px;background:var(--accent);color:#fff;font:inherit;font-weight:700;padding:0 24px;cursor:pointer;white-space:nowrap;}
         .nl-form button:hover{background:#1544b0;}
         .nl-note{display:flex;align-items:center;gap:7px;font-size:.8rem;color:var(--ink4);margin-top:13px;}
-        .nl-phone{display:flex;justify-content:center;}
+        .nl-phone{display:flex;justify-content:center;align-items:center;}
+        .nl-phone img{width:min(100%,380px);height:auto;display:block;background:transparent;filter:drop-shadow(0 26px 34px rgba(16,24,40,.18));}
         .nl-benefits{border-top:1px solid #e6e9ef;padding-top:42px;}
         .nl-benefits h2{font-weight:800;font-size:1.5rem;margin:0 0 8px;color:var(--ink);}
         .nl-benefits .rule{width:44px;height:3px;background:var(--accent);margin-bottom:36px;border-radius:2px;}
@@ -906,7 +908,7 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
       <div class="nl-hero">
         <div>
           <div class="nl-kicker">Newsletter StartupDrops</div>
-          <h1 class="nl-h1">Tudo que importa no ecossistema, direto no seu e-mail<span class="dot">.</span></h1>
+          <h1 class="nl-h1">Tudo que importa no ecossistema, direto no seu e-mail<span class="nl-period">.</span></h1>
           <p class="nl-lead">Receba diariamente as principais not&iacute;cias, an&aacute;lises, rodadas de investimento, movimentos de mercado e insights sobre startups, tecnologia e inova&ccedil;&atilde;o.</p>
           <form class="nl-form" novalidate>
             <input type="email" required placeholder="Seu melhor e-mail" aria-label="Seu e-mail">
@@ -916,27 +918,7 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
           <div class="nl-ok">Pronto! Abra seu email para confirmar a inscri&ccedil;&atilde;o.</div>
         </div>
         <div class="nl-phone">
-          <svg viewBox="0 0 300 440" width="100%" style="max-width:300px;" xmlns="http://www.w3.org/2000/svg">
-            <rect x="30" y="6" width="240" height="428" rx="34" fill="#0c1220"/>
-            <rect x="40" y="16" width="220" height="408" rx="26" fill="#0b1a3a"/>
-            <rect x="120" y="24" width="60" height="8" rx="4" fill="#0c1220"/>
-            <text x="58" y="70" font-family="Georgia,serif" font-size="17" font-weight="700" fill="#fff">Startup<tspan fill="#4f8cff">Drops</tspan></text>
-            <text x="58" y="90" font-family="Inter,sans-serif" font-size="7" fill="#6f8bc0">Edi&#231;&#227;o de hoje</text>
-            <text x="58" y="126" font-family="Georgia,serif" font-size="15" font-weight="700" fill="#fff">Bom dia,</text>
-            <text x="58" y="144" font-family="Georgia,serif" font-size="15" font-weight="700" fill="#fff">empreendedor(a).</text>
-            <text x="58" y="164" font-family="Inter,sans-serif" font-size="7.5" fill="#9fb2d6">Aqui est&#225; o que voc&#234; precisa saber hoje.</text>
-            <text x="58" y="196" font-family="Inter,sans-serif" font-size="7" letter-spacing="1" fill="#4f8cff">DESTAQUE DO DIA</text>
-            <defs><linearGradient id="nlimg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a56db"/><stop offset="1" stop-color="#08153a"/></linearGradient></defs>
-            <rect x="58" y="206" width="184" height="80" rx="8" fill="url(#nlimg)"/>
-            <text x="58" y="306" font-family="Georgia,serif" font-size="10" font-weight="700" fill="#fff">Rodada S&#233;rie B da fintech</text>
-            <text x="58" y="320" font-family="Georgia,serif" font-size="10" font-weight="700" fill="#fff">chega a R$ 120 milh&#245;es</text>
-            <rect x="58" y="332" width="150" height="5" rx="2" fill="#24365f"/>
-            <rect x="58" y="343" width="120" height="5" rx="2" fill="#24365f"/>
-            <text x="58" y="372" font-family="Inter,sans-serif" font-size="7" letter-spacing="1" fill="#6f8bc0">MAIS NOT&#205;CIAS</text>
-            <rect x="58" y="382" width="30" height="24" rx="4" fill="url(#nlimg)"/>
-            <text x="96" y="392" font-family="Inter,sans-serif" font-size="7.5" font-weight="600" fill="#cdd9f2">Agtechs sofisticam o</text>
-            <text x="96" y="403" font-family="Inter,sans-serif" font-size="7.5" font-weight="600" fill="#cdd9f2">cr&#233;dito privado</text>
-          </svg>
+          <img src="assets/newsletter-phone.png" alt="Prévia da newsletter StartupDrops no celular" loading="lazy">
         </div>
       </div>
 
@@ -9262,8 +9244,8 @@ const BRAND = {
   // Para virar Morning Drops, por exemplo:
   //   namePlain:'Morning Drops', namePrefix:'Morning', nameSuffix:'Drops'
 };
-const DATA_URL = './data/news.json?v=20260817-4';
-const ARTICLES_URL = './data/articles.json?v=20260817-5';
+const DATA_URL = './data/news.json?v=20260820-1';
+const ARTICLES_URL = './data/articles.json?v=20260820-1';
 function applyBrand(){
   const set=(id,val)=>{ const el=document.getElementById(id); if(el) el.textContent=val; };
   set('brand-prefix',BRAND.namePrefix);
@@ -9279,6 +9261,11 @@ const PT = new Intl.DateTimeFormat('pt-BR',{day:'2-digit',month:'short',hour:'2-
 const LONG_PT = new Intl.DateTimeFormat('pt-BR',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
 function ts(){ return new Date().toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'}); }
 function clean(s){ return (s||'').replace(/\s+/g,' ').trim(); }
+function capitalizeFirst(text){
+  text=clean(text).replace(/^[,;:.\-\s]+/,'');
+  if(!text) return '';
+  return text.charAt(0).toLocaleUpperCase('pt-BR') + text.slice(1);
+}
 function normalize(s){ return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]/g,'').substring(0,80); }
 function storyKey(a){
   const text=normalize(`${a.originalTitle||a.title} ${a.summary||''}`);
@@ -9387,7 +9374,7 @@ function tagsFor(a){
   const text=`${a.title} ${a.summary} ${a.drop||''}`.toLowerCase();
   const tags=[];
   if(/\bia\b|\bai\b|inteligência artificial|artificial intelligence|llm|claude|openai|gemini|machine learning/.test(text)) tags.push('ia');
-  if(/funding|investimento|rodada|série|series|seed|capta|levanta|raised|raises|venture|m&a|aquisi|valuation|avaliad/.test(text)) tags.push('funding');
+  if(isFundingDrop(a)) tags.push('funding');
   if(/fintech|banco digital|pagamento|payment|meio de pagamento|carteira digital|pix\b/.test(text)) tags.push('fintech');
   if(/saas|software|plataforma|platform|enterprise|b2b|crm|erp|cloud|api|developer|devtools/.test(text)) tags.push('saas');
   // Economia (macro): juros, câmbio, inflação, política econômica, indicadores.
@@ -9427,8 +9414,10 @@ function kickerCls(a){
 }
 function isFundingDrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
-  if(/recomenda compra|recomendação de compra|\bb3\b|bolsa de valores|bilheteria/.test(text)) return false;
-  return /(\bcapta\b|\bcaptou\b|\blevanta\b|\blevantou\b|\brodada\b|\baporte\b|\bsérie\b|\bseries\b|\bseed\b|\bfunding\b|\braised\b|\braises\b|\bvaluation\b|\bavaliad|\baquisição\b|\badquire\b|\bcompra\b|\bm&a\b)/i.test(text);
+  if(/recomenda compra|recomendação de compra|\brecomendação\b|\bcoverage\b|\bbuy\b|\bb3\b|bolsa de valores|bilheteria|empréstimo|conciliação|stf|banco de brasília|justa causa|atestado|trend no trabalho|demiss/.test(text)) return false;
+  const fundingSignal=/\bfunding\b|\bcapta(?:ção|r|do|m)?\b|\bcaptou\b|\bnova rodada\b|\brodada de (?:investimento|funding|captação|venture)\b|\baporte\b|\bsérie\s+[a-k]\b|\bseries\s+[a-k]\b|\bseed\b|\bpre-seed\b|\braised\b|\braises\b|\bvaluation\b|\bavaliad/i.test(text);
+  const ecosystemContext=/startup|scale-up|venture|cvc|investidor|fundador|founder|private equity|fundo de venture|capital de risco|ecossistema|fintech|edtech|healthtech|deeptech|saas|ia\b|inteligência artificial/i.test(text);
+  return fundingSignal && ecosystemContext;
 }
 function hasTag(a,tag){ return (a.tags||[]).includes(tag); }
 function isMarketDrop(a){
@@ -9594,9 +9583,9 @@ function summaryPt(a){
     .replace(/\bfintech\b/gi,'fintech');
   text=clean(text);
   if(regionKey(a)==='internacional' && hasEnglishResidue(text)){
-    return smartTrim(titlePt(a),320);
+    return capitalizeFirst(smartTrim(titlePt(a),320));
   }
-  return completeSentencesOnly(smartTrim(text,320)) || smartTrim(text,320);
+  return capitalizeFirst(completeSentencesOnly(smartTrim(text,320)) || smartTrim(text,320));
 }
 function titlePt(a){
   return clean(a.title); // titulo ja vem pronto (pt-BR) do coletor
@@ -9826,8 +9815,8 @@ function triggerRefresh(){
 // ── FILTER ────────────────────────────────────────────────────────────────────
 function isRelevantDrop(a){
   const hay=`${a.title} ${a.summary}`.toLowerCase();
-  const relevant=['startup','scale-up','venture','investimento','funding','captação','rodada','aporte','seed','valuation','aquisição','acquire','ipo','unicórnio','unicorn','tecnologia','technology','tech','software','saas','plataforma','inteligência artificial','artificial intelligence',' ia ',' ai ','machine learning','llm','chatgpt','openai','gemini','robô','robot','automação','chip','semiconductor','cloud','fintech','edtech','healthtech','deeptech','nubank','ifood','totvs','stone','rappi','amazon','google','apple','microsoft','meta','nvidia','bytedance','alibaba','tencent','baidu','anthropic','spacex'];
-  const blocked=['mega-sena','loteria','sorteio','futebol','campeonato','copa do mundo','olimpíada','eleição','candidato','partido político','deputado','senador','horóscopo','novela','big brother','bbb ','reality show','bets ','apostas esportivas','cassino','saneamento básico','abastecimento de água','previsão do tempo'];
+  const relevant=['startup','startups','scale-up','venture','venture capital','funding','captação','captou','rodada','aporte','seed','valuation','unicórnio','unicorn','m&a','aquisição','adquire','ipo','tecnologia','technology','tech','software','saas','plataforma','inteligência artificial','artificial intelligence',' ia ',' ai ','machine learning','llm','chatgpt','openai','gemini','robô','robot','automação','chip','semiconductor','cloud','fintech','edtech','healthtech','deeptech','climate tech','nubank','ifood','totvs','stone','rappi','amazon','google','apple','microsoft','meta','nvidia','bytedance','alibaba','tencent','baidu','anthropic','spacex','databricks'];
+  const blocked=['mega-sena','loteria','sorteio','futebol','campeonato','copa do mundo','olimpíada','esporte olímpico','eleição','campanha','candidato','partido político','deputado','senador','governador','presidente lula','bolsonaro','marina silva','horóscopo','novela','big brother','bbb ','reality show','bets ','apostas esportivas','cassino','saneamento básico','abastecimento de água','previsão do tempo','justa causa','atestado','trend no trabalho','demissão','funcionário','petróleo','foz do amazonas','exploração de petróleo'];
   if(blocked.some(k=>hay.includes(k))) return false;
   // Títulos genéricos demais sem contexto no resumo são descartados
   const genericTitle=/^(openai|google|meta|amazon|apple|microsoft|nvidia|\w+)\s+(avança|anuncia|apresenta|lança|atinge|registra|alcança)\s+em\s+/i;
