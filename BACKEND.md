@@ -39,6 +39,18 @@ GET /.netlify/functions/newsletter
 Authorization: Bearer ADMIN_TOKEN
 ```
 
+Remover um inscrito:
+
+```http
+DELETE /.netlify/functions/newsletter
+Authorization: Bearer ADMIN_TOKEN
+Content-Type: application/json
+
+{
+  "email": "nome@email.com"
+}
+```
+
 ### Analytics
 
 O site envia automaticamente eventos de visualizacao, cliques, buscas, filtros, newsletter e branded content.

@@ -19,6 +19,19 @@ export default async (req) => {
     return json({ ok: true, subscribers, leads });
   }
 
+  if (req.method === "DELETE") {
+    if (!requireAdmin(req)) return json({ ok: false, error: "unauthorized" }, { status: 401 });
+    const body = await readJsonBody(req);
+    const email = normalizeEmail(body.email);
+    if (!EMAIL_RE.test(email)) {
+      return json({ ok: false, error: "invalid_email" }, { status: 400 });
+    }
+    const subscribers = (await store.get("subscribers", { type: "json" })) || [];
+    const nextSubscribers = subscribers.filter((item) => item.email !== email);
+    await store.setJSON("subscribers", nextSubscribers);
+    return json({ ok: true, removed: subscribers.length - nextSubscribers.length });
+  }
+
   if (req.method !== "POST") {
     return json({ ok: false, error: "method_not_allowed" }, { status: 405 });
   }
