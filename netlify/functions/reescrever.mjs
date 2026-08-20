@@ -15,10 +15,16 @@ const FONTES = [
   { outlet: "Exame",            editoria: "Economia",   rss: "https://exame.com/feed/" },
   { outlet: "Brazil Journal",   editoria: "Funding",    rss: "https://braziljournal.com/feed/" },
   { outlet: "IT Forum",         editoria: "Tech",       rss: "https://itforum.com.br/feed/" },
-  { outlet: "TechCrunch",       editoria: "Tech",       rss: "https://techcrunch.com/feed/" },
+  { outlet: "TechCrunch Startups", editoria: "Startups", rss: "https://techcrunch.com/category/startups/feed/" },
   { outlet: "Crunchbase News",  editoria: "Funding",    rss: "https://news.crunchbase.com/feed/" },
   { outlet: "VentureBeat",      editoria: "AI",         rss: "https://venturebeat.com/feed/" },
-  { outlet: "Sifted",           editoria: "Startups",   rss: "https://sifted.eu/feed" },
+  { outlet: "The Verge",        editoria: "Tech",       rss: "https://www.theverge.com/rss/index.xml" },
+  { outlet: "Rest of World",    editoria: "Startups",   rss: "https://restofworld.org/feed/latest/" },
+  { outlet: "Tech.eu",          editoria: "Startups",   rss: "https://tech.eu/feed/" },
+  { outlet: "EU-Startups",      editoria: "Startups",   rss: "https://www.eu-startups.com/feed/" },
+  { outlet: "Inc42",            editoria: "Startups",   rss: "https://inc42.com/feed/" },
+  { outlet: "ETtech",           editoria: "Tech",       rss: "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms" },
+  { outlet: "TechNode",         editoria: "Tech",       rss: "https://technode.com/feed/" },
 ];
 
 // Quantas matérias novas reescrever por execução (controla custo/tempo)
@@ -69,6 +75,8 @@ REGRAS OBRIGATÓRIAS:
 - Reescreva do zero, com suas próprias palavras e estrutura. Não copie frases do original nem parafraseie linha a linha.
 - Mantenha TODOS os fatos, nomes, empresas e números presentes no original. NÃO invente nenhum dado, número, valor ou citação que não esteja no texto. Se algo não estiver claro, não afirme.
 - Tom jornalístico, direto, escaneável. Português do Brasil.
+- Se a notícia original estiver em inglês, chinês ou qualquer outro idioma, traduza e reescreva completamente em português do Brasil. Não deixe palavras, frases ou estruturas em inglês no texto final.
+- Só publique se fizer sentido para founders, investidores, operadores de startups, venture capital, tecnologia, IA, fintechs ou empresas digitais. Se for política, esporte, celebridade, lifestyle, consumo genérico ou patrimônio pessoal de executivos, responda com {"descartar":true}.
 - NÃO use travessões (—). Use vírgula, ponto ou parênteses.
 - Título curto e forte (máx ~12 palavras). Linha fina de 1 a 2 frases. Corpo em 3 a 5 parágrafos.
 
@@ -102,7 +110,9 @@ Responda APENAS com JSON válido, sem markdown nem crases, neste formato exato:
   text = text.replace(/^```json/i, "").replace(/^```/, "").replace(/```$/, "").trim();
   const a = text.indexOf("{"), b = text.lastIndexOf("}");
   if (a >= 0 && b >= 0) text = text.slice(a, b + 1);
-  return JSON.parse(text);
+  const art = JSON.parse(text);
+  if (art.descartar) return null;
+  return art;
 }
 
 // ── Handler agendado ──
@@ -145,6 +155,7 @@ export default async (req) => {
   for (const c of aReescrever) {
     try {
       const art = await reescrever(c.item, c.fonte, apiKey);
+      if (!art) continue;
       const id = "m_" + Date.now() + "_" + Math.random().toString(36).slice(2, 8);
       const registro = {
         id,

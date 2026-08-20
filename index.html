@@ -9514,6 +9514,10 @@ function phrasePt(text){
 function hasEnglishResidue(text){
   return /\b(the|with|from|for|and|company|companies|market|growth|announced|acquisition|startup founders|venture-backed|founded|bringing|total round|round|raises|raised|extension|backed|joins|quietly|invested|outperforms|arrives|claim|unveils|first product|computer use|legal|security|institute)\b/i.test(text);
 }
+function isTranslatedEnough(a){
+  if(articleCountry(a)==='BR') return true;
+  return !hasEnglishResidue(`${a.title||''} ${a.summary||''} ${a.whyMatters||''}`);
+}
 function companyFromTitle(title){
   const cleaned=clean(title).replace(/^(exclusive|analysis|opinion):\s*/i,'');
   const match=cleaned.match(/^([A-Z][A-Za-z0-9.-]{1,}(?:\s+[A-Z][A-Za-z0-9.-]{1,}){0,2})/);
@@ -9757,7 +9761,7 @@ async function loadNews(){
   setStatus('Carregando drops em português...');
   try{
     lastPayload=await loadNewsPayload();
-    ALL=dedupe((lastPayload.articles||[]).map(decorate).filter(a=>isArticleUrl(a.url)).filter(a=>articleCountry(a)==='BR'));
+    ALL=dedupe((lastPayload.articles||[]).map(decorate).filter(a=>isArticleUrl(a.url)).filter(isTranslatedEnough));
     if(!ALL.length) throw new Error('Arquivo sem notícias');
     const updated=new Date(lastPayload.updatedAt);
     document.getElementById('hd-update').textContent=`Atualizado às ${updated.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})}`;

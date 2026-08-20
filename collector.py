@@ -111,7 +111,7 @@ SOURCES = [
 DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "news.json")
 USER_AGENT = "StartupDropsBot/1.0 (+https://startupdrops)"
 REQUEST_TIMEOUT = 20
-ACTIVE_COUNTRIES = {"BR"}
+ACTIVE_COUNTRIES = {"BR", "US", "EU", "CN", "IN"}
  
 # Portão de qualidade: resumo precisa ter pelo menos este tamanho pra virar matéria.
 # Fontes que só entregam trecho curto (HBR, muitos paywalls) são descartadas
@@ -189,9 +189,7 @@ NOISY_TECH_BLOCKLIST = [
 ]
 
 BLOCKED_DISPLAY_SOURCES = NOISY_TECH_SOURCES | {
-    "TechCrunch Startups", "Crunchbase News", "VentureBeat", "The Verge", "Wired",
-    "Rest of World", "Business Insider Tech", "Ars Technica", "Reuters Business",
-    "Bloomberg Markets", "Sifted", "Tech.eu", "EU-Startups", "Finsider",
+    "Business Insider Tech", "Ars Technica", "Finsider",
 }
 
 
@@ -229,10 +227,30 @@ def title_broken(a):
     return bool(t) and t[0].islower()
 
 
+ENGLISH_RESIDUE = re.compile(
+    r"\b(the|with|from|for|and|company|companies|market|growth|announced|"
+    r"acquisition|raises|raised|funding|round|seed|series|backed|launches|"
+    r"launched|unveils|based|develop|platform|to build|first close|its|"
+    r"expand|new|deal|invests|invested|startup founders|venture-backed)\b",
+    re.I,
+)
+
+
+def looks_translated(article):
+    """Internacional so deve aparecer se estiver em pt-BR fluente."""
+    if article.get("country") == "BR":
+        return True
+    if article.get("summaryMethod") != "ia":
+        return False
+    text = f"{article.get('title','')} {article.get('summary','')} {article.get('whyMatters','')}"
+    return not ENGLISH_RESIDUE.search(text)
+
+
 def is_allowed_display_article(article):
     return (
         article.get("country") in ACTIVE_COUNTRIES
         and not title_broken(article)
+        and looks_translated(article)
         and article_source_names(article).isdisjoint(BLOCKED_DISPLAY_SOURCES)
     )
 
@@ -517,7 +535,6 @@ def collect(use_ai, max_age_days):
     existing = load_existing()
     by_key = {a.get("_key") or canonical_key(a["url"]): a for a in existing.get("articles", [])}
  
-    # Escopo operacional: apenas Brasil.
     articles = [a for a in by_key.values() if is_allowed_display_article(a)]
     failures = []
     seen_now = set()
@@ -526,6 +543,8 @@ def collect(use_ai, max_age_days):
  
     for source in SOURCES:
         if source.get("country") not in ACTIVE_COUNTRIES:
+            continue
+        if source.get("country") != "BR" and not use_ai:
             continue
         print(f"→ {source['name']}", file=sys.stderr)
         parsed, err = fetch_feed(source)
