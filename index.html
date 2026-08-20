@@ -9388,8 +9388,8 @@ function tagsFor(a){
   return tags;
 }
 function kickerFromTags(tags){
-  if(tags.includes('ia')) return 'IA';
   if(tags.includes('funding')) return 'Funding';
+  if(tags.includes('ia')) return 'IA';
   if(tags.includes('unicorns')) return 'Unicórnios';
   if(tags.includes('economia')) return 'Mercado';
   if(tags.includes('mercado')) return 'Mercado';
@@ -9414,8 +9414,8 @@ function kickerCls(a){
 }
 function isFundingDrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
-  if(/recomenda compra|recomendação de compra|\brecomendação\b|\bcoverage\b|\bbuy\b|\bb3\b|bolsa de valores|bilheteria|empréstimo|conciliação|stf|banco de brasília|justa causa|atestado|trend no trabalho|demiss/.test(text)) return false;
-  const fundingSignal=/\bfunding\b|\bcapta(?:ção|r|do|m)?\b|\bcaptou\b|\bnova rodada\b|\brodada de (?:investimento|funding|captação|venture)\b|\baporte\b|\bsérie\s+[a-k]\b|\bseries\s+[a-k]\b|\bseed\b|\bpre-seed\b|\braised\b|\braises\b|\bvaluation\b|\bavaliad/i.test(text);
+  if(/recomenda compra|recomendação de compra|\brecomendação\b|\bcoverage\b|\bbuy\b|\bb3\b|bolsa de valores|\bações\b|\betf|bilheteria|empréstimo|conciliação|stf|banco de brasília|justa causa|atestado|trend no trabalho|demiss/.test(text)) return false;
+  const fundingSignal=/\bfunding\b|\bcapta(?:ção|r|do|m)?\b|\bcaptou\b|\blevantou\b|\bnova rodada\b|\brodada de (?:investimento|funding|captação|venture)\b|\baporte\b|\bsérie\s+[a-k]\b|\bseries\s+[a-k]\b|\bseed\b|\bpre-seed\b|\braised\b|\braises\b|\bcvc(?:s)?\b|\bventure capital\b|\bcapital de risco\b/i.test(text);
   const ecosystemContext=/startup|scale-up|venture|cvc|investidor|fundador|founder|private equity|fundo de venture|capital de risco|ecossistema|fintech|edtech|healthtech|deeptech|saas|ia\b|inteligência artificial/i.test(text);
   return fundingSignal && ecosystemContext;
 }
@@ -9425,12 +9425,21 @@ function isMarketDrop(a){
   return hasTag(a,'mercado') || hasTag(a,'economia') ||
     /\bipo\b|nasdaq|\bbolsa\b|\bb3\b|valor de mercado|market cap|big tech|private equity|venture capital|\bfundo\b|aquisi|m&a|merger|acquisition|\bselic\b|\bjuros\b|banco central|copom|inflaç|\bipca\b|\bpib\b|câmbio|cambial|\bdólar\b|política monetária|política fiscal|reforma tributária|\bfed\b|federal reserve/.test(text);
 }
-function isTechIADrop(a){ return hasTag(a,'ia') || hasTag(a,'tech') || hasTag(a,'saas'); }
+function isTechIADrop(a){
+  const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
+  if(isFundingDrop(a)) return false;
+  return hasTag(a,'ia') ||
+    /\bia\b|inteligência artificial|artificial intelligence|llm|chatgpt|openai|gemini|claude|machine learning|chip|semiconductor|data center|cloud|cyber|cibersegurança|segurança digital|robô|robot|robótica|automação|supercomputador|algoritmo/.test(text);
+}
 function isUnicornDrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
   return hasTag(a,'unicorns') || /unicórnio|unicorn|valuation|avaliad|bilhão|bilhao|billion|decacorn/.test(text);
 }
-function isStartupDrop(a){ return !isFundingDrop(a) && !isMarketDrop(a) && !isUnicornDrop(a); }
+function isStartupDrop(a){
+  const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
+  if(isFundingDrop(a) || isTechIADrop(a) || isMarketDrop(a) || isUnicornDrop(a) || isMADrop(a)) return false;
+  return /startup|startups|scale-up|founder|fundador|empreendedor|empreendedorismo|ecossistema|produto|mvp|pmf|go-to-market|growth|acelera(?:ção|dora)|incubadora|hub|inovação|cliente|operação|contrata|expansão|lança|parceria|saas|software|fintech|edtech|healthtech|empresa de tecnologia/.test(text);
+}
 function isMADrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
   return /m&a|aquisi|adquire|compra|merger|acquisition|deal/.test(text);
