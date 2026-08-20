@@ -475,7 +475,7 @@ def summary_by_ai(title, raw_summary, region, country="US"):
     )
     try:
         resp = client.messages.create(
-            model="claude-haiku-4-5-20251001",
+            model="claude-3-5-haiku-20241022",
             max_tokens=400,
             messages=[{"role": "user", "content": prompt}],
         )
@@ -540,6 +540,7 @@ def collect(use_ai, max_age_days):
     seen_now = set()
     new_count = 0
     skipped_thin = 0
+    skipped_untranslated = 0
  
     for source in SOURCES:
         if source.get("country") not in ACTIVE_COUNTRIES:
@@ -618,6 +619,9 @@ def collect(use_ai, max_age_days):
                 "sourcesCovered": [source["name"]],
                 "coverageCount": 1,
             }
+            if not is_allowed_display_article(article):
+                skipped_untranslated += 1
+                continue
             by_key[key] = article
             articles.append(article)
             new_count += 1
@@ -647,7 +651,7 @@ def collect(use_ai, max_age_days):
         "articles": kept,
     }
     save(payload)
-    print(f"\n✓ {new_count} novas · {len(kept)} no arquivo · {skipped_thin} descartadas (resumo raso) · {len(failures)} falhas", file=sys.stderr)
+    print(f"\n✓ {new_count} novas · {len(kept)} no arquivo · {skipped_thin} descartadas (resumo raso) · {skipped_untranslated} internacionais sem tradução · {len(failures)} falhas", file=sys.stderr)
     return payload
  
  
