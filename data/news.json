@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:12:55.042099+00:00",
+  "updatedAt": "2026-08-20T16:06:28.617233+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -134,6 +134,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/coty-aposta-em-perfumes-premium-para-retomar-crescimento-apos-trimestre-fraco/",
+      "_key": "dac8f58fa98827e345b8edea4c2a5c8e",
+      "title": "Coty aposta em perfumes premium para retomar crescimento após trimestre fraco",
+      "originalTitle": "Coty aposta em perfumes premium para retomar crescimento após trimestre fraco",
+      "summary": "Empresa de beleza elevou prejuízo para US$ 141 milhões, mas aponta sinais de recuperação e reforça estratégia de concentrar investimentos em marcas de maior valor agregado The post Coty aposta em perfumes premium para retomar crescimento após trimestre fraco appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/coty-aposta-em-perfumes-premium-para-retomar-crescimento-apos-trimestre-fraco/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-19T203640Z_2040836298_RC24FS9EAOT6_RTRMADP_3_COTY-RESULTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-20T15:47:45+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/20/zuckerberg-de-meta-compra-castelo-do-seculo-xix-no-sudeste-da-irlanda.ghtml",
+      "_key": "06cacc04963b0ed40ad5cd578690b785",
+      "title": "Mark Zuckerberg, da Meta, compra castelo do século XIX no sudeste da Irlanda",
+      "originalTitle": "Mark Zuckerberg, da Meta, compra castelo do século XIX no sudeste da Irlanda",
+      "summary": "Strancally Castle, que foi recentemente comprado pelo CEO da Meta, Mark Zuckerberg, em Waterford, Irlanda, em 20 de agosto de 2026. Patrick Kenealy/Documento via REUTERS ESTA IMAGEM FOI FORNECIDA POR UM TERCEIRO.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/20/zuckerberg-de-meta-compra-castelo-do-seculo-xix-no-sudeste-da-irlanda.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/mRwu0CbDo4y3bA37uHCRa3G35Ng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/2/dXoF4uQV2KNBnJTZjBNw/2026-08-20t153902z-162390395-rc2e2na6xr5q-rtrmadp-3-meta-zuckerberg-ireland.jpg",
+      "publishedAt": "2026-08-20T15:43:41+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/gerdau-possivel-acordo-entre-eua-e-canada-preocupa-menos-do-que-parece-entenda/",
+      "_key": "c51c69e9dc6b38ce9ff20e5f64135608",
+      "title": "Gerdau: possível acordo entre EUA e Canadá preocupa menos do que parece; entenda",
+      "originalTitle": "Gerdau: possível acordo entre EUA e Canadá preocupa menos do que parece; entenda",
+      "summary": "Informações na mídia suguerem uma possível redução das tarifas americanas sobre o aço canadense The post Gerdau: possível acordo entre EUA e Canadá preocupa menos do que parece; entenda appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/gerdau-possivel-acordo-entre-eua-e-canada-preocupa-menos-do-que-parece-entenda/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/gerdau-09-fabrica.jpg?fit=300%2C188&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-20T14:39:55+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/20/de-homem-mais-rico-da-asia-a-condenado-a-prisao-perpetua-quem-e-o-fundador-da-evergrande.ghtml",
+      "_key": "65a312f5c0602849a51d7714cb7221f2",
+      "title": "De homem mais rico da Ásia a condenado à prisão perpétua: quem é o fundador da Evergrande",
+      "originalTitle": "De homem mais rico da Ásia a condenado à prisão perpétua: quem é o fundador da Evergrande",
+      "summary": "Hui Ka Yan, fundador do Grupo Evergrande da China, está em tribunal no Tribunal Popular Intermediário de Shenzhen, em Shenzhen, província de Guangdong, China, neste comunicado de imagem do Tribunal Popular Intermediário de Shenzhen em 20 de agosto de 2026.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/20/de-homem-mais-rico-da-asia-a-condenado-a-prisao-perpetua-quem-e-o-fundador-da-evergrande.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/VF_el5SzSJjqCuF9Nx_SFgdWBOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/z/NzZ2lKSuqgF6OJV9k56g/galeria-de-3-imagens-8-.jpg",
+      "publishedAt": "2026-08-20T14:14:16+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-20082026/",
       "_key": "cce8b14b2add3b54dade4e10b672dd22",
@@ -341,6 +425,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/20/dolar-ibovespa.ghtml",
+      "_key": "dc768a99f1e4efa108547f34e953c044",
+      "title": "Dólar opera em alta, mesmo após anúncio do Tesouro americano e de olho no petróleo; Ibovespa sobe",
+      "originalTitle": "Dólar opera em alta, mesmo após anúncio do Tesouro americano e de olho no petróleo; Ibovespa sobe",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta quinta-feira (20), com um avanço de 0,15% perto das 12h15, cotado a R$ 5,1838. O Ibovespa, principal índice da bolsa brasileira, subia 0,96% no mesmo horário, aos 169.437 pontos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/20/dolar-ibovespa.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/XNe-iZGShwcfxKKIu_dUZJjCMZA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/W/pNqFkwSSG90RoeSZ80Pg/drf20241217001.jpg",
+      "publishedAt": "2026-08-20T12:00:30+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
       ],
       "coverageCount": 1
     },
