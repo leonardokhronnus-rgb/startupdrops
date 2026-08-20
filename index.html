@@ -9437,8 +9437,23 @@ function isUnicornDrop(a){
 }
 function isStartupDrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
-  if(isFundingDrop(a) || isTechIADrop(a) || isMarketDrop(a) || isUnicornDrop(a) || isMADrop(a)) return false;
-  return /startup|startups|scale-up|founder|fundador|empreendedor|empreendedorismo|ecossistema|produto|mvp|pmf|go-to-market|growth|acelera(?:ção|dora)|incubadora|hub|inovação|cliente|operação|contrata|expansão|lança|parceria|saas|software|fintech|edtech|healthtech|empresa de tecnologia/.test(text);
+  if(isFundingDrop(a) || isUnicornDrop(a) || isMADrop(a)) return false;
+  if(/evergrande|prisão perpétua|condenado|discord|golpe|desenrola|stablecoins?|tokenização|steve jobs|larry page|janja|redes sociais|menores|youtube|criadores|fed\b|banco central|\bibc-br\b|\bpib\b|inflação|petróleo|ecopetrol|brava|câmeras com ia|prever crimes|fornecedores de energia|trabalhadores que .*vídeos de ia|opinião\.|artigo:|sp2b foi legal|tatuagens|vergonha alheia|liverpool|bill clinton|openai|chatgpt|claude|turismo de ia|ia autônoma|inteligência artificial generativa|algoritmo/.test(text)) return false;
+  const source=`${a.source||''}`.toLowerCase();
+  const ecosystemSignal=/startup|startups|scale-up|founder|fundador|empreendedor|empreendedorismo|ecossistema|acelera(?:ção|dora)|incubadora|abstartups|case 2026|comunidade|hub de inovação|negócio inovador/.test(text);
+  const operatorSignal=/contrata|nomeia|lança|lançou|parceria|expansão|cliente|operação|produto|produtos|growth|go-to-market|mvp|pmf|vendas|cultura|diretor|head of|mobilidade ativa|novos talentos|transformação digital|gestão do trabalho|pessoas|moradia/.test(text);
+  const startupSource=/startupi|startups\.com\.br|draft|distrito|abstartups/.test(source);
+  return ecosystemSignal || (startupSource && operatorSignal);
+}
+function isStartupShelfDrop(a){
+  const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
+  const source=`${a.source||''}`.toLowerCase();
+  if(isFundingDrop(a) || isUnicornDrop(a) || isMADrop(a)) return false;
+  if(/evergrande|prisão perpétua|condenado|discord|golpe|desenrola|stablecoins?|tokenização|steve jobs|larry page|janja|redes sociais|menores|youtube|criadores|fed\b|banco central|\bibc-br\b|\bpib\b|inflação|petróleo|ecopetrol|brava|câmeras com ia|prever crimes|fornecedores de energia|trabalhadores que .*vídeos de ia|opinião\.|artigo:|sp2b foi legal|tatuagens|vergonha alheia|liverpool|bill clinton|openai|chatgpt|claude|turismo de ia|ia autônoma|inteligência artificial generativa|algoritmo/.test(text)) return false;
+  const startupSource=/startupi|startups\.com\.br|draft|distrito|abstartups/.test(source);
+  const ecosystemSignal=/startup|startups|scale-up|founder|fundador|empreendedor|empreendedorismo|ecossistema|acelera(?:ção|dora)|incubadora|abstartups|case 2026|comunidade|hub de inovação|negócio inovador/.test(text);
+  const operatorSignal=/contrata|nomeia|lança|lançou|parceria|expansão|cliente|operação|produto|produtos|growth|go-to-market|mvp|pmf|vendas|cultura|diretor|head of|mobilidade ativa|novos talentos|transformação digital|gestão do trabalho|pessoas|moradia/.test(text);
+  return ecosystemSignal || (startupSource && operatorSignal);
 }
 function isMADrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
@@ -9892,11 +9907,18 @@ function matchesSearch(a,q){
 
 // ── RENDER NEWS ───────────────────────────────────────────────────────────────
 function renderAll(){
-  const arts=filtered();
   const sideBase=uniqueByDisplayedTitle(dedupe([...MANUAL,...ALL]
     .filter(a=>a.isManual||isArticleUrl(a.url))
     .filter(isDenseEnough)
     .filter(isRelevantDrop)));
+  let arts=filtered();
+  if(activeFilter==='startups' && arts.length<8){
+    const startupPool=dedupe([...MANUAL,...ALL]
+      .filter(a=>a.isManual||isArticleUrl(a.url))
+      .filter(isDenseEnough)
+      .filter(isStartupShelfDrop));
+    arts=uniqueByDisplayedTitle([...arts,...startupPool]);
+  }
   const countEl=document.getElementById('search-count');
   if(countEl){
     if(searchQuery){
