@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:57:34.482196+00:00",
+  "updatedAt": "2026-08-20T03:15:07.676454+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -134,6 +134,279 @@
     }
   ],
   "articles": [
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/20/apesar-de-queda-na-fila-no-inss-pessoas-relatam-espera-de-ate-8-meses-por-resposta-a-pedido-de-beneficio.ghtml",
+      "_key": "def9ba204f4a28903e0a6c603974be94",
+      "title": "Apesar de queda na fila no INSS, pessoas relatam espera de até 8 meses por resposta a pedido de benefício",
+      "originalTitle": "Apesar de queda na fila no INSS, pessoas relatam espera de até 8 meses por resposta a pedido de benefício",
+      "summary": "A fila de espera por benefícios do Instituto Nacional do Seguro Social (INSS) vem recuando e atingiu o menor patamar em 21 meses, segundo dados do Ministério da Previdência Social.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/20/apesar-de-queda-na-fila-no-inss-pessoas-relatam-espera-de-ate-8-meses-por-resposta-a-pedido-de-beneficio.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/hMyQUTUiX9iKVhpiio4A3og0484=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/O/7EMpfFS8Gol6iXFv2Gog/previdencia-inss.jpg",
+      "publishedAt": "2026-08-20T03:00:56+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/20/vazamento-de-dados-na-latam-entenda-o-que-foi-exposto-e-como-se-proteger.ghtml",
+      "_key": "49d04210a9661792348ecffac5853a98",
+      "title": "Vazamento de dados na Latam: entenda o que foi exposto e como se proteger",
+      "originalTitle": "Vazamento de dados na Latam: entenda o que foi exposto e como se proteger",
+      "summary": "Latam não revelou quantos clientes foram afetados Latam/Divulgação Clientes da companhia aérea Latam tiveram dados pessoais e parte de números de cartões de crédito expostos após um incidente de segurança que permitiu consultas não autorizadas a seu sistema.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/20/vazamento-de-dados-na-latam-entenda-o-que-foi-exposto-e-como-se-proteger.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/eGSDzasGjU0ADW62kxNKPIr_oYk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/I/yzMf1kTsGNxoqFWyVImQ/aviao-latam.jpg",
+      "publishedAt": "2026-08-20T03:00:34+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/anvisa-inicia-regulamentacao-de-apps-de-delivery-para-entrega-de-medicamentos/",
+      "_key": "744571a4bf7986fc32818f49eb4f85dd",
+      "title": "Anvisa inicia regulamentação de apps de delivery para entrega de medicamentos",
+      "originalTitle": "Anvisa inicia regulamentação de apps de delivery para entrega de medicamentos",
+      "summary": "Colegiado se posicionou a favor de atribuir a iniciativa ao Congresso Nacional The post Anvisa inicia regulamentação de apps de delivery para entrega de medicamentos appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/anvisa-inicia-regulamentacao-de-apps-de-delivery-para-entrega-de-medicamentos/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/03/5A36E1E1-8799-49E0-90D3-46C54D06CB9C.jpeg?fit=300%2C176&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-20T00:32:09+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/trump-anuncia-guerra-economica-contra-o-ira-e-ameaca-paises-que-ajudarem-regime/",
+      "_key": "7069827d98008bb7bdd3d6104749395b",
+      "title": "Trump anuncia ‘guerra econômica’ contra o Irã e ameaça países que ajudarem regime",
+      "originalTitle": "Trump anuncia ‘guerra econômica’ contra o Irã e ameaça países que ajudarem regime",
+      "summary": "Presidente dos EUA anunciou nova rodada de medidas econômicas \"sem precedentes\" The post Trump anuncia &#8216;guerra econômica&#8217; contra o Irã e ameaça países que ajudarem regime appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/trump-anuncia-guerra-economica-contra-o-ira-e-ameaca-paises-que-ajudarem-regime/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-17-081506.png?fit=300%2C195&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-20T00:26:07+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/19/maior-termica-do-brasil-e-paralisada-apos-falha-em-equipamento.ghtml",
+      "_key": "50d792210ead4d017645ecda778c9e9c",
+      "title": "Maior térmica do Brasil é paralisada após falha em equipamento",
+      "originalTitle": "Maior térmica do Brasil é paralisada após falha em equipamento",
+      "summary": "Usina GNA II, no complexo portuário do Açu, no Rio de Janeiro, é a maior termelétrica do país A usina GNA II, maior termelétrica do país, interrompeu a operação em 10 de agosto após uma falha no disjuntor da turbina a vapor, que afetou o transformador elevador da unidade, segundo fato relevante divulgado pela companhia nesta quarta-feira (19).",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/19/maior-termica-do-brasil-e-paralisada-apos-falha-em-equipamento.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/xFXbX1u9V5VE-DBArDU7Rr9FhZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/4/04KrB1R52p25HKgezLtQ/usina-gna-ii.jpg",
+      "publishedAt": "2026-08-20T00:22:34+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/mundo/noticia/2026/08/19/trump-anuncia-guerra-economica-contra-o-ira-e-ameaca-paises-que-ajudarem-o-regime.ghtml",
+      "_key": "40ec14c0a7a8c09f1fb4baedde88995b",
+      "title": "Trump anuncia 'guerra econômica' contra o Irã e ameaça países que ajudarem o regime",
+      "originalTitle": "Trump anuncia 'guerra econômica' contra o Irã e ameaça países que ajudarem o regime",
+      "summary": "Trump diz que não há perspectiva de negociações com o Irã O presidente dos Estados Unidos, Donald Trump, anunciou nesta quarta-feira (19) que está lançando uma \"guerra econômica\" contra o Irã.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/mundo/noticia/2026/08/19/trump-anuncia-guerra-economica-contra-o-ira-e-ameaca-paises-que-ajudarem-o-regime.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/3vDa7M5J9GDxT58tHLFLhUHSwoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/d/Np7kZcTlGXgF104gSNFQ/2026-08-14t200613z-1795537502-rc2jymam5ni2-rtrmadp-3-usa-trump.jpg",
+      "publishedAt": "2026-08-19T23:06:34+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/trump-cita-suica-para-cobrar-corte-de-juros-e-critica-fed-por-manter-taxas-altas/",
+      "_key": "4fb34522bc2e5a088610c17c539180ee",
+      "title": "Trump cita Suíça para cobrar corte de juros e critica Fed por manter taxas altas",
+      "originalTitle": "Trump cita Suíça para cobrar corte de juros e critica Fed por manter taxas altas",
+      "summary": "Presidente afirma que a maior economia do mundo deveria ter taxas mais baixas que as suíças e diz que juros elevados custam centenas de bilhões de dólares aos americanos The post Trump cita Suíça para cobrar corte de juros e critica Fed por manter taxas altas appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/trump-cita-suica-para-cobrar-corte-de-juros-e-critica-fed-por-manter-taxas-altas/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-12T000331Z_1603220559_RC2MWMAQQQE0_RTRMADP_3_USA-TRUMP.jpg?fit=300%2C214&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T22:32:19+00:00",
+      "score": 50,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/lula-esta-gastando-r-5-bi-para-segurar-a-conta-de-luz-o-tcu-foi-e-voltou/",
+      "_key": "2e85e7ea5bfeb9ff8f2c727551d23eb6",
+      "title": "Lula está gastando R$ 5 bi para segurar a conta de luz. O TCU foi e voltou",
+      "originalTitle": "Lula está gastando R$ 5 bi para segurar a conta de luz. O TCU foi e voltou",
+      "summary": "O ministro do TCU, Antonio Anastasia, acaba de revogar uma decisão cautelar concedida por ele mesmo dias atrás, que suspendia o uso de cerca de R$ 5 bilhões em recursos públicos para segurar reajustes de tarifas de energia principalmente nas regiões Norte e Nordeste.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/lula-esta-gastando-r-5-bi-para-segurar-a-conta-de-luz-o-tcu-foi-e-voltou/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/GettyImages-1616900745-635x357.jpg",
+      "publishedAt": "2026-08-19T22:30:08+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/casas-bahia-consegue-protecao-temporaria-contra-credores-na-justica/",
+      "_key": "cfb7193d3798ebc8cbf463a856abc1ca",
+      "title": "Casas Bahia consegue proteção temporária contra credores na Justiça",
+      "originalTitle": "Casas Bahia consegue proteção temporária contra credores na Justiça",
+      "summary": "Varejista pediu recuperação judicial na noite de domingo com dívida de R$ 17,3 bilhões. Lojas, centros de distribuição e documentos da empresa passarão por perícia The post Casas Bahia consegue proteção temporária contra credores na Justiça appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/casas-bahia-consegue-protecao-temporaria-contra-credores-na-justica/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-17T100552Z_1_LYNXMPEM7G0M0_RTROPTP_4_PAODEACUCAR-CASASBAHIA.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T22:27:32+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/harry-e-meghan-voltam-ao-reino-unido-com-filhos-6-anos-apos-ruptura-com-familia-real/",
+      "_key": "c3a5d01f96aa6a90e30a94f3ac7b2097",
+      "title": "Harry e Meghan planejam retorno ao Reino Unido com os filhos após seis anos",
+      "originalTitle": "Harry e Meghan planejam retorno ao Reino Unido com os filhos após seis anos",
+      "summary": "Duque e duquesa de Sussex devem permanecer por um período prolongado no país, mas sem retomar funções oficiais da monarquia The post Harry e Meghan planejam retorno ao Reino Unido com os filhos após seis anos appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/harry-e-meghan-voltam-ao-reino-unido-com-filhos-6-anos-apos-ruptura-com-familia-real/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-19T214826Z_1_LYNXMPEM7I19Q_RTROPTP_4_BRITAIN-ROYALS-AUSTRALIA-HARRY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-19T22:22:07+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/as-redes-sociais-viciam-a-meta-no-banco-dos-reus/",
+      "_key": "d4f35f9550e0a8b1101394bdbce7f435",
+      "title": "As redes sociais viciam? A Meta no banco dos réus",
+      "originalTitle": "As redes sociais viciam? A Meta no banco dos réus",
+      "summary": "A Meta está novamente no banco dos réus, desta vez em um processo movido por 29 estados americanos e que poderá custar à Big Tech de Mark Zuckerberg penalidades acima de US$ 1 trilhão – superando o acordo coletivo contra a indústria do tabaco, em 1998.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/as-redes-sociais-viciam-a-meta-no-banco-dos-reus/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/07/07-22-Mark-Zuckerberg-ok-237x300.jpg?x96440",
+      "publishedAt": "2026-08-19T22:14:36+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/poder/com-redata-empacado-no-senado-sobra-de-r-52-bilhoes-pode-virar-alivio-para-a-meta-fiscal/",
+      "_key": "e99fe148bd292a29f4f6cc02698c018f",
+      "title": "Com Redata empacado no Senado, “sobra” de R$ 5,2 bilhões pode virar alívio para a meta fiscal",
+      "originalTitle": "Com Redata empacado no Senado, “sobra” de R$ 5,2 bilhões pode virar alívio para a meta fiscal",
+      "summary": "Brasília &#8211; A lentidão do Congresso em aprovar uma lei que cria o Regime Especial de Tributação para Serviços de Data Center (Redata) levou o governo a praticamente desistir do programa em 2026.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/poder/com-redata-empacado-no-senado-sobra-de-r-52-bilhoes-pode-virar-alivio-para-a-meta-fiscal/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2020/01/inteligencia-artificial-data-center-1-300x169.jpg",
+      "publishedAt": "2026-08-19T21:59:43+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/08/19/apos-descoberta-de-petroleo-na-foz-do-amazonas-marina-silva-defende-estudos-para-evitar-impactos-indesejaveis.ghtml",
+      "_key": "828bc661326289e90655604ffa5267fd",
+      "title": "Após descoberta de petróleo na Foz do Amazonas, Marina Silva defende estudos para 'evitar impactos indesejáveis'",
+      "originalTitle": "Após descoberta de petróleo na Foz do Amazonas, Marina Silva defende estudos para 'evitar impactos indesejáveis'",
+      "summary": "Após descoberta de petróleo, Marina defende estudos para 'evitar impactos indesejáveis' Candidata ao Senado Federal por São Paulo, Marina Silva (Rede Sustentabilidade) defendeu nesta quarta-feira (19), em São Carlos (SP), a necessidade de estudos técnicos para evitar \"impactos [ambientais] indesejáveis\" em caso de exploração de petróleo na região da Foz do Amazonas.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/08/19/apos-descoberta-de-petroleo-na-foz-do-amazonas-marina-silva-defende-estudos-para-evitar-impactos-indesejaveis.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/3nVyliUFf-RVA6v-MUkAAU-Dvbg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/m/1HxwH7S1av9Txtl2Bbqg/marina-silva.jpeg",
+      "publishedAt": "2026-08-19T21:51:08+00:00",
+      "score": 30,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/19/latam-incidente-seguranca-dados.ghtml",
       "_key": "50934e9514f1d0bb01bae2059aa26080",
