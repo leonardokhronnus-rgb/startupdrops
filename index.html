@@ -415,7 +415,7 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
 .newsletter-box p{font-size:.9rem;line-height:1.45;color:var(--ink3);margin-bottom:16px;}
 .newsletter-box input{width:100%;height:38px;border:1px solid #ddd4ce;border-radius:3px;background:#fff;padding:0 12px;margin-bottom:12px;font:inherit;font-size:.86rem;}
 .newsletter-box button{width:100%;height:38px;border:0;border-radius:4px;background:#e12b2b;color:#fff;font:inherit;font-weight:800;letter-spacing:0;text-transform:none;cursor:pointer;}
-.branded-section{margin:42px 0 0;background:#101114;color:#fff;border-radius:8px;padding:34px 36px 36px;}
+.branded-section{margin:36px 0;background:#101114;color:#fff;border-radius:8px;padding:34px 36px 36px;}
 .branded-head{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;border-bottom:1px solid rgba(255,255,255,.28);padding-bottom:14px;margin-bottom:28px;}
 .branded-head h2{font-family:var(--sans);font-size:1.55rem;line-height:1.1;font-weight:900;}
 .branded-note{font-size:.72rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.72);}
@@ -425,9 +425,8 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
 .branded-deck{font-size:.95rem;line-height:1.65;color:rgba(255,255,255,.72);max-width:660px;margin-bottom:18px;}
 .branded-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;color:rgba(255,255,255,.58);font-size:.76rem;}
 .branded-cta{display:inline-flex;align-items:center;justify-content:center;height:34px;padding:0 14px;border-radius:999px;background:#fff;color:#101114;font-size:.7rem;font-weight:900;letter-spacing:.06em;text-transform:uppercase;}
-.branded-visual{min-height:230px;border-radius:7px;background:radial-gradient(circle at 78% 22%,rgba(37,99,235,.85),transparent 28%),radial-gradient(circle at 18% 82%,rgba(225,43,43,.7),transparent 30%),linear-gradient(135deg,#24262d 0%,#101114 70%);border:1px solid rgba(255,255,255,.12);display:flex;align-items:flex-end;padding:22px;overflow:hidden;position:relative;}
-.branded-visual::before{content:"";position:absolute;inset:18px;border:1px solid rgba(255,255,255,.12);border-radius:6px;}
-.branded-visual strong{position:relative;font-family:var(--serif);font-size:2rem;line-height:1;color:#fff;}
+.branded-visual{border-radius:7px;background:#f72d17;overflow:hidden;position:relative;min-height:250px;display:flex;align-items:center;justify-content:center;}
+.branded-visual img{width:100%;height:100%;min-height:250px;object-fit:cover;display:block;}
 .site-footer{margin:54px 0 0;background:#f1ece8;border-top:1px solid var(--rule);border-radius:0;padding:44px 0 28px;color:var(--ink3);text-align:left;font-size:1rem;letter-spacing:0;}
 .footer-inner{max-width:1120px;margin:0 auto;padding:0 24px;display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:64px;}
 .footer-brand{font-family:var(--sans);font-size:1.5rem;font-weight:900;color:var(--ink);margin-bottom:20px;}
@@ -593,6 +592,27 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
           <div class="search-count" id="search-count" style="display:none;"></div>
           <div class="card-grid" id="card-grid"></div>
         </div>
+        <section class="branded-section" aria-labelledby="branded-title">
+          <div class="branded-head">
+            <h2 id="branded-title">Branded Content</h2>
+            <div class="branded-note">Conteúdo de marca</div>
+          </div>
+          <a class="branded-card" href="https://startuphero.com.br/" target="_blank" rel="noopener noreferrer sponsored">
+            <div>
+              <div class="branded-label">Oferecido por StartupHero</div>
+              <div class="branded-title">Sua startup está pronta para conversar com investidores?</div>
+              <div class="branded-deck">Valuation, pitch deck e preparação para captação ajudam founders a apresentar o negócio com mais clareza, números consistentes e uma narrativa que conversa melhor com investidores e compradores.</div>
+              <div class="branded-meta">
+                <span>StartupHero</span>
+                <span>Valuation · Pitch deck · Captação</span>
+                <span class="branded-cta">Conhecer</span>
+              </div>
+            </div>
+            <div class="branded-visual" aria-hidden="true">
+              <img src="assets/startuphero-valuation-mockup.png" alt="">
+            </div>
+          </a>
+        </section>
         <div id="list-section" style="display:none;">
           <div class="sec-head"><span class="sec-label">Mais Notícias</span></div>
           <div class="news-list" id="news-list"></div>
@@ -622,27 +642,6 @@ footer{margin:0 18px 18px;border-radius:var(--radius);background:#111827;color:#
         </div>
       </aside>
     </div>
-    <section class="branded-section" aria-labelledby="branded-title">
-      <div class="branded-head">
-        <h2 id="branded-title">Branded Content</h2>
-        <div class="branded-note">Conteúdo de marca</div>
-      </div>
-      <a class="branded-card" href="https://startuphero.com.br/" target="_blank" rel="noopener noreferrer sponsored">
-        <div>
-          <div class="branded-label">Oferecido por StartupHero</div>
-          <div class="branded-title">Sua startup está pronta para conversar com investidores?</div>
-          <div class="branded-deck">Valuation, pitch deck e preparação para captação ajudam founders a apresentar o negócio com mais clareza, números consistentes e uma narrativa que conversa melhor com investidores e compradores.</div>
-          <div class="branded-meta">
-            <span>StartupHero</span>
-            <span>Valuation · Pitch deck · Captação</span>
-            <span class="branded-cta">Conhecer</span>
-          </div>
-        </div>
-        <div class="branded-visual" aria-hidden="true">
-          <strong>StartupHero</strong>
-        </div>
-      </a>
-    </section>
   </div>
 
   <!-- ARTIGO -->
