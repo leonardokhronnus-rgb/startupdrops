@@ -9423,7 +9423,7 @@ function hasTag(a,tag){ return (a.tags||[]).includes(tag); }
 function isMarketDrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
   return hasTag(a,'mercado') || hasTag(a,'economia') ||
-    /\bipo\b|nasdaq|\bbolsa\b|\bb3\b|valor de mercado|market cap|big tech|private equity|venture capital|\bfundo\b|aquisi|m&a|merger|acquisition|\bselic\b|\bjuros\b|banco central|copom|inflaç|\bipca\b|\bpib\b|câmbio|cambial|\bdólar\b|política monetária|política fiscal|reforma tributária|\bfed\b|federal reserve/.test(text);
+    /\bipo\b|nasdaq|\bbolsa\b|\bb3\b|valor de mercado|market cap|private equity|venture capital|\bfundo\b|aquisi|m&a|merger|acquisition|\bselic\b|\bjuros\b|banco central|copom|inflaç|\bipca\b|\bpib\b|câmbio|cambial|\bdólar\b|política monetária|política fiscal|reforma tributária|\bfed\b|federal reserve/.test(text);
 }
 function isTechIADrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
@@ -9560,6 +9560,16 @@ function completeSentencesOnly(text){
   if(sentences.length) return clean(sentences.join(' '));
   return /[.!?]$/.test(text) ? text : '';
 }
+function isEditorialNoiseSentence(text){
+  const s=clean(text);
+  if(!s) return true;
+  return /(reuters|afp|ap|getty|bloomberg|shutterstock|folhapress|agência brasil|documento via|imagem foi fornecida|fornecida por um terceiro|esta imagem foi fornecida|crédito|credito|foto:|imagem:|reprodução)/i.test(s);
+}
+function cleanStoryText(text){
+  const sentences=(clean(text).match(/[^.!?]+[.!?]+(?=\s|$)/g)||[text]).map(clean).filter(Boolean);
+  const kept=sentences.filter(s=>!isEditorialNoiseSentence(s));
+  return clean(kept.join(' '));
+}
 function summaryPt(a){
   const base=cleanPtText(a.summary||'');
   if(!base) return '';
@@ -9594,7 +9604,7 @@ function summaryPt(a){
   if(regionKey(a)==='internacional' && hasEnglishResidue(text)){
     return capitalizeFirst(smartTrim(titlePt(a),320));
   }
-  return capitalizeFirst(completeSentencesOnly(smartTrim(text,320)) || smartTrim(text,320));
+  return capitalizeFirst(cleanStoryText(completeSentencesOnly(smartTrim(text,320)) || smartTrim(text,320)));
 }
 function titlePt(a){
   return clean(a.title); // titulo ja vem pronto (pt-BR) do coletor
@@ -9689,7 +9699,7 @@ function normForCompare(s){
   return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]/g,'');
 }
 function fullSummaryText(a){
-  return completeSentencesOnly(summaryPt(a)) || completeSentencesOnly(cleanPtText(a.summary||'')) || cleanPtText(a.summary||'') || a.title;
+  return cleanStoryText(completeSentencesOnly(summaryPt(a)) || completeSentencesOnly(cleanPtText(a.summary||'')) || cleanPtText(a.summary||'')) || a.title;
 }
 function articleSubtitle(a){
   // Matéria manual: usa o subtítulo digitado (se houver).
@@ -9716,7 +9726,8 @@ function articleParagraphs(a){
   const subN=normForCompare(sub);
 
   // Se há subtítulo (1ª frase), o corpo é o RESTO. Se não há, o corpo é tudo.
-  const useSentences = sub ? sentences.filter(s=>normForCompare(s)!==subN) : sentences;
+  const useSentences = (sub ? sentences.filter(s=>normForCompare(s)!==subN) : sentences)
+    .filter(s=>!isEditorialNoiseSentence(s));
   if(!useSentences.length) return [];
 
   const chunks=[];
@@ -9825,8 +9836,9 @@ function triggerRefresh(){
 function isRelevantDrop(a){
   const hay=`${a.title} ${a.summary}`.toLowerCase();
   const relevant=['startup','startups','scale-up','venture','venture capital','funding','captação','captou','rodada','aporte','seed','valuation','unicórnio','unicorn','m&a','aquisição','adquire','ipo','tecnologia','technology','tech','software','saas','plataforma','inteligência artificial','artificial intelligence',' ia ',' ai ','machine learning','llm','chatgpt','openai','gemini','robô','robot','automação','chip','semiconductor','cloud','fintech','edtech','healthtech','deeptech','climate tech','nubank','ifood','totvs','stone','rappi','amazon','google','apple','microsoft','meta','nvidia','bytedance','alibaba','tencent','baidu','anthropic','spacex','databricks'];
-  const blocked=['mega-sena','loteria','sorteio','futebol','campeonato','copa do mundo','olimpíada','esporte olímpico','eleição','campanha','candidato','partido político','deputado','senador','governador','presidente lula','bolsonaro','marina silva','horóscopo','novela','big brother','bbb ','reality show','bets ','apostas esportivas','cassino','saneamento básico','abastecimento de água','previsão do tempo','justa causa','atestado','trend no trabalho','demissão','funcionário','petróleo','foz do amazonas','exploração de petróleo'];
+  const blocked=['mega-sena','loteria','sorteio','futebol','campeonato','copa do mundo','olimpíada','esporte olímpico','lakers','eleição','campanha','candidato','partido político','deputado','senador','governador','presidente lula','bolsonaro','marina silva','horóscopo','novela','big brother','bbb ','reality show','bets ','apostas esportivas','cassino','saneamento básico','abastecimento de água','previsão do tempo','justa causa','atestado','trend no trabalho','demissão','funcionário','petróleo','foz do amazonas','exploração de petróleo','castelo','mansão','mansion','propriedade pessoal','patrimônio pessoal','celebridade'];
   if(blocked.some(k=>hay.includes(k))) return false;
+  if(/\b(compra|comprou|adquire|adquiriu)\b/.test(hay) && /\b(castelo|mansão|mansion|casa de luxo|propriedade|ilha|iate)\b/.test(hay)) return false;
   // Títulos genéricos demais sem contexto no resumo são descartados
   const genericTitle=/^(openai|google|meta|amazon|apple|microsoft|nvidia|\w+)\s+(avança|anuncia|apresenta|lança|atinge|registra|alcança)\s+em\s+/i;
   if(genericTitle.test(a.title) && !relevant.some(k=>hay.includes(k))) return false;
@@ -10159,7 +10171,9 @@ function findArticleByHash(){
   const match=location.hash.match(/^#artigo\/(.+)$/);
   if(!match) return null;
   const id=decodeURIComponent(match[1]);
-  return dedupe([...MANUAL,...ALL]).find(a=>a.articleId===id) || null;
+  return dedupe([...MANUAL,...ALL])
+    .filter(a=>a.isManual || (isArticleUrl(a.url) && isDenseEnough(a) && isRelevantDrop(a)))
+    .find(a=>a.articleId===id) || null;
 }
 
 function showPage(pageId){
