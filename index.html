@@ -9244,8 +9244,8 @@ const BRAND = {
   // Para virar Morning Drops, por exemplo:
   //   namePlain:'Morning Drops', namePrefix:'Morning', nameSuffix:'Drops'
 };
-const DATA_URL = './data/news.json?v=20260820-3';
-const ARTICLES_URL = './data/articles.json?v=20260820-3';
+const DATA_URL = './data/news.json?v=20260820-4';
+const ARTICLES_URL = './data/articles.json?v=20260820-4';
 function applyBrand(){
   const set=(id,val)=>{ const el=document.getElementById(id); if(el) el.textContent=val; };
   set('brand-prefix',BRAND.namePrefix);
@@ -9414,9 +9414,9 @@ function kickerCls(a){
 }
 function isFundingDrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
-  if(/recomenda compra|recomendação de compra|\brecomendação\b|\bcoverage\b|\bbuy\b|\bb3\b|\bbolsa\b|bolsa de valores|\bações\b|\betf|renda fixa|cdb|lci|lca|fiagro|fii\b|fundo imobiliário|ibovespa|asset management|fundos listados|real estate|bilheteria|empréstimo|conciliação|stf|banco de brasília|justa causa|atestado|trend no trabalho|demiss|guerra econômica|maracanã|copa feminina|carros chineses|artigo:|vale do silício não é|dinheiro fácil|inverno dos cvcs|diz investidor|pitchbook|robinhood|agências de fomento|ipo da spacex|saída para os vcs/.test(text)) return false;
+  if(/recomenda compra|recomendação de compra|\brecomendação\b|\bcoverage\b|\bbuy\b|\bb3\b|\bbolsa\b|bolsa de valores|\bações\b|\betf|renda fixa|cdb|lci|lca|fiagro|fii\b|fundo imobiliário|ibovespa|asset management|gestora|fundos listados|real estate|infraestrutura após venda|patria|pátria|bilheteria|empréstimo|conciliação|stf|banco de brasília|justa causa|atestado|trend no trabalho|demiss|guerra econômica|maracanã|copa feminina|carros chineses|artigo:|vale do silício não é|dinheiro fácil|inverno dos cvcs|diz investidor|pitchbook|robinhood|agências de fomento|ipo da spacex|saída para os vcs/.test(text)) return false;
   const fundingSignal=/\bfunding\b|\bcapta(?:ção|r|do|m)?\b|\bcaptou\b|\blevantou\b|\bnova rodada\b|\brodada de (?:investimento|funding|captação|venture)\b|\baporte\b|\bsérie\s+[a-k]\b|\bseries\s+[a-k]\b|\bseed\b|\bpre-seed\b|\braised\b|\braises\b/i.test(text);
-  const ecosystemContext=/startup|scale-up|venture|cvc|investidor|fundador|founder|private equity|fundo de venture|capital de risco|ecossistema|fintech|edtech|healthtech|deeptech|saas|ia\b|inteligência artificial/i.test(text);
+  const ecosystemContext=/startup|scale-up|venture|cvc|investidor|fundador|founder|private equity|fundo de venture|capital de risco|ecossistema|fintech|edtech|healthtech|deeptech|saas|ia\b|inteligência artificial|plataforma|empresa de tecnologia|benefícios|robótica|drones?|cashback/i.test(text);
   return fundingSignal && ecosystemContext;
 }
 function hasTag(a,tag){ return (a.tags||[]).includes(tag); }
@@ -9907,17 +9907,17 @@ function matchesSearch(a,q){
 
 // ── RENDER NEWS ───────────────────────────────────────────────────────────────
 function renderAll(){
-  const shelfBase=uniqueByDisplayedTitle(dedupe([...MANUAL,...ALL]
-    .filter(a=>a.isManual||isArticleUrl(a.url))
-    .filter(isDenseEnough)));
+  const rawShelf=uniqueByDisplayedTitle(dedupe([...MANUAL,...ALL]
+    .filter(a=>a.isManual||isArticleUrl(a.url))));
+  const shelfBase=rawShelf.filter(isDenseEnough);
   const sideBase=shelfBase.filter(isRelevantDrop);
   let arts=filtered();
   if(activeFilter==='funding' && arts.length<8){
-    const fundingPool=shelfBase.filter(isFundingDrop);
+    const fundingPool=rawShelf.filter(isFundingDrop);
     arts=uniqueByDisplayedTitle([...arts,...fundingPool]);
   }
   if(activeFilter==='startups' && arts.length<8){
-    const startupPool=shelfBase.filter(isStartupShelfDrop);
+    const startupPool=rawShelf.filter(isStartupShelfDrop);
     arts=uniqueByDisplayedTitle([...arts,...startupPool]);
   }
   const countEl=document.getElementById('search-count');
@@ -9943,8 +9943,8 @@ function renderAll(){
   const reserved = new Set([hero, ...grid].map(a=>a.url));
   const sideTrend = arts.filter(a=>!reserved.has(a.url)).slice(0,5);
   sideTrend.forEach(a=>reserved.add(a.url));
-  let sideFunding = shelfBase.filter(a=>!reserved.has(a.url) && isFundingDrop(a)).slice(0,4);
-  if(!sideFunding.length) sideFunding = shelfBase.filter(isFundingDrop).slice(0,4);
+  let sideFunding = rawShelf.filter(a=>!reserved.has(a.url) && isFundingDrop(a)).slice(0,4);
+  if(!sideFunding.length) sideFunding = rawShelf.filter(isFundingDrop).slice(0,4);
   sideFunding.forEach(a=>reserved.add(a.url));
   const list = arts.filter(a=>!reserved.has(a.url));
   renderHero(hero);
