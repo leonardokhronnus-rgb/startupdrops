@@ -29,6 +29,8 @@ const FONTES = [
 
 // Quantas matérias novas reescrever por execução (controla custo/tempo)
 const MAX_POR_RODADA = 6;
+// Quantos candidatos avaliar para conseguir preencher a rodada sem publicar ruído
+const MAX_TENTATIVAS_POR_RODADA = 24;
 // Quantos itens olhar por feed
 const ITENS_POR_FEED = 4;
 
@@ -148,14 +150,22 @@ export default async (req) => {
     }
   }
 
-  // 2) Reescrever até o limite da rodada
-  const aReescrever = candidatos.slice(0, MAX_POR_RODADA);
+  // 2) Reescrever até preencher a rodada, tentando mais itens se a IA descartar ruído
+  const aReescrever = candidatos.slice(0, MAX_TENTATIVAS_POR_RODADA);
   let publicadas = 0;
+  let analisadas = 0;
+  let descartadas = 0;
+  let falhas = 0;
 
   for (const c of aReescrever) {
+    if (publicadas >= MAX_POR_RODADA) break;
+    analisadas++;
     try {
       const art = await reescrever(c.item, c.fonte, apiKey);
-      if (!art) continue;
+      if (!art) {
+        descartadas++;
+        continue;
+      }
       const id = "m_" + Date.now() + "_" + Math.random().toString(36).slice(2, 8);
       const registro = {
         id,
@@ -178,6 +188,7 @@ export default async (req) => {
       });
       publicadas++;
     } catch (e) {
+      falhas++;
       console.log("Falha ao reescrever", c.item.titulo, e.message);
     }
   }
@@ -187,7 +198,7 @@ export default async (req) => {
   await store.setJSON("indice", indice);
 
   return new Response(
-    JSON.stringify({ ok: true, candidatos: candidatos.length, publicadas, total: indice.length }),
+    JSON.stringify({ ok: true, candidatos: candidatos.length, analisadas, publicadas, descartadas, falhas, total: indice.length }),
     { headers: { "Content-Type": "application/json" } }
   );
 };
