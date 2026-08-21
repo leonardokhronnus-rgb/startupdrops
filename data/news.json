@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T08:09:37.713627+00:00",
+  "updatedAt": "2026-08-21T10:19:48.809215+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -266,6 +266,132 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-21082026/",
+      "_key": "83e3d4aadf31cb4a4223439730948f0a",
+      "title": "Mini-índice (WINV26) hoje: veja os pontos-chave em dia de PMIs globais",
+      "originalTitle": "Mini-índice (WINV26) hoje: veja os pontos-chave em dia de PMIs globais",
+      "summary": "Confira o que a análise técnica aponta para o mini-índice hoje (21 de agosto) The post Mini-índice (WINV26) hoje: veja os pontos-chave em dia de PMIs globais appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-21082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WINV26-15-MINUTOS-21.08.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T10:07:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-21082026/",
+      "_key": "fc2d5ac07e1963010f61223dc999f336",
+      "title": "Day Trade hoje (21): Ibovespa amplia reação; recuperação pode continuar?",
+      "originalTitle": "Day Trade hoje (21): Ibovespa amplia reação; recuperação pode continuar?",
+      "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (21): Ibovespa amplia reação; recuperação pode continuar? appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-21082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T10:03:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/para-dell-e-amd-brasil-pode-viver-uma-onda-de-investimentos-em-data-centers/",
+      "_key": "c7c5213716953fc160827b6cb130db0b",
+      "title": "Para Dell e AMD, Brasil pode viver uma onda de investimentos em data centers",
+      "originalTitle": "Para Dell e AMD, Brasil pode viver uma onda de investimentos em data centers",
+      "summary": "Diretores regionais da companhia veem que vinda de investimentos após ciclo de América do Norte, Europa e Ásia pode beneficiar implementação The post Para Dell e AMD, Brasil pode viver uma onda de investimentos em data centers appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/para-dell-e-amd-brasil-pode-viver-uma-onda-de-investimentos-em-data-centers/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/DELLAMD-XE7745-12_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T09:50:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/empresa-dos-eua-fecha-contrato-de-us-22-mi-para-sistema-anti-drones-no-oriente-medio/",
+      "_key": "961684bc2af438e237be6eccdd9c0316",
+      "title": "Empresa dos EUA fecha contrato de US$ 22 mi para sistema anti-drones no Oriente Médio",
+      "originalTitle": "Empresa dos EUA fecha contrato de US$ 22 mi para sistema anti-drones no Oriente Médio",
+      "summary": "A tecnologia, segundo a empresa, será usada na proteção de infraestrutura crítica de petróleo e gás The post Empresa dos EUA fecha contrato de US$ 22 mi para sistema anti-drones no Oriente Médio appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/empresa-dos-eua-fecha-contrato-de-us-22-mi-para-sistema-anti-drones-no-oriente-medio/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/410578290.jpg?fit=300%2C203&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T09:38:16+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/mundo/noticia/2026/08/21/familias-iranianas-lutam-para-comprar-o-basico-enquanto-eua-intensificam-guerra-economica.ghtml",
+      "_key": "0d17572e19a5ef525e86e1c7929dcf08",
+      "title": "Famílias iranianas lutam para comprar o básico enquanto EUA intensificam guerra econômica",
+      "originalTitle": "Famílias iranianas lutam para comprar o básico enquanto EUA intensificam guerra econômica",
+      "summary": "Trump diz que não há perspectiva de negociações com o Irã Famílias iranianas estão lutando para comprar o básico em meio à intensificação da pressão econômica dos Estados Unidos ao Irã, segundo a agência de notícias Associated Press.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/mundo/noticia/2026/08/21/familias-iranianas-lutam-para-comprar-o-basico-enquanto-eua-intensificam-guerra-economica.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/Hpaum2O1-F9m5Ho-bRyzQ3cEmmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/K/JTVQwLQk25iBnmQicfkQ/ap26220552236900.jpg",
+      "publishedAt": "2026-08-21T09:34:42+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/eua-afirmam-que-vao-impor-sancoes-mais-severas-da-historia-ao-ira/",
+      "_key": "edee5855bd43a2d1ac12827ad07a42f5",
+      "title": "EUA afirmam que vão impor “sanções mais severas da história” ao Irã",
+      "originalTitle": "EUA afirmam que vão impor “sanções mais severas da história” ao Irã",
+      "summary": "As declarações de Bessent na quinta-feira vieram após ‌a ameaça do presidente Donald Trump, um dia antes, de uma “guerra econômica” The post EUA afirmam que vão impor “sanções mais severas da história” ao Irã appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/eua-afirmam-que-vao-impor-sancoes-mais-severas-da-historia-ao-ira/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-14T010442Z_1598249736_RC23FJAYGXUA_RTRMADP_3_USA-TRUMP-UAE-DEMOCRATS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T09:29:39+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "Startupi-https://startupi.com.br/o-torniquete-digital-quando-a-soberania-tecnologica-precisa-dialogar-com-o-mercado/",
       "_key": "e04b73f2a974dcf5031bba259fd249d8",
