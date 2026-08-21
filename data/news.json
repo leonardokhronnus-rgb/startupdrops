@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T14:11:32.916662+00:00",
+  "updatedAt": "2026-08-21T16:09:37.045627+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -267,6 +267,132 @@
   ],
   "articles": [
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/debate-sobre-fim-da-6x1-e-populista-e-inocuo-diz-coordenadora-economica-de-flavio/",
+      "_key": "e52d97760cfd40c6885e16fc606a559a",
+      "title": "Debate sobre fim da 6×1 é ‘populista e inócuo’, diz coordenadora econômica de Flávio",
+      "originalTitle": "Debate sobre fim da 6×1 é ‘populista e inócuo’, diz coordenadora econômica de Flávio",
+      "summary": "Coordenadora da pauta econômica na campanha de Flávio, Daniella defende maior autonomia do trabalhador para decidir condições de contratação The post Debate sobre fim da 6&#215;1 é &#8216;populista e inócuo&#8217;, diz coordenadora econômica de Flávio appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/debate-sobre-fim-da-6x1-e-populista-e-inocuo-diz-coordenadora-economica-de-flavio/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2022/07/vac_abr_2604220410-e1783881602210.jpg?fit=300%2C203&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T15:43:44+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/descoberta-de-petroleo-da-impulso-a-lula-mas-resultados-nao-sao-garantidos/",
+      "_key": "8ade50f4d80b10bfbc2c4daaba708f73",
+      "title": "Descoberta de petróleo dá impulso a Lula, mas resultados não são garantidos",
+      "originalTitle": "Descoberta de petróleo dá impulso a Lula, mas resultados não são garantidos",
+      "summary": "Descoberta de petróleo na Amazônia dá impulso a Lula, mas resultados não são garantidos The post Descoberta de petróleo dá impulso a Lula, mas resultados não são garantidos appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/descoberta-de-petroleo-da-impulso-a-lula-mas-resultados-nao-sao-garantidos/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-06T165330Z_1130482176_RC23TMAJYCSL_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T15:33:19+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Linea BR-https://www.bloomberglinea.com.br/negocios/banco-mais-antigo-do-mundo-vive-ano-turbulento-com-ofensiva-de-34-bi-por-rivais/",
+      "_key": "7dd8af483cddcc07b4103713e2ea9dcb",
+      "title": "Banco mais antigo do mundo vive ano turbulento com ofensiva de € 34 bi por rivais",
+      "originalTitle": "Banco mais antigo do mundo vive ano turbulento com ofensiva de € 34 bi por rivais",
+      "summary": "A história do Banca Monte dei Paschi di Siena SpA está repleta de altos espetaculares e baixos drásticos. Mas, mesmo para o banco mais antigo do mundo, este ano está se mostrando particularmente turbulento.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberglinea.com.br/negocios/banco-mais-antigo-do-mundo-vive-ano-turbulento-com-ofensiva-de-34-bi-por-rivais/",
+      "source": "Bloomberg Linea BR",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.bloomberglinea.com/resizer/v2/QSGSIN2DYZCXFLC7WCCYLGIV7M.jpeg?auth=fd4c41fccd017a2d457cbcb0f5fcbd352315e282c6c2718864d19dad33e1ebef&amp;width=1200&amp;height=630&amp;quality=80&amp;focal=1017,887",
+      "publishedAt": "2026-08-21T15:26:25+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Linea BR"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/inovacao/nova-york-desbanca-o-vale-do-silicio-e-se-torna-a-capital-dos-talentos-de-tecnologia/",
+      "_key": "cacfcc86db2b28f18417e452bd5f9ecb",
+      "title": "Nova York desbanca o Vale do Silício e se torna a “capital” dos talentos de tecnologia",
+      "originalTitle": "Nova York desbanca o Vale do Silício e se torna a “capital” dos talentos de tecnologia",
+      "summary": "Berço do Vale do Silício, São Francisco se consolidou historicamente como o maior polo de atração de empreendedores e profissionais de tecnologia, e como o ponto de partida para boa parte das empresas mais icônicas do setor.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/inovacao/nova-york-desbanca-o-vale-do-silicio-e-se-torna-a-capital-dos-talentos-de-tecnologia/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2021/04/Nova-York-1-300x169.jpg",
+      "publishedAt": "2026-08-21T15:18:13+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/banco-do-brasil-anuncia-parceria-com-ifood-para-ampliar-financiamentos-no-move-brasil/",
+      "_key": "e72225fcd2be2c8860e10050d8edaaeb",
+      "title": "Banco do Brasil anuncia parceria com iFood para ampliar financiamentos no Move Brasil",
+      "originalTitle": "Banco do Brasil anuncia parceria com iFood para ampliar financiamentos no Move Brasil",
+      "summary": "Em meados de agosto, ​o BB afirmou que desembolsou R$17,1 milhões em contratos ​na linha Move Brasil Entregadores e Motoapp, iniciada em 27 de julho The post Banco do Brasil anuncia parceria com iFood para ampliar financiamentos no Move Brasil appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/banco-do-brasil-anuncia-parceria-com-ifood-para-ampliar-financiamentos-no-move-brasil/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/ifood-entregadores-agencia-brasil.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T15:15:37+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/minhas-financas/calendario-pe-de-meia-agosto-2026/",
+      "_key": "e4013065b58d0610ea5219886606e388",
+      "title": "Quando cai o pagamento do Pé-de-Meia em agosto? Veja o calendário e como consultar",
+      "originalTitle": "Quando cai o pagamento do Pé-de-Meia em agosto? Veja o calendário e como consultar",
+      "summary": "A ordem dos pagamentos segue o mês de nascimento dos beneficiários. Confira o cronograma de agosto The post Quando cai o pagamento do Pé-de-Meia em agosto? Veja o calendário e como consultar appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/minhas-financas/calendario-pe-de-meia-agosto-2026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/pe-de-meia-mec.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T15:00:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/mp-sp-pede-manutencao-da-prisao-de-deolane-bezerra-em-investigacao-ligada-ao-pcc/",
       "_key": "586f57af172804703e9afc1874bc8504",
       "title": "MP-SP pede manutenção da prisão de Deolane Bezerra em investigação ligada ao PCC",
@@ -452,6 +578,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/negocios/a-cultura-de-socio-por-tras-da-expansao-do-outback-vamos-chegar-a-200-lojas-diz-executiva/",
+      "_key": "196755c92987e1c6197eec85730710df",
+      "title": "A cultura de sócio por trás da expansão do Outback: ‘Vamos chegar a 200 lojas’, diz executiva",
+      "originalTitle": "A cultura de sócio por trás da expansão do Outback: ‘Vamos chegar a 200 lojas’, diz executiva",
+      "summary": "Rede acelera expansão às vésperas dos 30 anos no Brasil e já gerou mais de 670 empregos com novos restaurantes. Companhia estreia também o ‘Clube Outback’, que transforma consumo em pontos",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/negocios/a-cultura-de-socio-por-tras-da-expansao-do-outback-vamos-chegar-a-200-lojas-diz-executiva/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/Outback-gustavo-scatena-claudia-vilhena.png",
+      "publishedAt": "2026-08-21T12:04:28+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
       ],
       "coverageCount": 1
     },
