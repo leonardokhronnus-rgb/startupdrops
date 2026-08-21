@@ -106,7 +106,10 @@ Responda APENAS com JSON válido, sem markdown nem crases, neste formato exato:
       messages: [{ role: "user", content: prompt }],
     }),
   });
-  if (!resp.ok) throw new Error("Anthropic status " + resp.status);
+  if (!resp.ok) {
+    const body = await resp.text().catch(() => "");
+    throw new Error(("Anthropic status " + resp.status + " " + body).slice(0, 500));
+  }
   const data = await resp.json();
   let text = (data.content || []).filter(b => b.type === "text").map(b => b.text).join("").trim();
   text = text.replace(/^```json/i, "").replace(/^```/, "").replace(/```$/, "").trim();
@@ -156,6 +159,7 @@ export default async (req) => {
   let analisadas = 0;
   let descartadas = 0;
   let falhas = 0;
+  let primeiroErro = "";
 
   for (const c of aReescrever) {
     if (publicadas >= MAX_POR_RODADA) break;
@@ -189,6 +193,7 @@ export default async (req) => {
       publicadas++;
     } catch (e) {
       falhas++;
+      if (!primeiroErro) primeiroErro = e.message;
       console.log("Falha ao reescrever", c.item.titulo, e.message);
     }
   }
@@ -198,7 +203,7 @@ export default async (req) => {
   await store.setJSON("indice", indice);
 
   return new Response(
-    JSON.stringify({ ok: true, candidatos: candidatos.length, analisadas, publicadas, descartadas, falhas, total: indice.length }),
+    JSON.stringify({ ok: true, candidatos: candidatos.length, analisadas, publicadas, descartadas, falhas, primeiroErro, total: indice.length }),
     { headers: { "Content-Type": "application/json" } }
   );
 };
