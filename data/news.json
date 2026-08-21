@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T10:19:48.809215+00:00",
+  "updatedAt": "2026-08-21T14:11:32.916662+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -266,6 +266,300 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/mp-sp-pede-manutencao-da-prisao-de-deolane-bezerra-em-investigacao-ligada-ao-pcc/",
+      "_key": "586f57af172804703e9afc1874bc8504",
+      "title": "MP-SP pede manutenção da prisão de Deolane Bezerra em investigação ligada ao PCC",
+      "originalTitle": "MP-SP pede manutenção da prisão de Deolane Bezerra em investigação ligada ao PCC",
+      "summary": "Influenciadora está presa desde maio; Promotoria sustenta que ela integraria núcleo financeiro de esquema investigado na Operação Vérnix The post MP-SP pede manutenção da prisão de Deolane Bezerra em investigação ligada ao PCC appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/mp-sp-pede-manutencao-da-prisao-de-deolane-bezerra-em-investigacao-ligada-ao-pcc/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Captura-de-tela-2024-09-24-132449.png?fit=300%2C218&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T14:05:41+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-21082026/",
+      "_key": "be61dd4f0e43247ba69187cafd454750",
+      "title": "Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (21)",
+      "originalTitle": "Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (21)",
+      "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (21) appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-21082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/renda-fixa-hoje-004.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T14:02:20+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/marcal-transforma-incerteza-eleitoral-em-exposicao-e-engajamento-nas-redes/",
+      "_key": "f1e55408e18a2603d95a6ff1925229ab",
+      "title": "Marçal transforma incerteza eleitoral em exposição e engajamento nas redes",
+      "originalTitle": "Marçal transforma incerteza eleitoral em exposição e engajamento nas redes",
+      "summary": "Paulo Gama vê candidatura de última hora como movimento capaz de gerar mídia espontânea e ampliar presença de Marçal na disputa, mesmo com futuro jurídico incerto The post Marçal transforma incerteza eleitoral em exposição e engajamento nas redes appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/marcal-transforma-incerteza-eleitoral-em-exposicao-e-engajamento-nas-redes/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Captura-de-tela-2026-01-29-202717-1.png?fit=300%2C157&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T14:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/21/entidades-acionam-mpf-contra-oculos-inteligentes-da-meta-por-riscos-a-privacidade-e-aos-consumidores.ghtml",
+      "_key": "8c273f826b897929d02945a4cd6fbb68",
+      "title": "Entidades acionam MPF contra óculos inteligentes da Meta por riscos à privacidade e aos consumidores",
+      "originalTitle": "Entidades acionam MPF contra óculos inteligentes da Meta por riscos à privacidade e aos consumidores",
+      "summary": "Óculos inteligentes viram febre em pegadinhas nas redes com exposição de terceiros O Instituto de Defesa de Consumidores (Idec) e a organização Coding Rights pediram nesta quinta-feira (20) que a Agência Nacional de Proteção de Dados (ANPD), a Secretaria Nacional do Consumidor (Senacon) e o Ministério Público Federal (MPF) investiguem a comercialização dos óculos inteligentes Ray-Ban Meta no Brasil.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/21/entidades-acionam-mpf-contra-oculos-inteligentes-da-meta-por-riscos-a-privacidade-e-aos-consumidores.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/aQ1Vc8OXhVQjeM4YK58-isJBdwU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/0/hzOryUTPaKLSa8Z5CWkA/2026-03-31t133918z-899513602-rc21ugast36e-rtrmadp-3-meta-platforms-ray-ban-ai.jpg",
+      "publishedAt": "2026-08-21T13:40:17+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/tesouro-ipca-fica-abaixo-de-8-pela-1a-vez-desde-junho-na-contramao-do-exterior/",
+      "_key": "8a7ee4b88f3b988ebff23a0ac22d8e0f",
+      "title": "Tesouro IPCA+ fica abaixo de 8% pela 1ª vez desde junho, na contramão do exterior",
+      "originalTitle": "Tesouro IPCA+ fica abaixo de 8% pela 1ª vez desde junho, na contramão do exterior",
+      "summary": "Nos EUA, os rendimentos dos Treasuries voltaram a subir depois que a intervenção do Tesouro americano na quarta-feira proporcionou apenas um dia de trégua à onda de vendas The post Tesouro IPCA+ fica abaixo de 8% pela 1ª vez desde junho, na contramão do exterior appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-fica-abaixo-de-8-pela-1a-vez-desde-junho-na-contramao-do-exterior/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_866688608.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T13:19:51+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/carros/noticia/2026/08/21/compra-e-venda-de-carro-usado-poderao-ter-transferencia-totalmente-digital-entenda.ghtml",
+      "_key": "833f3110f7e6b69356f108221ce8ffb6",
+      "title": "Compra e venda de carro usado poderão ter transferência pelo app da CNH; entenda",
+      "originalTitle": "Compra e venda de carro usado poderão ter transferência pelo app da CNH; entenda",
+      "summary": "Carro zero com desconto: programa de incentivo do governo aquece a venda de carros no DF Comprar ou vender um carro usado poderá ficar mais simples: a transferência de propriedade poderá ser feita de forma totalmente digital, reunindo em um único fluxo etapas como assinatura, pagamento de débitos e taxas e conclusão da mudança de proprietário.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/21/compra-e-venda-de-carro-usado-poderao-ter-transferencia-totalmente-digital-entenda.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/MVmevVh2RtEMUjdqOKrgGp5L0cY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/V/r/jQUkAvReyipjl0NZRrSA/141024-capa-montagem-carros-usados.jpg",
+      "publishedAt": "2026-08-21T13:17:39+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/zup-nomeia-dois-novos-diretores-para-reforcar-area-de-tecnologia/",
+      "_key": "c6231e71af108a71b4317acf739d1aa7",
+      "title": "Zup nomeia dois novos diretores para reforçar área de tecnologia",
+      "originalTitle": "Zup nomeia dois novos diretores para reforçar área de tecnologia",
+      "summary": "Ana Paula Camargo ao lado de Marcelo Poente (Imagem: Divulgação) Ana Paula Camargo assume a Diretoria de Tecnologia e Inovação, enquanto Marcelo Poente retorna à Zup como Diretor de Operações O post Zup nomeia dois novos diretores para reforçar área de tecnologia apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/danca-das-cadeiras/zup-nomeia-dois-novos-diretores-para-reforcar-area-de-tecnologia/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Zup.jpg",
+      "publishedAt": "2026-08-21T13:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/carros/noticia/2026/08/21/china-faz-maior-recall-de-carros-da-historia-por-risco-com-macanetas-de-emergencia.ghtml",
+      "_key": "7f3d11b979b6076d08d10b508af474b7",
+      "title": "China faz maior recall de carros da história por risco com maçanetas embutidas",
+      "originalTitle": "China faz maior recall de carros da história por risco com maçanetas embutidas",
+      "summary": "Montadoras estimam aumento de carros importados do México e China A China iniciou nesta sexta-feira (21) a maior campanha de recall automotivo já realizada no país, envolvendo 11 montadoras e veículos elétricos de diferentes marcas.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/21/china-faz-maior-recall-de-carros-da-historia-por-risco-com-macanetas-de-emergencia.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/KgLl5VufQEGp_2YQld8_22gJqYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/G/LzbMSARWinKmAzKPSDcg/gy4ywdmfxrmjji7sqt6s44ymym.avif",
+      "publishedAt": "2026-08-21T12:50:20+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/o-que-empresas-maduras-podem-aprender-com-startups/",
+      "_key": "03bdb8d3228aac29a88b255fa7ae0722",
+      "title": "O que empresas maduras podem aprender com startups",
+      "originalTitle": "O que empresas maduras podem aprender com startups",
+      "summary": "Startupi O que empresas maduras podem aprender com startups * Por Luciane Calabria Conhecidas pelo caráter inovador e pela capacidade de corrigir rapidamente a rota e assumir riscos, as startups têm muito a ensinar às empresas maduras que buscam diferenciação e originalidade.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/o-que-empresas-maduras-podem-aprender-com-startups/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/Luciane-Calabria-artigo.jpg",
+      "publishedAt": "2026-08-21T12:15:37+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/prime-video-anuncia-planos-de-investir-mais-de-us-2-bilhoes-na-america-latina/",
+      "_key": "ae2bd00d76d8b1e9dee3f3786761616c",
+      "title": "Prime Video anuncia planos de investir mais de US$ 2 bilhões na América Latina",
+      "originalTitle": "Prime Video anuncia planos de investir mais de US$ 2 bilhões na América Latina",
+      "summary": "Startupi Prime Video anuncia planos de investir mais de US$ 2 bilhões na América Latina O Prime Video acaba de anunciar planos de investir mais de US$ 2 bilhões na América Latina entre 2027 e 2030, um investimento inédito para produções originais locais, aquisição de conteúdo produzido localmente e direitos de transmissões esportivas locais no México, Brasil, Argentina, Colômbia e Chile.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/prime-video-anuncia-planos-de-investir-mais-de-us-2-bilhoes-na-america-latina/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/prime-video.jpg",
+      "publishedAt": "2026-08-21T12:03:31+00:00",
+      "score": 73,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/os-desafios-de-infraestrutura-para-sustentar-a-revolucao-da-ia/",
+      "_key": "087c45467446da7bedd4f5cf9e19c41b",
+      "title": "Os desafios de infraestrutura para sustentar a revolução da IA",
+      "originalTitle": "Os desafios de infraestrutura para sustentar a revolução da IA",
+      "summary": "Startupi Os desafios de infraestrutura para sustentar a revolução da IA * Por Flávio Guimarães Muito se fala sobre inteligência artificial como uma revolução de software e dados, mas menos se fala sobre o que torna tudo isso possível na prática: a infraestrutura física que conecta, transporta e processa os dados em escala global.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/os-desafios-de-infraestrutura-para-sustentar-a-revolucao-da-ia/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/Flavio-Guimaraes-19_menor.jpg",
+      "publishedAt": "2026-08-21T11:55:34+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/negocios/5-minutos-com-marcello-goncalves-socio-e-cofundador-da-domo-vc/",
+      "_key": "9dc099ff2c04ceb97c979cf680f57488",
+      "title": "5 Minutos com: Marcello Gonçalves, sócio e cofundador da DOMO.VC",
+      "originalTitle": "5 Minutos com: Marcello Gonçalves, sócio e cofundador da DOMO.VC",
+      "summary": "Marcello Gonçalves, sócio e cofundador da DOMO.VC | Crédito: por Startups.com.br Executivo conta os bastidores da criação da DOMO.VC, a entrada em crédito estruturado e o que diferencia empreendedores de sucesso O post 5 Minutos com: Marcello Gonçalves, sócio e cofundador da DOMO.VC apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/negocios/5-minutos-com-marcello-goncalves-socio-e-cofundador-da-domo-vc/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/08/Marcello-DOMO.jpg",
+      "publishedAt": "2026-08-21T11:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/exclusivo-turbi-negocia-aporte-e-tem-duas-propostas-na-mesa-para-captar-ate-r-300-milhoes/",
+      "_key": "cc0fcf4dbf42abd690b378fd7aedab92",
+      "title": "EXCLUSIVO: Turbi negocia aporte e tem duas propostas na mesa para captar até R$ 300 milhões",
+      "originalTitle": "EXCLUSIVO: Turbi negocia aporte e tem duas propostas na mesa para captar até R$ 300 milhões",
+      "summary": "Nas próximas semanas, a Turbi, plataforma brasileira de locação de veículos e venda de seminovos, terá que fazer uma escolha entre dois percursos que vão definir os próximos rumos e a velocidade das estratégias em curso na sua operação.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/exclusivo-turbi-negocia-aporte-e-tem-duas-propostas-na-mesa-para-captar-ate-r-300-milhoes/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2025/10/turbi-300x169.webp",
+      "publishedAt": "2026-08-21T10:51:02+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/inteligencia-artificial/brasil-juntou-china-e-estados-unidos-para-construir-infraestrutura-de-ia-no-rio-grande-do-norte/",
+      "_key": "8923a74157a76f6c5a6f18b08737e522",
+      "title": "Brasil juntou China e Estados Unidos para construir infraestrutura de IA no Rio Grande do Norte",
+      "originalTitle": "Brasil juntou China e Estados Unidos para construir infraestrutura de IA no Rio Grande do Norte",
+      "summary": "Investimento de R$ 2,5 bilhões combina fornecedor americano, cooperação chinesa e chip nacional em três frentes paralelas; primeira máquina, de R$ 1,06 bilhão, sai de Macaíba com 7.200 petaflops de capacidade",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/inteligencia-artificial/brasil-juntou-china-e-estados-unidos-para-construir-infraestrutura-de-ia-no-rio-grande-do-norte/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/08/parquepax.jpg",
+      "publishedAt": "2026-08-21T10:37:57+00:00",
+      "score": 52,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-21082026/",
       "_key": "83e3d4aadf31cb4a4223439730948f0a",
@@ -575,6 +869,27 @@
       "image": "https://braziljournal.com/wp-content/uploads/2026/08/CARD-169-2-635x357.png",
       "publishedAt": "2026-08-21T03:45:53+00:00",
       "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/a-bat-vende-cigarros-para-250-mil-pmes-no-brasil-agora-vai-vender-de-tudo/",
+      "_key": "b291b248cabde0b4e6b44678fab08a85",
+      "title": "A BAT vende cigarros para 250 mil PMEs no Brasil. Agora, vai vender de tudo",
+      "originalTitle": "A BAT vende cigarros para 250 mil PMEs no Brasil. Agora, vai vender de tudo",
+      "summary": "A BAT Brasil vende seus cigarros para mais de 250 mil PMEs no Brasil – das bancas de jornal até as pequenas mercearias de bairro.&#160; Agora, a dona da Souza Cruz quer aproveitar esse relacionamento para vender de tudo.&#160; A companhia fechou uma transação com a empresa de tecnologia Yandeh que vai resultar na criação [&#8230;] The post A BAT vende cigarros para 250 mil PMEs no Brasil.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/a-bat-vende-cigarros-para-250-mil-pmes-no-brasil-agora-vai-vender-de-tudo/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2022/06/11367-f091bb4c-d8b9-4bb4-d68e-6313df7eb17a-300x300.jpg?x28827",
+      "publishedAt": "2026-08-21T03:44:00+00:00",
+      "score": 36,
       "alsoIn": [],
       "sourcesCovered": [
         "Brazil Journal"
