@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T16:09:37.045627+00:00",
+  "updatedAt": "2026-08-21T19:19:59.928612+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -266,6 +266,132 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/consumo/the-town-confirma-datas-de-edicao-de-2027/",
+      "_key": "3116f996ba4b2f957c4bf3bd37e105fe",
+      "title": "The Town confirma datas de edição de 2027",
+      "originalTitle": "The Town confirma datas de edição de 2027",
+      "summary": "Segundo informações da assessoria do festival, ao longo de suas duas edições, o The Town já levou 925 mil pessoas ao evento, além de ter movimentado R$ 4,1 bilhões The post The Town confirma datas de edição de 2027 appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/consumo/the-town-confirma-datas-de-edicao-de-2027/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/katy-perry-the-town-horario-shows.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T19:13:09+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/se-eleito-haddad-quer-criar-banco-nos-moldes-do-bndes-para-reindustrializar-sp/",
+      "_key": "271989501d4863e3e7ef70927a81dbec",
+      "title": "Se eleito, Haddad quer criar banco ‘nos moldes do BNDES’ para reindustrializar SP",
+      "originalTitle": "Se eleito, Haddad quer criar banco ‘nos moldes do BNDES’ para reindustrializar SP",
+      "summary": "Ex-ministro da Fazenda também defendeu a Reforma Tributária proposta por Lula, que taxou como \"uma das coisas mais importantes\" para o estado The post Se eleito, Haddad quer criar banco &#8216;nos moldes do BNDES&#8217; para reindustrializar SP appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/se-eleito-haddad-quer-criar-banco-nos-moldes-do-bndes-para-reindustrializar-sp/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-03-20T020746Z_661092987_RC208KAX0NNV_RTRMADP_3_BRAZIL-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T18:52:08+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/nem-nvidia-nem-chips-veja-quem-brilhou-nas-novas-maximas-de-wall-street/",
+      "_key": "3863dbc5512f725e58f5d524bee7609e",
+      "title": "Nem Nvidia, nem chips: veja quem brilhou nas novas máximas de Wall Street",
+      "originalTitle": "Nem Nvidia, nem chips: veja quem brilhou nas novas máximas de Wall Street",
+      "summary": "Moderna lidera o S&#038;P 500 com alta de 90%, enquanto a Workday ocupa o topo do Nasdaq-100 no período analisado. The post Nem Nvidia, nem chips: veja quem brilhou nas novas máximas de Wall Street appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/nem-nvidia-nem-chips-veja-quem-brilhou-nas-novas-maximas-de-wall-street/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/wall-street-alta.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T18:35:24+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/21/jandf-de-wesley-e-joesley-batista-compra-fabricante-de-armas-de-guerra-avibras.ghtml",
+      "_key": "cf882388f5f3a2c9e9e9917851a3dd6d",
+      "title": "J&F, de Wesley e Joesley Batista, compra fabricante de armas de guerra Avibras",
+      "originalTitle": "J&F, de Wesley e Joesley Batista, compra fabricante de armas de guerra Avibras",
+      "summary": "Joesley Batista foi à Venezuela pedir a renúncia de Maduro, diz agência A J F, holding dos irmãos Joesley e Wesley Batista, comprou 100% da Avibras, uma das principais empresas da indústria de defesa brasileira.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/21/jandf-de-wesley-e-joesley-batista-compra-fabricante-de-armas-de-guerra-avibras.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/0zcTezFGNGCY7vZJa2Naa1oec58=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/R/sFmovtSyKvVLou24qjwA/b8000be8-3005-40f1-99aa-96e63ac912f3.png",
+      "publishedAt": "2026-08-21T18:20:50+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/milei-associa-aborto-a-queda-da-natalidade-e-diz-que-argentina-paga-preco-economico/",
+      "_key": "ce48a8e86da6c6c5ca8916f973d75b48",
+      "title": "Milei associa aborto à queda da natalidade e diz que Argentina paga preço econômico",
+      "originalTitle": "Milei associa aborto à queda da natalidade e diz que Argentina paga preço econômico",
+      "summary": "Presidente argentino criticou o direito ao aborto legal e afirmou que a redução dos nascimentos compromete o crescimento econômico e aumenta os desafios do sistema previdenciário The post Milei associa aborto à queda da natalidade e diz que Argentina paga preço econômico appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/milei-associa-aborto-a-queda-da-natalidade-e-diz-que-argentina-paga-preco-economico/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-10T142829Z_1_LYNXMPELB90UA_RTROPTP_4_ARGENTINA-POLITICS-REFORMS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T18:03:39+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Bloomberg Linea BR-https://www.bloomberglinea.com.br/mercados/boom-de-ia-leva-acoes-industriais-a-multiplos-historicos-e-acende-alerta-em-wall-street/",
+      "_key": "4f418501335dc55a7bc1f097c188c75d",
+      "title": "Boom de IA leva ações industriais a múltiplos históricos e acende alerta em Wall Street",
+      "originalTitle": "Boom de IA leva ações industriais a múltiplos históricos e acende alerta em Wall Street",
+      "summary": "Uma forte alta nas ações do setor industrial neste ano desafiou os preços mais elevados do petróleo, o aumento dos rendimentos dos títulos e as políticas comerciais restritivas, à medida que os investidores apostam em grandes ganhos decorrentes do boom da inteligência artificial.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.bloomberglinea.com.br/mercados/boom-de-ia-leva-acoes-industriais-a-multiplos-historicos-e-acende-alerta-em-wall-street/",
+      "source": "Bloomberg Linea BR",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/KAGG247NJFHF7BRYIF2YEQJMFQ.jpeg",
+      "publishedAt": "2026-08-21T16:05:44+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Bloomberg Linea BR"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/debate-sobre-fim-da-6x1-e-populista-e-inocuo-diz-coordenadora-economica-de-flavio/",
       "_key": "e52d97760cfd40c6885e16fc606a559a",
@@ -599,6 +725,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Exame"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/21/trump-hamburguer-eua.ghtml",
+      "_key": "c8e3a0e714ebb5ba65e13e06c0edfd58",
+      "title": "‘Operação salva-hambúrguer’: Trump determina cota extra de importação de carne e tenta baixar preços nos EUA",
+      "originalTitle": "‘Operação salva-hambúrguer’: Trump determina cota extra de importação de carne e tenta baixar preços nos EUA",
+      "summary": "Hamburguer; lanche Jean-claude Attipoe/Unplash O presidente dos Estados Unidos, Donald Trump, anunciou nesta sexta-feira (21) ampliar por 90 dias a cota de importação de carne bovina.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/21/trump-hamburguer-eua.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/aunw25XxCKN4AbuSynSs41TpvPI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/u/C10okeTQegyhzoBrPagA/jean-claude-attipoe-etjiql0adwi-unsplash.jpg",
+      "publishedAt": "2026-08-21T12:04:25+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
       ],
       "coverageCount": 1
     },
