@@ -47,7 +47,7 @@ Adicione seus artigos em `data/articles.json` neste formato:
 Funções agendadas não rodam em deploy preview, só em produção. Para forçar a primeira
 rodada agora, abra no navegador (logado no Netlify, com o site publicado):
 
-  https://SEU-SITE.netlify.app/.netlify/functions/reescrever
+  https://SEU-SITE.netlify.app/.netlify/functions/atualizar
 
 Aguarde uns segundos. Ela vai retornar um JSON tipo:
   {"ok":true,"candidatos":24,"publicadas":6,"total":6}
