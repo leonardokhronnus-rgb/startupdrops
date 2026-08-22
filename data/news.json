@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T21:59:47.052113+00:00",
+  "updatedAt": "2026-08-22T03:13:18.749063+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -266,6 +266,27 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/consumo/viih-tube-show-cancelado-casamento/",
+      "_key": "6c88fe925f635db899654242bb4169c3",
+      "title": "Jota Quest é associado a caso de Viih Tube; banda pode cancelar show de casamento?",
+      "originalTitle": "Jota Quest é associado a caso de Viih Tube; banda pode cancelar show de casamento?",
+      "summary": "Influenciadora disse que grupo desistiu a poucos dias da cerimônia The post Jota Quest é associado a caso de Viih Tube; banda pode cancelar show de casamento? appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/consumo/viih-tube-show-cancelado-casamento/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Viih-Tube.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-21T22:30:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/o-que-lula-e-trump-conversaram-o-que-ficou-de-fora-e-qual-estrategia-do-governo/",
       "_key": "88dda29cae098195ce030d9c08bd5b46",
