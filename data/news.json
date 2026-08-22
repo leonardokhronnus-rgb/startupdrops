@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:07:12.364042+00:00",
+  "updatedAt": "2026-08-22T21:52:47.264455+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -267,6 +267,48 @@
   ],
   "articles": [
     {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/profunda-desconfianca-sobre-lideres-da-boeing-continua-diz-sindicato/",
+      "_key": "1463c45c3160784331ed03b841fe1ecb",
+      "title": "‘Profunda desconfiança’ sobre líderes da Boeing continua, diz sindicato",
+      "originalTitle": "‘Profunda desconfiança’ sobre líderes da Boeing continua, diz sindicato",
+      "summary": "A desconfiança, segundo os funcionários, é causada pela transferência de empregos para outros estados dos EUA ou terceirizados no exterior, priorização da velocidade em detrimento de qualidade, decisões de engenharia ignoradas e salários desatualizados The post &#8216;Profunda desconfiança&#8217; sobre líderes da Boeing continua, diz sindicato appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/profunda-desconfianca-sobre-lideres-da-boeing-continua-diz-sindicato/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/2024-07-19T180625Z_1_LYNXMPEK6I0S8_RTROPTP_4_BOEING-DELIVERIES.jpg?fit=300%2C176&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-22T21:30:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/pedro-jobim-recessao-perdas-ineditas-investimentos/",
+      "_key": "9d211a0aad6e5af11dc341f8350adc21",
+      "title": "Pedro Jobim: Recessão levaria a perdas inéditas em ativos de investidores",
+      "originalTitle": "Pedro Jobim: Recessão levaria a perdas inéditas em ativos de investidores",
+      "summary": "Economista-chefe e sócio-fundador da Legacy Capital afirma que o ciclo de endividamento atual se apoiou no mercado de capitais, e não no crédito bancário, o que jogaria eventuais calotes direto na carteira do investidor The post Pedro Jobim: Recessão levaria a perdas inéditas em ativos de investidores appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/pedro-jobim-recessao-perdas-ineditas-investimentos/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/FAB_1991.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-22T19:32:34+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/lula-volta-a-prometer-retomada-da-industria-da-defesa-mas-diz-nao-querer-guerra/",
       "_key": "71df233167544de96e197c054c14b4f2",
       "title": "Lula volta a prometer retomada da indústria da defesa, mas diz não querer guerra",
@@ -326,6 +368,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Exame-https://exame.com/esg/o-futuro-chegou-itmos-e-a-hora-de-o-brasil-monetizar-sua-transformacao-ecologica/",
+      "_key": "7957bcc46eaf12c5d97165798284ba63",
+      "title": "O futuro chegou: ITMOS e a hora de o Brasil monetizar sua transformação ecológica",
+      "originalTitle": "O futuro chegou: ITMOS e a hora de o Brasil monetizar sua transformação ecológica",
+      "summary": "O Brasil tem ativos ambientais que países desenvolvidos precisam comprar. Mas enquanto Gana, Tailandia e Quenia já monetizam suas reduções de emissão, o Brasil ainda discute como autorizá-las.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://exame.com/esg/o-futuro-chegou-itmos-e-a-hora-de-o-brasil-monetizar-sua-transformacao-ecologica/",
+      "source": "Exame",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://classic.exame.com/wp-content/uploads/2026/03/plano-clima-Bongkod-Worakandecha.jpg",
+      "publishedAt": "2026-08-22T16:15:40+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Exame"
       ],
       "coverageCount": 1
     },
