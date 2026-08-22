@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T03:13:18.749063+00:00",
+  "updatedAt": "2026-08-22T07:49:10.419030+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -266,6 +266,27 @@
     }
   ],
   "articles": [
+    {
+      "id": "G1 Economia-https://g1.globo.com/inovacao/noticia/2026/08/22/como-sera-o-supercomputador-brasileiro-de-ia-com-investimento-de-r-1-bilhao.ghtml",
+      "_key": "0f44cbd7083e7df15d477f0cacbe1cb7",
+      "title": "Como será o supercomputador brasileiro de IA com investimento de R$ 1 bilhão",
+      "originalTitle": "Como será o supercomputador brasileiro de IA com investimento de R$ 1 bilhão",
+      "summary": "Lula discursa durante anúncio de supercomputador no RN O Brasil deverá ter um novo supercomputador em operação a partir de 2027. O projeto anunciado na última quinta-feira (20) faz parte de um plano voltado à inteligência artificial e prevê um investimento de R$ 1,06 bilhão.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/08/22/como-sera-o-supercomputador-brasileiro-de-ia-com-investimento-de-r-1-bilhao.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/ImAGbQO7jbJ8hArX-2j_ORW2oMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/M/ZLv6WmRdAnM8eCXBSxsg/data-center-meta.jpg",
+      "publishedAt": "2026-08-22T07:01:06+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/consumo/viih-tube-show-cancelado-casamento/",
       "_key": "6c88fe925f635db899654242bb4169c3",
