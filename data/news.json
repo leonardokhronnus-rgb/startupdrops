@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T15:53:03.493552+00:00",
+  "updatedAt": "2026-08-22T19:07:12.364042+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -266,6 +266,69 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/lula-volta-a-prometer-retomada-da-industria-da-defesa-mas-diz-nao-querer-guerra/",
+      "_key": "71df233167544de96e197c054c14b4f2",
+      "title": "Lula volta a prometer retomada da indústria da defesa, mas diz não querer guerra",
+      "originalTitle": "Lula volta a prometer retomada da indústria da defesa, mas diz não querer guerra",
+      "summary": "\"Queremos respeito e para ter respeito, as pessoas têm de saber que estamos preparados\", disse em ato de campanha no Rio The post Lula volta a prometer retomada da indústria da defesa, mas diz não querer guerra appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/lula-volta-a-prometer-retomada-da-industria-da-defesa-mas-diz-nao-querer-guerra/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-22T171729Z_1611593833_RC2R3NARG4Z0_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-22T18:48:22+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/canada-contra-ataca-trump-e-anuncia-tarifa-retaliatoria-em-diversos-setores-dos-eua/",
+      "_key": "9a15ac149268f3407a4ebaa316f7e223",
+      "title": "Canadá contra-ataca Trump e anuncia tarifa retaliatória em diversos setores dos EUA",
+      "originalTitle": "Canadá contra-ataca Trump e anuncia tarifa retaliatória em diversos setores dos EUA",
+      "summary": "Após dias de intensas negociações, os dois países ⁠não ‌conseguiram chegar a um acordo comercial na ⁠noite de sexta-feira The post Canadá contra-ataca Trump e anuncia tarifa retaliatória em diversos setores dos EUA appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/canada-contra-ataca-trump-e-anuncia-tarifa-retaliatoria-em-diversos-setores-dos-eua/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-14T115142Z_1_LYNXMPEM3D0P8_RTROPTP_4_CANADA-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-22T18:05:29+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/a-odisseia-se-torna-o-filme-classificado-para-adultos-de-maior-bilheteria-mundial/",
+      "_key": "117090aaafb702f9aaf0d9a31d877cd5",
+      "title": "“A Odisseia” se torna o filme classificado para adultos de maior bilheteria mundial",
+      "originalTitle": "“A Odisseia” se torna o filme classificado para adultos de maior bilheteria mundial",
+      "summary": "Até então, o recorde pertencia ao filme Deadpool &#038; Wolverine, lançado em 2024 The post &#8220;A Odisseia&#8221; se torna o filme classificado para adultos de maior bilheteria mundial appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/a-odisseia-se-torna-o-filme-classificado-para-adultos-de-maior-bilheteria-mundial/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/a-odisseia-filme.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-22T16:36:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/tarcisio-sobre-ausencia-de-flavio-e-lula-em-debate-questao-de-estrategia/",
       "_key": "e4c8bdf7e62f71ede7607a9cf653943d",
