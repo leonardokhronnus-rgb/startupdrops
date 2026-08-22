@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T07:49:10.419030+00:00",
+  "updatedAt": "2026-08-22T09:57:57.612294+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -266,6 +266,111 @@
     }
   ],
   "articles": [
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/22/guerra-no-ira-faz-paises-do-golfo-acelerarem-planos-para-driblar-estreito-de-ormuz.ghtml",
+      "_key": "238f49f7b014af7e1bf9cd3e179b8221",
+      "title": "Guerra no Irã faz países do Golfo acelerarem planos para driblar Estreito de Ormuz",
+      "originalTitle": "Guerra no Irã faz países do Golfo acelerarem planos para driblar Estreito de Ormuz",
+      "summary": "Irã diz que Estreito de Ormuz só será reaberto com saída dos EUA A guerra no Irã está obrigando os grandes produtores de petróleo do Golfo Pérsico a reformular a forma como exportam o produto e reduzir a dependência do Estreito de Ormuz, principal rota de saída da região.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/22/guerra-no-ira-faz-paises-do-golfo-acelerarem-planos-para-driblar-estreito-de-ormuz.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/zsmfODQH5bmwVuFzpBJBlU2RTMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/U/IueoH0RuiQRx5MJuKhcw/2026-08-17t134126z-1571278001-rc2c0naakvh3-rtrmadp-3-iran-crisis-oman-hormuz.jpg",
+      "publishedAt": "2026-08-22T08:00:42+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/global/shein-foi-a-grande-aposta-do-fast-fashion-agora-luta-para-escrever-novo-capitulo/",
+      "_key": "f7d9e65d14a3b98b815ec5125b0a407e",
+      "title": "Shein foi a grande aposta do fast fashion. Agora, luta para escrever novo capítulo",
+      "originalTitle": "Shein foi a grande aposta do fast fashion. Agora, luta para escrever novo capítulo",
+      "summary": "Sob pressão nos Estados Unidos e na Europa, a Shein enfrenta dificuldades para encontrar novas formas de crescer antes de sua tão adiada oferta pública inicial de ações (IPO) The post Shein foi a grande aposta do fast fashion.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/global/shein-foi-a-grande-aposta-do-fast-fashion-agora-luta-para-escrever-novo-capitulo/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/SHEIN-OUTLOOK-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-22T08:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/sentimento-de-empresarios-e-investidores-vai-ao-fundo-do-poco-aponta-xp/",
+      "_key": "89d5c9c8c8e9ca9fc5180000f511863c",
+      "title": "Sentimento de empresários e investidores cai para patamar de pessimismo extremo",
+      "originalTitle": "Sentimento de empresários e investidores cai para patamar de pessimismo extremo",
+      "summary": "Conferência da XP no Rio reuniu 106 empresas e cerca de 500 investidores, e expôs preocupação generalizada com desaceleração da atividade, endividamento e avanço da inadimplência The post Sentimento de empresários e investidores cai para patamar de pessimismo extremo appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/sentimento-de-empresarios-e-investidores-vai-ao-fundo-do-poco-aponta-xp/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/12/PMC_HOME_Charles-de-Moura-PMSJC.jpg?fit=300%2C166&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-22T08:00:00+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/como-e-o-modelo-de-combate-ao-crime-de-bukele-que-inspira-a-direta-no-brasil/",
+      "_key": "903ba2ef252d50c582099fd8b77e356a",
+      "title": "Como é o modelo de Bukele de combate ao crime que inspira a direita no Brasil?",
+      "originalTitle": "Como é o modelo de Bukele de combate ao crime que inspira a direita no Brasil?",
+      "summary": "País da América Central está sob regime de exceção desde março de 2022, com policiamento ostensivo e tolerância zero com o crime; taxa de homicídios é uma das mais baixas do mundo, mas há críticas de violações de direitos The post Como é o modelo de Bukele de combate ao crime que inspira a direita no Brasil?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/como-e-o-modelo-de-combate-ao-crime-de-bukele-que-inspira-a-direta-no-brasil/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Presos_El-Salvador_Divulgacao_AssembleiaLegislativa2.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-22T08:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/a-estrategia-da-nb-steak-para-atrair-20-mais-clientes-vendendo-menos/",
+      "_key": "0496332f9814ee74b4f11277c73290e8",
+      "title": "A estratégia da NB Steak para atrair 20% mais clientes vendendo ‘menos’",
+      "originalTitle": "A estratégia da NB Steak para atrair 20% mais clientes vendendo ‘menos’",
+      "summary": "Rede criada por Arri Coser lança Menu Essencial, com porções menores e preço mais acessível, para acompanhar novos hábitos de consumo The post A estratégia da NB Steak para atrair 20% mais clientes vendendo &#8216;menos&#8217; appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/a-estrategia-da-nb-steak-para-atrair-20-mais-clientes-vendendo-menos/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/NB-STEAK-02.jpg?fit=300%2C168&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-22T08:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "G1 Economia-https://g1.globo.com/inovacao/noticia/2026/08/22/como-sera-o-supercomputador-brasileiro-de-ia-com-investimento-de-r-1-bilhao.ghtml",
       "_key": "0f44cbd7083e7df15d477f0cacbe1cb7",
