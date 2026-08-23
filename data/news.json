@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T15:55:02.059545+00:00",
+  "updatedAt": "2026-08-23T19:07:11.307313+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -266,6 +266,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/ons-aciona-plano-emergencial-apos-excesso-de-energia-no-sistema-eletrico-entenda/",
+      "_key": "3b1b1bbac84cc25e84e4f0c3ffb14b52",
+      "title": "ONS aciona plano emergencial após excesso de energia no sistema elétrico; entenda",
+      "originalTitle": "ONS aciona plano emergencial após excesso de energia no sistema elétrico; entenda",
+      "summary": "Baixo consumo no fim de semana e avanço da geração distribuída, sobretudo solar, fizeram produção superar a necessidade do sistema; é o segundo acionamento do plano em 2026 The post ONS aciona plano emergencial após excesso de energia no sistema elétrico; entenda appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/ons-aciona-plano-emergencial-apos-excesso-de-energia-no-sistema-eletrico-entenda/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-30T193654Z_1_LYNXMPEM2T16K_RTROPTP_4_SPAIN-ENERGY-OUTAGES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-23T18:56:58+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/brasil/briga-na-familia-imperial-brasileira-principe-perde-direito-de-voltar-a-palacio/",
+      "_key": "702dc309e20d4a20cd45ad3c42dc3074",
+      "title": "Briga na Família Imperial brasileira: príncipe perde direito de voltar a palácio",
+      "originalTitle": "Briga na Família Imperial brasileira: príncipe perde direito de voltar a palácio",
+      "summary": "Dom Pedro Tiago havia conseguido na Justiça o direito de retornar ao imóvel onde afirma morar desde que nasceu The post Briga na Família Imperial brasileira: príncipe perde direito de voltar a palácio appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/brasil/briga-na-familia-imperial-brasileira-principe-perde-direito-de-voltar-a-palacio/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/palacio-grao-para-principe-familia-imperial-brasil.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-23T18:12:40+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/jogos-mundiais-de-robos-humanoides-sao-5-dias-51-provas-e-um-teste-de-tecnologia/",
+      "_key": "612a56d9131388661bbd0fdc74f8c074",
+      "title": "Jogos ‌Mundiais de Robôs Humanóides? São 5 dias, 51 provas e um teste de tecnologia",
+      "originalTitle": "Jogos ‌Mundiais de Robôs Humanóides? São 5 dias, 51 provas e um teste de tecnologia",
+      "summary": "Os Jogos ‌Mundiais de Robôs Humanóides, com duração de cinco dias, que começaram no sábado em Pequim, combinam provas inspiradas em esportes humanos com outras projetadas para testar os robôs The post Jogos ‌Mundiais de Robôs Humanóides?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/jogos-mundiais-de-robos-humanoides-sao-5-dias-51-provas-e-um-teste-de-tecnologia/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/robos-e-humanos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-23T17:50:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mundo/putin-quer-recrutar-300-mil-novos-soldados-afirma-zelenskiy/",
+      "_key": "5aa1a0190cf40d5d3b5afdfe6d54e6a1",
+      "title": "Putin quer recrutar 300 mil novos soldados, afirma Zelenskiy",
+      "originalTitle": "Putin quer recrutar 300 mil novos soldados, afirma Zelenskiy",
+      "summary": "As forças de Moscou estão ‌avançando em uma ofensiva para capturar o restante da região industrializada de Donbas, no leste da Ucrânia The post Putin quer recrutar 300 mil novos soldados, afirma Zelenskiy appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mundo/putin-quer-recrutar-300-mil-novos-soldados-afirma-zelenskiy/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Zelensky-e1783798896628.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-23T17:15:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/business/volta-ao-reino-unido-pode-render-ate-r-70-milhoes-a-harry-e-meghan/",
       "_key": "534cc5902bdb2d02e197058339bd54c8",
