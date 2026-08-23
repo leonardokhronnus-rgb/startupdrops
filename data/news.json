@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T03:36:09.296549+00:00",
+  "updatedAt": "2026-08-23T07:52:36.003321+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -227,11 +227,6 @@
     {
       "source": "Money Times Tech",
       "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Inovação Tecnológica",
-      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
       "reason": "falhou direto e via proxy"
     },
     {
