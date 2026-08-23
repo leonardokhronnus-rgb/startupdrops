@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T07:52:36.003321+00:00",
+  "updatedAt": "2026-08-23T09:59:55.927907+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -266,6 +266,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/23/el-nino-pode-encarecer-alimentos-em-ate-20percent-economistas-preveem-impacto-na-inflacao.ghtml",
+      "_key": "10c2150df4601f39c15e6ae5a44a8f94",
+      "title": "El Niño pode encarecer alimentos em até 20%; economistas prevêem impacto na inflação",
+      "originalTitle": "El Niño pode encarecer alimentos em até 20%; economistas prevêem impacto na inflação",
+      "summary": "El Niño deve ser o mais intenso de que se tem memória Os alimentos podem ficar mais caros para os brasileiros e atingir um pico de preços em até seis meses após os choques climáticos provocados pelo El Niño.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/23/el-nino-pode-encarecer-alimentos-em-ate-20percent-economistas-preveem-impacto-na-inflacao.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/uwrX4SbrxE4NrY-bvGG_NsxivSI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Y/g/xvm7auROWivTKDf3OI0w/de-onde-vem-a-salada-supermercado-sonda-foto-celso-tavares-g1-29-de-94-.jpg",
+      "publishedAt": "2026-08-23T08:00:45+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/23/por-que-europeus-estao-guardando-mais-dinheiro-vivo-mesmo-usando-cada-vez-menos-notas.ghtml",
+      "_key": "3a2484f055cc97c47bc9cdbff1b1c0a0",
+      "title": "Por que europeus estão guardando mais dinheiro vivo mesmo usando cada vez menos notas?",
+      "originalTitle": "Por que europeus estão guardando mais dinheiro vivo mesmo usando cada vez menos notas?",
+      "summary": "Mais de 31 milhões de notas de euro estão em circulação, em comparação com 24 milhões pouco antes da pandemia Frank Hoermann/SVEN SIMON/IMAGO via DW Dados do Banco Central Europeu (BCE) revelam que o número de cédulas de euro em circulação na União Europeia (UE) está aumentando, apesar da crescente disseminação de pagamentos eletrônicos entre os europeus.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/23/por-que-europeus-estao-guardando-mais-dinheiro-vivo-mesmo-usando-cada-vez-menos-notas.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/7khFbIc1N1Jw51hTJw3AxYHg0do=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/0/wkDSVbT1AdKVK1SIdoMw/63767847-1004.webp",
+      "publishedAt": "2026-08-23T08:00:43+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/por-que-postos-quebram-22-vezes-mais-que-o-varejo-mas-quase-nunca-fecham/",
+      "_key": "4cb7f55a79290679b7819776dce02c1f",
+      "title": "Por que os postos quebram 22 vezes mais que o varejo — mas quase nunca fecham?",
+      "originalTitle": "Por que os postos quebram 22 vezes mais que o varejo — mas quase nunca fecham?",
+      "summary": "Estudo indica que até o final de junho havia 182 postos em recuperação, 31,9% a mais do que em igual período do ano anterior The post Por que os postos quebram 22 vezes mais que o varejo — mas quase nunca fecham? appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/por-que-postos-quebram-22-vezes-mais-que-o-varejo-mas-quase-nunca-fecham/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/05/carro-abastecimento-combustivel-posto.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-23T08:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/carreira/seis-livros-para-quem-quer-retomar-as-redeas-da-vida-e-enfrentar-o-medo/",
+      "_key": "a1620c79508d4ed734f7f1412ebd8676",
+      "title": "Seis livros para quem quer retomar as rédeas da vida e enfrentar o medo",
+      "originalTitle": "Seis livros para quem quer retomar as rédeas da vida e enfrentar o medo",
+      "summary": "Veja uma seleção de obras que abordam diferentes desafios do dia a dia e ajudam a refletir sobre como lidar com eles The post Seis livros para quem quer retomar as rédeas da vida e enfrentar o medo appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/carreira/seis-livros-para-quem-quer-retomar-as-redeas-da-vida-e-enfrentar-o-medo/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/pexels-pixabay-159711.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-23T08:00:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "Brazil Journal-https://braziljournal.com/bill-ackman-quase-perdeu-a-filha-agora-vai-transformar-tragedia-em-esperanca/",
       "_key": "2d645aa1d980fa39f5a868291ff765a5",
