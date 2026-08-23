@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T09:59:55.927907+00:00",
+  "updatedAt": "2026-08-23T13:50:52.043688+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -266,6 +266,111 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/zema-defende-nova-reforma-da-previdencia-com-ajuste-pela-expectativa-de-vida/",
+      "_key": "72b84a899398822e034e80e9244358f3",
+      "title": "Zema defende nova reforma da Previdência com ajuste pela expectativa de vida",
+      "originalTitle": "Zema defende nova reforma da Previdência com ajuste pela expectativa de vida",
+      "summary": "Zema se reuniu com pessoas que tiveram descontos indevidos de aposentadorias e pensões do INSS The post Zema defende nova reforma da Previdência com ajuste pela expectativa de vida appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/zema-defende-nova-reforma-da-previdencia-com-ajuste-pela-expectativa-de-vida/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/romeu-zema-governador-minas-gerais-politica-novo03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-23T12:20:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/advisor/de-psicologa-a-socia-como-aline-rosa-construiu-uma-carteira-de-r-300-milhoes/",
+      "_key": "2039a5f8e134e7edf1c46f165d48ac4a",
+      "title": "De psicóloga a sócia: como Aline Rosa construiu uma carteira de R$ 300 milhões",
+      "originalTitle": "De psicóloga a sócia: como Aline Rosa construiu uma carteira de R$ 300 milhões",
+      "summary": "Ela deixou o consultório, começou como caixa de banco e participou da construção da operação da Monte Bravo em Goiânia; hoje, aos 38 anos, é sócia da empresa, acompanha cerca de R$ 300 milhões e mira R$ 500 milhões The post De psicóloga a sócia: como Aline Rosa construiu uma carteira de R$ 300 milhões appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/advisor/de-psicologa-a-socia-como-aline-rosa-construiu-uma-carteira-de-r-300-milhoes/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Aline-Rosa.jpg.jpeg?fit=300%2C199&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-23T12:19:00+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/falta-de-infraestrutura-de-ia-limita-crescimento-de-startups-brasileiras/",
+      "_key": "fe6427479a028dee94e6818c2c11502a",
+      "title": "Falta de infraestrutura de IA limita crescimento de startups brasileiras",
+      "originalTitle": "Falta de infraestrutura de IA limita crescimento de startups brasileiras",
+      "summary": "Mais de um terço das 90 empresas ouvidas relatam que já tiveram a operação limitada pela infraestrutura disponível The post Falta de infraestrutura de IA limita crescimento de startups brasileiras appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/falta-de-infraestrutura-de-ia-limita-crescimento-de-startups-brasileiras/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/inteligencia-artificial-ai-ia-tecnologia.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-23T12:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/23/pix-fora-do-ar-clientes-de-bancos-relatam-instabilidade-do-servico.ghtml",
+      "_key": "ed57b096b2a844ff7140d311c2743169",
+      "title": "PIX fora do ar? Clientes de banco relatam instabilidade do serviço; Banco Central diz que sistema foi restabelecido",
+      "originalTitle": "PIX fora do ar? Clientes de banco relatam instabilidade do serviço; Banco Central diz que sistema foi restabelecido",
+      "summary": "Governo Trump conclui que Pix é 'injusto': por que sistema brasileiro incomoda tanto os EUA e o que pode acontecer com ele agora? Marcello Casal Jr/Agência Brasil Clientes de bancos brasileirosrelataram neste domigno (23) instabilidade nas operações do PIX.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/23/pix-fora-do-ar-clientes-de-bancos-relatam-instabilidade-do-servico.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/Fbdi1EZYlpxXKkECEOKN4mKLPfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/n/UJiD0QQWmthVHtos0Yww/0dc74ec0-3436-11f1-9d5c-8ba507d7dbde.jpg",
+      "publishedAt": "2026-08-23T11:35:51+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/23/variedade-de-uva-italiana-comeca-a-ser-produzida-em-sao-roque.ghtml",
+      "_key": "bf89eadc69effb5ea8b8e559cf86e275",
+      "title": "Variedade de uva italiana começa a ser produzida em São Roque",
+      "originalTitle": "Variedade de uva italiana começa a ser produzida em São Roque",
+      "summary": "Nebbiolo é uma variedade italiana que serve de base para inúmeros vinhos prestigiados ao redor do mundo. TEM O município de São Roque (SP) é um dos principais polos de produção de uva e vinho no estado de São Paulo, com tradição centenária e forte investimento em enoturismo.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/08/23/variedade-de-uva-italiana-comeca-a-ser-produzida-em-sao-roque.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/_ri1Mj2KfgJh-pXEQt6Sg_RAPAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/o/bOW21wSyAYDr03TEonqA/sor-vinhos-inverno-frame-4935.jpeg",
+      "publishedAt": "2026-08-23T10:30:18+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/agronegocios/noticia/2026/08/23/el-nino-pode-encarecer-alimentos-em-ate-20percent-economistas-preveem-impacto-na-inflacao.ghtml",
       "_key": "10c2150df4601f39c15e6ae5a44a8f94",
