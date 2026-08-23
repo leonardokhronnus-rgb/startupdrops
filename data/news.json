@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T13:50:52.043688+00:00",
+  "updatedAt": "2026-08-23T15:55:02.059545+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -266,6 +266,27 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/volta-ao-reino-unido-pode-render-ate-r-70-milhoes-a-harry-e-meghan/",
+      "_key": "534cc5902bdb2d02e197058339bd54c8",
+      "title": "Volta ao Reino Unido pode render até R$ 70 milhões a Harry e Meghan",
+      "originalTitle": "Volta ao Reino Unido pode render até R$ 70 milhões a Harry e Meghan",
+      "summary": "Especialista em branding estima novos projetos de até £ 5 milhões cada; Meghan também estaria negociando papel em série por ao menos £ 1 milhão The post Volta ao Reino Unido pode render até R$ 70 milhões a Harry e Meghan appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/volta-ao-reino-unido-pode-render-ate-r-70-milhoes-a-harry-e-meghan/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-19T214826Z_1_LYNXMPEM7I19Q_RTROPTP_4_BRITAIN-ROYALS-AUSTRALIA-HARRY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-23T14:38:11+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/politica/zema-defende-nova-reforma-da-previdencia-com-ajuste-pela-expectativa-de-vida/",
       "_key": "72b84a899398822e034e80e9244358f3",
