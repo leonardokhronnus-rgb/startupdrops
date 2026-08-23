@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:52:47.264455+00:00",
+  "updatedAt": "2026-08-23T03:36:09.296549+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -230,6 +230,11 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "Inovação Tecnológica",
+      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -266,6 +271,69 @@
     }
   ],
   "articles": [
+    {
+      "id": "Brazil Journal-https://braziljournal.com/bill-ackman-quase-perdeu-a-filha-agora-vai-transformar-tragedia-em-esperanca/",
+      "_key": "2d645aa1d980fa39f5a868291ff765a5",
+      "title": "Bill Ackman quase perdeu a filha. Agora, vai transformar tragédia em esperança",
+      "originalTitle": "Bill Ackman quase perdeu a filha. Agora, vai transformar tragédia em esperança",
+      "summary": "No começo deste ano, uma mulher de 26 anos foi encontrada inconsciente no apartamento onde morava, no Brooklyn. Só 19 horas depois – muito além da “janela” de resposta necessária em casos deste tipo – Lucy passou por uma cirurgia de emergência no Mount Sinai Hospital.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/bill-ackman-quase-perdeu-a-filha-agora-vai-transformar-tragedia-em-esperanca/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/08/ba2-635x357.jpg",
+      "publishedAt": "2026-08-23T03:10:30+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/esportes/corinthians-multa-memphis-depay-por-imagens-do-parque-sao-jorge-em-chamas/",
+      "_key": "adcd2d91926cfa9bca73830564f45705",
+      "title": "Corinthians multa Memphis Depay por imagens do Parque São Jorge em chamas",
+      "originalTitle": "Corinthians multa Memphis Depay por imagens do Parque São Jorge em chamas",
+      "summary": "O episódio ganhou ainda mais relevância pelo momento vivido pelo Corinthians, com protestos da torcida ao longo da semana The post Corinthians multa Memphis Depay por imagens do Parque São Jorge em chamas appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/esportes/corinthians-multa-memphis-depay-por-imagens-do-parque-sao-jorge-em-chamas/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-22-at-20.03.52.jpeg?fit=300%2C193&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-22T23:06:00+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/tchau-haagen-dazs-distribuicao-do-sorvete-e-encerrada-no-brasil/",
+      "_key": "39313986cdd526ac0e4d2639b60fbd86",
+      "title": "Tchau, Häagen-Dazs: distribuição dos sorvetes da marca é encerrada no Brasil",
+      "originalTitle": "Tchau, Häagen-Dazs: distribuição dos sorvetes da marca é encerrada no Brasil",
+      "summary": "A companhia atribuiu a decisão à reformulação de portfólio anunciada em março – quando comunicou a venda da sua operação brasileira para a 3corações The post Tchau, Häagen-Dazs: distribuição dos sorvetes da marca é encerrada no Brasil appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/tchau-haagen-dazs-distribuicao-do-sorvete-e-encerrada-no-brasil/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorvete.png?fit=300%2C112&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-22T22:26:23+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/business/profunda-desconfianca-sobre-lideres-da-boeing-continua-diz-sindicato/",
       "_key": "1463c45c3160784331ed03b841fe1ecb",
