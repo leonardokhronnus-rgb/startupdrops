@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T08:32:21.188349+00:00",
+  "updatedAt": "2026-08-24T11:02:58.094448+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -271,6 +271,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/softbank-planeja-emissao-recorde-de-titulos-com-aposta-em-inteligencia-artificial/",
+      "_key": "66022111b94d9d23bb22fdb081822622",
+      "title": "SoftBank planeja emissão recorde de títulos com aposta em inteligência artificial",
+      "originalTitle": "SoftBank planeja emissão recorde de títulos com aposta em inteligência artificial",
+      "summary": "A captação de recursos ocorre em um momento em que o SoftBank busca financiar uma estratégia de inteligência artificial cada vez mais ambiciosa The post SoftBank planeja emissão recorde de títulos com aposta em inteligência artificial appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/softbank-planeja-emissao-recorde-de-titulos-com-aposta-em-inteligencia-artificial/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/2024-06-21T171754Z_1_LYNXMPEK5K0ME_RTROPTP_4_DELHIVERY-IPO.jpg?fit=300%2C208&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T10:56:44+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/shein-busca-levantar-ate-us-177-bilhao-em-ipo-em-hong-kong/",
+      "_key": "f1a0de86e72c7089d0a61cffe1f3c1e5",
+      "title": "Shein busca levantar até US$ 1,77 bilhão em IPO em Hong Kong",
+      "originalTitle": "Shein busca levantar até US$ 1,77 bilhão em IPO em Hong Kong",
+      "summary": "Os fundos também serão usados para aumentar o reconhecimento da marca e fortalecer a presença global da empresa The post Shein busca levantar até US$ 1,77 bilhão em IPO em Hong Kong appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/shein-busca-levantar-ate-us-177-bilhao-em-ipo-em-hong-kong/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/2024-06-13T145758Z_1_LYNXMPEK5C0KW_RTROPTP_4_SHEIN-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T10:32:43+00:00",
+      "score": 46,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/em-debate-caiado-diz-que-aumentara-autonomia-dos-governadores-na-seguranca-publica/",
+      "_key": "f07496cdbe66152ac62280e0132dec55",
+      "title": "Em debate, Caiado diz que aumentará autonomia dos governadores na segurança pública",
+      "originalTitle": "Em debate, Caiado diz que aumentará autonomia dos governadores na segurança pública",
+      "summary": "Ele disse ainda que o presidente Luiz Inácio Lula da Silva poderia ter resolvido a questão do ministério da Segurança Pública com uma Medida Provisória The post Em debate, Caiado diz que aumentará autonomia dos governadores na segurança pública appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/em-debate-caiado-diz-que-aumentara-autonomia-dos-governadores-na-seguranca-publica/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/debate-presidencial-band-eleicoes-2026-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T10:11:55+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/em-entrevista-lula-afirma-que-vai-anunciar-o-fim-da-taxa-das-blusinhas/",
+      "_key": "dd9e45798219d7ebdb28b6a3311d7c31",
+      "title": "Em entrevista, Lula afirma que vai anunciar o fim da taxa das blusinhas",
+      "originalTitle": "Em entrevista, Lula afirma que vai anunciar o fim da taxa das blusinhas",
+      "summary": "A taxa das blusinhas foi temporariamente suspensa em maio, mas a isenção depende da aprovação de uma medida provisória pelo Congresso até 8 de setembro The post Em entrevista, Lula afirma que vai anunciar o fim da taxa das blusinhas appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/em-entrevista-lula-afirma-que-vai-anunciar-o-fim-da-taxa-das-blusinhas/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/lula-pt-presidente-record-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T10:00:07+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/24/o-segundo-aluguel-esta-mais-caro-condominio-sobe-acima-da-inflacao-e-pesa-ate-40percent-do-aluguel.ghtml",
       "_key": "71ffa1ef60258afac9c1487987b57ea1",
