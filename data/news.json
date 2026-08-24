@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T14:31:30.973517+00:00",
+  "updatedAt": "2026-08-24T17:08:47.805291+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -240,6 +240,11 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "Draft",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:projetodraft.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Distrito",
       "url": "https://news.google.com/rss/search?q=when:5d+site:distrito.me&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -276,6 +281,153 @@
     }
   ],
   "articles": [
+    {
+      "id": "G1 Economia-https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-ministro-da-fazenda-defende-combater-pejotizacao-para-reduzir-deficit-da-previdencia-social.ghtml",
+      "_key": "2390aac6069e1dced185aad7280cd7d6",
+      "title": "Eleições 2026: ministro da Fazenda defende combater 'pejotização' para conter déficit da Previdência Social",
+      "originalTitle": "Eleições 2026: ministro da Fazenda defende combater 'pejotização' para conter déficit da Previdência Social",
+      "summary": "O ministro da Fazenda, Dario Durigan, defendeu nesta segunda-feira (24) o combate à chamada \"pejotização\", ou seja, a prática de contratar pessoas físicas por meio de empresas, ao invés da carteira assinada, como forma de combater o crescente rombo na Previdência Social.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-ministro-da-fazenda-defende-combater-pejotizacao-para-reduzir-deficit-da-previdencia-social.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/_cRBljKgtgH2OO5TpoNEa-Jcp-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/s/eXwLJ2QmWVeFtDivEA8w/55199249110-8d099d956c-o.jpg",
+      "publishedAt": "2026-08-24T16:45:44+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/minhas-financas/seguro-residencial-agrada-na-cobertura-mas-assistencia-e-apps-sao-criticados/",
+      "_key": "b56645e5f0ffc623d901ee5eaa452c44",
+      "title": "Seguro residencial agrada na cobertura, mas assistência e apps são criticados",
+      "originalTitle": "Seguro residencial agrada na cobertura, mas assistência e apps são criticados",
+      "summary": "Pesquisa com 1,2 mil corretores aponta 93% de avaliações positivas para coberturas básicas, enquanto assistência e canais digitais concentram insatisfação The post Seguro residencial agrada na cobertura, mas assistência e apps são criticados appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/minhas-financas/seguro-residencial-agrada-na-cobertura-mas-assistencia-e-apps-sao-criticados/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/closeup-shot-person-thinking-buying-selling-house-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T16:40:28+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24082026/",
+      "_key": "7ed5a1fc7e06c7ace144607c58b4104e",
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe com alta de 4% de VALE3 e bancos; PETR4 cai 3%",
+      "originalTitle": "Ibovespa Hoje Ao Vivo: Bolsa sobe com alta de 4% de VALE3 e bancos; PETR4 cai 3%",
+      "summary": "Bolsas dos EUA operam mistas com queda nas ações de tecnologia The post Ibovespa Hoje Ao Vivo: Bolsa sobe com alta de 4% de VALE3 e bancos; PETR4 cai 3% appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-53.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T16:39:31+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/maioria-dos-brasileiros-diz-que-votaria-mesmo-sem-obrigacao-aponta-datafolha/",
+      "_key": "51c0df0c5486285eba99c6551f8ff29b",
+      "title": "Maioria dos brasileiros diz que votaria mesmo sem obrigação, aponta Datafolha",
+      "originalTitle": "Maioria dos brasileiros diz que votaria mesmo sem obrigação, aponta Datafolha",
+      "summary": "Pesquisa revela maior interesse da participação do eleitor em relação aos dados coletados em 2015 The post Maioria dos brasileiros diz que votaria mesmo sem obrigação, aponta Datafolha appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/maioria-dos-brasileiros-diz-que-votaria-mesmo-sem-obrigacao-aponta-datafolha/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/lacracao-urnas-eletronicas_mcamgo_abr_210920221818-4.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T16:17:03+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/gerdua-ggbr4-goldman-sachs-ve-menos-espaco-para-alta-e-corta-recomendacao/",
+      "_key": "7230ef856a3fd2eb9511f62fff37478a",
+      "title": "Gerdua (GGBR4): Goldman Sachs vê menos espaço para alta e corta recomendação",
+      "originalTitle": "Gerdua (GGBR4): Goldman Sachs vê menos espaço para alta e corta recomendação",
+      "summary": "Banco avalia que espaço para novas revisões positivas nos resultados da siderúrgica está mais limitado após a forte alta dos papéis The post Gerdua (GGBR4): Goldman Sachs vê menos espaço para alta e corta recomendação appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/gerdua-ggbr4-goldman-sachs-ve-menos-espaco-para-alta-e-corta-recomendacao/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/gerdau-1.jpg?fit=300%2C208&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T16:01:17+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/fii-da-capitania-conclui-compra-de-participacoes-no-amazonas-shopping-por-r-518-mi/",
+      "_key": "bed432c35e19fbf7c1f3658486e8d273",
+      "title": "FII da Capitânia conclui compra de participações no Amazonas Shopping por R$ 51,8 mi",
+      "originalTitle": "FII da Capitânia conclui compra de participações no Amazonas Shopping por R$ 51,8 mi",
+      "summary": "Compra de R$ 51,8 milhões adiciona novo ativo ao portfólio, mas impacto nos rendimentos ainda não foi estimado The post FII da Capitânia conclui compra de participações no Amazonas Shopping por R$ 51,8 mi appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/fii-da-capitania-conclui-compra-de-participacoes-no-amazonas-shopping-por-r-518-mi/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-Tela-2026-08-24-as-12.46.30.png?fit=300%2C119&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T15:51:25+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "NeoFeed-https://neofeed.com.br/negocios/patria-vende-controle-da-elfa-medicamentos-por-valor-simbolico/",
+      "_key": "854f6c18745de883faa9a1b89faa45cd",
+      "title": "Patria vende controle da Elfa Medicamentos por valor simbólico",
+      "originalTitle": "Patria vende controle da Elfa Medicamentos por valor simbólico",
+      "summary": "Em meio a um momento bastante desafiador em suas operações, a Elfa Medicamentos, distribuidora de medicamentos e materiais hospitalares, vai ter agora um novo controlador para tentar reverter essa situação.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://neofeed.com.br/negocios/patria-vende-controle-da-elfa-medicamentos-por-valor-simbolico/",
+      "source": "NeoFeed",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://neofeed.com.br/wp-content/uploads/2026/08/elfa-medicamentos-300x169.jpg",
+      "publishedAt": "2026-08-24T15:22:34+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "NeoFeed"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mercados/braskem-brkm5-recuperacao-extrajudicial-desempenho-acoes/",
       "_key": "277c71dd1330d667568f815b4b14383e",
@@ -441,6 +593,27 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/carros/noticia/2026/08/24/free-flow-cnh-do-brasil.ghtml",
+      "_key": "c9032a247bc95c8d3b7535994bce19c1",
+      "title": "Free flow: CNH do Brasil passa a exibir passagens e como pagar o pedágio eletrônico",
+      "originalTitle": "Free flow: CNH do Brasil passa a exibir passagens e como pagar o pedágio eletrônico",
+      "summary": "Free flow do Contorno Sul da Rodovia dos Tamoios O Ministério dos Transportes atualizou, nesta segunda-feira (24), o aplicativo CNH do Brasil. Com a mudança, os motoristas poderão consultar pela plataforma as passagens registradas em pedágios do sistema \"free flow\".",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/24/free-flow-cnh-do-brasil.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/BtmT-xYmmpYW-gh0896Y1NRFz98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/3/E/nFqvPtRtWuA6re7G6OPQ/whatsapp-image-2024-11-18-at-14.24.55.jpeg",
+      "publishedAt": "2026-08-24T13:23:10+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
       ],
       "coverageCount": 1
     },
