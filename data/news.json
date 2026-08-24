@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T03:37:39.211753+00:00",
+  "updatedAt": "2026-08-24T08:32:21.188349+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -230,6 +230,11 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "IT Forum",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:itforum.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -266,6 +271,132 @@
     }
   ],
   "articles": [
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/24/o-segundo-aluguel-esta-mais-caro-condominio-sobe-acima-da-inflacao-e-pesa-ate-40percent-do-aluguel.ghtml",
+      "_key": "71ffa1ef60258afac9c1487987b57ea1",
+      "title": "O 'segundo aluguel' está mais caro: condomínio sobe acima da inflação e pesa até 40% do aluguel",
+      "originalTitle": "O 'segundo aluguel' está mais caro: condomínio sobe acima da inflação e pesa até 40% do aluguel",
+      "summary": "Novos empreendimentos imobiliários investem em áreas de lazer, o que aumenta o custo do condomínio Georg Ismar/dpa/picture alliance via DW No Brasil, ao menos 40 milhões de pessoas vivem em condomínios.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/o-segundo-aluguel-esta-mais-caro-condominio-sobe-acima-da-inflacao-e-pesa-ate-40percent-do-aluguel.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/0M43FoLWCACHXhSJelbG6W_6ASc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/x/wsNHFQTpar4z4zjp1dLQ/78446086-1004.webp",
+      "publishedAt": "2026-08-24T08:04:34+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/o-estudante-que-conseguiu-provar-que-a-ia-e-1-vagabundo-e-perigoso/",
+      "_key": "e303f11722a4c6d31ffc9cb9f84b06f6",
+      "title": "O estudante que conseguiu provar que a IA é ‘1% vagabundo’ (e perigoso)",
+      "originalTitle": "O estudante que conseguiu provar que a IA é ‘1% vagabundo’ (e perigoso)",
+      "summary": "Startupi O estudante que conseguiu provar que a IA é ‘1% vagabundo’ (e perigoso) Episódio divulgado no Reino Unido apresenta os riscos de agentes de IA operando com autonomia irrestrita e suas implicações para a governança e o desenvolvimento responsável de sistemas de inteligência artificial.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/o-estudante-que-conseguiu-provar-que-a-ia-e-1-vagabundo-e-perigoso/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/Sinan-Can-Demir1.jpg",
+      "publishedAt": "2026-08-24T08:00:00+00:00",
+      "score": 44,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/business/global/venezuela-pode-abandonar-bolivar-pelo-dolar-na-maior-troca-de-moeda-desde-o-euro/",
+      "_key": "d3511ef5c5c7817788514ba33d113276",
+      "title": "Venezuela pode abandonar bolívar pelo dólar na maior troca de moeda desde o euro",
+      "originalTitle": "Venezuela pode abandonar bolívar pelo dólar na maior troca de moeda desde o euro",
+      "summary": "Economista Steve Hanke, assessor de uma liderança da Assembleia Nacional, estima em até 80% as chances de dolarização e vê a medida como chave para conter a inflação e reativar a economia The post Venezuela pode abandonar bolívar pelo dólar na maior troca de moeda desde o euro appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/business/global/venezuela-pode-abandonar-bolivar-pelo-dolar-na-maior-troca-de-moeda-desde-o-euro/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/VENEZUELA-ABANDONING-THE-BOLIVAR-AND-ADOPTING-THE-US-DOLLAR-WOULD-BE-THE-BIGGEST-CURRENCY-SWITCH-SINCE-THE-ADVENT-OF-THE-EURO-HANKE-SAYS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T08:00:00+00:00",
+      "score": 42,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startupi-https://startupi.com.br/o-caso-das-cameras-espias-russas-quando-a-multa-e-a-conta-mais-barata/",
+      "_key": "5acdd378ff4e1e28d8fbb59a482cf42b",
+      "title": "O caso das câmeras espiãs russas. Quando a multa é a conta mais barata",
+      "originalTitle": "O caso das câmeras espiãs russas. Quando a multa é a conta mais barata",
+      "summary": "Startupi O caso das câmeras espiãs russas. Quando a multa é a conta mais barata Eslováquia pausa implantação de sistemas de monitoramento de rodovias após alerta do Serviço de Segurança sobre riscos e múltiplas falhas em câmaras russas. O post O caso das câmeras espiãs russas.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startupi.com.br/o-caso-das-cameras-espias-russas-quando-a-multa-e-a-conta-mais-barata/",
+      "source": "Startupi",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://startupi.com.br/wp-content/uploads/2026/08/cctv-camera.webp",
+      "publishedAt": "2026-08-24T08:00:00+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startupi"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/empreendedorismo/noticia/2026/08/24/simples-nacional-muda-em-2027.ghtml",
+      "_key": "20b71bbc878a7ba84140ae2dfd1d893b",
+      "title": "Simples Nacional muda em 2027: empresas têm até setembro para escolher como pagar novos impostos",
+      "originalTitle": "Simples Nacional muda em 2027: empresas têm até setembro para escolher como pagar novos impostos",
+      "summary": "O MEI deve fazer a declaração Anual do Simples Nacional (DASN-SIMEI) Micro e pequenas empresas enquadradas no Simples Nacional terão uma nova decisão tributária para tomar ainda em 2026.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/08/24/simples-nacional-muda-em-2027.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/DIILVism1SSwTaUd3ZW9V52Hylw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/e/hiO7y9SXKi0oruhw3PBA/prazo-dasn-mei-2022-1170x780.jpg-p28303-cover-image-resized-1-.jpg",
+      "publishedAt": "2026-08-24T06:00:45+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/tecnologia/noticia/2026/08/24/como-pesquisas-militares-dos-eua-viraram-base-para-os-caes-robos-da-china.ghtml",
+      "_key": "d8ac963673dfd907d82454aaa64afe36",
+      "title": "Como pesquisas militares dos EUA viraram base para os cães-robôs da China",
+      "originalTitle": "Como pesquisas militares dos EUA viraram base para os cães-robôs da China",
+      "summary": "uma das maiores fabricantes de robôs humanoides e quadrúpedes do mundo, baseou o design de seus cães-robôs em tecnologias desenvolvidas com financiamento dos militares dos Estados Unidos, segundo um ex-integrante da área de tecnologia de defesa americana e três pesquisadores envolvidos no projeto.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/08/24/como-pesquisas-militares-dos-eua-viraram-base-para-os-caes-robos-da-china.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/toJGak9DJmV7N477Bjq8LazBZBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/j/MUwdniRWSakTLeor16sA/2025-10-27t022712z-1337835009-rc2ghda5rl6f-rtrmadp-3-china-ai-military.jpg",
+      "publishedAt": "2026-08-24T05:00:15+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "Brazil Journal-https://braziljournal.com/carro-autonomo-no-brasil-no-uber-vai-demorar/",
       "_key": "8250d192f9b39b9ee58445b6823ba1ba",
