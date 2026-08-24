@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T11:02:58.094448+00:00",
+  "updatedAt": "2026-08-24T14:31:30.973517+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -250,6 +250,11 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "StartSe",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:startse.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "a16z",
       "url": "https://a16z.com/feed/",
       "reason": "falhou direto e via proxy"
@@ -271,6 +276,237 @@
     }
   ],
   "articles": [
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/braskem-brkm5-recuperacao-extrajudicial-desempenho-acoes/",
+      "_key": "277c71dd1330d667568f815b4b14383e",
+      "title": "BRKM5: Ações da Braskem caem mais de 3% após recuperação extrajudicial",
+      "originalTitle": "BRKM5: Ações da Braskem caem mais de 3% após recuperação extrajudicial",
+      "summary": "A companhia confirmou que o Conselho de administração aprovou o ajuizamento do pedido de recuperação extrajudicial The post BRKM5: Ações da Braskem caem mais de 3% após recuperação extrajudicial appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/braskem-brkm5-recuperacao-extrajudicial-desempenho-acoes/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/TQPM10-braskem.jpg?fit=300%2C162&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T14:02:02+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/24/galipolo-febraban-tech.ghtml",
+      "_key": "a17221efbdc15a37dd1c4eb6d8a9213a",
+      "title": "Galípolo vê risco em avanço de crédito sem garantia e alerta para endividamento das famílias",
+      "originalTitle": "Galípolo vê risco em avanço de crédito sem garantia e alerta para endividamento das famílias",
+      "summary": "Galípolo e Durigan comentam política monetária durante evento em São Paulo O presidente do Banco Central, Gabriel Galípolo, alertou nesta segunda-feira (24) para o avanço de modalidades de crédito caras e sem garantia, em meio à manutenção do endividamento das famílias em nível elevado.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/galipolo-febraban-tech.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/8pxdQuPbUfBfkwkgiTTMKfI3-kI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/N/F/k8KZo1SSSVfm3AsG1SBw/fta20230509164.jpg",
+      "publishedAt": "2026-08-24T13:54:26+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/recuperacao-extrajudicial-da-braskem-inclui-possivel-oferta-de-acoes-dizem-fontes/",
+      "_key": "759ce6b255d362c524412c8e44f73f5d",
+      "title": "Recuperação extrajudicial da Braskem inclui possível oferta de ações, dizem fontes",
+      "originalTitle": "Recuperação extrajudicial da Braskem inclui possível oferta de ações, dizem fontes",
+      "summary": "Mais cedo, a companhia anunciou que seu conselho de administração aprovou o ajuizamento do pedido para reestruturar dívidas de cerca de US$10,9 bilhões The post Recuperação extrajudicial da Braskem inclui possível oferta de ações, dizem fontes appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/recuperacao-extrajudicial-da-braskem-inclui-possivel-oferta-de-acoes-dizem-fontes/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2023/01/braskem-1024x576-1.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T13:47:36+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/24/trump-anuncia-tarifas-de-50percent-sobre-produtos-do-canada-em-2027.ghtml",
+      "_key": "3a1ca80628f3f2819cdee1c6941e8e05",
+      "title": "Trump anuncia tarifas de 50% sobre produtos do Canadá em 2027",
+      "originalTitle": "Trump anuncia tarifas de 50% sobre produtos do Canadá em 2027",
+      "summary": "Estados Unidos, Donald Trump, anunciou nesta segunda-feira (24) que as tarifas sobre carros, caminhões, autopeças e aço importados do Canadá subirão para 50% a partir de 1º de janeiro de 2027. 🗒️ Tem alguma sugestão de reportagem?",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/trump-anuncia-tarifas-de-50percent-sobre-produtos-do-canada-em-2027.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/X72WefJbgann4OXmfDC8AIi-lh0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/M/zbBToBSiGLtGYAZVxN4w/2026-08-06t210339z-84293382-rc28tmadya0m-rtrmadp-3-usa-trump.jpg",
+      "publishedAt": "2026-08-24T13:42:43+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/mercados/yduqs-yduq3-salta-8-apos-confirmar-negociacoes-sobre-possivel-fusao-com-afya/",
+      "_key": "513886738d9bfdea25cb8b829df5e2d9",
+      "title": "Yduqs (YDUQ3) salta 10% após confirmar negociações sobre possível fusão com Afya",
+      "originalTitle": "Yduqs (YDUQ3) salta 10% após confirmar negociações sobre possível fusão com Afya",
+      "summary": "Yduqs afirmou ainda que não há garantia de que as negociações resultarão na assinatura de documentos definitivos ou na conclusão da operação The post Yduqs (YDUQ3) salta 10% após confirmar negociações sobre possível fusão com Afya appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/mercados/yduqs-yduq3-salta-8-apos-confirmar-negociacoes-sobre-possivel-fusao-com-afya/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/estacio-01-fachada-.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T13:40:09+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/economia/noticia/2026/08/24/desastre-em-maceio-divida-alta-e-queda-no-setor-o-caminho-da-braskem-ate-a-recuperacao-extrajudicial.ghtml",
+      "_key": "8d498bc3b7920e18bd420cf86278f37b",
+      "title": "Desastre em Maceió, dívida alta e queda no setor: o caminho da Braskem até a recuperação extrajudicial",
+      "originalTitle": "Desastre em Maceió, dívida alta e queda no setor: o caminho da Braskem até a recuperação extrajudicial",
+      "summary": "Justiça do Trabalho determina que Braskem pague plano de saúde de químico diagnosticado com leucemia na Bahia A decisão da Braskem de recorrer à recuperação extrajudicial marca o capítulo mais recente de uma crise que se arrasta há vários anos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/24/desastre-em-maceio-divida-alta-e-queda-no-setor-o-caminho-da-braskem-ate-a-recuperacao-extrajudicial.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/8j5Jix1jKN0zPRcr1iqeJKqwpFA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/u/r/haEQb5QsaM4WWAqDQBAw/whatsapp-image-2024-03-12-at-12.01.13.jpeg",
+      "publishedAt": "2026-08-24T13:39:25+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/distancia-entre-lula-e-flavio-encurta-no-segundo-turno/",
+      "_key": "50a98b6a57f82a4f22ffa1f19a0def0e",
+      "title": "Distância entre Lula e Flávio encurta no segundo turno",
+      "originalTitle": "Distância entre Lula e Flávio encurta no segundo turno",
+      "summary": "Uma pesquisa Nexus/BTG publicada agora há pouco mostra um segundo turno ainda mais empatado do que o Datafolha havia mostrado há 3 dias – mais uma pesquisa a mostrar momentum para a candidatura de oposição.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/distancia-entre-lula-e-flavio-encurta-no-segundo-turno/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2026/07/07-22-Luiz-Inacio-Lula-ok-272x300.jpg?x28827",
+      "publishedAt": "2026-08-24T13:34:43+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-24082026/",
+      "_key": "4e297b38445e6cb46ed01223764b76c7",
+      "title": "Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (24)",
+      "originalTitle": "Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (24)",
+      "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (24) appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-24082026/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/renda-fixa-hoje-007.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T13:30:02+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/zavii-venture-builder-traz-nova-head-of-marketing-growth/",
+      "_key": "0598d808fd0406c953c394322240c2bf",
+      "title": "Zavii Venture Builder traz nova Head of Marketing & Growth",
+      "originalTitle": "Zavii Venture Builder traz nova Head of Marketing & Growth",
+      "summary": "Cristiane Bender, nova Head of Marketing & Growth da Zavii Venture Builder (Imagem: Divulgação) Cristiane Bender chega para liderar as estratégias de marca, posicionamento e crescimento das startups do portfólio da Zavii O post Zavii Venture Builder traz nova Head of Marketing Growth apareceu primeiro em Startups .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://startups.com.br/danca-das-cadeiras/zavii-venture-builder-traz-nova-head-of-marketing-growth/",
+      "source": "Startups.com.br",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Cristiane-Bender.jpg",
+      "publishedAt": "2026-08-24T13:00:00+00:00",
+      "score": 49,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Startups.com.br"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/pagbank-luiz-frias-deixa-o-conselho-depois-de-nove-anos/",
+      "_key": "afe1c92bb41c7a968b15baa7f735e924",
+      "title": "PagBank: Luiz Frias deixa o conselho depois de nove anos",
+      "originalTitle": "PagBank: Luiz Frias deixa o conselho depois de nove anos",
+      "summary": "O controlador do PagBank, Luiz Frias, está deixando o cargo de chairman depois de nove anos – um movimento que está sendo recebido por analistas como uma evolução na governança da companhia de pagamentos.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/pagbank-luiz-frias-deixa-o-conselho-depois-de-nove-anos/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2022/06/10644-dcbf2499-8e9f-4566-c6ca-1ffa14d85cc5-256x300.jpg?x28827",
+      "publishedAt": "2026-08-24T12:52:25+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "G1 Economia-https://g1.globo.com/carros/noticia/2026/08/24/tesla-faz-recall-de-milhoes-de-carros-na-china-por-motivos-de-seguranca.ghtml",
+      "_key": "d33a639c1481874608d36fe5bd84de70",
+      "title": "Tesla faz recall de 2,7 milhões de carros na China por motivos de segurança",
+      "originalTitle": "Tesla faz recall de 2,7 milhões de carros na China por motivos de segurança",
+      "summary": "Tesla Model Y foi o carro mais vendido em 2024 Divulgação | Tesla A Tesla decidiu fazer um recall de 2,7 milhões de Model 3 e Model Y fabricados na China devido a problemas nos sistemas de monitoramento usados durante a operação dos recursos de assistência à direção.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://g1.globo.com/carros/noticia/2026/08/24/tesla-faz-recall-de-milhoes-de-carros-na-china-por-motivos-de-seguranca.ghtml",
+      "source": "G1 Economia",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://s2-g1.glbimg.com/XcRw-ulqHpTF_BUFKTBwwHQxEg8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/T/whB4suRh6R0lFzzp2jNw/model-y-2-hero-desktop.avif",
+      "publishedAt": "2026-08-24T11:42:03+00:00",
+      "score": 41,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "G1 Economia"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/business/softbank-planeja-emissao-recorde-de-titulos-com-aposta-em-inteligencia-artificial/",
       "_key": "66022111b94d9d23bb22fdb081822622",
