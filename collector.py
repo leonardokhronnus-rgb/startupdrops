@@ -310,6 +310,7 @@ def clean_title(text):
     foto (isso decepava titulos com AP/capta/Apple, gerando 'Meta', 'mudou')."""
     text = re.sub(r"<[^>]+>", " ", text or "")
     text = re.sub(r"&[a-z]+;", " ", text)
+    text = re.sub(r"^\s*(exclusivo|exclusiva|exclusive|breaking|urgente)\s*[:\-–—]\s*", "", text, flags=re.I)
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
@@ -719,7 +720,7 @@ def collect(use_ai, max_age_days):
                 continue
  
             score = score_article(title, clean_summary)
-            final_title = ai_title if ai_title else title
+            final_title = clean_title(ai_title if ai_title else title)
  
             article = {
                 "id": make_id(source["name"], url),

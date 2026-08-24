@@ -79,12 +79,15 @@ function tirarHTML(s) {
     .replace(/&#8211;|&#8212;/g, "-").replace(/&quot;/g, '"')
     .replace(/\s+/g, " ").trim();
 }
+function limparTituloEditorial(s) {
+  return tirarHTML(s).replace(/^\s*(exclusivo|exclusiva|exclusive|breaking|urgente)\s*[:\-–—]\s*/i, "").trim();
+}
 function parseFeed(xml) {
   const itens = [];
   const blocos = xml.split(/<item[ >]/i).slice(1);
   for (const raw of blocos) {
     const bloco = raw.split(/<\/item>/i)[0];
-    const titulo = tirarHTML(pegarTag(bloco, "title"));
+    const titulo = limparTituloEditorial(pegarTag(bloco, "title"));
     let link = tirarHTML(pegarTag(bloco, "link"));
     if (!link) {
       const m = bloco.match(/<link[^>]*href="([^"]+)"/i);
@@ -137,6 +140,7 @@ REGRAS OBRIGATÓRIAS:
 - "Mercado" só é permitido quando houver ligação clara com startup, venture capital, M&A de tech, IPO de tech, fintech, SaaS, IA ou empresa digital. Não transforme economia geral em startup.
 - NÃO use travessões (—). Use vírgula, ponto ou parênteses.
 - Título curto e forte (máx ~12 palavras). Linha fina de 1 a 2 frases. Corpo em 3 a 5 parágrafos.
+- Nunca use selos editoriais da fonte no título, como "EXCLUSIVO:", "Exclusive:", "Breaking:" ou "Urgente:".
 
 Editoria sugerida: ${fonte.editoria}
 
