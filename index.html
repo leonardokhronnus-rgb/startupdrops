@@ -2737,10 +2737,8 @@ function placeholderImage(a){
 }
 function imageMarkup(a,className,altPrefix='Imagem da notícia'){
   const url=imageUrl(a);
-  const fallback=placeholderImage(a);
-  const src=url||fallback;
-  const safeFallback=fallback.replace(/'/g,"\\'");
-  return `<img class="${className}" src="${src}" alt="${altPrefix}: ${a.title}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${safeFallback}';">`;
+  if(!url) return '';
+  return `<img class="${className}" src="${url}" alt="${altPrefix}: ${a.title}" loading="lazy" referrerpolicy="no-referrer">`;
 }
 function imageMarkupOld(a,className,altPrefix='Imagem da notícia'){
   const url=imageUrl(a);
