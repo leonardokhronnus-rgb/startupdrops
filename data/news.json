@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T21:50:00.943541+00:00",
+  "updatedAt": "2026-08-24T03:37:39.211753+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -263,14 +263,93 @@
       "source": "LABS Latam",
       "url": "https://news.google.com/rss/search?q=when:3d+site:labsnews.com&hl=en-US&gl=US&ceid=US:en",
       "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Caixin Global",
-      "url": "https://news.google.com/rss/search?q=when:2d+site:caixinglobal.com&hl=en-US&gl=US&ceid=US:en",
-      "reason": "falhou direto e via proxy"
     }
   ],
   "articles": [
+    {
+      "id": "Brazil Journal-https://braziljournal.com/carro-autonomo-no-brasil-no-uber-vai-demorar/",
+      "_key": "8250d192f9b39b9ee58445b6823ba1ba",
+      "title": "Carro autônomo no Brasil? No Uber vai demorar",
+      "originalTitle": "Carro autônomo no Brasil? No Uber vai demorar",
+      "summary": "Brasil e Índia – dois mercados que respondem pela maior parte das viagens do Uber – irão atrasar o avanço dos veículos autônomos na empresa, o COO Andrew Macdonald disse ao podcast 20VC. “A tarifa média (dos motoristas) no Brasil é de cerca de US$ 3,50 a US$ 4.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/carro-autonomo-no-brasil-no-uber-vai-demorar/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2022/06/12097-adfde68f-6467-de79-a981-ec0507d88d67-266x300.jpg?x28827",
+      "publishedAt": "2026-08-24T03:21:30+00:00",
+      "score": 36,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "Brazil Journal-https://braziljournal.com/squadra-compra-meli-e-nubank-seu-primeiro-short-que-vira-buy/",
+      "_key": "9c30499dfce7e1edc9ece2b5efd5a8f9",
+      "title": "Squadra compra MELI e Nubank – seu primeiro ‘short’ que vira ‘buy’",
+      "originalTitle": "Squadra compra MELI e Nubank – seu primeiro ‘short’ que vira ‘buy’",
+      "summary": "Nubank e Mercado Livre foram os maiores investimentos recentes da Squadra, a gestora disse numa carta aos cotistas publicada no fim de semana, citando “vantagens competitivas excepcionais e equipes de gestão habilidosas” nas duas empresas.",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://braziljournal.com/squadra-compra-meli-e-nubank-seu-primeiro-short-que-vira-buy/",
+      "source": "Brazil Journal",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://braziljournal.com/wp-content/uploads/2022/06/11633-2567cdbc-78f0-c68e-f1fc-4d7db3f69392-272x300.jpg?x28827",
+      "publishedAt": "2026-08-24T03:20:54+00:00",
+      "score": 38,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "Brazil Journal"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/lula-elogia-dialogo-com-trump-mas-critica-segundo-escalao-dos-eua/",
+      "_key": "f7998dcdc604a3694f87da66c0c8f519",
+      "title": "Lula elogia diálogo com Trump, mas critica segundo escalão dos EUA",
+      "originalTitle": "Lula elogia diálogo com Trump, mas critica segundo escalão dos EUA",
+      "summary": "Presidente diz que conversa com republicano é “civilizada”, contesta justificativas para novas tarifas e afirma que negociações comerciais serão retomadas The post Lula elogia diálogo com Trump, mas critica segundo escalão dos EUA appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/lula-elogia-dialogo-com-trump-mas-critica-segundo-escalao-dos-eua/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-11T235125Z_1336740669_RC2MWMAE7PFV_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-24T00:15:28+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
+    {
+      "id": "InfoMoney-https://www.infomoney.com.br/politica/dino-anula-emendas-com-interferencia-de-ex-congressistas-ou-presidentes-de-partidos/",
+      "_key": "b5cf2a30b1f7dcf32201f8219524e2b9",
+      "title": "Dino anula emendas com interferência de ex-congressistas ou presidentes de partidos",
+      "originalTitle": "Dino anula emendas com interferência de ex-congressistas ou presidentes de partidos",
+      "summary": "Em julho, Dino determinou o bloqueio de bens do presidente nacional do PL, Valdemar Costa Neto, e do ex-presidente da Câmara Eduardo Cunha The post Dino anula emendas com interferência de ex-congressistas ou presidentes de partidos appeared first on InfoMoney .",
+      "whyMatters": "",
+      "summaryMethod": "regra",
+      "url": "https://www.infomoney.com.br/politica/dino-anula-emendas-com-interferencia-de-ex-congressistas-ou-presidentes-de-partidos/",
+      "source": "InfoMoney",
+      "region": "Brasil",
+      "country": "BR",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55131061486_7dad3a100a_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+      "publishedAt": "2026-08-23T22:37:50+00:00",
+      "score": 33,
+      "alsoIn": [],
+      "sourcesCovered": [
+        "InfoMoney"
+      ],
+      "coverageCount": 1
+    },
     {
       "id": "InfoMoney-https://www.infomoney.com.br/mundo/por-que-fracassou-o-acordo-entre-eua-e-canada-embaixador-revela-bastidores/",
       "_key": "28ee890d0b1135221e089198253df4ff",
