@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T19:29:19.679246+00:00",
+  "updatedAt": "2026-08-24T20:04:08.905780+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -243,27 +243,6 @@
   ],
   "articles": [
     {
-      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/zavii-venture-builder-traz-nova-head-of-marketing-growth/",
-      "_key": "0598d808fd0406c953c394322240c2bf",
-      "title": "Zavii Venture Builder traz nova Head of Marketing & Growth",
-      "originalTitle": "Zavii Venture Builder traz nova Head of Marketing & Growth",
-      "summary": "Cristiane Bender, nova Head of Marketing & Growth da Zavii Venture Builder (Imagem: Divulgação) Cristiane Bender chega para liderar as estratégias de marca, posicionamento e crescimento das startups do portfólio da Zavii O post Zavii Venture Builder traz nova Head of Marketing Growth apareceu primeiro em Startups .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/danca-das-cadeiras/zavii-venture-builder-traz-nova-head-of-marketing-growth/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Cristiane-Bender.jpg",
-      "publishedAt": "2026-08-24T13:00:00+00:00",
-      "score": 49,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "InfoMoney-https://www.infomoney.com.br/business/falta-de-infraestrutura-de-ia-limita-crescimento-de-startups-brasileiras/",
       "_key": "fe6427479a028dee94e6818c2c11502a",
       "title": "Falta de infraestrutura de IA limita crescimento de startups brasileiras",
@@ -453,27 +432,6 @@
       "coverageCount": 1
     },
     {
-      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/connect2b-contrata-ursula-cantor-como-head-of-sales/",
-      "_key": "079cd64576f7254359fadf859123ca68",
-      "title": "Connect2B contrata Ursula Cantor como Head of Sales",
-      "originalTitle": "Connect2B contrata Ursula Cantor como Head of Sales",
-      "summary": "Ursula Cantor, nova Head of Sales da Connect2B (Imagem: Divulgação) Com mais de 20 anos de experiência, executiva assume a liderança da área para expansão da Connect2B no mercado norte-americano O post Connect2B contrata Ursula Cantor como Head of Sales apareceu primeiro em Startups .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/danca-das-cadeiras/connect2b-contrata-ursula-cantor-como-head-of-sales/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Ursula-Cantor.jpg",
-      "publishedAt": "2026-08-20T14:00:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Startups.com.br-https://startups.com.br/podcast/podcast-mvp/como-o-g4-transformou-vendas-em-cultura/",
       "_key": "ecfcd7c2c11c37b042e8e49d51525d3b",
       "title": "Como o G4 transformou vendas em cultura",
@@ -487,27 +445,6 @@
       "country": "BR",
       "image": "https://uploads.startups.com.br/2026/08/MVP_Site_117-copy.jpg",
       "publishedAt": "2026-08-19T16:30:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/blendus-nomeia-danilo-candido-como-diretor-de-negocios/",
-      "_key": "40e7f8429dc712bfc7aff5900b0ec704",
-      "title": "Blendus nomeia Danilo Cândido como Diretor de Negócios",
-      "originalTitle": "Blendus nomeia Danilo Cândido como Diretor de Negócios",
-      "summary": "Danilo Cândido, novo Diretor de Negócios da Blendus (Imagem: Divulgação) Executivo chega para orquestrar a experiência do cliente, garantindo alinhamento entre o posicionamento da Blendus e a venda da solução O post Blendus nomeia Danilo Cândido como Diretor de Negócios apareceu primeiro em Startups .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/danca-das-cadeiras/blendus-nomeia-danilo-candido-como-diretor-de-negocios/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Danilo-Candido.jpg",
-      "publishedAt": "2026-08-19T14:30:00+00:00",
       "score": 41,
       "alsoIn": [],
       "sourcesCovered": [
@@ -579,27 +516,6 @@
       "coverageCount": 1
     },
     {
-      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/grupo-superlogica-traz-novo-diretor-de-produtos-para-moradia/",
-      "_key": "6d0d2950443365a2726586ecb865249a",
-      "title": "Grupo Superlógica traz novo Diretor de Produtos para Moradia",
-      "originalTitle": "Grupo Superlógica traz novo Diretor de Produtos para Moradia",
-      "summary": "Omar Branquinho, novo Diretor de Produtos para Moradia do Grupo Superlógica (Imagem: Divulgação) Executivo assume a estratégia de trazer as administradoras como peças-chave na orquestração da experiência em condomínios O post Grupo Superlógica traz novo Diretor de Produtos para Moradia apareceu primeiro em Startups .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/danca-das-cadeiras/grupo-superlogica-traz-novo-diretor-de-produtos-para-moradia/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Omar-Branquinho.jpg",
-      "publishedAt": "2026-08-18T14:00:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Startups.com.br-https://startups.com.br/la-fora/startup-levanta-us-24m-e-atrai-a16z-para-ser-o-dropbox-que-deu-certo/",
       "_key": "b5226b5e648e2bca2b325b9f635f2743",
       "title": "Startup levanta US$ 2,4M e atrai a16z para ser o “Dropbox que deu certo”",
@@ -614,27 +530,6 @@
       "image": "https://uploads.startups.com.br/2026/08/Space.jpg",
       "publishedAt": "2026-08-18T12:03:48+00:00",
       "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/ricardo-leite-assume-como-diretor-de-marketing-de-produtos-da-omie/",
-      "_key": "a76cd226816b52d5eccd9c0caad2437e",
-      "title": "Ricardo Leite assume como Diretor de Marketing de Produtos da Omie",
-      "originalTitle": "Ricardo Leite assume como Diretor de Marketing de Produtos da Omie",
-      "summary": "Ricardo Leite, novo Diretor de Marketing de Produtos da Omie (Imagem: Divulgação) Focado em inovação e growth, executivo tem a missão de conectar as soluções tecnológicas da Omie ao empreendedor brasileiro O post Ricardo Leite assume como Diretor de Marketing de Produtos da Omie apareceu primeiro em Startups .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/danca-das-cadeiras/ricardo-leite-assume-como-diretor-de-marketing-de-produtos-da-omie/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Ricardo-Leite.jpg",
-      "publishedAt": "2026-08-17T13:00:00+00:00",
-      "score": 38,
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
@@ -705,27 +600,6 @@
       "coverageCount": 1
     },
     {
-      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/bitget-nomeia-noah-cheung-como-novo-country-manager-para-o-brasil/",
-      "_key": "8b1bde88eabf9e2dd2058bd0656deab6",
-      "title": "Bitget nomeia Noah Cheung como novo Country Manager para o Brasil",
-      "originalTitle": "Bitget nomeia Noah Cheung como novo Country Manager para o Brasil",
-      "summary": "Noah Cheung, novo Country Manager Brasil da Bitget (Imagem: Divulgação) Executivo assume a cadeira na Bitget para liderar a estratégia da exchange para o mercado brasileiro O post Bitget nomeia Noah Cheung como novo Country Manager para o Brasil apareceu primeiro em Startups .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/danca-das-cadeiras/bitget-nomeia-noah-cheung-como-novo-country-manager-para-o-brasil/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Noah-Cheung.jpg",
-      "publishedAt": "2026-08-14T15:30:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Exame-https://exame.com/negocios/startups-globais-de-fundadores-latino-americanos-ja-criaram-us-200-bilhoes-em-valor-de-mercado/",
       "_key": "17e9e05833e3a3715c91d7977d95f88a",
       "title": "Startups globais de fundadores latino-americanos já criaram US$ 200 bilhões em valor de mercado",
@@ -743,27 +617,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Exame"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/pipo-saude-anuncia-nova-lideranca-para-acelerar-proxima-fase-de-crescimento/",
-      "_key": "5a3761818820d69a89eb9624616b8689",
-      "title": "Pipo Saúde anuncia nova liderança para acelerar próxima fase de crescimento",
-      "originalTitle": "Pipo Saúde anuncia nova liderança para acelerar próxima fase de crescimento",
-      "summary": "Lorena Coimbra, nova VP de Clientes da Pipo Saúde (Imagem: Divulgação) Ex-COO, Lorena Coimbra assume como VP de Clientes da Pipo Saúde, enquanto Thiago Torres passa a liderar como VP de Growth O post Pipo Saúde anuncia nova liderança para acelerar próxima fase de crescimento apareceu primeiro em Startups .",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/danca-das-cadeiras/pipo-saude-anuncia-nova-lideranca-para-acelerar-proxima-fase-de-crescimento/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Lorena-Coimbra.jpg",
-      "publishedAt": "2026-08-12T14:05:01+00:00",
-      "score": 49,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
       ],
       "coverageCount": 1
     },
@@ -808,25 +661,6 @@
         "Startupi"
       ],
       "coverageCount": 1
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/purple-metrics-contrata-novo-head-de-marketing-science/",
-      "_key": "87d9ca5e547c87aa368518fd5a629d1e",
-      "title": "Purple Metrics contrata novo head de Marketing Science",
-      "summary": "Eduardo Ogawa, novo head de Marketing Science da Purple Metrics (Imagem: Divulgação) Eduardo Ogawa assume o novo cargo para liderar a produtização da metodologia da Purple Metrics e guiar seus clientes O post Purple Metrics contrata novo head de Marketing Science apareceu primeiro em Startups .",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/danca-das-cadeiras/purple-metrics-contrata-novo-head-de-marketing-science/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Eduardo-Ogawa.jpg",
-      "publishedAt": "2026-08-11T14:00:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1,
-      "country": "BR"
     },
     {
       "id": "Startups.com.br-https://startups.com.br/negocios/inteligencia-artificial/gama-fund-de-google-e-monashees-estende-prazo-de-inscricoes/",
@@ -915,25 +749,6 @@
       "region": "Brasil",
       "image": "https://startups.com.br/wp-content/uploads/2024/11/YGI655lV-Stephanie-20.jpg",
       "publishedAt": "2026-08-10T19:45:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1,
-      "country": "BR"
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/foundever-traz-augusto-krambeck-como-novo-diretor-de-rh-no-brasil/",
-      "_key": "3b06f88da9616949988c06733e3c6f4e",
-      "title": "Foundever traz Augusto Krambeck como novo diretor de RH no Brasil",
-      "summary": "Augusto Krambeck, novo diretor de RH da Foundever no Brasil (Imagem: Divulgação) Ao longo de 15 anos de liderança em RH, o executivo já atuou como defensor das práticas de diversidade e inclusão em outras companhias O post Foundever traz Augusto Krambeck como novo diretor de RH no Brasil apareceu primeiro em Startups .",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/danca-das-cadeiras/foundever-traz-augusto-krambeck-como-novo-diretor-de-rh-no-brasil/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Augusto-Krambeck.jpg",
-      "publishedAt": "2026-08-10T13:00:41+00:00",
       "score": 41,
       "alsoIn": [],
       "sourcesCovered": [
@@ -1038,25 +853,6 @@
       "country": "BR"
     },
     {
-      "id": "Startups.com.br-https://startups.com.br/podcast/somos-muito-avessos-a-hype-diz-pedro-thompson-com-novo-fundo/",
-      "title": "“Somos muito avessos a hype”, diz Pedro Thompson, com novo fundo",
-      "summary": "Encontro de Segunda | Arte: Startups No novo episódio do Encontro de Segunda, o fundador e CEO da Tuesday Capital fala sobre sua jornada de executivo a investidor",
-      "url": "https://startups.com.br/podcast/somos-muito-avessos-a-hype-diz-pedro-thompson-com-novo-fundo/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "https://www.youtube.com/embed/LUdHjplvH24",
-      "publishedAt": "2026-08-05T19:46:09+00:00",
-      "score": 49,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1,
-      "_key": "ae522b320c905c10d91b8dfd45d68f63",
-      "summaryMethod": "regra",
-      "country": "BR"
-    },
-    {
       "id": "IT Forum-https://itforum.com.br/noticias/adobe-reformula-estrategia-comercial-impacto-da-ia/",
       "title": "Adobe reformula estratégia comercial para responder ao impacto da IA generativa nas compras B2B, diz Forrester",
       "summary": "A popularização de ferramentas de inteligência artificial generativa, como ChatGPT e Gemini, está alterando a forma como empresas pesquisam fornecedores e tomam decisões de compra.",
@@ -1072,33 +868,6 @@
       ],
       "coverageCount": 1,
       "_key": "3faa4ead528e74f67c5df25b64c5d3c2",
-      "summaryMethod": "regra",
-      "country": "BR"
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/danca-das-cadeiras/intelipost-nomeia-richerland-medeiros-como-novo-cto/",
-      "title": "Intelipost nomeia Richerland Medeiros como novo CTO",
-      "summary": "Richerland Medeiros, novo CTO da Intelipost (Imagem: Divulgação) Executivo chega à Intelipost com 25 anos de experiência em engenharia de software, dados e inteligência artificial",
-      "url": "https://startups.com.br/danca-das-cadeiras/intelipost-nomeia-richerland-medeiros-como-novo-cto/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "https://uploads.startups.com.br/2026/08/Danca-das-Cadeiras-Versao-fundo-preto-Richerland-Medeiros.jpg",
-      "publishedAt": "2026-08-05T14:00:00+00:00",
-      "score": 37,
-      "alsoIn": [
-        {
-          "title": "Intelipost anuncia Richerland Medeiros como novo CTO",
-          "url": "https://itforum.com.br/noticias/intelipost-novo-cto/",
-          "source": "IT Forum",
-          "publishedAt": "2026-08-03T22:20:35+00:00"
-        }
-      ],
-      "sourcesCovered": [
-        "IT Forum",
-        "Startups.com.br"
-      ],
-      "coverageCount": 2,
-      "_key": "dd324317f8ebcf8f99e5ddda86a4b06a",
       "summaryMethod": "regra",
       "country": "BR"
     },

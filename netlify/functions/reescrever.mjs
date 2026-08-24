@@ -59,6 +59,8 @@ const HARD_BLOCKS = [
   "robôs humanoides", "robos humanoides", "pré-ipo ao investidor comum",
   "pre-ipo ao investidor comum", "bill ackman", "ultrarricos", "miami virou"
 ];
+const ROLE_ANNOUNCEMENT_RE = /\b(nomeia|nomeou|contrata|contratou|assume|assumiu|promove|promoveu|troca|substitui|deixa|deixou)\b.{0,70}\b(ceo|cto|cfo|coo|cio|cmo|vp|diretor|diretora|head|country manager|presidente|conselho|cargo|lideran[çc]a)\b|\b(novo|nova)\b.{0,40}\b(ceo|cto|cfo|coo|cio|cmo|vp|diretor|diretora|head|country manager|presidente|lideran[çc]a)\b|\bdan[çc]a das cadeiras\b/i;
+const ROLE_STRATEGIC_EXCEPTION_RE = /\b(rodada|aporte|capta|captou|funding|s[eé]rie\s+[a-k]|seed|aquisi[çc][aã]o|m&a|ipo|fus[aã]o|exit)\b/i;
 
 // ── Utilidades de parsing de RSS (sem dependência externa) ──
 function pegarTag(bloco, tag) {
@@ -106,6 +108,7 @@ function hasSignal(text, terms) {
 function candidateScore(item, fonte) {
   const text = `${item.titulo} ${item.resumo || ""} ${fonte.outlet}`.toLowerCase();
   if (hasSignal(text, HARD_BLOCKS)) return -100;
+  if (ROLE_ANNOUNCEMENT_RE.test(text) && !ROLE_STRATEGIC_EXCEPTION_RE.test(text)) return -100;
   let score = 0;
   for (const term of STARTUP_SIGNALS) if (hasTerm(text, term)) score += 6;
   if (/startupi|startups\.com|pipeline valor startups|techcrunch startups|crunchbase|eu-startups|tech\.eu/i.test(fonte.outlet)) score += 18;
@@ -130,6 +133,7 @@ REGRAS OBRIGATÓRIAS:
 - Se a notícia original estiver em inglês, chinês ou qualquer outro idioma, traduza e reescreva completamente em português do Brasil. Não deixe palavras, frases ou estruturas em inglês no texto final.
 - Só publique se fizer sentido DIRETO para founders, investidores, operadores de startups, venture capital, tecnologia, IA, fintechs, SaaS ou empresas digitais.
 - Descarte macroeconomia genérica, bolsa, recomendação de ações, pedágio/free flow, impostos, política, petróleo, celebridades, consumo comum, pesquisa militar sem startup/produto comercial, ou patrimônio pessoal de executivos. Para descartar, responda com {"descartar":true}.
+- Descarte notas de cargo, como CEO novo, nomeação, contratação de head/diretor/VP/country manager ou dança das cadeiras, salvo quando a notícia trouxer rodada, aquisição, IPO, fusão ou outro movimento estratégico relevante. Para descartar, responda com {"descartar":true}.
 - "Mercado" só é permitido quando houver ligação clara com startup, venture capital, M&A de tech, IPO de tech, fintech, SaaS, IA ou empresa digital. Não transforme economia geral em startup.
 - NÃO use travessões (—). Use vírgula, ponto ou parênteses.
 - Título curto e forte (máx ~12 palavras). Linha fina de 1 a 2 frases. Corpo em 3 a 5 parágrafos.

@@ -229,6 +229,22 @@ CORE_STARTUP_CONTEXT = [
     "legaltech", "deeptech", "saas", "b2b", "vc ",
 ]
 
+ROLE_ANNOUNCEMENT_RE = re.compile(
+    r"\b(nomeia|nomeou|contrata|contratou|assume|assumiu|promove|promoveu|"
+    r"troca|substitui|deixa|deixou)\b.{0,80}\b(ceo|cto|cfo|coo|cio|cmo|vp|"
+    r"diretor|diretora|head|country manager|presidente|conselho|cargo|"
+    r"lideran[çc]a)\b|"
+    r"\b(novo|nova)\b.{0,50}\b(ceo|cto|cfo|coo|cio|cmo|vp|diretor|diretora|"
+    r"head|country manager|presidente|lideran[çc]a)\b|"
+    r"\bdan[çc]a das cadeiras\b",
+    re.I,
+)
+ROLE_STRATEGIC_EXCEPTION_RE = re.compile(
+    r"\b(rodada|aporte|capta|captou|funding|s[eé]rie\s+[a-k]|seed|"
+    r"aquisi[çc][aã]o|m&a|ipo|fus[aã]o|exit)\b",
+    re.I,
+)
+
 BROAD_SOURCE_REQUIRED = [
     "startup", "startups", "scale-up", "scaleup", "founder", "fundador",
     "empreendedor", "venture", "capital de risco", "rodada", "aporte",
@@ -341,6 +357,7 @@ def is_allowed_display_article(article):
     if not source_names.isdisjoint(BROAD_BUSINESS_SOURCES):
         broad_source_ok = any(startup_term_in_text(text, term) for term in BROAD_SOURCE_REQUIRED)
     is_blocked = any(term in text for term in BLOCKLIST)
+    is_role_announcement = ROLE_ANNOUNCEMENT_RE.search(text) and not ROLE_STRATEGIC_EXCEPTION_RE.search(text)
     trusted_source = not source_names.isdisjoint(TRUSTED_STARTUP_SOURCES)
     return (
         article.get("country") in ACTIVE_COUNTRIES
@@ -351,6 +368,7 @@ def is_allowed_display_article(article):
         and (trusted_source or has_core_startup_context)
         and broad_source_ok
         and not is_blocked
+        and not is_role_announcement
     )
 
 
@@ -365,6 +383,8 @@ def contains_term(text, term):
 
 def passes_editorial_scope(source_name, title, summary):
     text = f" {title} {summary} ".lower()
+    if ROLE_ANNOUNCEMENT_RE.search(text) and not ROLE_STRATEGIC_EXCEPTION_RE.search(text):
+        return False
     if source_name in BROAD_BUSINESS_SOURCES:
         return any(contains_term(text, term) for term in BROAD_SOURCE_REQUIRED)
     if source_name not in NOISY_TECH_SOURCES:

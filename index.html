@@ -9461,6 +9461,12 @@ function isFundingDrop(a){
   return fundingSignal && ecosystemContext;
 }
 function hasTag(a,tag){ return (a.tags||[]).includes(tag); }
+function isRoleAnnouncement(a){
+  const text=`${a.originalTitle||a.title} ${a.summary||''} ${a.url||''}`.toLowerCase();
+  const role=/\b(nomeia|nomeou|contrata|contratou|assume|assumiu|promove|promoveu|troca|substitui|deixa|deixou)\b.{0,80}\b(ceo|cto|cfo|coo|cio|cmo|vp|diretor|diretora|head|country manager|presidente|conselho|cargo|lideran[çc]a)\b|\b(novo|nova)\b.{0,50}\b(ceo|cto|cfo|coo|cio|cmo|vp|diretor|diretora|head|country manager|presidente|lideran[çc]a)\b|\bdan[çc]a das cadeiras\b/;
+  const strategic=/\b(rodada|aporte|capta|captou|funding|s[eé]rie\s+[a-k]|seed|aquisi[çc][aã]o|m&a|ipo|fus[aã]o|exit)\b/;
+  return role.test(text) && !strategic.test(text);
+}
 function isMarketDrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
   return hasTag(a,'mercado') || hasTag(a,'economia') ||
@@ -9478,22 +9484,24 @@ function isUnicornDrop(a){
 }
 function isStartupDrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
+  if(isRoleAnnouncement(a)) return false;
   if(isFundingDrop(a) || isUnicornDrop(a) || isMADrop(a)) return false;
   if(/evergrande|prisão perpétua|condenado|discord|golpe|desenrola|stablecoins?|tokenização|steve jobs|larry page|janja|redes sociais|menores|youtube|criadores|fed\b|banco central|\bibc-br\b|\bpib\b|inflação|petróleo|ecopetrol|brava|câmeras com ia|prever crimes|fornecedores de energia|trabalhadores que .*vídeos de ia|opinião\.|artigo:|sp2b foi legal|tatuagens|vergonha alheia|liverpool|bill clinton|openai|chatgpt|claude|turismo de ia|ia autônoma|inteligência artificial generativa|algoritmo/.test(text)) return false;
   const source=`${a.source||''}`.toLowerCase();
   const ecosystemSignal=/startup|startups|scale-up|founder|fundador|empreendedor|empreendedorismo|ecossistema|acelera(?:ção|dora)|incubadora|abstartups|case 2026|comunidade|hub de inovação|negócio inovador/.test(text);
-  const operatorSignal=/contrata|nomeia|lança|lançou|parceria|expansão|cliente|operação|produto|produtos|growth|go-to-market|mvp|pmf|vendas|cultura|diretor|head of|mobilidade ativa|novos talentos|transformação digital|gestão do trabalho|pessoas|moradia/.test(text);
+  const operatorSignal=/lança|lançou|parceria|expansão|cliente|operação|produto|produtos|growth|go-to-market|mvp|pmf|vendas|cultura|mobilidade ativa|transformação digital|gestão do trabalho|pessoas|moradia/.test(text);
   const startupSource=/startupi|startups\.com\.br|draft|distrito|abstartups/.test(source);
   return ecosystemSignal || (startupSource && operatorSignal);
 }
 function isStartupShelfDrop(a){
   const text=`${a.originalTitle||a.title} ${a.summary||''}`.toLowerCase();
   const source=`${a.source||''}`.toLowerCase();
+  if(isRoleAnnouncement(a)) return false;
   if(isFundingDrop(a) || isUnicornDrop(a) || isMADrop(a)) return false;
   if(/evergrande|prisão perpétua|condenado|discord|golpe|desenrola|stablecoins?|tokenização|steve jobs|larry page|janja|redes sociais|menores|youtube|criadores|fed\b|banco central|\bibc-br\b|\bpib\b|inflação|petróleo|ecopetrol|brava|câmeras com ia|prever crimes|fornecedores de energia|trabalhadores que .*vídeos de ia|opinião\.|artigo:|sp2b foi legal|tatuagens|vergonha alheia|liverpool|bill clinton|openai|chatgpt|claude|turismo de ia|ia autônoma|inteligência artificial generativa|algoritmo/.test(text)) return false;
   const startupSource=/startupi|startups\.com\.br|draft|distrito|abstartups/.test(source);
   const ecosystemSignal=/startup|startups|scale-up|founder|fundador|empreendedor|empreendedorismo|ecossistema|acelera(?:ção|dora)|incubadora|abstartups|case 2026|comunidade|hub de inovação|negócio inovador/.test(text);
-  const operatorSignal=/contrata|nomeia|lança|lançou|parceria|expansão|cliente|operação|produto|produtos|growth|go-to-market|mvp|pmf|vendas|cultura|diretor|head of|mobilidade ativa|novos talentos|transformação digital|gestão do trabalho|pessoas|moradia/.test(text);
+  const operatorSignal=/lança|lançou|parceria|expansão|cliente|operação|produto|produtos|growth|go-to-market|mvp|pmf|vendas|cultura|mobilidade ativa|transformação digital|gestão do trabalho|pessoas|moradia/.test(text);
   return ecosystemSignal || (startupSource && operatorSignal);
 }
 function isMADrop(a){
@@ -9961,6 +9969,7 @@ function isRelevantDrop(a){
   const blocked=['mega-sena','loteria','sorteio','futebol','campeonato','copa do mundo','olimpíada','esporte olímpico','lakers','liverpool','eduardo saverin','brb','banco de brasília','banco de brasilia','stf','destravar empréstimo','destravar emprestimo','empréstimo bilionário','emprestimo bilionario','farmácias','farmacias','medicamentos','remédios','remedios','ai slop','programação 100%','robôs humanoides','robos humanoides','pré-ipo ao investidor comum','pre-ipo ao investidor comum','bill ackman','ultrarricos','miami virou','eleição','eleições','campanha','candidato','partido político','deputado','senador','governador','governadores','presidente lula','bolsonaro','marina silva','trump','datafolha','emendas','congressistas','horóscopo','novela','big brother','bbb ','reality show','bets ','apostas esportivas','cassino','saneamento básico','abastecimento de água','previsão do tempo','justa causa','atestado','trend no trabalho','demissão','funcionário','petróleo','foz do amazonas','exploração de petróleo','castelo','mansão','mansion','propriedade pessoal','patrimônio pessoal','celebridade','pedágio','pedagio','free flow','cnh','ipva','imposto de renda','tarifaço','tarifa','inflação','selic','copom','pib','dólar','ações','recomenda compra','carteira recomendada',' short ','economistas de stanford','alerta urgente','pesquisas militares','cães-robôs','caes-robos','câmeras com ia','prever crimes','braskem','gás natural','endividamento das famílias','recessão','tesouro ipca','ipca+','lei ambiental','segurança jurídica','prime video','câmeras espiãs','soberania tecnológica','plano de ia','supercomputadores','nuvem brasileira','evergrande','prisão perpétua','tesouro direto','taxas do tesouro','nb steak','casas bahia','térmica','wall street','mercado de títulos','crédito ao endividado','inadimplência','masters 1000','joão fonseca','discord avisa','suspensão de lives','emissão recorde de títulos','jp morgan','lucro','itaú no varejo','banir o discord','julgamento da meta','algoritmos e publicidade'];
   const startupSignals=['startup','startups','scale-up','scaleup','founder','fundador','empreendedor','venture','venture capital','vc','rodada','aporte','captação','captou','funding','seed','série a','série b','series a','series b','valuation','unicórnio','unicorn','fintech','edtech','healthtech','agtech','proptech','insurtech','legaltech','deeptech','saas','b2b','software','plataforma','empresa digital','produto digital','climate tech','nubank','ifood','stone','tractian','celcoin'];
   const broadEconomySource=/g1 economia|exame economia|valor econômico|valor economico|infomoney|bloomberg markets|reuters business|cnn brasil business|estadão economia|estadao economia|brazil journal|neofeed|startupi/i.test(a.source||'');
+  if(isRoleAnnouncement(a)) return false;
   if(blocked.some(k=>hasTerm(k))) return false;
   if(/\b(compra|comprou|adquire|adquiriu)\b/.test(hay) && /\b(castelo|mansão|mansion|casa de luxo|propriedade|ilha|iate)\b/.test(hay)) return false;
   if(/\b(compra|recomenda|mantém|eleva|corta)\b/.test(hay) && /\b(ações|acao|ação|short|target price|preço-alvo|bolsa|b3)\b/.test(hay)) return false;
