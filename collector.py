@@ -538,18 +538,18 @@ def canonical_key(url):
  
 # ── RESUMO ────────────────────────────────────────────────────────────────────
 def summary_by_rule(title, raw_summary):
-    """Fallback: limpa o texto e corta em frases completas (sem inventar dado)."""
+    """Fallback: cria uma linha curta de contexto, sem substituir a leitura."""
     text = strip_html(raw_summary) or title
+    text = re.sub(r"\([^)]*(imagem|crédito|credito|foto|divulgação|divulgacao)[^)]*\)", " ", text, flags=re.I)
+    text = re.sub(r"\b(crédito|credito|foto|imagem)\s*:\s*[^.。!?|]+[|—–-]?\s*", " ", text, flags=re.I)
+    text = re.sub(r"^\s*\*?\s*por\s+[A-ZÁ-Ú][^.!?]{2,80}", " ", text, flags=re.I)
+    text = re.sub(r"\b(the post|o post)\b.+$", "", text, flags=re.I)
+    text = re.sub(rf"^\s*{re.escape(title)}\s*", "", text, flags=re.I)
     text = re.sub(r"\[[…\.]+\]\s*$", "", text).strip()
-    # corta em ~2 frases completas, máx ~280 chars
     sentences = re.split(r"(?<=[.!?])\s+", text)
-    out, total = [], 0
-    for s in sentences:
-        if total + len(s) > 280 and out:
-            break
-        out.append(s)
-        total += len(s)
-    result = " ".join(out).strip()
+    result = sentences[0].strip() if sentences else text
+    if len(result) > 150:
+        result = result[:147].rsplit(" ", 1)[0].strip() + "..."
     return result if result else title
  
  
@@ -587,11 +587,12 @@ def summary_by_ai(title, raw_summary, region, country="US"):
         f"- Escreva TUDO em português do Brasil correto e fluente. ZERO palavras em inglês no texto final.\n"
         f"- Se o original estiver em inglês ou chinês, TRADUZA completamente. Não misture idiomas.\n"
         f"- O TÍTULO deve ser específico: diga O QUE aconteceu, com QUEM e POR QUÊ importa. NUNCA use 'X avança em Y' ou 'X anuncia Z'.\n"
-        f"- NÃO invente dados. NÃO inclua legendas de foto ou créditos de imagem.\n\n"
+        f"- NÃO invente dados. NÃO inclua legendas de foto ou créditos de imagem.\n"
+        f"- Não escreva resumo longo. A saída deve incentivar o clique para a fonte original, não substituir a leitura.\n\n"
         f"Com base no título e texto abaixo, gere:\n"
         f"TÍTULO: [título específico em pt-BR, máx 90 chars, sem verbos vagos]\n"
-        f"O QUE ACONTECEU: [2 frases objetivas em pt-BR com fatos, números e nomes]\n"
-        f"POR QUE IMPORTA: [1 frase em pt-BR sobre relevância para founders/investidores]\n\n"
+        f"O QUE ACONTECEU: [1 frase curta em pt-BR, máx 150 caracteres, só contexto]\n"
+        f"POR QUE IMPORTA: [1 frase curta em pt-BR sobre relevância para founders/investidores]\n\n"
         f"Título original: {title}\n"
         f"Texto: {source_text}"
     )
