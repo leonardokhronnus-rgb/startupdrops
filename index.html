@@ -10019,6 +10019,11 @@ function renderAll(){
   const shelfBase=rawShelf.filter(isDenseEnough);
   const sideBase=shelfBase.filter(isRelevantDrop);
   let arts=filtered();
+  if(activeFilter==='all'){
+    const startupPool=rawShelf.filter(isStartupShelfDrop);
+    const visiblePool=searchQuery ? startupPool.filter(a=>matchesSearch(a,searchQuery)) : startupPool;
+    arts=uniqueByDisplayedTitle([...arts,...visiblePool]);
+  }
   if(activeFilter==='funding' && arts.length<8){
     const fundingPool=rawShelf.filter(isFundingDrop);
     arts=uniqueByDisplayedTitle([...arts,...fundingPool]);
