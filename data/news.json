@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T20:04:08.905780+00:00",
+  "updatedAt": "2026-08-24T22:01:21.433862+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -239,6 +239,26 @@
       "source": "Abstartups",
       "url": "https://news.google.com/rss/search?q=when:7d+site:abstartups.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "a16z",
+      "url": "https://a16z.com/feed/",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "First Round Review",
+      "url": "https://review.firstround.com/feed.xml",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Contxto",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:contxto.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "LABS Latam",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:labsnews.com&hl=en-US&gl=US&ceid=US:en",
+      "reason": "falhou direto e via proxy"
     }
   ],
   "articles": [
@@ -260,27 +280,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/negocios/no-brasil-reforma-de-robos-ajuda-a-driblar-crise-de-componentes-global/",
-      "_key": "1e153802c59dcbb02d2af2a5a351d8dc",
-      "title": "No Brasil, reforma de robôs ajuda a driblar crise de componentes global",
-      "originalTitle": "No Brasil, reforma de robôs ajuda a driblar crise de componentes global",
-      "summary": "Unidade da ABB Robotics em Sorocaba Com base instalada de 5 mil máquinas no país, ABB Robotics colhe aprendizados da pandemia e aposta em...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/negocios/no-brasil-reforma-de-robos-ajuda-a-driblar-crise-de-componentes-global/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-21T19:22:33+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
       ],
       "coverageCount": 1
     },
@@ -407,27 +406,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/branded-content/replit-lanca-free-mode-e-promete-ampliar-em-ate-30-vezes-a-capacidade-de-criacao-com-ia/",
-      "_key": "242cb1c74d36fa68636542e2291308ad",
-      "title": "Replit lança Free Mode e promete ampliar em até 30 vezes a capacidade de criação com IA",
-      "originalTitle": "Replit lança Free Mode e promete ampliar em até 30 vezes a capacidade de criação com IA",
-      "summary": "passa a integrar em uma única experiência diversas atividades",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/branded-content/replit-lanca-free-mode-e-promete-ampliar-em-ate-30-vezes-a-capacidade-de-criacao-com-ia/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-20T16:00:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
       ],
       "coverageCount": 1
     },
@@ -642,27 +620,6 @@
       "coverageCount": 1
     },
     {
-      "id": "Startupi-https://startupi.com.br/qual-o-tamanho-do-desafio-do-ecossistema-de-empreendedorismo-em-tecnologia-no-brasil-frente-aos-massivos-investimentos-globais-no-setor/",
-      "_key": "3313db0743e393b23a75709baced4ebc",
-      "title": "Qual o tamanho do desafio do ecossistema de empreendedorismo em tecnologia no Brasil frente aos massivos investimentos globais no setor",
-      "originalTitle": "Qual o tamanho do desafio do ecossistema de empreendedorismo em tecnologia no Brasil frente aos massivos investimentos globais no setor",
-      "summary": "Qual o tamanho do desafio do ecossistema de empreendedorismo em tecnologia no Brasil frente aos massivos investimentos globais no setor",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startupi.com.br/qual-o-tamanho-do-desafio-do-ecossistema-de-empreendedorismo-em-tecnologia-no-brasil-frente-aos-massivos-investimentos-globais-no-setor/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-12T08:00:00+00:00",
-      "score": 65,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
-      ],
-      "coverageCount": 1
-    },
-    {
       "id": "Startups.com.br-https://startups.com.br/negocios/inteligencia-artificial/gama-fund-de-google-e-monashees-estende-prazo-de-inscricoes/",
       "_key": "5dec9808419656a8177652e38680aa23",
       "title": "Gama Fund, de Google e Monashees, estende prazo de inscrições",
@@ -743,26 +700,6 @@
       "whyMatters": ""
     },
     {
-      "id": "Startups.com.br-https://startups.com.br/negocios/big-techs/nvidia-negocia-pacote-de-us-500b-para-infraestrutura-de-ia/",
-      "_key": "cadc8fa10bab553c55326c9fd374ed1a",
-      "title": "Nvidia negocia pacote de US$ 500B para infraestrutura de IA",
-      "summary": "Sede da Nvidia na Califórnia | Divulgação Instituições financeiras como Apollo, Blackstone, BlackRock e KKR estão em conversas com a fabricante de...",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/negocios/big-techs/nvidia-negocia-pacote-de-us-500b-para-infraestrutura-de-ia/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-10T19:45:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1,
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
       "id": "Startups.com.br-https://startups.com.br/negocios/speedbird-abre-serie-b-de-us-30m-para-ser-a-embraer-dos-drones/",
       "_key": "cac34219f143c1c2d5cbf6901b093338",
       "title": "Speedbird abre Série B de US$ 30M para ser a Embraer dos drones",
@@ -794,26 +731,6 @@
       "image": "",
       "publishedAt": "2026-08-07T22:06:46+00:00",
       "score": 44,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1,
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/eventos/rpe-summit-reune-executivos-do-varejo-e-tecnologia-em-agosto/",
-      "_key": "f6a57ca629cda075823880a37dfd3c28",
-      "title": "RPE Summit reúne executivos do varejo e tecnologia em agosto",
-      "summary": "Foto da última edição do RPE Summit, realizada em agosto de 2025 Evento da RPE apresentará um estudo inédito sobre crédito no varejo e promoverá...",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/eventos/rpe-summit-reune-executivos-do-varejo-e-tecnologia-em-agosto/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-07T19:13:39+00:00",
-      "score": 41,
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
