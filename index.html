@@ -9279,7 +9279,7 @@ const BRAND = {
   // Para virar Morning Drops, por exemplo:
   //   namePlain:'Morning Drops', namePrefix:'Morning', nameSuffix:'Drops'
 };
-const DATA_URL = './data/news.json?v=20260820-4';
+const DATA_URL = './data/news.json?v=20260824-1';
 const ARTICLES_URL = './data/articles.json?v=20260820-4';
 const EDITORIAL_URL = './data/editorial-overrides.json?v=20260820-1';
 const API = {
@@ -9954,14 +9954,21 @@ function triggerRefresh(){
 // ── FILTER ────────────────────────────────────────────────────────────────────
 function isRelevantDrop(a){
   const hay=`${a.title} ${a.summary}`.toLowerCase();
-  const relevant=['startup','startups','scale-up','venture','venture capital','funding','captação','captou','rodada','aporte','seed','valuation','unicórnio','unicorn','m&a','aquisição','adquire','ipo','tecnologia','technology','tech','software','saas','plataforma','inteligência artificial','artificial intelligence',' ia ',' ai ','machine learning','llm','chatgpt','openai','gemini','robô','robot','automação','chip','semiconductor','cloud','fintech','edtech','healthtech','deeptech','climate tech','nubank','ifood','totvs','stone','rappi','amazon','google','apple','microsoft','meta','nvidia','bytedance','alibaba','tencent','baidu','anthropic','spacex','databricks'];
-  const blocked=['mega-sena','loteria','sorteio','futebol','campeonato','copa do mundo','olimpíada','esporte olímpico','lakers','eleição','campanha','candidato','partido político','deputado','senador','governador','presidente lula','bolsonaro','marina silva','horóscopo','novela','big brother','bbb ','reality show','bets ','apostas esportivas','cassino','saneamento básico','abastecimento de água','previsão do tempo','justa causa','atestado','trend no trabalho','demissão','funcionário','petróleo','foz do amazonas','exploração de petróleo','castelo','mansão','mansion','propriedade pessoal','patrimônio pessoal','celebridade'];
-  if(blocked.some(k=>hay.includes(k))) return false;
+  const hasTerm=(term)=>/^[\wÀ-ÿ]+$/i.test(term)
+    ? new RegExp(`(?<![\\wÀ-ÿ])${term}(?![\\wÀ-ÿ])`,'i').test(hay)
+    : hay.includes(term);
+  const relevant=['startup','startups','scale-up','scaleup','founder','fundador','empreendedor','venture','venture capital','vc','funding','captação','captou','rodada','aporte','seed','série a','série b','series a','series b','valuation','unicórnio','unicorn','m&a','aquisição','adquire','ipo de tech','software','saas','plataforma','produto digital','empresa digital','inteligência artificial','artificial intelligence','ia','ai','machine learning','llm','openai','anthropic','gemini','deepmind','robótica comercial','automação','cloud','fintech','edtech','healthtech','agtech','proptech','insurtech','legaltech','deeptech','climate tech','nubank','ifood','totvs','stone','rappi','spacex','databricks'];
+  const blocked=['mega-sena','loteria','sorteio','futebol','campeonato','copa do mundo','olimpíada','esporte olímpico','lakers','liverpool','eduardo saverin','brb','banco de brasília','banco de brasilia','stf','destravar empréstimo','destravar emprestimo','empréstimo bilionário','emprestimo bilionario','farmácias','farmacias','medicamentos','remédios','remedios','ai slop','programação 100%','robôs humanoides','robos humanoides','pré-ipo ao investidor comum','pre-ipo ao investidor comum','bill ackman','ultrarricos','miami virou','eleição','eleições','campanha','candidato','partido político','deputado','senador','governador','governadores','presidente lula','bolsonaro','marina silva','trump','datafolha','emendas','congressistas','horóscopo','novela','big brother','bbb ','reality show','bets ','apostas esportivas','cassino','saneamento básico','abastecimento de água','previsão do tempo','justa causa','atestado','trend no trabalho','demissão','funcionário','petróleo','foz do amazonas','exploração de petróleo','castelo','mansão','mansion','propriedade pessoal','patrimônio pessoal','celebridade','pedágio','pedagio','free flow','cnh','ipva','imposto de renda','tarifaço','tarifa','inflação','selic','copom','pib','dólar','ações','recomenda compra','carteira recomendada',' short ','economistas de stanford','alerta urgente','pesquisas militares','cães-robôs','caes-robos','câmeras com ia','prever crimes','braskem','gás natural','endividamento das famílias','recessão','tesouro ipca','ipca+','lei ambiental','segurança jurídica','prime video','câmeras espiãs','soberania tecnológica','plano de ia','supercomputadores','nuvem brasileira','evergrande','prisão perpétua','tesouro direto','taxas do tesouro','nb steak','casas bahia','térmica','wall street','mercado de títulos','crédito ao endividado','inadimplência','masters 1000','joão fonseca','discord avisa','suspensão de lives','emissão recorde de títulos','jp morgan','lucro','itaú no varejo','banir o discord','julgamento da meta','algoritmos e publicidade'];
+  const startupSignals=['startup','startups','scale-up','scaleup','founder','fundador','empreendedor','venture','venture capital','vc','rodada','aporte','captação','captou','funding','seed','série a','série b','series a','series b','valuation','unicórnio','unicorn','fintech','edtech','healthtech','agtech','proptech','insurtech','legaltech','deeptech','saas','b2b','software','plataforma','empresa digital','produto digital','climate tech','nubank','ifood','stone','tractian','celcoin'];
+  const broadEconomySource=/g1 economia|exame economia|valor econômico|valor economico|infomoney|bloomberg markets|reuters business|cnn brasil business|estadão economia|estadao economia|brazil journal|neofeed|startupi/i.test(a.source||'');
+  if(blocked.some(k=>hasTerm(k))) return false;
   if(/\b(compra|comprou|adquire|adquiriu)\b/.test(hay) && /\b(castelo|mansão|mansion|casa de luxo|propriedade|ilha|iate)\b/.test(hay)) return false;
+  if(/\b(compra|recomenda|mantém|eleva|corta)\b/.test(hay) && /\b(ações|acao|ação|short|target price|preço-alvo|bolsa|b3)\b/.test(hay)) return false;
+  if(broadEconomySource && !startupSignals.some(k=>hasTerm(k))) return false;
   // Títulos genéricos demais sem contexto no resumo são descartados
   const genericTitle=/^(openai|google|meta|amazon|apple|microsoft|nvidia|\w+)\s+(avança|anuncia|apresenta|lança|atinge|registra|alcança)\s+em\s+/i;
-  if(genericTitle.test(a.title) && !relevant.some(k=>hay.includes(k))) return false;
-  return relevant.some(k=>hay.includes(k));
+  if(genericTitle.test(a.title) && !relevant.some(k=>hasTerm(k))) return false;
+  return relevant.some(k=>hasTerm(k));
 }
 function isDenseEnough(a){
   // Matéria manual sempre passa (você é o editor). Agregada precisa ter resumo denso.

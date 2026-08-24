@@ -11,10 +11,11 @@ import { getStore } from "@netlify/blobs";
 const FONTES = [
   { outlet: "Startupi",         editoria: "Startups",   rss: "https://startupi.com.br/feed/" },
   { outlet: "Startups.com.br",  editoria: "Startups",   rss: "https://startups.com.br/feed/" },
-  { outlet: "NeoFeed",          editoria: "Funding",    rss: "https://neofeed.com.br/feed/" },
-  { outlet: "Exame",            editoria: "Economia",   rss: "https://exame.com/feed/" },
-  { outlet: "Brazil Journal",   editoria: "Funding",    rss: "https://braziljournal.com/feed/" },
-  { outlet: "IT Forum",         editoria: "Tech",       rss: "https://itforum.com.br/feed/" },
+  { outlet: "Pipeline Valor Startups", editoria: "Startups", rss: "https://news.google.com/rss/search?q=when:3d+site:pipelinevalor.globo.com/startups+startup+OR+rodada+OR+venture+OR+fintech&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
+  { outlet: "NeoFeed Startups", editoria: "Funding",    rss: "https://news.google.com/rss/search?q=when:3d+site:neofeed.com.br+startup+OR+fintech+OR+venture+OR+rodada+OR+aporte+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
+  { outlet: "Exame Startups",   editoria: "Startups",   rss: "https://news.google.com/rss/search?q=when:3d+site:exame.com+startup+OR+fintech+OR+venture+OR+IA+OR+inovacao&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
+  { outlet: "Brazil Journal Tech", editoria: "Funding", rss: "https://news.google.com/rss/search?q=when:3d+site:braziljournal.com+startup+OR+fintech+OR+venture+OR+spacex+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
+  { outlet: "IT Forum",         editoria: "Tech",       rss: "https://news.google.com/rss/search?q=when:3d+site:itforum.com.br+startup+OR+fintech+OR+IA+OR+software+OR+cloud&hl=pt-BR&gl=BR&ceid=BR:pt-419" },
   { outlet: "TechCrunch Startups", editoria: "Startups", rss: "https://techcrunch.com/category/startups/feed/" },
   { outlet: "Crunchbase News",  editoria: "Funding",    rss: "https://news.crunchbase.com/feed/" },
   { outlet: "VentureBeat",      editoria: "AI",         rss: "https://venturebeat.com/feed/" },
@@ -33,6 +34,31 @@ const MAX_POR_RODADA = 6;
 const MAX_TENTATIVAS_POR_RODADA = 24;
 // Quantos itens olhar por feed
 const ITENS_POR_FEED = 4;
+const STARTUP_SIGNALS = [
+  "startup", "startups", "scale-up", "scaleup", "founder", "fundador",
+  "venture", "vc", "capital de risco", "rodada", "aporte", "captação",
+  "captou", "levanta", "levantou", "funding", "seed", "série a", "série b",
+  "series a", "series b", "valuation", "unicórnio", "unicorn", "fintech",
+  "edtech", "healthtech", "agtech", "proptech", "insurtech", "legaltech",
+  "deeptech", "saas", "b2b", "software", "plataforma", "inteligência artificial",
+  "artificial intelligence", "llm", "openai", "anthropic", "climate tech", "venture capital"
+];
+const HARD_BLOCKS = [
+  "pedágio", "pedagio", "free flow", "cnh", "ipva", "imposto de renda",
+  "tarifaço", "tarifa", "inflação", "selic", "copom", "pib", "dólar",
+  "bolsa", "ações", "short", "recomenda compra", "carteira recomendada",
+  "economistas de stanford", "alerta urgente", "cães-robôs", "caes-robos",
+  "pesquisas militares", "justa causa", "atestado", "petróleo", "foz do amazonas",
+  "castelo", "mansão", "celebridade", "política", "trump", "lula", "eleições",
+  "eleição", "datafolha", "governadores", "previdência social", "braskem",
+  "endividamento das famílias", "emendas", "congressistas", "gás natural",
+  "evergrande", "prisão perpétua", "tesouro direto", "taxas do tesouro",
+  "nb steak", "casas bahia", "térmica", "wall street", "mercado de títulos",
+  "liverpool", "eduardo saverin", "brb", "stf", "empréstimo público",
+  "farmácias", "medicamentos", "ai slop", "programação 100%",
+  "robôs humanoides", "robos humanoides", "pré-ipo ao investidor comum",
+  "pre-ipo ao investidor comum", "bill ackman", "ultrarricos", "miami virou"
+];
 
 // ── Utilidades de parsing de RSS (sem dependência externa) ──
 function pegarTag(bloco, tag) {
@@ -68,6 +94,31 @@ function parseFeed(xml) {
   return itens;
 }
 
+function hasTerm(text, term) {
+  if (/^[\wÀ-ÿ]+$/i.test(term)) return new RegExp(`(?<![\\wÀ-ÿ])${term}(?![\\wÀ-ÿ])`, "i").test(text);
+  return text.includes(term);
+}
+
+function hasSignal(text, terms) {
+  return terms.some(term => hasTerm(text, term));
+}
+
+function candidateScore(item, fonte) {
+  const text = `${item.titulo} ${item.resumo || ""} ${fonte.outlet}`.toLowerCase();
+  if (hasSignal(text, HARD_BLOCKS)) return -100;
+  let score = 0;
+  for (const term of STARTUP_SIGNALS) if (hasTerm(text, term)) score += 6;
+  if (/startupi|startups\.com|pipeline valor startups|techcrunch startups|crunchbase|eu-startups|tech\.eu/i.test(fonte.outlet)) score += 18;
+  if (/rodada|aporte|capta|captou|funding|seed|série|series|valuation|venture|unicórnio|unicorn/i.test(text)) score += 18;
+  if (/fintech|saas|healthtech|edtech|deeptech|climate tech|ia|inteligência artificial|llm|software|plataforma/i.test(text)) score += 10;
+  if (/economia|mercado|business|markets/i.test(fonte.outlet) && score < 24) score -= 20;
+  return score;
+}
+
+function isStartupCandidate(item, fonte) {
+  return candidateScore(item, fonte) >= 12;
+}
+
 function montarPrompt(item, fonte) {
   const base = item.resumo && item.resumo.length > 40 ? item.resumo : item.titulo;
   return `Você é redator do StartupDrops, portal brasileiro de notícias do ecossistema de startups. Recebeu a notícia abaixo, publicada originalmente pelo veículo "${fonte.outlet}". Reescreva com texto 100% próprio, no tom editorial do StartupDrops, para publicar no portal.
@@ -77,7 +128,9 @@ REGRAS OBRIGATÓRIAS:
 - Mantenha TODOS os fatos, nomes, empresas e números presentes no original. NÃO invente nenhum dado, número, valor ou citação que não esteja no texto. Se algo não estiver claro, não afirme.
 - Tom jornalístico, direto, escaneável. Português do Brasil.
 - Se a notícia original estiver em inglês, chinês ou qualquer outro idioma, traduza e reescreva completamente em português do Brasil. Não deixe palavras, frases ou estruturas em inglês no texto final.
-- Só publique se fizer sentido para founders, investidores, operadores de startups, venture capital, tecnologia, IA, fintechs ou empresas digitais. Se for política, esporte, celebridade, lifestyle, consumo genérico ou patrimônio pessoal de executivos, responda com {"descartar":true}.
+- Só publique se fizer sentido DIRETO para founders, investidores, operadores de startups, venture capital, tecnologia, IA, fintechs, SaaS ou empresas digitais.
+- Descarte macroeconomia genérica, bolsa, recomendação de ações, pedágio/free flow, impostos, política, petróleo, celebridades, consumo comum, pesquisa militar sem startup/produto comercial, ou patrimônio pessoal de executivos. Para descartar, responda com {"descartar":true}.
+- "Mercado" só é permitido quando houver ligação clara com startup, venture capital, M&A de tech, IPO de tech, fintech, SaaS, IA ou empresa digital. Não transforme economia geral em startup.
 - NÃO use travessões (—). Use vírgula, ponto ou parênteses.
 - Título curto e forte (máx ~12 palavras). Linha fina de 1 a 2 frases. Corpo em 3 a 5 parágrafos.
 
@@ -196,7 +249,7 @@ export default async (req) => {
       const xml = await r.text();
       const itens = parseFeed(xml).slice(0, ITENS_POR_FEED);
       for (const it of itens) {
-        if (!jaPublicados.has(it.link)) candidatos.push({ item: it, fonte });
+        if (!jaPublicados.has(it.link) && isStartupCandidate(it, fonte)) candidatos.push({ item: it, fonte });
       }
     } catch (e) {
       console.log("Falha no feed", fonte.outlet, e.message);
@@ -204,6 +257,7 @@ export default async (req) => {
   }
 
   // 2) Reescrever até preencher a rodada, tentando mais itens se a IA descartar ruído
+  candidatos.sort((a, b) => candidateScore(b.item, b.fonte) - candidateScore(a.item, a.fonte));
   const aReescrever = candidatos.slice(0, MAX_TENTATIVAS_POR_RODADA);
   let publicadas = 0;
   let analisadas = 0;

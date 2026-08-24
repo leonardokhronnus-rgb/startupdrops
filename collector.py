@@ -37,24 +37,23 @@ SOURCES = [
     # -- BRASIL: startups e tech (feeds nativos funcionando) --
     {"name": "Startupi",              "region": "Brasil",         "country": "BR", "feed": "https://startupi.com.br/feed/"},
     {"name": "Startups.com.br",       "region": "Brasil",         "country": "BR", "feed": "https://startups.com.br/feed/"},
-    {"name": "NeoFeed",               "region": "Brasil",         "country": "BR", "feed": "https://neofeed.com.br/feed/"},
-    {"name": "Brazil Journal",        "region": "Brasil",         "country": "BR", "feed": "https://braziljournal.com/feed/"},
-    {"name": "InfoMoney",             "region": "Brasil",         "country": "BR", "feed": "https://www.infomoney.com.br/feed/"},
-    {"name": "Exame",                 "region": "Brasil",         "country": "BR", "feed": "https://exame.com/feed/"},
-    {"name": "Bloomberg Linea BR",    "region": "Brasil",         "country": "BR", "feed": "https://www.bloomberglinea.com.br/arc/outboundfeeds/google-news-feed.xml/?outputType=xml"},
+    {"name": "NeoFeed Startups",      "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:neofeed.com.br+startup+OR+fintech+OR+venture+OR+rodada+OR+aporte+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Brazil Journal Tech",   "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:braziljournal.com+startup+OR+fintech+OR+venture+OR+spacex+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "InfoMoney Startups",    "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:infomoney.com.br+startup+OR+fintech+OR+venture+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Exame Startups",        "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:exame.com+startup+OR+fintech+OR+venture+OR+IA+OR+inovacao&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Bloomberg Linea Tech",  "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:bloomberglinea.com.br+startup+OR+fintech+OR+venture+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
     {"name": "Finsiders Brasil",      "region": "Brasil",         "country": "BR", "feed": "https://finsidersbrasil.com.br/feed/"},
     {"name": "Money Times Tech",      "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
     {"name": "Inovação Tecnológica",  "region": "Brasil",         "country": "BR", "feed": "https://www.inovacaotecnologica.com.br/boletim/rss.xml"},
-    {"name": "G1 Economia",           "region": "Brasil",         "country": "BR", "feed": "https://g1.globo.com/dynamo/economia/rss2.xml"},
+    {"name": "G1 Startups e Tech",    "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:g1.globo.com+startup+OR+fintech+OR+IA+OR+tecnologia&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
  
     # -- BRASIL: resgate via Google News (feeds nativos quebrados) --
     {"name": "IT Forum",              "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:itforum.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
-    {"name": "Pipeline Valor",        "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:pipelinevalor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
-    {"name": "Valor Economico",       "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
-    {"name": "Exame Economia",        "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:exame.com+economia&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Pipeline Valor Startups","region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:pipelinevalor.globo.com/startups+startup+OR+rodada+OR+venture+OR+fintech&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Valor Startups",        "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:valor.globo.com+startup+OR+fintech+OR+venture+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
     {"name": "Epoca Negocios",        "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:epocanegocios.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
-    {"name": "CNN Brasil Business",   "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:cnnbrasil.com.br+economia&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
-    {"name": "Estadao Economia",      "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:estadao.com.br+economia&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "CNN Brasil Tech",       "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:cnnbrasil.com.br+startup+OR+fintech+OR+IA+OR+tecnologia&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
+    {"name": "Estadao Startups",      "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:estadao.com.br+startup+OR+fintech+OR+venture+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
     {"name": "PEGN",                  "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
     {"name": "MIT Tech Review BR",    "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:mittechreview.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
     {"name": "E-Commerce Brasil",     "region": "Brasil",         "country": "BR", "feed": "https://news.google.com/rss/search?q=when:3d+site:ecommercebrasil.com.br+tecnologia+OR+marketplace+OR+startup&hl=pt-BR&gl=BR&ceid=BR:pt-419"},
@@ -79,10 +78,10 @@ SOURCES = [
     {"name": "Axios Pro Rata",        "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:2d+site:axios.com+venture+OR+startup&hl=en-US&gl=US&ceid=US:en"},
  
     # -- EUA / GLOBAL: resgate via Google News --
-    {"name": "Reuters Business",      "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:2d+site:reuters.com+business&hl=en-US&gl=US&ceid=US:en"},
+    {"name": "Reuters Startups",      "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:2d+site:reuters.com+startup+OR+venture+OR+fintech+OR+artificial+intelligence&hl=en-US&gl=US&ceid=US:en"},
     {"name": "Reuters Tech",          "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:2d+site:reuters.com+technology&hl=en-US&gl=US&ceid=US:en"},
     {"name": "Bloomberg Tech",        "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:2d+site:bloomberg.com+technology+OR+startup&hl=en-US&gl=US&ceid=US:en"},
-    {"name": "Bloomberg Markets",     "region": "Internacional",  "country": "US", "feed": "https://feeds.bloomberg.com/markets/news.rss"},
+    {"name": "Bloomberg Startups",    "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:2d+site:bloomberg.com+startup+OR+venture+OR+fintech+OR+artificial+intelligence&hl=en-US&gl=US&ceid=US:en"},
     {"name": "The Information",       "region": "Internacional",  "country": "US", "feed": "https://news.google.com/rss/search?q=when:2d+site:theinformation.com&hl=en-US&gl=US&ceid=US:en"},
  
     # -- EUROPA --
@@ -150,6 +149,35 @@ BLOCKLIST = [
     "bets ", "apostas esportivas", "cassino", "jogo do bicho",
     "saneamento básico", "abastecimento de água", "esgoto",
     "previsão do tempo", "temperatura", "chuva",
+    "pedágio", "pedagio", "free flow", "cnh", "ipva", "imposto de renda",
+    "tarifaço", "tarifa", "pib", "selic", "copom", "inflação", "dólar",
+    "eleições", "eleição", "datafolha", "governador", "governadores",
+    "previdência social", "déficit da previdência", "lula", "flávio",
+    "emendas", "congressistas", "irã", "gás natural", "braskem",
+    "crédito sem garantia", "endividamento das famílias",
+    "recessão", "tesouro ipca", "ipca+", "lei ambiental", "segurança jurídica",
+    "prime video", "câmeras espiãs", "cameras espias", "soberania tecnológica",
+    "soberania tecnologica", "plano de ia", "supercomputadores", "nuvem brasileira",
+    "evergrande", "prisão perpétua", "prisao perpetua", "tesouro direto",
+    "taxas do tesouro", "nb steak", "casas bahia", "térmica", "termica",
+    "wall street", "mercado de títulos", "mercado de titulos",
+    "crédito ao endividado", "credito ao endividado", "inadimplência",
+    "inadimplencia", "masters 1000", "joão fonseca", "joao fonseca",
+    "discord avisa", "suspensão de lives", "suspensao de lives",
+    "liverpool", "eduardo saverin",
+    "brb", "banco de brasília", "banco de brasilia", "stf",
+    "destravar empréstimo", "destravar emprestimo", "empréstimo bilionário",
+    "emprestimo bilionario", "farmácias", "farmacias", "medicamentos",
+    "remédios", "remedios", "ai slop", "programação 100%",
+    "robôs humanoides", "robos humanoides", "pré-ipo ao investidor comum",
+    "pre-ipo ao investidor comum", "bill ackman", "ultrarricos", "miami virou",
+    "emissão recorde de títulos", "emissao recorde de titulos",
+    "mercado de títulos", "mercado de titulos", "jp morgan", "lucro",
+    "itau no varejo", "itaú no varejo", "banir o discord", "julgamento da meta",
+    "algoritmos e publicidade",
+    "recomenda compra", "carteira recomendada", "ações", " short ", "buy",
+    "economistas de stanford", "alerta urgente", "pesquisas militares",
+    "cães-robôs", "caes-robos", "petróleo", "foz do amazonas",
     # empresas fora do ecossistema de tech/startups
     "jbs ", " jbs", "batista clan", "meat supplier", "meatpacker",
     "frigorífico", "frigorif",
@@ -161,6 +189,57 @@ BLOCKLIST = [
 # Fontes tech generalistas são úteis, mas trazem muito gadget, promoção, games
 # e consumo. Para elas, exigimos sinal claro de negócio/ecossistema.
 NOISY_TECH_SOURCES = {"Tecnoblog", "Canaltech", "Olhar Digital"}
+
+BROAD_BUSINESS_SOURCES = {
+    "G1 Startups e Tech", "Exame Startups", "Brazil Journal Tech",
+    "InfoMoney Startups", "Bloomberg Linea Tech", "Valor Startups",
+    "CNN Brasil Tech", "Estadao Startups", "Reuters Startups",
+    "Reuters Tech", "Bloomberg Tech", "Bloomberg Startups",
+    "G1 Economia", "Exame", "Brazil Journal", "InfoMoney", "Bloomberg Linea BR",
+    "Valor Economico", "Exame Economia", "CNN Brasil Business",
+    "Estadao Economia", "Reuters Business", "Bloomberg Markets",
+    "NeoFeed", "Startupi",
+}
+
+STARTUP_FIRST_REQUIRED = [
+    "startup", "startups", "scale-up", "scaleup", "founder", "fundador",
+    "empreendedor", "venture", "capital de risco", "vc ", "rodada", "aporte",
+    "captação", "captou", "levanta", "levantou", "funding", "seed", "série a",
+    "série b", "series a", "series b", "valuation", "unicórnio", "unicorn",
+    "fintech", "edtech", "healthtech", "agtech", "proptech", "insurtech",
+    "legaltech", "deeptech", "saas", "b2b", "software", "plataforma",
+    "empresa digital", "produto digital", "inteligência artificial",
+    "artificial intelligence", "llm", "openai", "anthropic", "climate tech",
+    "nubank", "ifood", "stone", "mercado livre", "quintoandar", "kovi",
+    "tractian", "neon", "c6 bank", "inter", "picpay", "gympass", "wellhub",
+    "olist", "loft", "loggi", "wildlife", "ebury", "pismo", "celcoin",
+]
+
+TRUSTED_STARTUP_SOURCES = {
+    "Startupi", "Startups.com.br", "Pipeline Valor Startups", "TechCrunch Startups",
+    "Crunchbase News", "Tech.eu", "EU-Startups", "Inc42", "YourStory", "Entrackr",
+}
+
+CORE_STARTUP_CONTEXT = [
+    "startup", "startups", "scale-up", "scaleup", "founder", "fundador",
+    "empreendedor", "venture", "capital de risco", "rodada", "aporte",
+    "captação", "captou", "funding", "seed", "série a", "série b",
+    "series a", "series b", "valuation", "unicórnio", "unicorn",
+    "fintech", "edtech", "healthtech", "agtech", "proptech", "insurtech",
+    "legaltech", "deeptech", "saas", "b2b", "vc ",
+]
+
+BROAD_SOURCE_REQUIRED = [
+    "startup", "startups", "scale-up", "scaleup", "founder", "fundador",
+    "empreendedor", "venture", "capital de risco", "rodada", "aporte",
+    "captação", "captou", "funding", "seed", "série a", "série b",
+    "series a", "series b", "valuation", "unicórnio", "unicorn",
+    "fintech", "edtech", "healthtech", "agtech", "proptech", "insurtech",
+    "legaltech", "deeptech", "saas", "b2b", "venture capital",
+    "nubank", "ifood", "stone", "mercado livre", "quintoandar", "kovi",
+    "tractian", "neon", "c6 bank", "inter", "picpay", "gympass", "wellhub",
+    "olist", "loft", "loggi", "wildlife", "ebury", "pismo", "celcoin",
+]
 
 NOISY_TECH_REQUIRED = [
     "startup", "fintech", "healthtech", "edtech", "agtech", "proptech", "saas",
@@ -246,12 +325,32 @@ def looks_translated(article):
     return not ENGLISH_RESIDUE.search(text)
 
 
+def startup_term_in_text(text, term):
+    term = term.strip().lower()
+    if re.fullmatch(r"[\wÀ-ÿ]+", term):
+        return re.search(rf"(?<![\wÀ-ÿ]){re.escape(term)}(?![\wÀ-ÿ])", text) is not None
+    return term in text
+
+
 def is_allowed_display_article(article):
+    text = f" {article.get('title','')} {article.get('summary','')} {article.get('whyMatters','')} ".lower()
+    has_startup_context = any(startup_term_in_text(text, term) for term in STARTUP_FIRST_REQUIRED)
+    has_core_startup_context = any(startup_term_in_text(text, term) for term in CORE_STARTUP_CONTEXT)
+    source_names = article_source_names(article)
+    broad_source_ok = True
+    if not source_names.isdisjoint(BROAD_BUSINESS_SOURCES):
+        broad_source_ok = any(startup_term_in_text(text, term) for term in BROAD_SOURCE_REQUIRED)
+    is_blocked = any(term in text for term in BLOCKLIST)
+    trusted_source = not source_names.isdisjoint(TRUSTED_STARTUP_SOURCES)
     return (
         article.get("country") in ACTIVE_COUNTRIES
         and not title_broken(article)
         and looks_translated(article)
-        and article_source_names(article).isdisjoint(BLOCKED_DISPLAY_SOURCES)
+        and source_names.isdisjoint(BLOCKED_DISPLAY_SOURCES)
+        and has_startup_context
+        and (trusted_source or has_core_startup_context)
+        and broad_source_ok
+        and not is_blocked
     )
 
 
@@ -266,6 +365,8 @@ def contains_term(text, term):
 
 def passes_editorial_scope(source_name, title, summary):
     text = f" {title} {summary} ".lower()
+    if source_name in BROAD_BUSINESS_SOURCES:
+        return any(contains_term(text, term) for term in BROAD_SOURCE_REQUIRED)
     if source_name not in NOISY_TECH_SOURCES:
         return True
     if len([w for w in title.split() if len(w) > 2]) < 3:
