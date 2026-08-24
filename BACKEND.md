@@ -12,7 +12,8 @@ Esta versao usa backend real com Netlify Functions e Netlify Blobs. O site conti
 
 Configure no Netlify:
 
-- `ANTHROPIC_API_KEY`: usada pelas funcoes que reescrevem e traduzem materias.
+- `OPENAI_API_KEY`: chave recomendada para reescrever e traduzir materias com a OpenAI.
+- `ANTHROPIC_API_KEY`: opcional, usada como alternativa se `OPENAI_API_KEY` nao existir.
 - `ADMIN_TOKEN`: uma senha longa para acessar dados privados e atualizar curadoria.
 
 ## Endpoints

@@ -1,7 +1,7 @@
 # StartupDrops — Portal com reescrita automática
 
 Portal de notícias que busca matérias das fontes por RSS, reescreve cada uma
-com texto próprio da Redação (via API Anthropic) e publica sozinho, 3x ao dia.
+com texto próprio da Redação (via OpenAI ou Anthropic) e publica sozinho, 3x ao dia.
 Você não precisa colar nada à mão.
 
 ## Como funciona
@@ -38,8 +38,9 @@ Adicione seus artigos em `data/articles.json` neste formato:
 2. No Netlify: "Add new site" → "Import from Git" → escolha o repositório.
 3. Build settings: pode deixar em branco. Publish directory: `.` (ponto). Functions: `netlify/functions`.
 4. Depois do primeiro deploy, vá em: Site settings → Environment variables → adicione:
-   - Chave: `ANTHROPIC_API_KEY`
-   - Valor: sua chave da API da Anthropic (começa com `sk-ant-...`)
+   - Chave recomendada: `OPENAI_API_KEY`
+   - Valor: sua chave da API da OpenAI
+   - Opcional: `ANTHROPIC_API_KEY`, caso queira manter Claude como alternativa
 5. Refaça o deploy (Deploys → Trigger deploy → Deploy site) para a variável valer.
 
 ## Testar sem esperar o horário
@@ -63,8 +64,9 @@ Depois abra o site normalmente e as matérias vão aparecer.
 
 ## Custo
 
-Cada matéria reescrita usa 1 chamada à API (Claude Sonnet). Com 6 por rodada e 3 rodadas,
-são até 18 chamadas/dia. Ajuste `MAX_POR_RODADA` conforme seu orçamento.
+Cada matéria reescrita usa 1 chamada à API. Com 6 por rodada e 3 rodadas,
+são até 18 chamadas/dia. Por padrão, se `OPENAI_API_KEY` existir, o robô usa
+`gpt-5-mini`. Ajuste `MAX_POR_RODADA` conforme seu orçamento.
 
 ## Observação sobre RSS
 

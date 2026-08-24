@@ -4,7 +4,7 @@ import { getStore } from "@netlify/blobs";
 // StartupDrops · Robô de reescrita automática
 // Roda 3x ao dia (manhã/tarde/noite) no fuso de Brasília.
 // Puxa RSS das fontes, detecta matérias novas, reescreve com
-// texto próprio via API Anthropic e grava no Netlify Blobs.
+// texto próprio via IA (OpenAI ou Anthropic) e grava no Netlify Blobs.
 // ─────────────────────────────────────────────────────────────
 
 // Fontes RSS (editoria é só um rótulo padrão; a IA confirma o tom)
@@ -68,10 +68,9 @@ function parseFeed(xml) {
   return itens;
 }
 
-// ── Reescrita via API Anthropic ──
-async function reescrever(item, fonte, apiKey) {
+function montarPrompt(item, fonte) {
   const base = item.resumo && item.resumo.length > 40 ? item.resumo : item.titulo;
-  const prompt = `Você é redator do StartupDrops, portal brasileiro de notícias do ecossistema de startups. Recebeu a notícia abaixo, publicada originalmente pelo veículo "${fonte.outlet}". Reescreva com texto 100% próprio, no tom editorial do StartupDrops, para publicar no portal.
+  return `Você é redator do StartupDrops, portal brasileiro de notícias do ecossistema de startups. Recebeu a notícia abaixo, publicada originalmente pelo veículo "${fonte.outlet}". Reescreva com texto 100% próprio, no tom editorial do StartupDrops, para publicar no portal.
 
 REGRAS OBRIGATÓRIAS:
 - Reescreva do zero, com suas próprias palavras e estrutura. Não copie frases do original nem parafraseie linha a linha.
@@ -92,7 +91,53 @@ ${base}
 
 Responda APENAS com JSON válido, sem markdown nem crases, neste formato exato:
 {"titulo":"...","linha_fina":"...","corpo":["parágrafo 1","parágrafo 2"],"editoria":"Funding|Startups|Economia|Tech|Unicórnios|AI"}`;
+}
 
+function parseArticleJson(text) {
+  text = String(text || "").trim();
+  text = text.replace(/^```json/i, "").replace(/^```/, "").replace(/```$/, "").trim();
+  const a = text.indexOf("{"), b = text.lastIndexOf("}");
+  if (a >= 0 && b >= 0) text = text.slice(a, b + 1);
+  const art = JSON.parse(text);
+  if (art.descartar) return null;
+  return art;
+}
+
+function responseText(data) {
+  if (typeof data.output_text === "string") return data.output_text;
+  return (data.output || [])
+    .flatMap(item => item.content || [])
+    .filter(part => part.type === "output_text" && part.text)
+    .map(part => part.text)
+    .join("")
+    .trim();
+}
+
+async function reescreverOpenAI(item, fonte, apiKey) {
+  const prompt = montarPrompt(item, fonte);
+  const resp = await fetch("https://api.openai.com/v1/responses", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${apiKey}`,
+    },
+    body: JSON.stringify({
+      model: process.env.OPENAI_MODEL || "gpt-5-mini",
+      input: prompt,
+      max_output_tokens: 1200,
+      text: { format: { type: "json_object" } },
+    }),
+  });
+  if (!resp.ok) {
+    const body = await resp.text().catch(() => "");
+    throw new Error(("OpenAI status " + resp.status + " " + body).slice(0, 500));
+  }
+  const data = await resp.json();
+  return parseArticleJson(responseText(data));
+}
+
+async function reescreverAnthropic(item, fonte, apiKey) {
+  const prompt = montarPrompt(item, fonte);
   const resp = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
     headers: {
@@ -111,21 +156,26 @@ Responda APENAS com JSON válido, sem markdown nem crases, neste formato exato:
     throw new Error(("Anthropic status " + resp.status + " " + body).slice(0, 500));
   }
   const data = await resp.json();
-  let text = (data.content || []).filter(b => b.type === "text").map(b => b.text).join("").trim();
-  text = text.replace(/^```json/i, "").replace(/^```/, "").replace(/```$/, "").trim();
-  const a = text.indexOf("{"), b = text.lastIndexOf("}");
-  if (a >= 0 && b >= 0) text = text.slice(a, b + 1);
-  const art = JSON.parse(text);
-  if (art.descartar) return null;
-  return art;
+  const text = (data.content || []).filter(b => b.type === "text").map(b => b.text).join("").trim();
+  return parseArticleJson(text);
+}
+
+// ── Reescrita via IA ──
+async function reescrever(item, fonte, provider) {
+  if (provider.name === "openai") return reescreverOpenAI(item, fonte, provider.key);
+  return reescreverAnthropic(item, fonte, provider.key);
 }
 
 // ── Handler agendado ──
 export default async (req) => {
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey) {
-    return new Response("Falta ANTHROPIC_API_KEY nas variáveis de ambiente.", { status: 500 });
+  const providers = [
+    process.env.OPENAI_API_KEY && { name: "openai", key: process.env.OPENAI_API_KEY },
+    process.env.ANTHROPIC_API_KEY && { name: "anthropic", key: process.env.ANTHROPIC_API_KEY },
+  ].filter(Boolean);
+  if (!providers.length) {
+    return new Response("Falta OPENAI_API_KEY ou ANTHROPIC_API_KEY nas variáveis de ambiente.", { status: 500 });
   }
+  const provider = providers[0];
 
   const store = getStore("materias");
   // índice: lista de matérias publicadas (mais recentes primeiro)
@@ -165,7 +215,7 @@ export default async (req) => {
     if (publicadas >= MAX_POR_RODADA) break;
     analisadas++;
     try {
-      const art = await reescrever(c.item, c.fonte, apiKey);
+      const art = await reescrever(c.item, c.fonte, provider);
       if (!art) {
         descartadas++;
         continue;
@@ -203,7 +253,7 @@ export default async (req) => {
   await store.setJSON("indice", indice);
 
   return new Response(
-    JSON.stringify({ ok: true, candidatos: candidatos.length, analisadas, publicadas, descartadas, falhas, primeiroErro, total: indice.length }),
+    JSON.stringify({ ok: true, provider: provider.name, candidatos: candidatos.length, analisadas, publicadas, descartadas, falhas, primeiroErro, total: indice.length }),
     { headers: { "Content-Type": "application/json" } }
   );
 };
