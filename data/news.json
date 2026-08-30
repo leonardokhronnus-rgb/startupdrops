@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T15:09:19.651661+00:00",
+  "updatedAt": "2026-08-30T18:09:40.551719+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -220,6 +220,11 @@
     }
   ],
   "failures": [
+    {
+      "source": "Brazil Journal Tech",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:braziljournal.com+startup+OR+fintech+OR+venture+OR+spacex+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
     {
       "source": "Money Times Tech",
       "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
