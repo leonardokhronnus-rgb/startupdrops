@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T03:10:57.692389+00:00",
+  "updatedAt": "2026-08-31T06:11:51.561310+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -231,11 +231,6 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Inovação Tecnológica",
-      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
-      "reason": "falhou direto e via proxy"
-    },
-    {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -263,11 +258,6 @@
     {
       "source": "LABS Latam",
       "url": "https://news.google.com/rss/search?q=when:3d+site:labsnews.com&hl=en-US&gl=US&ceid=US:en",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Caixin Global",
-      "url": "https://news.google.com/rss/search?q=when:2d+site:caixinglobal.com&hl=en-US&gl=US&ceid=US:en",
       "reason": "falhou direto e via proxy"
     }
   ],
