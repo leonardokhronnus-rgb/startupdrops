@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T06:19:28.440687+00:00",
+  "updatedAt": "2026-09-01T09:15:24.844052+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -258,11 +258,6 @@
     {
       "source": "LABS Latam",
       "url": "https://news.google.com/rss/search?q=when:3d+site:labsnews.com&hl=en-US&gl=US&ceid=US:en",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "TechNode",
-      "url": "https://technode.com/feed/",
       "reason": "falhou direto e via proxy"
     }
   ],
