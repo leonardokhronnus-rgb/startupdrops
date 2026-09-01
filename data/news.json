@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T12:19:42.603132+00:00",
+  "updatedAt": "2026-09-01T15:14:11.356102+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -233,6 +233,11 @@
     {
       "source": "Abstartups",
       "url": "https://news.google.com/rss/search?q=when:7d+site:abstartups.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/feed/",
       "reason": "falhou direto e via proxy"
     },
     {
