@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T12:23:37.571734+00:00",
+  "updatedAt": "2026-09-03T15:20:20.427226+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -226,6 +226,16 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "Brazil Journal Tech",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:braziljournal.com+startup+OR+fintech+OR+venture+OR+spacex+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "InfoMoney Startups",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:infomoney.com.br+startup+OR+fintech+OR+venture+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Exame Startups",
       "url": "https://news.google.com/rss/search?q=when:3d+site:exame.com+startup+OR+fintech+OR+venture+OR+IA+OR+inovacao&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -241,6 +251,11 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "G1 Startups e Tech",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:g1.globo.com+startup+OR+fintech+OR+IA+OR+tecnologia&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Pipeline Valor Startups",
       "url": "https://news.google.com/rss/search?q=when:3d+site:pipelinevalor.globo.com/startups+startup+OR+rodada+OR+venture+OR+fintech&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -251,8 +266,8 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Epoca Negocios",
-      "url": "https://news.google.com/rss/search?q=when:2d+site:epocanegocios.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "source": "CNN Brasil Tech",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:cnnbrasil.com.br+startup+OR+fintech+OR+IA+OR+tecnologia&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -271,8 +286,18 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "E-Commerce Brasil",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:ecommercebrasil.com.br+tecnologia+OR+marketplace+OR+startup&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Draft",
       "url": "https://news.google.com/rss/search?q=when:3d+site:projetodraft.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Distrito",
+      "url": "https://news.google.com/rss/search?q=when:5d+site:distrito.me&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -291,11 +316,6 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Convergencia Digital",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:convergenciadigital.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
       "source": "a16z",
       "url": "https://a16z.com/feed/",
       "reason": "falhou direto e via proxy"
@@ -311,23 +331,8 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Bloomberg Startups",
-      "url": "https://news.google.com/rss/search?q=when:2d+site:bloomberg.com+startup+OR+venture+OR+fintech+OR+artificial+intelligence&hl=en-US&gl=US&ceid=US:en",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "The Information",
-      "url": "https://news.google.com/rss/search?q=when:2d+site:theinformation.com&hl=en-US&gl=US&ceid=US:en",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "EU-Startups",
-      "url": "https://www.eu-startups.com/feed/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Sifted",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:sifted.eu&hl=en-US&gl=US&ceid=US:en",
+      "source": "Bloomberg Tech",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:bloomberg.com+technology+OR+startup&hl=en-US&gl=US&ceid=US:en",
       "reason": "falhou direto e via proxy"
     },
     {
