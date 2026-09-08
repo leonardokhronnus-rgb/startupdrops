@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T16:09:46.725854+00:00",
+  "updatedAt": "2026-09-08T20:52:18.965130+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -226,18 +226,13 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "Inovação Tecnológica",
+      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "E-Commerce Brasil",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:ecommercebrasil.com.br+tecnologia+OR+marketplace+OR+startup&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Draft",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:projetodraft.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
