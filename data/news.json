@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T20:52:18.965130+00:00",
+  "updatedAt": "2026-09-08T23:17:30.834669+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -226,8 +226,8 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Inovação Tecnológica",
-      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
+      "source": "IT Forum",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:itforum.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
