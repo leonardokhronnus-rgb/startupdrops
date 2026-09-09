@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T10:56:27.564459+00:00",
+  "updatedAt": "2026-09-09T16:05:45.927222+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -220,11 +220,6 @@
     }
   ],
   "failures": [
-    {
-      "source": "Money Times Tech",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
     {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
