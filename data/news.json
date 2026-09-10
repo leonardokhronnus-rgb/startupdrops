@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T03:28:03.810319+00:00",
+  "updatedAt": "2026-09-10T10:49:59.519085+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -1033,33 +1033,6 @@
       ],
       "coverageCount": 1,
       "_key": "e610fb42f6c264d995a07d4feab735d5",
-      "summaryMethod": "regra",
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/ipo-da-spacex-gerou-mais-saida-para-os-vcs-do-que-a-decada-passada-inteira.ghtml",
-      "title": "IPO da SpaceX gerou mais saída para os VCs do que a década passada inteira",
-      "summary": "Fundada em 2001, a companhia recebeu ao longo dos anos aporte de fundos como a16z, Founders Fund, Sequoia Capital, Fidelity Investments, Google e...",
-      "url": "https://pipelinevalor.globo.com/startups/noticia/ipo-da-spacex-gerou-mais-saida-para-os-vcs-do-que-a-decada-passada-inteira.ghtml",
-      "source": "Pipeline Valor",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-07-12T10:30:11+00:00",
-      "score": 23,
-      "alsoIn": [
-        {
-          "title": "Rayo Capital estrutura fundo imobiliário de R$ 300 milhões com BRZ",
-          "url": "https://pipelinevalor.globo.com/mercado/noticia/rayo-capital-estrutura-fundo-imobiliario-de-r-300-milhoes-com-brz.ghtml",
-          "source": "Pipeline Valor",
-          "publishedAt": "2026-07-16T10:24:28+00:00"
-        }
-      ],
-      "sourcesCovered": [
-        "Pipeline Valor"
-      ],
-      "coverageCount": 2,
-      "_key": "2c5a80e2839faf200bfce5f6610853e6",
       "summaryMethod": "regra",
       "country": "BR",
       "whyMatters": ""
