@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T10:47:56.298243+00:00",
+  "updatedAt": "2026-09-11T16:03:25.487951+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -1013,26 +1013,6 @@
       ],
       "coverageCount": 1,
       "_key": "29e72fea6ea1520e512e3657268020f5",
-      "summaryMethod": "regra",
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/tres-gestoras-de-vc-tomam-quase-metade-do-capital-nos-eua.ghtml",
-      "title": "Três gestoras de VC tomam quase metade do capital nos EUA",
-      "summary": "A a16z, Thrive Capital e Founders Fund captaram, respectivamente, US$ 14,2 bilhões, US$ 10 bilhões e US$ 10,6 bilhões em novos fundos quase que...",
-      "url": "https://pipelinevalor.globo.com/startups/noticia/tres-gestoras-de-vc-tomam-quase-metade-do-capital-nos-eua.ghtml",
-      "source": "Pipeline Valor",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-07-13T11:00:18+00:00",
-      "score": 25,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Pipeline Valor"
-      ],
-      "coverageCount": 1,
-      "_key": "e610fb42f6c264d995a07d4feab735d5",
       "summaryMethod": "regra",
       "country": "BR",
       "whyMatters": ""
