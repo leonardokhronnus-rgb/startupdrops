@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T03:46:29.024898+00:00",
+  "updatedAt": "2026-09-15T11:17:26.701545+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -223,11 +223,6 @@
     {
       "source": "Money Times Tech",
       "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Inovação Tecnológica",
-      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -1008,26 +1003,6 @@
       ],
       "coverageCount": 1,
       "_key": "7e176d1ad9b1ee68ba995017d80b6503",
-      "summaryMethod": "regra",
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/basf-reve-estrategia-para-fundo-de-startups-e-encerra-operacao-local.ghtml",
-      "title": "Basf revê estratégia para fundo de startups e encerra operação local",
-      "summary": "No caso das startups sul-americanas investidas, a gestão vai ser feita da Alemanha.",
-      "url": "https://pipelinevalor.globo.com/startups/noticia/basf-reve-estrategia-para-fundo-de-startups-e-encerra-operacao-local.ghtml",
-      "source": "Pipeline Valor",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-07-17T09:00:31+00:00",
-      "score": 21,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Pipeline Valor"
-      ],
-      "coverageCount": 1,
-      "_key": "29e72fea6ea1520e512e3657268020f5",
       "summaryMethod": "regra",
       "country": "BR",
       "whyMatters": ""
