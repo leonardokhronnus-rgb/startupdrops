@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T03:48:49.513149+00:00",
+  "updatedAt": "2026-09-20T10:48:59.107464+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -220,11 +220,6 @@
     }
   ],
   "failures": [
-    {
-      "source": "Inovação Tecnológica",
-      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
-      "reason": "falhou direto e via proxy"
-    },
     {
       "source": "Pipeline Valor Startups",
       "url": "https://news.google.com/rss/search?q=when:3d+site:pipelinevalor.globo.com/startups+startup+OR+rodada+OR+venture+OR+fintech&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -988,26 +983,6 @@
       ],
       "coverageCount": 1,
       "_key": "0dc601a863a130af8224f26f9fe676d9",
-      "summaryMethod": "regra",
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/um-outro-birman-de-olho-no-varejo-na-ponta-de-tecnologia.ghtml",
-      "title": "Um outro Birman de olho no varejo — na ponta de tecnologia",
-      "summary": "Ele é fundador da Venda AI, que oferece automatização das vendas de lojas por meio do WhatsApp, poupando o trabalho dos lojistas no atendimento...",
-      "url": "https://pipelinevalor.globo.com/startups/noticia/um-outro-birman-de-olho-no-varejo-na-ponta-de-tecnologia.ghtml",
-      "source": "Pipeline Valor",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-07-22T10:00:14+00:00",
-      "score": 17,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Pipeline Valor"
-      ],
-      "coverageCount": 1,
-      "_key": "7e176d1ad9b1ee68ba995017d80b6503",
       "summaryMethod": "regra",
       "country": "BR",
       "whyMatters": ""
