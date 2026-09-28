@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T04:05:37.748857+00:00",
+  "updatedAt": "2026-09-28T13:09:36.613557+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -223,11 +223,6 @@
     {
       "source": "Money Times Tech",
       "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Pipeline Valor Startups",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:pipelinevalor.globo.com/startups+startup+OR+rodada+OR+venture+OR+fintech&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -963,26 +958,6 @@
       ],
       "coverageCount": 1,
       "_key": "9e7fdd64fc9811f4a48ce9d3899e1f6a",
-      "summaryMethod": "regra",
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/emergent-unicornio-em-13-meses-queima-caixa-para-ganhar-o-mundo.ghtml",
-      "title": "Emergent, unicórnio em 13 meses, queima caixa para ganhar o mundo",
-      "summary": "A Emergent atingiu o primeiro milhão de usuários em setembro de 2025, quando tinha 90 dias de criação.",
-      "url": "https://pipelinevalor.globo.com/startups/noticia/emergent-unicornio-em-13-meses-queima-caixa-para-ganhar-o-mundo.ghtml",
-      "source": "Pipeline Valor",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-07-30T10:45:09+00:00",
-      "score": 17,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Pipeline Valor"
-      ],
-      "coverageCount": 1,
-      "_key": "0dc601a863a130af8224f26f9fe676d9",
       "summaryMethod": "regra",
       "country": "BR",
       "whyMatters": ""
