@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T00:38:26.161144+00:00",
+  "updatedAt": "2026-10-02T09:29:26.915029+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -918,46 +918,6 @@
       ],
       "coverageCount": 1,
       "_key": "b8531d55c39d24d53c339823e343be62",
-      "summaryMethod": "regra",
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Startupi-https://startupi.com.br/agencias-de-fomento-e-cvc-viram-canal-alternativo-para-financiar-inovacao-em-meio-a-juros-altos-como-essa-sinergia-muda-ma-e-valor-de-startups/",
-      "title": "Agências de fomento e CVC viram “canal alternativo” para financiar inovação em meio a juros altos: como essa sinergia muda M&A e valor de startups",
-      "summary": "Agências de fomento e CVC viram “canal alternativo” para financiar inovação em meio a juros altos: como essa sinergia muda M&A e valor de startups",
-      "url": "https://startupi.com.br/agencias-de-fomento-e-cvc-viram-canal-alternativo-para-financiar-inovacao-em-meio-a-juros-altos-como-essa-sinergia-muda-ma-e-valor-de-startups/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-03T08:00:00+00:00",
-      "score": 37,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
-      ],
-      "coverageCount": 1,
-      "_key": "13b870ed1e29d827b269774230c0b2de",
-      "summaryMethod": "regra",
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Startupi-https://startupi.com.br/o-fim-do-dinheiro-facil-e-a-era-da-eficiencia-no-venture-capital-brasileiro/",
-      "title": "O Fim do Dinheiro Fácil e a Era da Eficiência no Venture Capital Brasileiro",
-      "summary": "A recente concentração de aportes em rodadas avançadas e em deep techs...",
-      "url": "https://startupi.com.br/o-fim-do-dinheiro-facil-e-a-era-da-eficiencia-no-venture-capital-brasileiro/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-03T08:00:00+00:00",
-      "score": 29,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
-      ],
-      "coverageCount": 1,
-      "_key": "9e7fdd64fc9811f4a48ce9d3899e1f6a",
       "summaryMethod": "regra",
       "country": "BR",
       "whyMatters": ""
