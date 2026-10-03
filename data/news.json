@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T04:09:45.912420+00:00",
+  "updatedAt": "2026-10-03T11:17:17.277755+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -233,6 +233,11 @@
     {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Distrito",
+      "url": "https://news.google.com/rss/search?q=when:5d+site:distrito.me&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -903,26 +908,6 @@
       ],
       "coverageCount": 1,
       "_key": "fb6baea4038080185e417af297c71cf6",
-      "summaryMethod": "regra",
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Pipeline Valor-https://pipelinevalor.globo.com/startups/noticia/kesh-levanta-meio-bilhao-com-a-leste-para-devolver-juros-como-cashback.ghtml",
-      "title": "Kesh levanta meio bilhão com a Leste para devolver juros como cashback",
-      "summary": "É um montante alto para um rodada seed, mas mescla equity e dívida - a companhia não abre os percentuais.",
-      "url": "https://pipelinevalor.globo.com/startups/noticia/kesh-levanta-meio-bilhao-com-a-leste-para-devolver-juros-como-cashback.ghtml",
-      "source": "Pipeline Valor",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-04T10:00:20+00:00",
-      "score": 37,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Pipeline Valor"
-      ],
-      "coverageCount": 1,
-      "_key": "b8531d55c39d24d53c339823e343be62",
       "summaryMethod": "regra",
       "country": "BR",
       "whyMatters": ""
