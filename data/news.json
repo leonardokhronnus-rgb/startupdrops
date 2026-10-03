@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T15:54:37.206607+00:00",
+  "updatedAt": "2026-10-03T20:44:19.667232+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -223,11 +223,6 @@
     {
       "source": "Money Times Tech",
       "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Inovação Tecnológica",
-      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -865,34 +860,6 @@
       ],
       "coverageCount": 3,
       "_key": "fc12b1b798771bb6103516e62acde90c",
-      "summaryMethod": "regra",
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/negocios/inteligencia-artificial/apos-exit-para-o-quintoandar-empreendedor-cria-startup-para-construtoras-nos-eua/",
-      "title": "Após exit para o QuintoAndar, brasileiro cria startup para construtoras nos EUA",
-      "summary": "Bruno Schmidt e Joaquim Venancio, fundadores da Zenbild Zenbild usa IA para eliminar barreiras de comunicação, coletar dados de obras e reduzir...",
-      "url": "https://startups.com.br/negocios/inteligencia-artificial/apos-exit-para-o-quintoandar-empreendedor-cria-startup-para-construtoras-nos-eua/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-04T18:30:00+00:00",
-      "score": 38,
-      "alsoIn": [
-        {
-          "title": "Fundadores de Méliuz, Loft e Geekie criam grupo para negócios nos EUA",
-          "url": "https://pipelinevalor.globo.com/negocios/noticia/fundadores-de-meliuz-loft-e-geekie-criam-grupo-para-negocios-nos-eua.ghtml",
-          "source": "Pipeline Valor",
-          "publishedAt": "2026-07-31T10:30:10+00:00"
-        }
-      ],
-      "sourcesCovered": [
-        "Pipeline Valor",
-        "Startups.com.br"
-      ],
-      "coverageCount": 2,
-      "_key": "0f9327f6fe1dc2f07d1db0c0a3291d26",
       "summaryMethod": "regra",
       "country": "BR",
       "whyMatters": ""
