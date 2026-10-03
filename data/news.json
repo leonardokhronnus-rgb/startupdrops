@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T11:17:17.277755+00:00",
+  "updatedAt": "2026-10-03T15:54:37.206607+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -223,6 +223,11 @@
     {
       "source": "Money Times Tech",
       "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Inovação Tecnológica",
+      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -888,26 +893,6 @@
       ],
       "coverageCount": 2,
       "_key": "0f9327f6fe1dc2f07d1db0c0a3291d26",
-      "summaryMethod": "regra",
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "IT Forum-https://itforum.com.br/noticias/asus-business-1-ano/",
-      "title": "ASUS Business completa 1 ano de operação no Brasil com meta de alcançar top 3 entre fabricantes de PCs até 2030",
-      "summary": "Desde o lançamento da unidade B2B no país, a empresa focou em ampliar sua presença a partir da linha ExpertBook, com o ASUS ExpertBook B1503 sendo...",
-      "url": "https://itforum.com.br/noticias/asus-business-1-ano/",
-      "source": "IT Forum",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-04T13:50:31+00:00",
-      "score": 27,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "IT Forum"
-      ],
-      "coverageCount": 1,
-      "_key": "fb6baea4038080185e417af297c71cf6",
       "summaryMethod": "regra",
       "country": "BR",
       "whyMatters": ""
