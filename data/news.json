@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T04:42:14.542090+00:00",
+  "updatedAt": "2026-10-04T11:56:43.531969+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -226,6 +226,11 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "Pipeline Valor Startups",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:pipelinevalor.globo.com/startups+startup+OR+rodada+OR+venture+OR+fintech&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -263,6 +268,11 @@
     {
       "source": "LABS Latam",
       "url": "https://news.google.com/rss/search?q=when:3d+site:labsnews.com&hl=en-US&gl=US&ceid=US:en",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Caixin Global",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:caixinglobal.com&hl=en-US&gl=US&ceid=US:en",
       "reason": "falhou direto e via proxy"
     }
   ],
@@ -820,41 +830,6 @@
       ],
       "coverageCount": 1,
       "_key": "2142282ad15a85297c6787b160b986b5",
-      "summaryMethod": "regra",
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Brazil Journal-https://braziljournal.com/a-moove-vai-operar-carros-autonomos-com-a-waymo-e-ja-vale-us-21-bilhoes/",
-      "title": "A Moove vai operar carros autônomos com a Waymo – e já vale US$ 2,1 bilhões",
-      "summary": "A Moove – a startup nigeriana investida do Uber que adquiriu a brasileira Kovi há um ano – acaba de levantar US$ 250 milhões a um valuation de US$...",
-      "url": "https://braziljournal.com/a-moove-vai-operar-carros-autonomos-com-a-waymo-e-ja-vale-us-21-bilhoes/",
-      "source": "Brazil Journal",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-05T10:00:49+00:00",
-      "score": 49,
-      "alsoIn": [
-        {
-          "title": "Moove capta US$ 250M para acelerar em mobilidade autônoma",
-          "url": "https://startups.com.br/negocios/rodada-de-investimento/moove-capta-us-250m-para-acelerar-em-mobilidade-autonoma/",
-          "source": "Startups.com.br",
-          "publishedAt": "2026-08-05T11:14:27+00:00"
-        },
-        {
-          "title": "Capitalizada, Hero Seguros entra no México em seu primeiro M&A",
-          "url": "https://pipelinevalor.globo.com/startups/noticia/hero-seguros-faz-primeiro-manda-e-ganha-atalho-para-entrar-no-mexico.ghtml",
-          "source": "Pipeline Valor",
-          "publishedAt": "2026-07-23T11:01:07+00:00"
-        }
-      ],
-      "sourcesCovered": [
-        "Brazil Journal",
-        "Pipeline Valor",
-        "Startups.com.br"
-      ],
-      "coverageCount": 3,
-      "_key": "fc12b1b798771bb6103516e62acde90c",
       "summaryMethod": "regra",
       "country": "BR",
       "whyMatters": ""
