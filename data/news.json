@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T11:56:43.531969+00:00",
+  "updatedAt": "2026-10-04T16:35:49.846927+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -223,11 +223,6 @@
     {
       "source": "Money Times Tech",
       "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Pipeline Valor Startups",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:pipelinevalor.globo.com/startups+startup+OR+rodada+OR+venture+OR+fintech&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -791,46 +786,6 @@
         "Startupi"
       ],
       "coverageCount": 1,
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "IT Forum-https://itforum.com.br/noticias/adobe-reformula-estrategia-comercial-impacto-da-ia/",
-      "title": "Adobe reformula estratégia comercial para responder ao impacto da IA generativa nas compras B2B, diz Forrester",
-      "summary": "A popularização de ferramentas de inteligência artificial generativa, como ChatGPT e Gemini, está alterando a forma como empresas pesquisam...",
-      "url": "https://itforum.com.br/noticias/adobe-reformula-estrategia-comercial-impacto-da-ia/",
-      "source": "IT Forum",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-05T14:48:36+00:00",
-      "score": 35,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "IT Forum"
-      ],
-      "coverageCount": 1,
-      "_key": "3faa4ead528e74f67c5df25b64c5d3c2",
-      "summaryMethod": "regra",
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/negocios/venture-capital/boom-da-ia-mascara-crise-de-retornos-no-venture-capital-mostra-pitchbook/",
-      "title": "Boom da IA mascara crise de retornos no venture capital, mostra PitchBook",
-      "summary": "papel\", enquanto distribuições de capital seguem abaixo da média",
-      "url": "https://startups.com.br/negocios/venture-capital/boom-da-ia-mascara-crise-de-retornos-no-venture-capital-mostra-pitchbook/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-05T13:00:00+00:00",
-      "score": 46,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1,
-      "_key": "2142282ad15a85297c6787b160b986b5",
-      "summaryMethod": "regra",
       "country": "BR",
       "whyMatters": ""
     }
