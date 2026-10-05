@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T04:29:41.343810+00:00",
+  "updatedAt": "2026-10-05T13:51:27.642797+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -228,6 +228,11 @@
     {
       "source": "Money Times Tech",
       "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Pipeline Valor Startups",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:pipelinevalor.globo.com/startups+startup+OR+rodada+OR+venture+OR+fintech&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -761,26 +766,6 @@
       "image": "",
       "publishedAt": "2026-08-07T08:00:00+00:00",
       "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
-      ],
-      "coverageCount": 1,
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Startupi-https://startupi.com.br/dinheiro-na-mesa-mas-travas-no-caminho-por-que-a-parceria-usp-santander-ainda-nao-e-a-solucao-para-a-inovacao/",
-      "_key": "9c1cbbb6c056668c68b89b10071b1186",
-      "title": "Dinheiro na mesa, mas travas no caminho: por que a parceria USP-Santander ainda não é a solução para a inovação",
-      "summary": "Programa de fomento a startups da...",
-      "summaryMethod": "regra",
-      "url": "https://startupi.com.br/dinheiro-na-mesa-mas-travas-no-caminho-por-que-a-parceria-usp-santander-ainda-nao-e-a-solucao-para-a-inovacao/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-06T08:00:00+00:00",
-      "score": 52,
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
