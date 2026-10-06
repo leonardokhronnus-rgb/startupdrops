@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T05:15:47.804908+00:00",
+  "updatedAt": "2026-10-06T12:57:37.566437+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -749,26 +749,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
-      ],
-      "coverageCount": 1,
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Startupi-https://startupi.com.br/o-ceu-e-o-limite-para-o-nubank-ele-acredita-que-sim/",
-      "_key": "c7f217f14ba9ec2e6b56e07e7471653e",
-      "title": "O céu é o limite para o Nubank? Ele acredita que sim",
-      "summary": "O céu é o limite para o Nubank?",
-      "summaryMethod": "regra",
-      "url": "https://startupi.com.br/o-ceu-e-o-limite-para-o-nubank-ele-acredita-que-sim/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-07T08:00:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
       ],
       "coverageCount": 1,
       "country": "BR",
