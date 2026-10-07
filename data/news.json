@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T20:04:01.059716+00:00",
+  "updatedAt": "2026-10-07T00:26:22.019257+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -721,26 +721,6 @@
       "image": "",
       "publishedAt": "2026-08-10T11:00:00+00:00",
       "score": 49,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1,
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/negocios/aws-vai-investir-r-25m-em-creditos-para-startups-do-rio/",
-      "_key": "0b457e5e2fdf5cfc136a25e4c5f49124",
-      "title": "AWS vai investir R$ 25M em créditos para startups do Rio",
-      "summary": "estágio inicial com CNPJ no Rio poderão receber até US$ 5 mil em créditos da AWS, além de participar de mentorias",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/negocios/aws-vai-investir-r-25m-em-creditos-para-startups-do-rio/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-07T22:06:46+00:00",
-      "score": 44,
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
