@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:12:46.758138+00:00",
+  "updatedAt": "2026-10-09T18:05:41.005064+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -694,26 +694,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
-      ],
-      "coverageCount": 1,
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/negocios/speedbird-abre-serie-b-de-us-30m-para-ser-a-embraer-dos-drones/",
-      "_key": "cac34219f143c1c2d5cbf6901b093338",
-      "title": "Speedbird abre Série B de US$ 30M para ser a Embraer dos drones",
-      "summary": "capacidade operacional da startup, que já soma mais de 43 mil entregas comerciais",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/negocios/speedbird-abre-serie-b-de-us-30m-para-ser-a-embraer-dos-drones/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-10T11:00:00+00:00",
-      "score": 49,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
       ],
       "coverageCount": 1,
       "country": "BR",
