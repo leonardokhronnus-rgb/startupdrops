@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:33:56.628363+00:00",
+  "updatedAt": "2026-10-10T17:06:45.334566+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -618,46 +618,6 @@
         "Startupi"
       ],
       "coverageCount": 1
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/negocios/inteligencia-artificial/gama-fund-de-google-e-monashees-estende-prazo-de-inscricoes/",
-      "_key": "5dec9808419656a8177652e38680aa23",
-      "title": "Gama Fund, de Google e Monashees, estende prazo de inscrições",
-      "summary": "Google Fundo já recebeu 600 startups interessadas nos cheques de US$ 2 milhões; foco são empresas AI-native early stage",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/negocios/inteligencia-artificial/gama-fund-de-google-e-monashees-estende-prazo-de-inscricoes/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-11T12:57:56+00:00",
-      "score": 54,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1,
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Brazil Journal-https://braziljournal.com/de-go-local-a-go-global-a-ai-esta-ampliando-a-ambicao-das-startups/",
-      "_key": "8241cf18316b849a5be06a802d91422f",
-      "title": "De ‘go local’ a ‘go global’. A AI está ampliando a ambição das startups",
-      "summary": "Brian Requarth vendeu o marketplace de imóveis Viva Real para a OLX Brasil em 2020 por R$ 2,9 bilhões.",
-      "summaryMethod": "regra",
-      "url": "https://braziljournal.com/de-go-local-a-go-global-a-ai-esta-ampliando-a-ambicao-das-startups/",
-      "source": "Brazil Journal",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-11T09:50:48+00:00",
-      "score": 68,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Brazil Journal"
-      ],
-      "coverageCount": 1,
-      "country": "BR",
-      "whyMatters": ""
     }
   ]
 }
