@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T00:34:35.541398+00:00",
+  "updatedAt": "2026-10-10T09:33:56.628363+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -654,26 +654,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Brazil Journal"
-      ],
-      "coverageCount": 1,
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "Startupi-https://startupi.com.br/a-ultima-milha-das-startups-o-que-a-guerra-dos-galpoes-revela-sobre-o-proximo-ciclo-de-inovacao-no-brasil/",
-      "_key": "30be8565c7d951c794b5edb82d1f6ba8",
-      "title": "A última milha das startups: o que a guerra dos galpões revela sobre o próximo ciclo de inovação no Brasil",
-      "summary": "Com vacância em mínimos históricos e...",
-      "summaryMethod": "regra",
-      "url": "https://startupi.com.br/a-ultima-milha-das-startups-o-que-a-guerra-dos-galpoes-revela-sobre-o-proximo-ciclo-de-inovacao-no-brasil/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-11T08:00:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
       ],
       "coverageCount": 1,
       "country": "BR",
