@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T18:05:41.005064+00:00",
+  "updatedAt": "2026-10-10T00:34:35.541398+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -674,26 +674,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
-      ],
-      "coverageCount": 1,
-      "country": "BR",
-      "whyMatters": ""
-    },
-    {
-      "id": "InfoMoney-https://www.infomoney.com.br/business/startups-nvidia-negocia-pacote-de-us-500b-para-infraestrutura-de-ia/",
-      "_key": "d6c96aab8ffe21fbd95d876ab86a6509",
-      "title": "Startups: Nvidia negocia pacote de US$ 500B para infraestrutura de IA",
-      "summary": "Instituições financeiras como Apollo, Blackstone, BlackRock e KKR estão em conversas com a fabricante de chips para financiar a expansão do setor",
-      "summaryMethod": "regra",
-      "url": "https://www.infomoney.com.br/business/startups-nvidia-negocia-pacote-de-us-500b-para-infraestrutura-de-ia/",
-      "source": "InfoMoney",
-      "region": "Brasil",
-      "image": "",
-      "publishedAt": "2026-08-10T20:07:31+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "InfoMoney"
       ],
       "coverageCount": 1,
       "country": "BR",
