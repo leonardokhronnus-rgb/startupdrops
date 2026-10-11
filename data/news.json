@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T12:17:30.629047+00:00",
+  "updatedAt": "2026-10-11T19:26:10.355304+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -223,6 +223,11 @@
     {
       "source": "Money Times Tech",
       "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Pipeline Valor Startups",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:pipelinevalor.globo.com/startups+startup+OR+rodada+OR+venture+OR+fintech&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -600,27 +605,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Exame"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startupi-https://startupi.com.br/b2b-match-realiza-segunda-edicao-do-marketing-innovation-summit/",
-      "_key": "0ad7e143e3947aa76ba82e892c85f8b5",
-      "title": "B2B Match realiza segunda edição do Marketing Innovation Summit para reunir cerca de 150 lideranças do setor",
-      "originalTitle": "B2B Match realiza segunda edição do Marketing Innovation Summit para reunir cerca de 150 lideranças do setor",
-      "summary": "No próximo dia 1 de setembro, a B2B...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startupi.com.br/b2b-match-realiza-segunda-edicao-do-marketing-innovation-summit/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-12T12:37:30+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
       ],
       "coverageCount": 1
     }
