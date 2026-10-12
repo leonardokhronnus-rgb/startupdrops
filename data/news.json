@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:25:15.325878+00:00",
+  "updatedAt": "2026-10-12T21:03:33.391341+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -221,11 +221,6 @@
   ],
   "failures": [
     {
-      "source": "Bloomberg Linea Tech",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:bloomberglinea.com.br+startup+OR+fintech+OR+venture+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
       "source": "Money Times Tech",
       "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -238,11 +233,6 @@
     {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Draft",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:projetodraft.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -268,11 +258,6 @@
     {
       "source": "First Round Review",
       "url": "https://review.firstround.com/feed.xml",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Bloomberg Startups",
-      "url": "https://news.google.com/rss/search?q=when:2d+site:bloomberg.com+startup+OR+venture+OR+fintech+OR+artificial+intelligence&hl=en-US&gl=US&ceid=US:en",
       "reason": "falhou direto e via proxy"
     },
     {
