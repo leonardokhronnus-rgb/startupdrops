@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T21:03:33.391341+00:00",
+  "updatedAt": "2026-10-13T02:36:09.708044+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -243,6 +243,11 @@
     {
       "source": "Abstartups",
       "url": "https://news.google.com/rss/search?q=when:7d+site:abstartups.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "MobileTime",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:mobiletime.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
