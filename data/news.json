@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T19:02:15.223297+00:00",
+  "updatedAt": "2026-10-14T00:12:42.681064+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -563,27 +563,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "NeoFeed"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/eventos/pitch-reverso/prepare-se-para-ir-ate-o-fim-com-o-dinheiro-que-captou-diz-investidor/",
-      "_key": "7e934eca08b74609cb2966bcd337adba",
-      "title": "“Prepare-se para ir até o fim com o dinheiro que captou”, diz investidor",
-      "originalTitle": "“Prepare-se para ir até o fim com o dinheiro que captou”, diz investidor",
-      "summary": "Evento aconteceu na sede da Databricks, em São Paulo Em nova edição do Pitch Reverso, fundos alertam que o segredo para os fundadores agora é...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/eventos/pitch-reverso/prepare-se-para-ir-ate-o-fim-com-o-dinheiro-que-captou-diz-investidor/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-14T19:55:33+00:00",
-      "score": 54,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
       ],
       "coverageCount": 1
     }
