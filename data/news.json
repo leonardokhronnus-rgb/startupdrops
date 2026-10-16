@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T03:29:24.617052+00:00",
+  "updatedAt": "2026-10-16T10:54:01.048133+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -516,27 +516,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startupi-https://startupi.com.br/como-o-pleno-emprego-no-brasil-desafia-startups-na-area-de-pessoas/",
-      "_key": "eeb92d37c6884351cf659f2047ebce79",
-      "title": "Como o pleno emprego no Brasil desafia startups na área de pessoas",
-      "originalTitle": "Como o pleno emprego no Brasil desafia startups na área de pessoas",
-      "summary": "Com a taxa nacional em 5,4% e polos de inovação como Santa Catarina e Paraná...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startupi.com.br/como-o-pleno-emprego-no-brasil-desafia-startups-na-area-de-pessoas/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-17T08:00:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
       ],
       "coverageCount": 1
     }
