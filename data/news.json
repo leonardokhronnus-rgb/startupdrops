@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T10:17:56.362294+00:00",
+  "updatedAt": "2026-10-17T15:09:13.512418+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -223,6 +223,11 @@
     {
       "source": "Money Times Tech",
       "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Inovação Tecnológica",
+      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -495,27 +500,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "NeoFeed"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/la-fora/startup-levanta-us-24m-e-atrai-a16z-para-ser-o-dropbox-que-deu-certo/",
-      "_key": "b5226b5e648e2bca2b325b9f635f2743",
-      "title": "Startup levanta US$ 2,4M e atrai a16z para ser o “Dropbox que deu certo”",
-      "originalTitle": "Startup levanta US$ 2,4M e atrai a16z para ser o “Dropbox que deu certo”",
-      "summary": "acessar documentos na nuvem como se estivessem no computador",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/la-fora/startup-levanta-us-24m-e-atrai-a16z-para-ser-o-dropbox-que-deu-certo/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-18T12:03:48+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
       ],
       "coverageCount": 1
     }
