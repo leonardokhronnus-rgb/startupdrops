@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T03:24:24.566072+00:00",
+  "updatedAt": "2026-10-18T10:33:38.581969+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -453,48 +453,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startups.com.br"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "InfoMoney-https://www.infomoney.com.br/mercados/plataforma-de-gestao-do-trabalho-flash-capta-r150-mi/",
-      "_key": "0b7dbc0a8214bd487477ec306536134d",
-      "title": "Plataforma de gestão do trabalho Flash capta R$150 mi",
-      "originalTitle": "Plataforma de gestão do trabalho Flash capta R$150 mi",
-      "summary": "O ​aporte na rodada Série D foi liderado pelos investidores Battery ​Ventures e Kevin Efrusy",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.infomoney.com.br/mercados/plataforma-de-gestao-do-trabalho-flash-capta-r150-mi/",
-      "source": "InfoMoney",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-19T09:54:38+00:00",
-      "score": 54,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "NeoFeed-https://neofeed.com.br/startups/a-flash-nao-precisava-de-dinheiro-mas-acaba-de-levantar-r-150-milhoes/",
-      "_key": "8cc7311ba7f7efcf65e9670803b658f1",
-      "title": "A Flash “não precisava de dinheiro”, mas acaba de levantar R$ 150 milhões",
-      "originalTitle": "A Flash “não precisava de dinheiro”, mas acaba de levantar R$ 150 milhões",
-      "summary": "Quatro anos depois de captar seu último investimento, a Flash, startup de gestão de benefícios, pessoas e despesas corporativas, está voltando a...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://neofeed.com.br/startups/a-flash-nao-precisava-de-dinheiro-mas-acaba-de-levantar-r-150-milhoes/",
-      "source": "NeoFeed",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-19T09:00:08+00:00",
-      "score": 54,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "NeoFeed"
       ],
       "coverageCount": 1
     }
