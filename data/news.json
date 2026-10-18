@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:33:23.940686+00:00",
+  "updatedAt": "2026-10-18T20:16:27.162636+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -416,27 +416,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/podcast/podcast-mvp/como-o-g4-transformou-vendas-em-cultura/",
-      "_key": "ecfcd7c2c11c37b042e8e49d51525d3b",
-      "title": "Como o G4 transformou vendas em cultura",
-      "originalTitle": "Como o G4 transformou vendas em cultura",
-      "summary": "Podcast MVP | Arte: Startups Maria Isabel Antonini, a Misa, CEO do G4, é a convidada desta semana do podcast MVP, apresentado por Gustavo...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/podcast/podcast-mvp/como-o-g4-transformou-vendas-em-cultura/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-19T16:30:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
       ],
       "coverageCount": 1
     }
