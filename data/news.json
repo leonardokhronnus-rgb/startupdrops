@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T12:23:42.048972+00:00",
+  "updatedAt": "2026-10-19T20:27:33.796704+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -226,11 +226,6 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Pipeline Valor Startups",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:pipelinevalor.globo.com/startups+startup+OR+rodada+OR+venture+OR+fintech&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -387,27 +382,6 @@
       "image": "",
       "publishedAt": "2026-08-20T23:30:36+00:00",
       "score": 46,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startupi-https://startupi.com.br/abs-lanca-case-2026-e-amplia-conexao-entre-startups-de-todo-o-brasil/",
-      "_key": "8ba16a50e9f252ce7020432f5ac2dbaa",
-      "title": "ABS lança CASE 2026 e amplia conexão entre startups de todo o Brasil",
-      "originalTitle": "ABS lança CASE 2026 e amplia conexão entre startups de todo o Brasil",
-      "summary": "A Associação Brasileira de Startups (ABS) lançou oficialmente o CASE 2026,...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startupi.com.br/abs-lanca-case-2026-e-amplia-conexao-entre-startups-de-todo-o-brasil/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-20T18:38:11+00:00",
-      "score": 41,
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
