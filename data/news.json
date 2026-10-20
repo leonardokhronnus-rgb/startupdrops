@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:10:00.806615+00:00",
+  "updatedAt": "2026-10-20T08:18:04.120028+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -343,27 +343,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "NeoFeed"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startupi-https://startupi.com.br/florianopolis-recebe-startup-summit-com-ia-em-destaque-conexoes-de-alto-nivel-e-o-empurrao-que-o-ecossistema-precisa/",
-      "_key": "96a37cb00fcde49808daf49af104e161",
-      "title": "Florianópolis recebe Startup Summit com IA em destaque, conexões de alto nível e o empurrão que o ecossistema precisa",
-      "originalTitle": "Florianópolis recebe Startup Summit com IA em destaque, conexões de alto nível e o empurrão que o ecossistema precisa",
-      "summary": "Entre 26 a 28 de agosto, o...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startupi.com.br/florianopolis-recebe-startup-summit-com-ia-em-destaque-conexoes-de-alto-nivel-e-o-empurrao-que-o-ecossistema-precisa/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-21T08:00:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
       ],
       "coverageCount": 1
     }
