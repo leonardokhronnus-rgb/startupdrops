@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T08:18:04.120028+00:00",
+  "updatedAt": "2026-10-20T14:11:40.621536+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -280,69 +280,6 @@
       "alsoIn": [],
       "sourcesCovered": [
         "InfoMoney"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startupi-https://startupi.com.br/o-que-empresas-maduras-podem-aprender-com-startups/",
-      "_key": "03bdb8d3228aac29a88b255fa7ae0722",
-      "title": "O que empresas maduras podem aprender com startups",
-      "originalTitle": "O que empresas maduras podem aprender com startups",
-      "summary": "O que empresas maduras podem aprender com startups",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startupi.com.br/o-que-empresas-maduras-podem-aprender-com-startups/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-21T12:15:37+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startups.com.br-https://startups.com.br/negocios/5-minutos-com-marcello-goncalves-socio-e-cofundador-da-domo-vc/",
-      "_key": "9dc099ff2c04ceb97c979cf680f57488",
-      "title": "5 Minutos com: Marcello Gonçalves, sócio e cofundador da DOMO.VC",
-      "originalTitle": "5 Minutos com: Marcello Gonçalves, sócio e cofundador da DOMO.VC",
-      "summary": "Marcello Gonçalves, sócio e cofundador da DOMO.VC Executivo conta os bastidores da criação da DOMO.VC, a entrada em...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startups.com.br/negocios/5-minutos-com-marcello-goncalves-socio-e-cofundador-da-domo-vc/",
-      "source": "Startups.com.br",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-21T11:00:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startups.com.br"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "NeoFeed-https://neofeed.com.br/negocios/exclusivo-turbi-negocia-aporte-e-tem-duas-propostas-na-mesa-para-captar-ate-r-300-milhoes/",
-      "_key": "cc0fcf4dbf42abd690b378fd7aedab92",
-      "title": "Turbi negocia aporte e tem duas propostas na mesa para captar até R$ 300 milhões",
-      "originalTitle": "Turbi negocia aporte e tem duas propostas na mesa para captar até R$ 300 milhões",
-      "summary": "Nas próximas semanas, a Turbi, plataforma brasileira de locação de veículos e venda de seminovos, terá que fazer uma escolha entre dois percursos...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://neofeed.com.br/negocios/exclusivo-turbi-negocia-aporte-e-tem-duas-propostas-na-mesa-para-captar-ate-r-300-milhoes/",
-      "source": "NeoFeed",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-21T10:51:02+00:00",
-      "score": 49,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "NeoFeed"
       ],
       "coverageCount": 1
     }
