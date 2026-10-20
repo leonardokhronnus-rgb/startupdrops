@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:27:33.796704+00:00",
+  "updatedAt": "2026-10-20T00:10:00.806615+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -361,27 +361,6 @@
       "image": "",
       "publishedAt": "2026-08-21T08:00:00+00:00",
       "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "Startupi"
-      ],
-      "coverageCount": 1
-    },
-    {
-      "id": "Startupi-https://startupi.com.br/sec-lanca-regulacao-para-criptoativos-e-abrem-nova-janela-de-oportunidade-de-captacao-nos-eua/",
-      "_key": "4a1817b1565271ac58e1d5531fe01229",
-      "title": "SEC Lança Regulação para Criptoativos e abre nova Janela de Oportunidade de Captação nos EUA",
-      "originalTitle": "SEC Lança Regulação para Criptoativos e abre nova Janela de Oportunidade de Captação nos EUA",
-      "summary": "Com isenções de registro e porto seguro regulatório,...",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://startupi.com.br/sec-lanca-regulacao-para-criptoativos-e-abrem-nova-janela-de-oportunidade-de-captacao-nos-eua/",
-      "source": "Startupi",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-20T23:30:36+00:00",
-      "score": 46,
       "alsoIn": [],
       "sourcesCovered": [
         "Startupi"
