@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T11:20:16.479616+00:00",
+  "updatedAt": "2026-10-22T16:47:32.892836+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -261,27 +261,5 @@
       "reason": "falhou direto e via proxy"
     }
   ],
-  "articles": [
-    {
-      "id": "InfoMoney-https://www.infomoney.com.br/business/falta-de-infraestrutura-de-ia-limita-crescimento-de-startups-brasileiras/",
-      "_key": "fe6427479a028dee94e6818c2c11502a",
-      "title": "Falta de infraestrutura de IA limita crescimento de startups brasileiras",
-      "originalTitle": "Falta de infraestrutura de IA limita crescimento de startups brasileiras",
-      "summary": "Mais de um terço das 90 empresas ouvidas relatam que já tiveram a operação limitada pela infraestrutura disponível",
-      "whyMatters": "",
-      "summaryMethod": "regra",
-      "url": "https://www.infomoney.com.br/business/falta-de-infraestrutura-de-ia-limita-crescimento-de-startups-brasileiras/",
-      "source": "InfoMoney",
-      "region": "Brasil",
-      "country": "BR",
-      "image": "",
-      "publishedAt": "2026-08-23T12:00:00+00:00",
-      "score": 41,
-      "alsoIn": [],
-      "sourcesCovered": [
-        "InfoMoney"
-      ],
-      "coverageCount": 1
-    }
-  ]
+  "articles": []
 }
