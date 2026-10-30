@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:10:57.865877+00:00",
+  "updatedAt": "2026-10-30T00:40:52.273654+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -236,11 +236,6 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Distrito",
-      "url": "https://news.google.com/rss/search?q=when:5d+site:distrito.me&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
       "source": "Abstartups",
       "url": "https://news.google.com/rss/search?q=when:7d+site:abstartups.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -258,11 +253,6 @@
     {
       "source": "First Round Review",
       "url": "https://review.firstround.com/feed.xml",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Tech.eu",
-      "url": "https://tech.eu/feed/",
       "reason": "falhou direto e via proxy"
     },
     {
