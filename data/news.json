@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T19:27:15.321494+00:00",
+  "updatedAt": "2026-11-02T00:21:27.774039+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -256,11 +256,6 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Tech.eu",
-      "url": "https://tech.eu/feed/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
       "source": "Contxto",
       "url": "https://news.google.com/rss/search?q=when:3d+site:contxto.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -268,6 +263,11 @@
     {
       "source": "LABS Latam",
       "url": "https://news.google.com/rss/search?q=when:3d+site:labsnews.com&hl=en-US&gl=US&ceid=US:en",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Inc42",
+      "url": "https://inc42.com/feed/",
       "reason": "falhou direto e via proxy"
     }
   ],
