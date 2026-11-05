@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T10:29:20.661079+00:00",
+  "updatedAt": "2026-11-05T19:40:59.586581+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -226,6 +226,11 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "Inovação Tecnológica",
+      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "PEGN",
       "url": "https://news.google.com/rss/search?q=when:2d+site:pegn.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -253,11 +258,6 @@
     {
       "source": "Tech.eu",
       "url": "https://tech.eu/feed/",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "EU-Startups",
-      "url": "https://www.eu-startups.com/feed/",
       "reason": "falhou direto e via proxy"
     },
     {
