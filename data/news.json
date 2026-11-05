@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T01:22:37.093310+00:00",
+  "updatedAt": "2026-11-05T10:29:20.661079+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -253,6 +253,11 @@
     {
       "source": "Tech.eu",
       "url": "https://tech.eu/feed/",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "EU-Startups",
+      "url": "https://www.eu-startups.com/feed/",
       "reason": "falhou direto e via proxy"
     },
     {
