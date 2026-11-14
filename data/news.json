@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T21:17:35.450040+00:00",
+  "updatedAt": "2026-11-14T05:16:15.396225+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -248,11 +248,6 @@
     {
       "source": "First Round Review",
       "url": "https://review.firstround.com/feed.xml",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "Tech.eu",
-      "url": "https://tech.eu/feed/",
       "reason": "falhou direto e via proxy"
     },
     {
