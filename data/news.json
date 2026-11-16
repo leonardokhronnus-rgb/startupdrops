@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T10:46:46.568283+00:00",
+  "updatedAt": "2026-11-16T21:46:45.775982+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -221,6 +221,16 @@
   ],
   "failures": [
     {
+      "source": "NeoFeed Startups",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:neofeed.com.br+startup+OR+fintech+OR+venture+OR+rodada+OR+aporte+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Exame Startups",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:exame.com+startup+OR+fintech+OR+venture+OR+IA+OR+inovacao&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Money Times Tech",
       "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -236,8 +246,18 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "MIT Tech Review BR",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:mittechreview.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Abstartups",
       "url": "https://news.google.com/rss/search?q=when:7d+site:abstartups.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "StartSe",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:startse.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
@@ -253,6 +273,16 @@
     {
       "source": "First Round Review",
       "url": "https://review.firstround.com/feed.xml",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Reuters Startups",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:reuters.com+startup+OR+venture+OR+fintech+OR+artificial+intelligence&hl=en-US&gl=US&ceid=US:en",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Reuters Tech",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:reuters.com+technology&hl=en-US&gl=US&ceid=US:en",
       "reason": "falhou direto e via proxy"
     },
     {
