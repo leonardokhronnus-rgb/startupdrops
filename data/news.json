@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T02:23:53.152540+00:00",
+  "updatedAt": "2026-11-19T11:16:15.574369+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -236,11 +236,6 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Distrito",
-      "url": "https://news.google.com/rss/search?q=when:5d+site:distrito.me&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
       "source": "Abstartups",
       "url": "https://news.google.com/rss/search?q=when:7d+site:abstartups.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -261,6 +256,16 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "Tech.eu",
+      "url": "https://tech.eu/feed/",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "EU-Startups",
+      "url": "https://www.eu-startups.com/feed/",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Contxto",
       "url": "https://news.google.com/rss/search?q=when:3d+site:contxto.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -268,11 +273,6 @@
     {
       "source": "LABS Latam",
       "url": "https://news.google.com/rss/search?q=when:3d+site:labsnews.com&hl=en-US&gl=US&ceid=US:en",
-      "reason": "falhou direto e via proxy"
-    },
-    {
-      "source": "TechNode",
-      "url": "https://technode.com/feed/",
       "reason": "falhou direto e via proxy"
     }
   ],
