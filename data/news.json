@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T20:05:41.871247+00:00",
+  "updatedAt": "2026-11-20T02:07:47.212240+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -221,13 +221,13 @@
   ],
   "failures": [
     {
-      "source": "Bloomberg Linea Tech",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:bloomberglinea.com.br+startup+OR+fintech+OR+venture+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "source": "Money Times Tech",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Money Times Tech",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:moneytimes.com.br/tecnologia+startup+OR+fintech+OR+IA&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "source": "Inovação Tecnológica",
+      "url": "https://www.inovacaotecnologica.com.br/boletim/rss.xml",
       "reason": "falhou direto e via proxy"
     },
     {
