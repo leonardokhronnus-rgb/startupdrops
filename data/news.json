@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T19:10:54.904005+00:00",
+  "updatedAt": "2026-11-23T01:30:15.413514+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -241,6 +241,16 @@
       "reason": "falhou direto e via proxy"
     },
     {
+      "source": "MIT Tech Review BR",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:mittechreview.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "Draft",
+      "url": "https://news.google.com/rss/search?q=when:3d+site:projetodraft.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "reason": "falhou direto e via proxy"
+    },
+    {
       "source": "Distrito",
       "url": "https://news.google.com/rss/search?q=when:5d+site:distrito.me&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -268,6 +278,11 @@
     {
       "source": "Tech.eu",
       "url": "https://tech.eu/feed/",
+      "reason": "falhou direto e via proxy"
+    },
+    {
+      "source": "EU-Startups",
+      "url": "https://www.eu-startups.com/feed/",
       "reason": "falhou direto e via proxy"
     },
     {
