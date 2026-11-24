@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T08:47:21.339431+00:00",
+  "updatedAt": "2026-11-24T20:03:19.005401+00:00",
   "editorialFocus": "Brasil: startups, negócios, inovação e tecnologia aplicada",
   "sources": [
     {
@@ -226,11 +226,6 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Pipeline Valor Startups",
-      "url": "https://news.google.com/rss/search?q=when:3d+site:pipelinevalor.globo.com/startups+startup+OR+rodada+OR+venture+OR+fintech&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "reason": "falhou direto e via proxy"
-    },
-    {
       "source": "Epoca Negocios",
       "url": "https://news.google.com/rss/search?q=when:2d+site:epocanegocios.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "reason": "falhou direto e via proxy"
@@ -266,8 +261,8 @@
       "reason": "falhou direto e via proxy"
     },
     {
-      "source": "Tech.eu",
-      "url": "https://tech.eu/feed/",
+      "source": "Reuters Tech",
+      "url": "https://news.google.com/rss/search?q=when:2d+site:reuters.com+technology&hl=en-US&gl=US&ceid=US:en",
       "reason": "falhou direto e via proxy"
     },
     {
